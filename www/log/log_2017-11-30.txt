@@ -1,0 +1,710 @@
+2017-11-30 9:40:35 - INFO --> Отсылка почты...
+2017-11-30 9:40:35 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 9:40:35 - DEBUG --> alni@rambler.ru, fisp-agni@mail.ru
+2017-11-30 9:40:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 9:40:35 - INFO --> сообщение отправлено; 'alni@rambler.ru'
+2017-11-30 9:40:35 - INFO --> сообщение отправлено; 'fisp-agni@mail.ru'
+2017-11-30 9:40:35 - INFO --> (0.0326 сек.)
+2017-11-30 9:41:33 - INFO --> Отсылка почты...
+2017-11-30 9:41:33 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 9:41:33 - DEBUG --> secretar@uftgt.ru
+2017-11-30 9:41:33 - INFO --> сообщение отправлено; 'secretar@uftgt.ru'
+2017-11-30 9:41:33 - INFO --> (0.0163 сек.)
+2017-11-30 9:52:04 - INFO --> Отсылка почты...
+2017-11-30 9:52:04 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 9:52:04 - DEBUG --> edavidov@ugtu.net
+2017-11-30 9:52:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 9:52:04 - INFO --> сообщение отправлено; 'edavidov@ugtu.net'
+2017-11-30 9:52:04 - INFO --> (0.0168 сек.)
+2017-11-30 9:52:46 - INFO --> Отсылка почты...
+2017-11-30 9:52:46 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 9:52:46 - DEBUG --> umoggni@yandex.ru
+2017-11-30 9:52:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 9:52:46 - INFO --> сообщение отправлено; 'umoggni@yandex.ru'
+2017-11-30 9:52:46 - INFO --> (0.0129 сек.)
+2017-11-30 9:53:24 - INFO --> Отсылка почты...
+2017-11-30 9:53:24 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 9:53:24 - DEBUG --> s.namozova@spbu.ru
+2017-11-30 9:53:24 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 9:53:24 - INFO --> сообщение отправлено; 's.namozova@spbu.ru'
+2017-11-30 9:53:24 - INFO --> (0.0196 сек.)
+2017-11-30 9:53:59 - INFO --> Отсылка почты...
+2017-11-30 9:53:59 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 9:53:59 - DEBUG --> rimma1975@mail.ru
+2017-11-30 9:53:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 9:53:59 - INFO --> сообщение отправлено; 'rimma1975@mail.ru'
+2017-11-30 9:53:59 - INFO --> (0.0145 сек.)
+2017-11-30 9:55:39 - INFO --> Отсылка почты...
+2017-11-30 9:55:39 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 9:55:39 - DEBUG --> college@spb.kiu.ru
+2017-11-30 9:55:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 9:55:39 - INFO --> сообщение отправлено; 'college@spb.kiu.ru'
+2017-11-30 9:55:39 - INFO --> (0.0133 сек.)
+2017-11-30 9:57:22 - INFO --> Отсылка почты...
+2017-11-30 9:57:22 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 9:57:22 - DEBUG --> dvgu-tofk@mail.ru, prochkina.VA@dvfu.ru
+2017-11-30 9:57:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 9:57:22 - INFO --> сообщение отправлено; 'dvgu-tofk@mail.ru'
+2017-11-30 9:57:22 - INFO --> сообщение отправлено; 'prochkina.VA@dvfu.ru'
+2017-11-30 9:57:22 - INFO --> (0.024 сек.)
+2017-11-30 9:58:48 - INFO --> Отсылка почты...
+2017-11-30 9:58:48 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 9:58:48 - DEBUG --> sryabinina@sfu-kras.ru
+2017-11-30 9:58:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 9:58:48 - INFO --> сообщение отправлено; 'sryabinina@sfu-kras.ru'
+2017-11-30 9:58:48 - INFO --> (0.023 сек.)
+2017-11-30 9:59:43 - INFO --> Отсылка почты...
+2017-11-30 9:59:43 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 9:59:43 - DEBUG --> shurmanov@bk.ru
+2017-11-30 9:59:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 9:59:43 - INFO --> сообщение отправлено; 'shurmanov@bk.ru'
+2017-11-30 9:59:43 - INFO --> (0.0138 сек.)
+2017-11-30 10:26:18 - INFO --> Отсылка почты...
+2017-11-30 10:26:18 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 10:26:18 - DEBUG --> e.davydov@mail.ru
+2017-11-30 10:26:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 10:26:18 - INFO --> сообщение отправлено; 'e.davydov@mail.ru'
+2017-11-30 10:26:18 - INFO --> (0.0193 сек.)
+2017-11-30 10:30:34 - INFO --> Отсылка почты...
+2017-11-30 10:30:34 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 10:30:34 - DEBUG --> pts.dep@spbstu.ru, sutshenko_vp@spbstu.ru
+2017-11-30 10:30:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 10:30:35 - INFO --> сообщение отправлено; 'pts.dep@spbstu.ru'
+2017-11-30 10:30:35 - INFO --> сообщение отправлено; 'sutshenko_vp@spbstu.ru'
+2017-11-30 10:30:35 - INFO --> (0.0402 сек.)
+2017-11-30 10:32:03 - INFO --> Отсылка почты...
+2017-11-30 10:32:03 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 10:32:03 - DEBUG --> levanov-18@mail.ru
+2017-11-30 10:32:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 10:32:03 - INFO --> сообщение отправлено; 'levanov-18@mail.ru'
+2017-11-30 10:32:03 - INFO --> (0.019 сек.)
+2017-11-30 10:35:43 - INFO --> Отсылка почты...
+2017-11-30 10:35:43 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 10:35:43 - DEBUG --> ivnaumov@sfedu.ru
+2017-11-30 10:35:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 10:35:43 - INFO --> сообщение отправлено; 'ivnaumov@sfedu.ru'
+2017-11-30 10:35:43 - INFO --> (0.0129 сек.)
+2017-11-30 10:36:36 - INFO --> Отсылка почты...
+2017-11-30 10:36:36 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 10:36:36 - DEBUG --> m.skolota@narfu.ru
+2017-11-30 10:36:36 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 10:36:36 - INFO --> сообщение отправлено; 'm.skolota@narfu.ru'
+2017-11-30 10:36:36 - INFO --> (0.0131 сек.)
+2017-11-30 10:38:06 - INFO --> Отсылка почты...
+2017-11-30 10:38:06 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 10:38:06 - DEBUG --> \&quot;ua3tl@mail.ru, sport@fks.unn.ru
+2017-11-30 10:38:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 10:38:06 - INFO --> (0.0003 сек.)
+2017-11-30 10:38:23 - INFO --> Отсылка почты...
+2017-11-30 10:38:23 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 10:38:23 - DEBUG --> ua3tl@mail.ru, sport@fks.unn.ru
+2017-11-30 10:38:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 10:38:23 - INFO --> сообщение отправлено; 'ua3tl@mail.ru'
+2017-11-30 10:38:23 - INFO --> сообщение отправлено; 'sport@fks.unn.ru'
+2017-11-30 10:38:23 - INFO --> (0.0267 сек.)
+2017-11-30 10:40:27 - INFO --> Отсылка почты...
+2017-11-30 10:40:27 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 10:40:27 - DEBUG --> usk@post.nsu.ru, timofeev1@mosk.ru
+2017-11-30 10:40:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 10:40:27 - INFO --> сообщение отправлено; 'usk@post.nsu.ru'
+2017-11-30 10:40:27 - INFO --> сообщение отправлено; 'timofeev1@mosk.ru'
+2017-11-30 10:40:27 - INFO --> (0.025 сек.)
+2017-11-30 10:41:28 - INFO --> Отсылка почты...
+2017-11-30 10:41:28 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 10:41:28 - DEBUG --> sportclub@pstu.ru,uvr@pstu.ru
+2017-11-30 10:41:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 10:41:28 - INFO --> сообщение отправлено; 'sportclub@pstu.ru'
+2017-11-30 10:41:28 - INFO --> сообщение отправлено; 'uvr@pstu.ru'
+2017-11-30 10:41:28 - INFO --> (0.0433 сек.)
+2017-11-30 10:42:55 - INFO --> Отсылка почты...
+2017-11-30 10:42:55 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 10:42:55 - DEBUG --> bovm@bk.ru
+2017-11-30 10:42:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 10:42:55 - INFO --> сообщение отправлено; 'bovm@bk.ru'
+2017-11-30 10:42:55 - INFO --> (0.0223 сек.)
+2017-11-30 10:55:47 - INFO --> Отсылка почты...
+2017-11-30 10:55:47 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 10:55:47 - DEBUG --> panfilio@spmi.ru, rudenko@spmi.ru
+2017-11-30 10:55:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 10:55:47 - INFO --> сообщение отправлено; 'panfilio@spmi.ru'
+2017-11-30 10:55:47 - INFO --> сообщение отправлено; 'rudenko@spmi.ru'
+2017-11-30 10:55:47 - INFO --> (0.0255 сек.)
+2017-11-30 11:03:50 - INFO --> Отсылка почты...
+2017-11-30 11:03:50 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 11:03:50 - DEBUG --> mail@kronbars.ru, sp-referi@yandex.ru, sklub_ifmo@mail.ru
+2017-11-30 11:03:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 11:03:50 - INFO --> сообщение отправлено; 'mail@kronbars.ru'
+2017-11-30 11:03:50 - INFO --> сообщение отправлено; 'sp-referi@yandex.ru'
+2017-11-30 11:03:50 - INFO --> сообщение отправлено; 'sklub_ifmo@mail.ru'
+2017-11-30 11:03:50 - INFO --> (0.0528 сек.)
+2017-11-30 11:06:34 - INFO --> Отсылка почты...
+2017-11-30 11:06:34 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 11:06:34 - DEBUG --> kapilevich@tpu.ru​, sportclub@tpu.ru
+2017-11-30 11:06:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 11:06:34 - INFO --> (0.0002 сек.)
+2017-11-30 11:25:12 - INFO --> Отсылка почты...
+2017-11-30 11:25:12 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 11:25:12 - DEBUG --> rudenko@bsu.edu, gorbunova@bsu.edu,varfolomeeva@bsu.edu.ru
+2017-11-30 11:25:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 11:25:12 - INFO --> сообщение отправлено; 'rudenko@bsu.edu'
+2017-11-30 11:25:12 - INFO --> сообщение отправлено; 'gorbunova@bsu.edu'
+2017-11-30 11:25:12 - INFO --> сообщение отправлено; 'varfolomeeva@bsu.edu.ru'
+2017-11-30 11:25:12 - INFO --> (0.0553 сек.)
+2017-11-30 11:34:16 - INFO --> Отсылка почты...
+2017-11-30 11:34:16 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 11:34:16 - DEBUG --> sportclub@istu.edu
+2017-11-30 11:34:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 11:34:16 - INFO --> сообщение отправлено; 'sportclub@istu.edu'
+2017-11-30 11:34:16 - INFO --> (0.0218 сек.)
+2017-11-30 11:43:15 - INFO --> Отсылка почты...
+2017-11-30 11:43:15 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 11:43:15 - DEBUG --> borzenk_ma@irgups.ru, krsp@irgups.ru
+2017-11-30 11:43:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 11:43:15 - INFO --> сообщение отправлено; 'borzenk_ma@irgups.ru'
+2017-11-30 11:43:15 - INFO --> сообщение отправлено; 'krsp@irgups.ru'
+2017-11-30 11:43:15 - INFO --> (0.0261 сек.)
+2017-11-30 11:48:42 - INFO --> Отсылка почты...
+2017-11-30 11:48:42 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 11:48:42 - DEBUG --> moroz_jm@krsk.irgups.ru, morozjm@mail.ru, ignatenko_pm@krsk.irgups.ru
+2017-11-30 11:48:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 11:48:42 - INFO --> сообщение отправлено; 'moroz_jm@krsk.irgups.ru'
+2017-11-30 11:48:42 - INFO --> сообщение отправлено; 'morozjm@mail.ru'
+2017-11-30 11:48:42 - INFO --> сообщение отправлено; 'ignatenko_pm@krsk.irgups.ru'
+2017-11-30 11:48:42 - INFO --> (0.0472 сек.)
+2017-11-30 11:49:22 - INFO --> Отсылка почты...
+2017-11-30 11:49:22 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 11:49:22 - DEBUG --> minatur@mail.ru
+2017-11-30 11:49:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 11:49:22 - INFO --> сообщение отправлено; 'minatur@mail.ru'
+2017-11-30 11:49:22 - INFO --> (0.0399 сек.)
+2017-11-30 11:51:11 - INFO --> Отсылка почты...
+2017-11-30 11:51:11 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 11:51:11 - DEBUG --> mr.turanov@yandex.ru
+2017-11-30 11:51:11 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 11:51:11 - INFO --> сообщение отправлено; 'mr.turanov@yandex.ru'
+2017-11-30 11:51:11 - INFO --> (0.0191 сек.)
+2017-11-30 11:54:27 - INFO --> Отсылка почты...
+2017-11-30 11:54:27 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 11:54:27 - DEBUG --> uukgdt@mail.ru, ketrin.fedotova@mail.ru
+2017-11-30 11:54:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 11:54:27 - INFO --> сообщение отправлено; 'uukgdt@mail.ru'
+2017-11-30 11:54:27 - INFO --> сообщение отправлено; 'ketrin.fedotova@mail.ru'
+2017-11-30 11:54:27 - INFO --> (0.0425 сек.)
+2017-11-30 11:55:14 - INFO --> Отсылка почты...
+2017-11-30 11:55:14 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 11:55:14 - DEBUG --> scmgu@mail.ru
+2017-11-30 11:55:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 11:55:14 - INFO --> сообщение отправлено; 'scmgu@mail.ru'
+2017-11-30 11:55:14 - INFO --> (0.0228 сек.)
+2017-11-30 11:56:26 - INFO --> Отсылка почты...
+2017-11-30 11:56:26 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 11:56:26 - DEBUG --> \&quot;uovr_sgu@mail.ru, ifkis.sgu@yandex.ru, sgu.sportclub@yandex.ru
+2017-11-30 11:56:26 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 11:56:26 - INFO --> (0.0003 сек.)
+2017-11-30 12:01:18 - INFO --> Отсылка почты...
+2017-11-30 12:01:18 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:01:18 - DEBUG --> uovr_sgu@mail.ru, ifkis.sgu@yandex.ru, sgu.sportclub@yandex.ru
+2017-11-30 12:01:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:01:18 - INFO --> сообщение отправлено; 'uovr_sgu@mail.ru'
+2017-11-30 12:01:18 - INFO --> сообщение отправлено; 'ifkis.sgu@yandex.ru'
+2017-11-30 12:01:18 - INFO --> сообщение отправлено; 'sgu.sportclub@yandex.ru'
+2017-11-30 12:01:18 - INFO --> (0.056 сек.)
+2017-11-30 12:01:40 - INFO --> Отсылка почты...
+2017-11-30 12:01:40 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:01:40 - DEBUG --> ffk@mail.tsu.ru, av1959@bk.ru
+2017-11-30 12:01:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:01:40 - INFO --> сообщение отправлено; 'ffk@mail.tsu.ru'
+2017-11-30 12:01:40 - INFO --> сообщение отправлено; 'av1959@bk.ru'
+2017-11-30 12:01:40 - INFO --> (0.0263 сек.)
+2017-11-30 12:02:47 - INFO --> Отсылка почты...
+2017-11-30 12:02:47 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:02:47 - DEBUG --> erlikhvv@susu.ac.ru, fsk.susu@mail.ru
+2017-11-30 12:02:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:02:47 - INFO --> сообщение отправлено; 'erlikhvv@susu.ac.ru'
+2017-11-30 12:02:47 - INFO --> сообщение отправлено; 'fsk.susu@mail.ru'
+2017-11-30 12:02:47 - INFO --> (0.0486 сек.)
+2017-11-30 12:04:32 - INFO --> Отсылка почты...
+2017-11-30 12:04:32 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:04:32 - DEBUG --> univer@bsu.ru, af_bsu@mail.ru, ffk1979@mail.ru
+2017-11-30 12:04:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:04:32 - INFO --> сообщение отправлено; 'univer@bsu.ru'
+2017-11-30 12:04:32 - INFO --> сообщение отправлено; 'af_bsu@mail.ru'
+2017-11-30 12:04:32 - INFO --> сообщение отправлено; 'ffk1979@mail.ru'
+2017-11-30 12:04:32 - INFO --> (0.0545 сек.)
+2017-11-30 12:05:06 - INFO --> Отсылка почты...
+2017-11-30 12:05:06 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:05:06 - DEBUG --> bfbgu@yandex.ru
+2017-11-30 12:05:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:05:06 - INFO --> сообщение отправлено; 'bfbgu@yandex.ru'
+2017-11-30 12:05:06 - INFO --> (0.0399 сек.)
+2017-11-30 12:28:25 - INFO --> Отсылка почты...
+2017-11-30 12:28:25 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:28:25 - DEBUG --> aidamir66@mail.ru
+2017-11-30 12:28:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:28:25 - INFO --> сообщение отправлено; 'aidamir66@mail.ru'
+2017-11-30 12:28:25 - INFO --> (0.018 сек.)
+2017-11-30 12:29:25 - INFO --> Отсылка почты...
+2017-11-30 12:29:25 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:29:25 - DEBUG --> rector@astu.org, sport@astu.org, oleg.lobanov.52@mail.ru
+2017-11-30 12:29:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:29:25 - INFO --> сообщение отправлено; 'rector@astu.org'
+2017-11-30 12:29:25 - INFO --> сообщение отправлено; 'sport@astu.org'
+2017-11-30 12:29:25 - INFO --> сообщение отправлено; 'oleg.lobanov.52@mail.ru'
+2017-11-30 12:29:25 - INFO --> (0.0638 сек.)
+2017-11-30 12:32:55 - INFO --> Отсылка почты...
+2017-11-30 12:32:55 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:32:55 - DEBUG --> sport@kantiana.ru
+2017-11-30 12:32:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:32:55 - INFO --> сообщение отправлено; 'sport@kantiana.ru'
+2017-11-30 12:32:55 - INFO --> (0.0257 сек.)
+2017-11-30 12:33:48 - INFO --> Отсылка почты...
+2017-11-30 12:33:48 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:33:48 - DEBUG --> bifk@yandex.ru
+2017-11-30 12:33:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:33:48 - INFO --> сообщение отправлено; 'bifk@yandex.ru'
+2017-11-30 12:33:48 - INFO --> (0.0218 сек.)
+2017-11-30 12:34:11 - INFO --> Отсылка почты...
+2017-11-30 12:34:11 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:34:11 - DEBUG --> rektorat@bgpu.ru
+2017-11-30 12:34:11 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:34:11 - INFO --> сообщение отправлено; 'rektorat@bgpu.ru'
+2017-11-30 12:34:11 - INFO --> (0.0317 сек.)
+2017-11-30 12:35:05 - INFO --> Отсылка почты...
+2017-11-30 12:35:05 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:35:05 - DEBUG --> krsasha4@rambler.ru
+2017-11-30 12:35:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:35:05 - INFO --> сообщение отправлено; 'krsasha4@rambler.ru'
+2017-11-30 12:35:05 - INFO --> (0.0164 сек.)
+2017-11-30 12:35:52 - INFO --> Отсылка почты...
+2017-11-30 12:35:52 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:35:52 - DEBUG --> rector@vlgafc.ru, andrew_vlgafc@rambler.ru, prorector_nir@vlgafc.ru
+2017-11-30 12:35:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:35:52 - INFO --> сообщение отправлено; 'rector@vlgafc.ru'
+2017-11-30 12:35:52 - INFO --> сообщение отправлено; 'andrew_vlgafc@rambler.ru'
+2017-11-30 12:35:52 - INFO --> сообщение отправлено; 'prorector_nir@vlgafc.ru'
+2017-11-30 12:35:52 - INFO --> (0.083 сек.)
+2017-11-30 12:38:42 - INFO --> Отсылка почты...
+2017-11-30 12:38:42 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:38:42 - DEBUG --> ou@orun.ru
+2017-11-30 12:38:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:38:42 - INFO --> сообщение отправлено; 'ou@orun.ru'
+2017-11-30 12:38:42 - INFO --> (0.0237 сек.)
+2017-11-30 12:40:14 - INFO --> Отсылка почты...
+2017-11-30 12:40:14 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:40:14 - DEBUG --> mail@univermvd.ru
+2017-11-30 12:40:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:40:14 - INFO --> сообщение отправлено; 'mail@univermvd.ru'
+2017-11-30 12:40:14 - INFO --> (0.028 сек.)
+2017-11-30 12:41:41 - INFO --> Отсылка почты...
+2017-11-30 12:41:41 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:41:41 - DEBUG --> lza@csu.ru, marinasport2015@yandex.ru
+2017-11-30 12:41:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:41:41 - INFO --> сообщение отправлено; 'lza@csu.ru'
+2017-11-30 12:41:41 - INFO --> сообщение отправлено; 'marinasport2015@yandex.ru'
+2017-11-30 12:41:41 - INFO --> (0.0368 сек.)
+2017-11-30 12:48:08 - INFO --> Отсылка почты...
+2017-11-30 12:48:08 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:48:08 - DEBUG --> popova@sgau.ru,    osmr-sgau@mail.ru
+2017-11-30 12:48:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:48:08 - INFO --> сообщение отправлено; 'popova@sgau.ru'
+2017-11-30 12:48:08 - INFO --> сообщение отправлено; 'osmr-sgau@mail.ru'
+2017-11-30 12:48:08 - INFO --> (0.061 сек.)
+2017-11-30 12:48:59 - INFO --> Отсылка почты...
+2017-11-30 12:48:59 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:48:59 - DEBUG --> ssohlopkov@mail.ru,  fsk_s-vfu@mail.ru
+2017-11-30 12:48:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:48:59 - INFO --> сообщение отправлено; 'ssohlopkov@mail.ru'
+2017-11-30 12:48:59 - INFO --> сообщение отправлено; 'fsk_s-vfu@mail.ru'
+2017-11-30 12:48:59 - INFO --> (0.0353 сек.)
+2017-11-30 12:50:29 - INFO --> Отсылка почты...
+2017-11-30 12:50:29 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:50:29 - DEBUG --> gadalov-vlsu@yandex.ru, greko-roman@bk.ru
+2017-11-30 12:50:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:50:29 - INFO --> сообщение отправлено; 'gadalov-vlsu@yandex.ru'
+2017-11-30 12:50:29 - INFO --> сообщение отправлено; 'greko-roman@bk.ru'
+2017-11-30 12:50:29 - INFO --> (0.0659 сек.)
+2017-11-30 12:50:52 - INFO --> Отсылка почты...
+2017-11-30 12:50:52 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:50:52 - DEBUG --> rector@tu-bryansk.ru
+2017-11-30 12:50:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:50:52 - INFO --> сообщение отправлено; 'rector@tu-bryansk.ru'
+2017-11-30 12:50:52 - INFO --> (0.0208 сек.)
+2017-11-30 12:51:39 - INFO --> Отсылка почты...
+2017-11-30 12:51:39 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:51:39 - DEBUG --> fizvos@mh.vstu.edu.ru, gubarev_an@mail.ru
+2017-11-30 12:51:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:51:40 - INFO --> сообщение отправлено; 'fizvos@mh.vstu.edu.ru'
+2017-11-30 12:51:40 - INFO --> сообщение отправлено; 'gubarev_an@mail.ru'
+2017-11-30 12:51:40 - INFO --> (0.0666 сек.)
+2017-11-30 12:53:25 - INFO --> Отсылка почты...
+2017-11-30 12:53:25 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:53:25 - DEBUG --> profkom@mail.ru
+2017-11-30 12:53:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:53:25 - INFO --> сообщение отправлено; 'profkom@mail.ru'
+2017-11-30 12:53:25 - INFO --> (0.013 сек.)
+2017-11-30 12:53:47 - INFO --> Отсылка почты...
+2017-11-30 12:53:47 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:53:47 - DEBUG --> kr-pku@mil.ru
+2017-11-30 12:53:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:53:47 - INFO --> сообщение отправлено; 'kr-pku@mil.ru'
+2017-11-30 12:53:47 - INFO --> (0.0152 сек.)
+2017-11-30 12:54:27 - INFO --> Отсылка почты...
+2017-11-30 12:54:27 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:54:27 - DEBUG --> sosedov@admin.tstu.ru, sport@nnn.tstu.ru
+2017-11-30 12:54:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:54:27 - INFO --> сообщение отправлено; 'sosedov@admin.tstu.ru'
+2017-11-30 12:54:27 - INFO --> сообщение отправлено; 'sport@nnn.tstu.ru'
+2017-11-30 12:54:27 - INFO --> (0.0336 сек.)
+2017-11-30 12:55:23 - INFO --> Отсылка почты...
+2017-11-30 12:55:23 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 12:55:23 - DEBUG --> rector@kuzstu.ru, vshu_stepanova@mail.ru
+2017-11-30 12:55:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 12:55:23 - INFO --> сообщение отправлено; 'rector@kuzstu.ru'
+2017-11-30 12:55:23 - INFO --> сообщение отправлено; 'vshu_stepanova@mail.ru'
+2017-11-30 12:55:23 - INFO --> (0.111 сек.)
+2017-11-30 13:08:06 - INFO --> Отсылка почты...
+2017-11-30 13:08:06 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:08:06 - DEBUG --> SamGUPS_fis@mail.ru
+2017-11-30 13:08:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:08:07 - INFO --> сообщение отправлено; 'SamGUPS_fis@mail.ru'
+2017-11-30 13:08:07 - INFO --> (0.0237 сек.)
+2017-11-30 13:08:30 - INFO --> Отсылка почты...
+2017-11-30 13:08:30 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:08:30 - DEBUG --> info@roszeldor.ru
+2017-11-30 13:08:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:08:30 - INFO --> сообщение отправлено; 'info@roszeldor.ru'
+2017-11-30 13:08:30 - INFO --> (0.02 сек.)
+2017-11-30 13:09:17 - INFO --> Отсылка почты...
+2017-11-30 13:09:17 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:09:17 - DEBUG --> ntsc@desert.secna.ru, ampolykov@mail.ru
+2017-11-30 13:09:17 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:09:17 - INFO --> сообщение отправлено; 'ntsc@desert.secna.ru'
+2017-11-30 13:09:17 - INFO --> сообщение отправлено; 'ampolykov@mail.ru'
+2017-11-30 13:09:17 - INFO --> (0.0342 сек.)
+2017-11-30 13:10:27 - INFO --> Отсылка почты...
+2017-11-30 13:10:27 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:10:27 - DEBUG --> agau@asau.ru
+2017-11-30 13:10:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:10:27 - INFO --> сообщение отправлено; 'agau@asau.ru'
+2017-11-30 13:10:27 - INFO --> (0.0177 сек.)
+2017-11-30 13:14:42 - INFO --> Отсылка почты...
+2017-11-30 13:14:42 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:14:42 - DEBUG --> fizvospitaniya12@mail.ru
+2017-11-30 13:14:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:14:42 - INFO --> сообщение отправлено; 'fizvospitaniya12@mail.ru'
+2017-11-30 13:14:42 - INFO --> (0.0131 сек.)
+2017-11-30 13:15:33 - INFO --> Отсылка почты...
+2017-11-30 13:15:33 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:15:33 - DEBUG --> doc@kgufkst.ru, kgufk@mail.ru
+2017-11-30 13:15:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:15:33 - INFO --> сообщение отправлено; 'doc@kgufkst.ru'
+2017-11-30 13:15:33 - INFO --> сообщение отправлено; 'kgufk@mail.ru'
+2017-11-30 13:15:33 - INFO --> (0.0431 сек.)
+2017-11-30 13:16:02 - INFO --> Отсылка почты...
+2017-11-30 13:16:02 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:16:02 - DEBUG --> ekgz159@rambler.ru
+2017-11-30 13:16:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:16:02 - INFO --> сообщение отправлено; 'ekgz159@rambler.ru'
+2017-11-30 13:16:02 - INFO --> (0.0281 сек.)
+2017-11-30 13:16:27 - INFO --> Отсылка почты...
+2017-11-30 13:16:27 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:16:27 - DEBUG --> zakupkikgmu@yandex.ru
+2017-11-30 13:16:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:16:27 - INFO --> сообщение отправлено; 'zakupkikgmu@yandex.ru'
+2017-11-30 13:16:27 - INFO --> (0.0216 сек.)
+2017-11-30 13:16:51 - INFO --> Отсылка почты...
+2017-11-30 13:16:51 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:16:51 - DEBUG --> ivs_k@mail.ru
+2017-11-30 13:16:51 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:16:51 - INFO --> сообщение отправлено; 'ivs_k@mail.ru'
+2017-11-30 13:16:51 - INFO --> (0.0135 сек.)
+2017-11-30 13:18:53 - INFO --> Отсылка почты...
+2017-11-30 13:18:53 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:18:53 - DEBUG --> info@ncfu.ru, Skfu-sport@mail.ru
+2017-11-30 13:18:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:18:53 - INFO --> сообщение отправлено; 'info@ncfu.ru'
+2017-11-30 13:18:54 - INFO --> сообщение отправлено; 'Skfu-sport@mail.ru'
+2017-11-30 13:18:54 - INFO --> (0.0526 сек.)
+2017-11-30 13:19:19 - INFO --> Отсылка почты...
+2017-11-30 13:19:19 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:19:19 - DEBUG --> niirio.mof@yandex.ru
+2017-11-30 13:19:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:19:19 - INFO --> сообщение отправлено; 'niirio.mof@yandex.ru'
+2017-11-30 13:19:19 - INFO --> (0.0149 сек.)
+2017-11-30 13:19:38 - INFO --> Отсылка почты...
+2017-11-30 13:19:38 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:19:38 - DEBUG --> fizomgtu@yahoo.com
+2017-11-30 13:19:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:19:38 - INFO --> сообщение отправлено; 'fizomgtu@yahoo.com'
+2017-11-30 13:19:38 - INFO --> (0.0246 сек.)
+2017-11-30 13:41:36 - INFO --> Отсылка почты...
+2017-11-30 13:41:36 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:41:36 - DEBUG --> 4883300@mail.ru
+2017-11-30 13:41:36 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:41:36 - INFO --> сообщение отправлено; '4883300@mail.ru'
+2017-11-30 13:41:36 - INFO --> (0.0138 сек.)
+2017-11-30 13:41:59 - INFO --> Отсылка почты...
+2017-11-30 13:41:59 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:41:59 - DEBUG --> ksu1987043@yandex.ru
+2017-11-30 13:41:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:41:59 - INFO --> сообщение отправлено; 'ksu1987043@yandex.ru'
+2017-11-30 13:41:59 - INFO --> (0.0177 сек.)
+2017-11-30 13:42:20 - INFO --> Отсылка почты...
+2017-11-30 13:42:20 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:42:20 - DEBUG --> spo-10@edu.mos.ru
+2017-11-30 13:42:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:42:21 - INFO --> сообщение отправлено; 'spo-10@edu.mos.ru'
+2017-11-30 13:42:21 - INFO --> (0.0478 сек.)
+2017-11-30 13:42:48 - INFO --> Отсылка почты...
+2017-11-30 13:42:48 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:42:48 - DEBUG --> pk.arbat.info@mgpu.ru, SekachevLI@mgpu.ru
+2017-11-30 13:42:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:42:48 - INFO --> сообщение отправлено; 'pk.arbat.info@mgpu.ru'
+2017-11-30 13:42:48 - INFO --> сообщение отправлено; 'SekachevLI@mgpu.ru'
+2017-11-30 13:42:48 - INFO --> (0.04 сек.)
+2017-11-30 13:45:48 - INFO --> Отсылка почты...
+2017-11-30 13:45:48 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:45:48 - DEBUG --> mk1@zdrav.mos.ru
+2017-11-30 13:45:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:45:48 - INFO --> сообщение отправлено; 'mk1@zdrav.mos.ru'
+2017-11-30 13:45:48 - INFO --> (0.0214 сек.)
+2017-11-30 13:46:08 - INFO --> Отсылка почты...
+2017-11-30 13:46:08 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:46:08 - DEBUG --> \&quot;spo-kp@edu.mos.ru,  MikhaylovSV2@edu.mos.ru
+2017-11-30 13:46:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:46:08 - INFO --> (0.0002 сек.)
+2017-11-30 13:46:33 - INFO --> Отсылка почты...
+2017-11-30 13:46:33 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:46:33 - DEBUG --> spo-kp@edu.mos.ru,  MikhaylovSV2@edu.mos.ru
+2017-11-30 13:46:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:46:33 - INFO --> сообщение отправлено; 'spo-kp@edu.mos.ru'
+2017-11-30 13:46:33 - INFO --> сообщение отправлено; 'MikhaylovSV2@edu.mos.ru'
+2017-11-30 13:46:33 - INFO --> (0.04 сек.)
+2017-11-30 13:47:12 - INFO --> Отсылка почты...
+2017-11-30 13:47:12 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:47:12 - DEBUG --> pk12@prof.educom.ru
+2017-11-30 13:47:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:47:12 - INFO --> сообщение отправлено; 'pk12@prof.educom.ru'
+2017-11-30 13:47:12 - INFO --> (0.0183 сек.)
+2017-11-30 13:49:22 - INFO --> Отсылка почты...
+2017-11-30 13:49:22 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:49:22 - DEBUG --> spo-12@edu.mos.ru
+2017-11-30 13:49:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:49:22 - INFO --> сообщение отправлено; 'spo-12@edu.mos.ru'
+2017-11-30 13:49:22 - INFO --> (0.0309 сек.)
+2017-11-30 13:49:47 - INFO --> Отсылка почты...
+2017-11-30 13:49:47 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:49:47 - DEBUG --> spo-13pk@edu.mos.ru
+2017-11-30 13:49:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:49:47 - INFO --> сообщение отправлено; 'spo-13pk@edu.mos.ru'
+2017-11-30 13:49:47 - INFO --> (0.013 сек.)
+2017-11-30 13:54:08 - INFO --> Отсылка почты...
+2017-11-30 13:54:08 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:54:08 - DEBUG --> spo-13@edu.mos.ru
+2017-11-30 13:54:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:54:08 - INFO --> сообщение отправлено; 'spo-13@edu.mos.ru'
+2017-11-30 13:54:08 - INFO --> (0.0287 сек.)
+2017-11-30 13:54:33 - INFO --> Отсылка почты...
+2017-11-30 13:54:33 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:54:33 - DEBUG --> Pk14@prof.educom.ru
+2017-11-30 13:54:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:54:33 - INFO --> сообщение отправлено; 'Pk14@prof.educom.ru'
+2017-11-30 13:54:33 - INFO --> (0.0206 сек.)
+2017-11-30 13:55:13 - INFO --> Отсылка почты...
+2017-11-30 13:55:13 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:55:13 - DEBUG --> spo-1mok@edu.mos.ru
+2017-11-30 13:55:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:55:13 - INFO --> сообщение отправлено; 'spo-1mok@edu.mos.ru'
+2017-11-30 13:55:13 - INFO --> (0.0248 сек.)
+2017-11-30 13:55:35 - INFO --> Отсылка почты...
+2017-11-30 13:55:35 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:55:35 - DEBUG --> spo-15pk@edu.mos.ru
+2017-11-30 13:55:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:55:35 - INFO --> сообщение отправлено; 'spo-15pk@edu.mos.ru'
+2017-11-30 13:55:35 - INFO --> (0.0186 сек.)
+2017-11-30 13:55:58 - INFO --> Отсылка почты...
+2017-11-30 13:55:58 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:55:58 - DEBUG --> Pk.mr.info@mgpu.ru
+2017-11-30 13:55:58 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:55:58 - INFO --> сообщение отправлено; 'Pk.mr.info@mgpu.ru'
+2017-11-30 13:55:58 - INFO --> (0.0248 сек.)
+2017-11-30 13:56:33 - INFO --> Отсылка почты...
+2017-11-30 13:56:33 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 13:56:33 - DEBUG --> spo-mcag@edu.mos.ru
+2017-11-30 13:56:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 13:56:33 - INFO --> сообщение отправлено; 'spo-mcag@edu.mos.ru'
+2017-11-30 13:56:33 - INFO --> (0.0157 сек.)
+2017-11-30 14:00:49 - INFO --> Отсылка почты...
+2017-11-30 14:00:49 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:00:49 - DEBUG --> spo-okdt@edu.mos.ru
+2017-11-30 14:00:49 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:00:49 - INFO --> сообщение отправлено; 'spo-okdt@edu.mos.ru'
+2017-11-30 14:00:49 - INFO --> (0.0267 сек.)
+2017-11-30 14:02:26 - INFO --> Отсылка почты...
+2017-11-30 14:02:26 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:02:26 - DEBUG --> spo-18pk@edu.mos.ru
+2017-11-30 14:02:26 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:02:26 - INFO --> сообщение отправлено; 'spo-18pk@edu.mos.ru'
+2017-11-30 14:02:26 - INFO --> (0.014 сек.)
+2017-11-30 14:03:59 - INFO --> Отсылка почты...
+2017-11-30 14:03:59 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:03:59 - DEBUG --> mk2@zdrav.mos.ru
+2017-11-30 14:03:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:03:59 - INFO --> сообщение отправлено; 'mk2@zdrav.mos.ru'
+2017-11-30 14:03:59 - INFO --> (0.0235 сек.)
+2017-11-30 14:05:38 - INFO --> Отсылка почты...
+2017-11-30 14:05:38 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:05:38 - DEBUG --> spo-uk@edu.mos.ru
+2017-11-30 14:05:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:05:38 - INFO --> сообщение отправлено; 'spo-uk@edu.mos.ru'
+2017-11-30 14:05:38 - INFO --> (0.0129 сек.)
+2017-11-30 14:23:35 - INFO --> Отсылка почты...
+2017-11-30 14:23:35 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:23:35 - DEBUG --> spo-2@edu.mos.ru
+2017-11-30 14:23:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:23:35 - INFO --> сообщение отправлено; 'spo-2@edu.mos.ru'
+2017-11-30 14:23:35 - INFO --> (0.0211 сек.)
+2017-11-30 14:30:26 - INFO --> Отсылка почты...
+2017-11-30 14:30:26 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:30:26 - DEBUG --> spo-20@edu.mos.ru
+2017-11-30 14:30:26 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:30:26 - INFO --> сообщение отправлено; 'spo-20@edu.mos.ru'
+2017-11-30 14:30:26 - INFO --> (0.0227 сек.)
+2017-11-30 14:30:54 - INFO --> Отсылка почты...
+2017-11-30 14:30:54 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:30:54 - DEBUG --> spo-21@edu.mos.ru
+2017-11-30 14:30:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:30:54 - INFO --> сообщение отправлено; 'spo-21@edu.mos.ru'
+2017-11-30 14:30:54 - INFO --> (0.0215 сек.)
+2017-11-30 14:35:59 - INFO --> Отсылка почты...
+2017-11-30 14:35:59 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:35:59 - DEBUG --> spo-22@edu.mos.ru
+2017-11-30 14:35:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:35:59 - INFO --> сообщение отправлено; 'spo-22@edu.mos.ru'
+2017-11-30 14:35:59 - INFO --> (0.0157 сек.)
+2017-11-30 14:36:21 - INFO --> Отсылка почты...
+2017-11-30 14:36:21 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:36:21 - DEBUG --> spo-23@edu.mos.ru
+2017-11-30 14:36:21 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:36:21 - INFO --> сообщение отправлено; 'spo-23@edu.mos.ru'
+2017-11-30 14:36:21 - INFO --> (0.0236 сек.)
+2017-11-30 14:36:39 - INFO --> Отсылка почты...
+2017-11-30 14:36:39 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:36:39 - DEBUG --> spo-24@edu.mos.ru
+2017-11-30 14:36:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:36:39 - INFO --> сообщение отправлено; 'spo-24@edu.mos.ru'
+2017-11-30 14:36:39 - INFO --> (0.0183 сек.)
+2017-11-30 14:40:19 - INFO --> Отсылка почты...
+2017-11-30 14:40:19 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:40:19 - DEBUG --> spo-26@edu.mos.ru
+2017-11-30 14:40:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:40:19 - INFO --> сообщение отправлено; 'spo-26@edu.mos.ru'
+2017-11-30 14:40:19 - INFO --> (0.0208 сек.)
+2017-11-30 14:40:43 - INFO --> Отсылка почты...
+2017-11-30 14:40:43 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:40:43 - DEBUG --> spo-54@edu.mos.ru
+2017-11-30 14:40:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:40:43 - INFO --> сообщение отправлено; 'spo-54@edu.mos.ru'
+2017-11-30 14:40:43 - INFO --> (0.0242 сек.)
+2017-11-30 14:41:09 - INFO --> Отсылка почты...
+2017-11-30 14:41:09 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:41:09 - DEBUG --> spo-mgkeit@edu.mos.ru
+2017-11-30 14:41:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:41:09 - INFO --> сообщение отправлено; 'spo-mgkeit@edu.mos.ru'
+2017-11-30 14:41:09 - INFO --> (0.0143 сек.)
+2017-11-30 14:42:40 - INFO --> Отсылка почты...
+2017-11-30 14:42:40 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:42:40 - DEBUG --> mokvt@edu.mos.ru
+2017-11-30 14:42:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:42:40 - INFO --> сообщение отправлено; 'mokvt@edu.mos.ru'
+2017-11-30 14:42:40 - INFO --> (0.025 сек.)
+2017-11-30 14:43:17 - INFO --> Отсылка почты...
+2017-11-30 14:43:17 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:43:17 - DEBUG --> spo-29@edu.mos.ru
+2017-11-30 14:43:17 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:43:17 - INFO --> сообщение отправлено; 'spo-29@edu.mos.ru'
+2017-11-30 14:43:17 - INFO --> (0.0243 сек.)
+2017-11-30 14:43:39 - INFO --> Отсылка почты...
+2017-11-30 14:43:39 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:43:39 - DEBUG --> info@mk3.mosgorzdrav.ru
+2017-11-30 14:43:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:43:39 - INFO --> сообщение отправлено; 'info@mk3.mosgorzdrav.ru'
+2017-11-30 14:43:39 - INFO --> (0.024 сек.)
+2017-11-30 14:44:03 - INFO --> Отсылка почты...
+2017-11-30 14:44:03 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:44:03 - DEBUG --> spo-3@edu.mos.ru
+2017-11-30 14:44:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:44:03 - INFO --> сообщение отправлено; 'spo-3@edu.mos.ru'
+2017-11-30 14:44:03 - INFO --> (0.018 сек.)
+2017-11-30 14:48:54 - INFO --> Отсылка почты...
+2017-11-30 14:48:54 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:48:54 - DEBUG --> spo-30@edu.mos.ru
+2017-11-30 14:48:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:48:54 - INFO --> сообщение отправлено; 'spo-30@edu.mos.ru'
+2017-11-30 14:48:54 - INFO --> (0.0123 сек.)
+2017-11-30 14:49:17 - INFO --> Отсылка почты...
+2017-11-30 14:49:17 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:49:17 - DEBUG --> spo-31@edu.mos.ru
+2017-11-30 14:49:17 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:49:17 - INFO --> сообщение отправлено; 'spo-31@edu.mos.ru'
+2017-11-30 14:49:17 - INFO --> (0.0154 сек.)
+2017-11-30 14:56:29 - INFO --> Отсылка почты...
+2017-11-30 14:56:29 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:56:29 - DEBUG --> spo-35@edu.mos.ru
+2017-11-30 14:56:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:56:29 - INFO --> сообщение отправлено; 'spo-35@edu.mos.ru'
+2017-11-30 14:56:29 - INFO --> (0.0133 сек.)
+2017-11-30 14:57:25 - INFO --> Отсылка почты...
+2017-11-30 14:57:25 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:57:25 - DEBUG --> spo-36@edu.mos.ru
+2017-11-30 14:57:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:57:25 - INFO --> сообщение отправлено; 'spo-36@edu.mos.ru'
+2017-11-30 14:57:25 - INFO --> (0.0219 сек.)
+2017-11-30 14:57:49 - INFO --> Отсылка почты...
+2017-11-30 14:57:49 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:57:49 - DEBUG --> spo-34@edu.mos.ru
+2017-11-30 14:57:49 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:57:49 - INFO --> сообщение отправлено; 'spo-34@edu.mos.ru'
+2017-11-30 14:57:49 - INFO --> (0.0129 сек.)
+2017-11-30 14:58:14 - INFO --> Отсылка почты...
+2017-11-30 14:58:14 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 14:58:14 - DEBUG --> spo-33@edu.mos.ru
+2017-11-30 14:58:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 14:58:14 - INFO --> сообщение отправлено; 'spo-33@edu.mos.ru'
+2017-11-30 14:58:14 - INFO --> (0.0334 сек.)
+2017-11-30 15:01:34 - INFO --> Отсылка почты...
+2017-11-30 15:01:34 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 15:01:34 - DEBUG --> spo-39@edu.mos.ru
+2017-11-30 15:01:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 15:01:34 - INFO --> сообщение отправлено; 'spo-39@edu.mos.ru'
+2017-11-30 15:01:34 - INFO --> (0.0162 сек.)
+2017-11-30 15:01:54 - INFO --> Отсылка почты...
+2017-11-30 15:01:54 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 15:01:54 - DEBUG --> info@bankcollege.ru
+2017-11-30 15:01:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 15:01:54 - INFO --> сообщение отправлено; 'info@bankcollege.ru'
+2017-11-30 15:01:54 - INFO --> (0.0216 сек.)
+2017-11-30 15:02:39 - INFO --> Отсылка почты...
+2017-11-30 15:02:39 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 15:02:39 - DEBUG --> grinenko-sa@ranepa.ru, nesevrya-sa@ranepa.ru
+2017-11-30 15:02:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 15:02:39 - INFO --> сообщение отправлено; 'grinenko-sa@ranepa.ru'
+2017-11-30 15:02:40 - INFO --> сообщение отправлено; 'nesevrya-sa@ranepa.ru'
+2017-11-30 15:02:40 - INFO --> (0.0401 сек.)
+2017-11-30 15:07:10 - INFO --> Отсылка почты...
+2017-11-30 15:07:10 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 15:07:10 - DEBUG --> spo-57@edu.mos.ru
+2017-11-30 15:07:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 15:07:10 - INFO --> сообщение отправлено; 'spo-57@edu.mos.ru'
+2017-11-30 15:07:10 - INFO --> (0.0153 сек.)
+2017-11-30 15:07:30 - INFO --> Отсылка почты...
+2017-11-30 15:07:30 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 15:07:30 - DEBUG --> tsaritsino@edu.mos.ru, edu.mos.ru
+2017-11-30 15:07:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 15:07:30 - INFO --> (0.0002 сек.)
+2017-11-30 15:07:50 - INFO --> Отсылка почты...
+2017-11-30 15:07:50 - INFO --> Тема; 'каталог NESCO 2018'
+2017-11-30 15:07:50 - DEBUG --> sekretar@nalog-i.ru
+2017-11-30 15:07:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-11-30 15:07:50 - INFO --> сообщение отправлено; 'sekretar@nalog-i.ru'
+2017-11-30 15:07:50 - INFO --> (0.0254 сек.)

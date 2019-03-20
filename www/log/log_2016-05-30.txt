@@ -1,0 +1,112 @@
+2016-05-30 10:37:12 - INFO --> Отсылка почты...
+2016-05-30 10:37:12 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-30 10:37:12 - DEBUG --> evseevi@sibur-portenergo.ru
+2016-05-30 10:37:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-30 10:37:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-30 10:37:12 - INFO --> сообщение отправлено; 'evseevi@sibur-portenergo.ru'
+2016-05-30 10:37:12 - INFO --> (0.0363 сек.)
+2016-05-30 10:48:13 - INFO --> Отсылка почты...
+2016-05-30 10:48:13 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-30 10:48:13 - DEBUG --> mamatovss@sk.sibur.ru
+2016-05-30 10:48:13 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-30 10:48:13 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-30 10:48:13 - INFO --> сообщение отправлено; 'mamatovss@sk.sibur.ru'
+2016-05-30 10:48:13 - INFO --> (0.0362 сек.)
+2016-05-30 10:57:07 - INFO --> Отсылка почты...
+2016-05-30 10:57:07 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-30 10:57:07 - DEBUG --> reception-bsc@bsc.sibur.ru
+2016-05-30 10:57:07 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-30 10:57:07 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-30 10:57:07 - INFO --> сообщение отправлено; 'reception-bsc@bsc.sibur.ru'
+2016-05-30 10:57:07 - INFO --> (0.037 сек.)
+2016-05-30 13:05:12 - INFO --> Отсылка почты...
+2016-05-30 13:05:12 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 13:05:12 - DEBUG --> info@sibur.ru
+2016-05-30 13:05:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-30 13:05:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-30 13:05:12 - INFO --> сообщение отправлено; 'info@sibur.ru'
+2016-05-30 13:05:12 - INFO --> (0.0339 сек.)
+2016-05-30 13:20:38 - INFO --> Отсылка почты...
+2016-05-30 13:20:38 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 13:20:38 - DEBUG --> office@ip-ts.ru
+2016-05-30 13:20:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-30 13:20:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-30 13:20:38 - INFO --> сообщение отправлено; 'office@ip-ts.ru'
+2016-05-30 13:20:38 - INFO --> (0.035 сек.)
+2016-05-30 13:21:36 - INFO --> Отсылка почты...
+2016-05-30 13:21:36 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 13:21:36 - DEBUG --> krgpz@nyagan.ru
+2016-05-30 13:21:36 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-30 13:21:36 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-30 13:21:37 - INFO --> сообщение отправлено; 'krgpz@nyagan.ru'
+2016-05-30 13:21:37 - INFO --> (0.0309 сек.)
+2016-05-30 15:09:51 - INFO --> Отсылка почты...
+2016-05-30 15:09:51 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 15:09:51 - DEBUG --> judo-tori@mail.ru
+2016-05-30 15:09:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-30 15:09:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-30 15:09:51 - INFO --> сообщение отправлено; 'judo-tori@mail.ru'
+2016-05-30 15:09:51 - INFO --> (0.0467 сек.)
+2016-05-30 15:22:41 - INFO --> Отсылка почты...
+2016-05-30 15:22:41 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 15:22:41 - DEBUG --> negric@port.ru
+2016-05-30 15:22:41 - INFO --> сообщение отправлено; 'negric@port.ru'
+2016-05-30 15:22:41 - INFO --> (0.0136 сек.)
+2016-05-30 16:29:56 - INFO --> Отсылка почты...
+2016-05-30 16:29:56 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 16:29:56 - DEBUG --> KorolevPV@nf.sibserv.com
+2016-05-30 16:29:56 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-30 16:29:56 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-30 16:29:56 - INFO --> сообщение отправлено; 'KorolevPV@nf.sibserv.com'
+2016-05-30 16:29:56 - INFO --> (0.0391 сек.)
+2016-05-30 16:34:24 - INFO --> Отсылка почты...
+2016-05-30 16:34:24 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 16:34:24 - DEBUG --> GalaevskiyYV@nf.sibserv.com
+2016-05-30 16:34:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-30 16:34:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-30 16:34:24 - INFO --> сообщение отправлено; 'GalaevskiyYV@nf.sibserv.com'
+2016-05-30 16:34:24 - INFO --> (0.0471 сек.)
+2016-05-30 16:39:19 - INFO --> Отсылка почты...
+2016-05-30 16:39:19 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 16:39:19 - DEBUG --> SerenkoAL@nf.sibserv.com
+2016-05-30 16:39:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-30 16:39:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-30 16:39:19 - INFO --> сообщение отправлено; 'SerenkoAL@nf.sibserv.com'
+2016-05-30 16:39:19 - INFO --> (0.036 сек.)
+2016-05-30 16:41:18 - INFO --> Отсылка почты...
+2016-05-30 16:41:18 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 16:41:18 - DEBUG --> NemayaOL@nf.sibserv.com
+2016-05-30 16:41:18 - INFO --> сообщение отправлено; 'NemayaOL@nf.sibserv.com'
+2016-05-30 16:41:18 - INFO --> (0.0195 сек.)
+2016-05-30 16:47:57 - INFO --> Отсылка почты...
+2016-05-30 16:47:57 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 16:47:57 - DEBUG --> GyngazovaVV@tf.sibserv.com
+2016-05-30 16:47:57 - INFO --> сообщение отправлено; 'GyngazovaVV@tf.sibserv.com'
+2016-05-30 16:47:57 - INFO --> (0.0139 сек.)
+2016-05-30 16:51:55 - INFO --> Отсылка почты...
+2016-05-30 16:51:55 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 16:51:55 - DEBUG --> GermanOL@sf.sibserv.com
+2016-05-30 16:51:55 - INFO --> сообщение отправлено; 'GermanOL@sf.sibserv.com'
+2016-05-30 16:51:55 - INFO --> (0.0142 сек.)
+2016-05-30 16:58:34 - INFO --> Отсылка почты...
+2016-05-30 16:58:34 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 16:58:34 - DEBUG --> SazhinDV@kf.sibserv.com
+2016-05-30 16:58:34 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-30 16:58:34 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-30 16:58:34 - INFO --> сообщение отправлено; 'SazhinDV@kf.sibserv.com'
+2016-05-30 16:58:34 - INFO --> (0.0418 сек.)
+2016-05-30 17:00:14 - INFO --> Отсылка почты...
+2016-05-30 17:00:14 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 17:00:14 - DEBUG --> BekoevaIF@kf.sibserv.com
+2016-05-30 17:00:14 - INFO --> сообщение отправлено; 'BekoevaIF@kf.sibserv.com'
+2016-05-30 17:00:14 - INFO --> (0.0145 сек.)
+2016-05-30 17:02:32 - INFO --> Отсылка почты...
+2016-05-30 17:02:32 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 17:02:32 - DEBUG --> cck@sibserv.com
+2016-05-30 17:02:32 - INFO --> сообщение отправлено; 'cck@sibserv.com'
+2016-05-30 17:02:32 - INFO --> (0.0145 сек.)
+2016-05-30 17:04:55 - INFO --> Отсылка почты...
+2016-05-30 17:04:55 - INFO --> Тема; 'Спартакиада Сибур'
+2016-05-30 17:04:55 - DEBUG --> ssk@sf.sibserv.com
+2016-05-30 17:04:55 - INFO --> сообщение отправлено; 'ssk@sf.sibserv.com'
+2016-05-30 17:04:55 - INFO --> (0.0138 сек.)

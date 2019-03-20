@@ -1,0 +1,19 @@
+2016-06-03 11:49:09 - INFO --> Отсылка почты...
+2016-06-03 11:49:09 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-06-03 11:49:09 - DEBUG --> izob-dussh@mail.ru
+2016-06-03 11:49:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-06-03 11:49:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-06-03 11:49:09 - INFO --> сообщение отправлено; 'izob-dussh@mail.ru'
+2016-06-03 11:49:09 - INFO --> (0.0575 сек.)
+2016-06-03 12:42:13 - INFO --> Отсылка почты...
+2016-06-03 12:42:13 - INFO --> Тема; 'Экипировка для гребли  NESCO 2016'
+2016-06-03 12:42:13 - DEBUG --> zal-olympic@yandex.ru
+2016-06-03 12:42:13 - INFO --> сообщение отправлено; 'zal-olympic@yandex.ru'
+2016-06-03 12:42:13 - INFO --> (0.018 сек.)
+2016-06-03 13:32:40 - INFO --> Отсылка почты...
+2016-06-03 13:32:40 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-06-03 13:32:40 - DEBUG --> sportmozhraion@yandex.ru
+2016-06-03 13:32:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-06-03 13:32:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-06-03 13:32:40 - INFO --> сообщение отправлено; 'sportmozhraion@yandex.ru'
+2016-06-03 13:32:40 - INFO --> (0.0353 сек.)

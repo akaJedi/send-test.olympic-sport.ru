@@ -1,0 +1,1289 @@
+2018-03-28 9:19:41 - INFO --> Отсылка почты...
+2018-03-28 9:19:41 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:19:41 - DEBUG --> fok-33@mail.ru
+2018-03-28 9:19:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:19:41 - INFO --> сообщение отправлено; 'fok-33@mail.ru'
+2018-03-28 9:19:41 - INFO --> (0.018 сек.)
+2018-03-28 9:20:08 - INFO --> Отсылка почты...
+2018-03-28 9:20:08 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:20:08 - DEBUG --> gus.raisport@yandex.ru
+2018-03-28 9:20:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:20:08 - INFO --> сообщение отправлено; 'gus.raisport@yandex.ru'
+2018-03-28 9:20:08 - INFO --> (0.0199 сек.)
+2018-03-28 9:20:37 - INFO --> Отсылка почты...
+2018-03-28 9:20:37 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:20:37 - DEBUG --> dusshkam@mail.ru
+2018-03-28 9:20:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:20:37 - INFO --> сообщение отправлено; 'dusshkam@mail.ru'
+2018-03-28 9:20:37 - INFO --> (0.024 сек.)
+2018-03-28 9:22:00 - INFO --> Отсылка почты...
+2018-03-28 9:22:00 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:22:00 - DEBUG --> dsots@mail.ru
+2018-03-28 9:22:00 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:22:00 - INFO --> сообщение отправлено; 'dsots@mail.ru'
+2018-03-28 9:22:00 - INFO --> (0.0316 сек.)
+2018-03-28 9:30:10 - INFO --> Отсылка почты...
+2018-03-28 9:30:10 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:30:10 - DEBUG --> yoonsportkirzhach@gmail.com
+2018-03-28 9:30:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:30:10 - INFO --> сообщение отправлено; 'yoonsportkirzhach@gmail.com'
+2018-03-28 9:30:10 - INFO --> (0.0273 сек.)
+2018-03-28 9:30:32 - INFO --> Отсылка почты...
+2018-03-28 9:30:32 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:30:32 - DEBUG --> dooscverba@mail.ru
+2018-03-28 9:30:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:30:32 - INFO --> сообщение отправлено; 'dooscverba@mail.ru'
+2018-03-28 9:30:32 - INFO --> (0.0199 сек.)
+2018-03-28 9:30:57 - INFO --> Отсылка почты...
+2018-03-28 9:30:57 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:30:57 - DEBUG --> sdushoor@mail.ru
+2018-03-28 9:30:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:30:57 - INFO --> сообщение отправлено; 'sdushoor@mail.ru'
+2018-03-28 9:30:57 - INFO --> (0.0192 сек.)
+2018-03-28 9:32:01 - INFO --> Отсылка почты...
+2018-03-28 9:32:01 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:32:01 - DEBUG --> sdushoor@mail.ru
+2018-03-28 9:32:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:32:01 - INFO --> сообщение отправлено; 'sdushoor@mail.ru'
+2018-03-28 9:32:01 - INFO --> (0.0255 сек.)
+2018-03-28 9:32:24 - INFO --> Отсылка почты...
+2018-03-28 9:32:24 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:32:24 - DEBUG --> dusivs@mail.ru
+2018-03-28 9:32:24 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:32:24 - INFO --> сообщение отправлено; 'dusivs@mail.ru'
+2018-03-28 9:32:24 - INFO --> (0.0214 сек.)
+2018-03-28 9:32:48 - INFO --> Отсылка почты...
+2018-03-28 9:32:48 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:32:48 - DEBUG --> alexsportschool@yandex.ru
+2018-03-28 9:32:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:32:48 - INFO --> сообщение отправлено; 'alexsportschool@yandex.ru'
+2018-03-28 9:32:48 - INFO --> (0.0228 сек.)
+2018-03-28 9:33:10 - INFO --> Отсылка почты...
+2018-03-28 9:33:10 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:33:10 - DEBUG --> dussh00@mail.ru
+2018-03-28 9:33:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:33:10 - INFO --> сообщение отправлено; 'dussh00@mail.ru'
+2018-03-28 9:33:10 - INFO --> (0.0177 сек.)
+2018-03-28 9:33:43 - INFO --> Отсылка почты...
+2018-03-28 9:33:43 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:33:43 - DEBUG --> dushkr@bk.ru
+2018-03-28 9:33:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:33:43 - INFO --> сообщение отправлено; 'dushkr@bk.ru'
+2018-03-28 9:33:43 - INFO --> (0.0179 сек.)
+2018-03-28 9:34:04 - INFO --> Отсылка почты...
+2018-03-28 9:34:04 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:34:04 - DEBUG --> sportcentr33@inbox.ru
+2018-03-28 9:34:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:34:05 - INFO --> сообщение отправлено; 'sportcentr33@inbox.ru'
+2018-03-28 9:34:05 - INFO --> (0.0177 сек.)
+2018-03-28 9:34:41 - INFO --> Отсылка почты...
+2018-03-28 9:34:41 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:34:41 - DEBUG --> suzdalsportschool@yandex.ru
+2018-03-28 9:34:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:34:42 - INFO --> сообщение отправлено; 'suzdalsportschool@yandex.ru'
+2018-03-28 9:34:42 - INFO --> (0.017 сек.)
+2018-03-28 9:35:14 - INFO --> Отсылка почты...
+2018-03-28 9:35:14 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:35:14 - DEBUG --> torpedo-vladimir@mail.ru
+2018-03-28 9:35:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:35:14 - INFO --> сообщение отправлено; 'torpedo-vladimir@mail.ru'
+2018-03-28 9:35:14 - INFO --> (0.018 сек.)
+2018-03-28 9:38:22 - INFO --> Отсылка почты...
+2018-03-28 9:38:22 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:38:22 - DEBUG --> sdusahor@mail.ru
+2018-03-28 9:38:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:38:22 - INFO --> сообщение отправлено; 'sdusahor@mail.ru'
+2018-03-28 9:38:22 - INFO --> (0.0422 сек.)
+2018-03-28 9:39:10 - INFO --> Отсылка почты...
+2018-03-28 9:39:10 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:39:10 - DEBUG --> jkz@libid.elcom.ru
+2018-03-28 9:39:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:39:10 - INFO --> сообщение отправлено; 'jkz@libid.elcom.ru'
+2018-03-28 9:39:10 - INFO --> (0.0186 сек.)
+2018-03-28 9:40:14 - INFO --> Отсылка почты...
+2018-03-28 9:40:14 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:40:14 - DEBUG --> depsport@gov35.ru
+2018-03-28 9:40:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:40:14 - INFO --> сообщение отправлено; 'depsport@gov35.ru'
+2018-03-28 9:40:14 - INFO --> (0.0263 сек.)
+2018-03-28 9:40:36 - INFO --> Отсылка почты...
+2018-03-28 9:40:36 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:40:36 - DEBUG --> ufsm@vologda-city.ru
+2018-03-28 9:40:36 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:40:36 - INFO --> сообщение отправлено; 'ufsm@vologda-city.ru'
+2018-03-28 9:40:36 - INFO --> (0.0177 сек.)
+2018-03-28 9:41:13 - INFO --> Отсылка почты...
+2018-03-28 9:41:13 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:41:13 - DEBUG --> sportcom@cherepovetscity.ru
+2018-03-28 9:41:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:41:13 - INFO --> сообщение отправлено; 'sportcom@cherepovetscity.ru'
+2018-03-28 9:41:13 - INFO --> (0.0178 сек.)
+2018-03-28 9:41:34 - INFO --> Отсылка почты...
+2018-03-28 9:41:34 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:41:34 - DEBUG --> sportkom.gr@mail.ru
+2018-03-28 9:41:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:41:34 - INFO --> сообщение отправлено; 'sportkom.gr@mail.ru'
+2018-03-28 9:41:34 - INFO --> (0.0195 сек.)
+2018-03-28 9:41:57 - INFO --> Отсылка почты...
+2018-03-28 9:41:57 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:41:57 - DEBUG --> \&quot;sheksna-edu@yandex.ru
+2018-03-28 9:41:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:41:57 - INFO --> (0.0002 сек.)
+2018-03-28 9:42:09 - INFO --> Отсылка почты...
+2018-03-28 9:42:09 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:42:09 - DEBUG --> sheksna-edu@yandex.ru
+2018-03-28 9:42:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:42:09 - INFO --> сообщение отправлено; 'sheksna-edu@yandex.ru'
+2018-03-28 9:42:09 - INFO --> (0.0172 сек.)
+2018-03-28 9:42:36 - INFO --> Отсылка почты...
+2018-03-28 9:42:36 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:42:36 - DEBUG --> sport-centr@mail.ru
+2018-03-28 9:42:36 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:42:36 - INFO --> сообщение отправлено; 'sport-centr@mail.ru'
+2018-03-28 9:42:36 - INFO --> (0.0205 сек.)
+2018-03-28 9:42:58 - INFO --> Отсылка почты...
+2018-03-28 9:42:58 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:42:58 - DEBUG --> ocvs-mr@yandex.ru
+2018-03-28 9:42:58 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:42:58 - INFO --> сообщение отправлено; 'ocvs-mr@yandex.ru'
+2018-03-28 9:42:58 - INFO --> (0.0206 сек.)
+2018-03-28 9:43:31 - INFO --> Отсылка почты...
+2018-03-28 9:43:31 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:43:31 - DEBUG --> stadion.vityaz@yandex.ru
+2018-03-28 9:43:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:43:31 - INFO --> сообщение отправлено; 'stadion.vityaz@yandex.ru'
+2018-03-28 9:43:31 - INFO --> (0.0226 сек.)
+2018-03-28 9:43:52 - INFO --> Отсылка почты...
+2018-03-28 9:43:52 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:43:52 - DEBUG --> cher.voleyball@yandex.ru
+2018-03-28 9:43:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:43:52 - INFO --> сообщение отправлено; 'cher.voleyball@yandex.ru'
+2018-03-28 9:43:52 - INFO --> (0.0176 сек.)
+2018-03-28 9:44:27 - INFO --> Отсылка почты...
+2018-03-28 9:44:27 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:44:27 - DEBUG --> rodin61@mail.ru
+2018-03-28 9:44:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:44:27 - INFO --> сообщение отправлено; 'rodin61@mail.ru'
+2018-03-28 9:44:27 - INFO --> (0.0584 сек.)
+2018-03-28 9:44:55 - INFO --> Отсылка почты...
+2018-03-28 9:44:55 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:44:55 - DEBUG --> sport.d3@yandex.ru
+2018-03-28 9:44:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:44:55 - INFO --> сообщение отправлено; 'sport.d3@yandex.ru'
+2018-03-28 9:44:55 - INFO --> (0.0187 сек.)
+2018-03-28 9:45:13 - INFO --> Отсылка почты...
+2018-03-28 9:45:13 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:45:13 - DEBUG --> babushdush@mail.ru
+2018-03-28 9:45:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:45:13 - INFO --> сообщение отправлено; 'babushdush@mail.ru'
+2018-03-28 9:45:13 - INFO --> (0.018 сек.)
+2018-03-28 9:45:47 - INFO --> Отсылка почты...
+2018-03-28 9:45:47 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:45:47 - DEBUG --> kaduy_sport@mail.ru
+2018-03-28 9:45:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:45:47 - INFO --> сообщение отправлено; 'kaduy_sport@mail.ru'
+2018-03-28 9:45:47 - INFO --> (0.0195 сек.)
+2018-03-28 9:46:04 - INFO --> Отсылка почты...
+2018-03-28 9:46:04 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:46:04 - DEBUG --> syhona1@yandex.ru
+2018-03-28 9:46:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:46:04 - INFO --> сообщение отправлено; 'syhona1@yandex.ru'
+2018-03-28 9:46:04 - INFO --> (0.0258 сек.)
+2018-03-28 9:46:27 - INFO --> Отсылка почты...
+2018-03-28 9:46:27 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:46:27 - DEBUG --> moudovologda@mail.ru
+2018-03-28 9:46:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:46:27 - INFO --> сообщение отправлено; 'moudovologda@mail.ru'
+2018-03-28 9:46:27 - INFO --> (0.02 сек.)
+2018-03-28 9:46:57 - INFO --> Отсылка почты...
+2018-03-28 9:46:57 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:46:57 - DEBUG --> 14.02.68.65@mail.ru
+2018-03-28 9:46:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:46:57 - INFO --> сообщение отправлено; '14.02.68.65@mail.ru'
+2018-03-28 9:46:57 - INFO --> (0.0261 сек.)
+2018-03-28 9:47:23 - INFO --> Отсылка почты...
+2018-03-28 9:47:23 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:47:23 - DEBUG --> sdushorpofutbolu@list.ru
+2018-03-28 9:47:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:47:23 - INFO --> сообщение отправлено; 'sdushorpofutbolu@list.ru'
+2018-03-28 9:47:23 - INFO --> (0.0175 сек.)
+2018-03-28 9:49:06 - INFO --> Отсылка почты...
+2018-03-28 9:49:06 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:49:06 - DEBUG --> volbasket@mail.ru
+2018-03-28 9:49:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:49:06 - INFO --> сообщение отправлено; 'volbasket@mail.ru'
+2018-03-28 9:49:06 - INFO --> (0.0283 сек.)
+2018-03-28 9:49:39 - INFO --> Отсылка почты...
+2018-03-28 9:49:39 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 9:49:39 - DEBUG --> vashkiroo@vologda.ru
+2018-03-28 9:49:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 9:49:39 - INFO --> сообщение отправлено; 'vashkiroo@vologda.ru'
+2018-03-28 9:49:39 - INFO --> (0.0299 сек.)
+2018-03-28 11:12:20 - INFO --> Отсылка почты...
+2018-03-28 11:12:20 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:12:20 - DEBUG --> dusch.vu@yandex.ru
+2018-03-28 11:12:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:12:20 - INFO --> сообщение отправлено; 'dusch.vu@yandex.ru'
+2018-03-28 11:12:20 - INFO --> (0.0177 сек.)
+2018-03-28 11:35:25 - INFO --> Отсылка почты...
+2018-03-28 11:35:25 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:35:25 - DEBUG --> dussch.vitegra@yandex.ru
+2018-03-28 11:35:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:35:25 - INFO --> сообщение отправлено; 'dussch.vitegra@yandex.ru'
+2018-03-28 11:35:25 - INFO --> (0.0172 сек.)
+2018-03-28 11:36:49 - INFO --> Отсылка почты...
+2018-03-28 11:36:49 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:36:49 - DEBUG --> demin_sport@bk.ru
+2018-03-28 11:36:49 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:36:49 - INFO --> сообщение отправлено; 'demin_sport@bk.ru'
+2018-03-28 11:36:49 - INFO --> (0.0176 сек.)
+2018-03-28 11:37:09 - INFO --> Отсылка почты...
+2018-03-28 11:37:09 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:37:09 - DEBUG --> kir.sportivnaya@mail.ru
+2018-03-28 11:37:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:37:09 - INFO --> сообщение отправлено; 'kir.sportivnaya@mail.ru'
+2018-03-28 11:37:09 - INFO --> (0.0246 сек.)
+2018-03-28 11:37:31 - INFO --> Отсылка почты...
+2018-03-28 11:37:31 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:37:31 - DEBUG --> secretar-17301@obr.edu35.ru, nikolsk-sport@yandex.ru
+2018-03-28 11:37:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:37:31 - INFO --> сообщение отправлено; 'secretar-17301@obr.edu35.ru'
+2018-03-28 11:37:31 - INFO --> сообщение отправлено; 'nikolsk-sport@yandex.ru'
+2018-03-28 11:37:31 - INFO --> (0.0347 сек.)
+2018-03-28 11:37:53 - INFO --> Отсылка почты...
+2018-03-28 11:37:53 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:37:53 - DEBUG --> catya.iw@yandex.ru
+2018-03-28 11:37:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:37:53 - INFO --> сообщение отправлено; 'catya.iw@yandex.ru'
+2018-03-28 11:37:53 - INFO --> (0.0246 сек.)
+2018-03-28 11:38:21 - INFO --> Отсылка почты...
+2018-03-28 11:38:21 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:38:21 - DEBUG --> sportschoolbabaevo@mail.ru
+2018-03-28 11:38:21 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:38:21 - INFO --> сообщение отправлено; 'sportschoolbabaevo@mail.ru'
+2018-03-28 11:38:21 - INFO --> (0.0438 сек.)
+2018-03-28 11:38:50 - INFO --> Отсылка почты...
+2018-03-28 11:38:50 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:38:50 - DEBUG --> vdyussh@yandex.ru, veruo@yandex.ru
+2018-03-28 11:38:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:38:50 - INFO --> сообщение отправлено; 'vdyussh@yandex.ru'
+2018-03-28 11:38:50 - INFO --> сообщение отправлено; 'veruo@yandex.ru'
+2018-03-28 11:38:50 - INFO --> (0.0411 сек.)
+2018-03-28 11:41:57 - INFO --> Отсылка почты...
+2018-03-28 11:41:57 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:41:57 - DEBUG --> fscvologda@yandex.ru
+2018-03-28 11:41:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:41:57 - INFO --> сообщение отправлено; 'fscvologda@yandex.ru'
+2018-03-28 11:41:57 - INFO --> (0.0644 сек.)
+2018-03-28 11:42:22 - INFO --> Отсылка почты...
+2018-03-28 11:42:22 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:42:22 - DEBUG --> spektr35@list.ru
+2018-03-28 11:42:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:42:22 - INFO --> сообщение отправлено; 'spektr35@list.ru'
+2018-03-28 11:42:22 - INFO --> (0.0175 сек.)
+2018-03-28 11:42:45 - INFO --> Отсылка почты...
+2018-03-28 11:42:45 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:42:45 - DEBUG --> sport-palace@yandex.ru
+2018-03-28 11:42:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:42:45 - INFO --> сообщение отправлено; 'sport-palace@yandex.ru'
+2018-03-28 11:42:45 - INFO --> (0.034 сек.)
+2018-03-28 11:43:18 - INFO --> Отсылка почты...
+2018-03-28 11:43:18 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:43:18 - DEBUG --> sok-izumrud@yandex.ru,  vlasovlad71@yandex.ru
+2018-03-28 11:43:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:43:18 - INFO --> сообщение отправлено; 'sok-izumrud@yandex.ru'
+2018-03-28 11:43:18 - INFO --> сообщение отправлено; 'vlasovlad71@yandex.ru'
+2018-03-28 11:43:18 - INFO --> (0.0433 сек.)
+2018-03-28 11:43:41 - INFO --> Отсылка почты...
+2018-03-28 11:43:41 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:43:41 - DEBUG --> mufok@rambler.ru, samarina-kate@mail.ru
+2018-03-28 11:43:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:43:41 - INFO --> сообщение отправлено; 'mufok@rambler.ru'
+2018-03-28 11:43:41 - INFO --> сообщение отправлено; 'samarina-kate@mail.ru'
+2018-03-28 11:43:41 - INFO --> (0.0447 сек.)
+2018-03-28 11:44:42 - INFO --> Отсылка почты...
+2018-03-28 11:44:42 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:44:42 - DEBUG --> socialkom@klgd.ru
+2018-03-28 11:44:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:44:42 - INFO --> сообщение отправлено; 'socialkom@klgd.ru'
+2018-03-28 11:44:42 - INFO --> (0.0188 сек.)
+2018-03-28 11:45:07 - INFO --> Отсылка почты...
+2018-03-28 11:45:07 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:45:07 - DEBUG --> champion@baltnet.ru
+2018-03-28 11:45:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:45:07 - INFO --> сообщение отправлено; 'champion@baltnet.ru'
+2018-03-28 11:45:07 - INFO --> (0.0185 сек.)
+2018-03-28 11:45:35 - INFO --> Отсылка почты...
+2018-03-28 11:45:35 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:45:35 - DEBUG --> gyko_ski@mail.ru
+2018-03-28 11:45:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:45:35 - INFO --> сообщение отправлено; 'gyko_ski@mail.ru'
+2018-03-28 11:45:35 - INFO --> (0.0184 сек.)
+2018-03-28 11:45:56 - INFO --> Отсылка почты...
+2018-03-28 11:45:56 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:45:56 - DEBUG --> lagergolikova@mail.ru
+2018-03-28 11:45:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:45:56 - INFO --> сообщение отправлено; 'lagergolikova@mail.ru'
+2018-03-28 11:45:56 - INFO --> (0.0221 сек.)
+2018-03-28 11:46:37 - INFO --> Отсылка почты...
+2018-03-28 11:46:37 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:46:37 - DEBUG --> sportigra_kd@mail.ru
+2018-03-28 11:46:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:46:37 - INFO --> сообщение отправлено; 'sportigra_kd@mail.ru'
+2018-03-28 11:46:37 - INFO --> (0.0174 сек.)
+2018-03-28 11:47:07 - INFO --> Отсылка почты...
+2018-03-28 11:47:07 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:47:07 - DEBUG --> moudodsport5@mail.ru
+2018-03-28 11:47:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:47:07 - INFO --> сообщение отправлено; 'moudodsport5@mail.ru'
+2018-03-28 11:47:07 - INFO --> (0.0178 сек.)
+2018-03-28 11:47:28 - INFO --> Отсылка почты...
+2018-03-28 11:47:28 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:47:28 - DEBUG --> moussh9@mail.ru
+2018-03-28 11:47:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:47:28 - INFO --> сообщение отправлено; 'moussh9@mail.ru'
+2018-03-28 11:47:28 - INFO --> (0.0194 сек.)
+2018-03-28 11:47:48 - INFO --> Отсылка почты...
+2018-03-28 11:47:48 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:47:48 - DEBUG --> voley10@mail.ru
+2018-03-28 11:47:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:47:48 - INFO --> сообщение отправлено; 'voley10@mail.ru'
+2018-03-28 11:47:48 - INFO --> (0.0321 сек.)
+2018-03-28 11:49:16 - INFO --> Отсылка почты...
+2018-03-28 11:49:16 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:49:16 - DEBUG --> dush-bagrat@mail.ru
+2018-03-28 11:49:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:49:16 - INFO --> сообщение отправлено; 'dush-bagrat@mail.ru'
+2018-03-28 11:49:16 - INFO --> (0.0319 сек.)
+2018-03-28 11:49:40 - INFO --> Отсылка почты...
+2018-03-28 11:49:40 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:49:40 - DEBUG --> jantar.2002@mail.ru
+2018-03-28 11:49:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:49:40 - INFO --> сообщение отправлено; 'jantar.2002@mail.ru'
+2018-03-28 11:49:40 - INFO --> (0.0224 сек.)
+2018-03-28 11:50:01 - INFO --> Отсылка почты...
+2018-03-28 11:50:01 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:50:01 - DEBUG --> sportneman@mail.ru
+2018-03-28 11:50:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:50:01 - INFO --> сообщение отправлено; 'sportneman@mail.ru'
+2018-03-28 11:50:01 - INFO --> (0.0173 сек.)
+2018-03-28 11:53:48 - INFO --> Отсылка почты...
+2018-03-28 11:53:48 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:53:48 - DEBUG --> sportshkolapgo@mail.ru
+2018-03-28 11:53:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:53:48 - INFO --> сообщение отправлено; 'sportshkolapgo@mail.ru'
+2018-03-28 11:53:48 - INFO --> (0.0182 сек.)
+2018-03-28 11:54:20 - INFO --> Отсылка почты...
+2018-03-28 11:54:20 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 11:54:20 - DEBUG --> kosasport39@mail.ru
+2018-03-28 11:54:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 11:54:20 - INFO --> сообщение отправлено; 'kosasport39@mail.ru'
+2018-03-28 11:54:20 - INFO --> (0.0182 сек.)
+2018-03-28 12:03:20 - INFO --> Отсылка почты...
+2018-03-28 12:03:20 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:03:20 - DEBUG --> dusch12@yandex.ru
+2018-03-28 12:03:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:03:20 - INFO --> сообщение отправлено; 'dusch12@yandex.ru'
+2018-03-28 12:03:20 - INFO --> (0.0177 сек.)
+2018-03-28 12:03:47 - INFO --> Отсылка почты...
+2018-03-28 12:03:47 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:03:47 - DEBUG --> shkolasport80@mail.ru
+2018-03-28 12:03:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:03:47 - INFO --> сообщение отправлено; 'shkolasport80@mail.ru'
+2018-03-28 12:03:47 - INFO --> (0.0198 сек.)
+2018-03-28 12:11:23 - INFO --> Отсылка почты...
+2018-03-28 12:11:23 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:11:23 - DEBUG --> slavsksport@mail.ru, alena_peryat@mail.ru
+2018-03-28 12:11:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:11:23 - INFO --> сообщение отправлено; 'slavsksport@mail.ru'
+2018-03-28 12:11:23 - INFO --> сообщение отправлено; 'alena_peryat@mail.ru'
+2018-03-28 12:11:23 - INFO --> (0.0452 сек.)
+2018-03-28 12:11:48 - INFO --> Отсылка почты...
+2018-03-28 12:11:48 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:11:48 - DEBUG --> instersport@yandex.ru
+2018-03-28 12:11:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:11:48 - INFO --> сообщение отправлено; 'instersport@yandex.ru'
+2018-03-28 12:11:48 - INFO --> (0.0205 сек.)
+2018-03-28 12:12:13 - INFO --> Отсылка почты...
+2018-03-28 12:12:13 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:12:13 - DEBUG --> guzenkosport@mail.ru
+2018-03-28 12:12:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:12:13 - INFO --> сообщение отправлено; 'guzenkosport@mail.ru'
+2018-03-28 12:12:13 - INFO --> (0.0179 сек.)
+2018-03-28 12:15:37 - INFO --> Отсылка почты...
+2018-03-28 12:15:37 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:15:37 - DEBUG --> dut5@mail.ru
+2018-03-28 12:15:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:15:37 - INFO --> сообщение отправлено; 'dut5@mail.ru'
+2018-03-28 12:15:37 - INFO --> (0.0214 сек.)
+2018-03-28 12:23:39 - INFO --> Отсылка почты...
+2018-03-28 12:23:39 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:23:39 - DEBUG --> dysch.polessk@yandex.ru
+2018-03-28 12:23:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:23:39 - INFO --> сообщение отправлено; 'dysch.polessk@yandex.ru'
+2018-03-28 12:23:39 - INFO --> (0.0187 сек.)
+2018-03-28 12:27:24 - INFO --> Отсылка почты...
+2018-03-28 12:27:24 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:27:24 - DEBUG --> sportygyr@rambler.ru
+2018-03-28 12:27:24 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:27:24 - INFO --> сообщение отправлено; 'sportygyr@rambler.ru'
+2018-03-28 12:27:24 - INFO --> (0.0186 сек.)
+2018-03-28 12:36:37 - INFO --> Отсылка почты...
+2018-03-28 12:36:37 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:36:37 - DEBUG --> sovetsk-dysh@yandex.ru
+2018-03-28 12:36:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:36:37 - INFO --> сообщение отправлено; 'sovetsk-dysh@yandex.ru'
+2018-03-28 12:36:37 - INFO --> (0.0282 сек.)
+2018-03-28 12:36:56 - INFO --> Отсылка почты...
+2018-03-28 12:36:56 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:36:56 - DEBUG --> sport.svetly@mail.ru
+2018-03-28 12:36:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:36:56 - INFO --> сообщение отправлено; 'sport.svetly@mail.ru'
+2018-03-28 12:36:56 - INFO --> (0.0181 сек.)
+2018-03-28 12:37:15 - INFO --> Отсылка почты...
+2018-03-28 12:37:15 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:37:15 - DEBUG --> Sport.salut@mail.ru
+2018-03-28 12:37:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:37:15 - INFO --> сообщение отправлено; 'Sport.salut@mail.ru'
+2018-03-28 12:37:15 - INFO --> (0.0271 сек.)
+2018-03-28 12:38:02 - INFO --> Отсылка почты...
+2018-03-28 12:38:02 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:38:02 - DEBUG --> anton.godinov@petrozavodsk-mo.ru
+2018-03-28 12:38:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:38:02 - INFO --> сообщение отправлено; 'anton.godinov@petrozavodsk-mo.ru'
+2018-03-28 12:38:02 - INFO --> (0.0176 сек.)
+2018-03-28 12:38:27 - INFO --> Отсылка почты...
+2018-03-28 12:38:27 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:38:27 - DEBUG --> shastina@msu.kostomuksha-rk.ru, sportm@msu.kostomuksha-rk.ru
+2018-03-28 12:38:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:38:27 - INFO --> сообщение отправлено; 'shastina@msu.kostomuksha-rk.ru'
+2018-03-28 12:38:27 - INFO --> сообщение отправлено; 'sportm@msu.kostomuksha-rk.ru'
+2018-03-28 12:38:27 - INFO --> (0.0376 сек.)
+2018-03-28 12:38:44 - INFO --> Отсылка почты...
+2018-03-28 12:38:44 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:38:44 - DEBUG --> sportschool4@onego.ru
+2018-03-28 12:38:44 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:38:44 - INFO --> сообщение отправлено; 'sportschool4@onego.ru'
+2018-03-28 12:38:44 - INFO --> (0.0181 сек.)
+2018-03-28 12:39:06 - INFO --> Отсылка почты...
+2018-03-28 12:39:06 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:39:06 - DEBUG --> dush7@onego.ru
+2018-03-28 12:39:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:39:06 - INFO --> сообщение отправлено; 'dush7@onego.ru'
+2018-03-28 12:39:06 - INFO --> (0.0193 сек.)
+2018-03-28 12:40:05 - INFO --> Отсылка почты...
+2018-03-28 12:40:05 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:40:05 - DEBUG --> sportiwnaya2010@yandex.ru
+2018-03-28 12:40:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:40:05 - INFO --> сообщение отправлено; 'sportiwnaya2010@yandex.ru'
+2018-03-28 12:40:05 - INFO --> (0.0269 сек.)
+2018-03-28 12:40:28 - INFO --> Отсылка почты...
+2018-03-28 12:40:28 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:40:28 - DEBUG --> belomorsk-dush@yandex.ru
+2018-03-28 12:40:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:40:28 - INFO --> сообщение отправлено; 'belomorsk-dush@yandex.ru'
+2018-03-28 12:40:28 - INFO --> (0.0199 сек.)
+2018-03-28 12:44:46 - INFO --> Отсылка почты...
+2018-03-28 12:44:46 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:44:46 - DEBUG --> kalevalasport@yandex.ru
+2018-03-28 12:44:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:44:46 - INFO --> сообщение отправлено; 'kalevalasport@yandex.ru'
+2018-03-28 12:44:46 - INFO --> (0.0198 сек.)
+2018-03-28 12:45:09 - INFO --> Отсылка почты...
+2018-03-28 12:45:09 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:45:09 - DEBUG --> sportschool.kondopoga@yandex.ru
+2018-03-28 12:45:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:45:09 - INFO --> сообщение отправлено; 'sportschool.kondopoga@yandex.ru'
+2018-03-28 12:45:09 - INFO --> (0.021 сек.)
+2018-03-28 12:45:30 - INFO --> Отсылка почты...
+2018-03-28 12:45:30 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:45:30 - DEBUG --> lahdenlena@yandex.ru
+2018-03-28 12:45:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:45:30 - INFO --> сообщение отправлено; 'lahdenlena@yandex.ru'
+2018-03-28 12:45:30 - INFO --> (0.0182 сек.)
+2018-03-28 12:45:50 - INFO --> Отсылка почты...
+2018-03-28 12:45:50 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:45:50 - DEBUG --> lenamuratova@yandex.ru
+2018-03-28 12:45:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:45:50 - INFO --> сообщение отправлено; 'lenamuratova@yandex.ru'
+2018-03-28 12:45:50 - INFO --> (0.0188 сек.)
+2018-03-28 12:46:19 - INFO --> Отсылка почты...
+2018-03-28 12:46:19 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:46:19 - DEBUG --> director@obrmedgora.ru
+2018-03-28 12:46:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:46:19 - INFO --> сообщение отправлено; 'director@obrmedgora.ru'
+2018-03-28 12:46:19 - INFO --> (0.0175 сек.)
+2018-03-28 12:46:40 - INFO --> Отсылка почты...
+2018-03-28 12:46:40 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:46:40 - DEBUG --> dussh2_mdg@mail.ru
+2018-03-28 12:46:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:46:40 - INFO --> сообщение отправлено; 'dussh2_mdg@mail.ru'
+2018-03-28 12:46:40 - INFO --> (0.0177 сек.)
+2018-03-28 12:47:44 - INFO --> Отсылка почты...
+2018-03-28 12:47:44 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:47:44 - DEBUG --> muesportschool@rambler.ru
+2018-03-28 12:47:44 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:47:44 - INFO --> сообщение отправлено; 'muesportschool@rambler.ru'
+2018-03-28 12:47:44 - INFO --> (0.0242 сек.)
+2018-03-28 12:48:04 - INFO --> Отсылка почты...
+2018-03-28 12:48:04 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:48:04 - DEBUG --> sportolonets@mail.ru
+2018-03-28 12:48:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:48:04 - INFO --> сообщение отправлено; 'sportolonets@mail.ru'
+2018-03-28 12:48:04 - INFO --> (0.0178 сек.)
+2018-03-28 12:48:35 - INFO --> Отсылка почты...
+2018-03-28 12:48:35 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:48:35 - DEBUG --> sportschoolpit@yandex.ru
+2018-03-28 12:48:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:48:35 - INFO --> сообщение отправлено; 'sportschoolpit@yandex.ru'
+2018-03-28 12:48:35 - INFO --> (0.0184 сек.)
+2018-03-28 12:49:09 - INFO --> Отсылка почты...
+2018-03-28 12:49:09 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 12:49:09 - DEBUG --> sport.prionegie@onego.ru
+2018-03-28 12:49:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 12:49:09 - INFO --> сообщение отправлено; 'sport.prionegie@onego.ru'
+2018-03-28 12:49:09 - INFO --> (0.0213 сек.)
+2018-03-28 13:01:02 - INFO --> Отсылка почты...
+2018-03-28 13:01:02 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:01:02 - DEBUG --> pryazhadush@yandex.ru
+2018-03-28 13:01:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:01:02 - INFO --> сообщение отправлено; 'pryazhadush@yandex.ru'
+2018-03-28 13:01:02 - INFO --> (0.0268 сек.)
+2018-03-28 13:01:25 - INFO --> Отсылка почты...
+2018-03-28 13:01:25 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:01:25 - DEBUG --> dush_nadvoitsy@mail.ru
+2018-03-28 13:01:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:01:25 - INFO --> сообщение отправлено; 'dush_nadvoitsy@mail.ru'
+2018-03-28 13:01:25 - INFO --> (0.0257 сек.)
+2018-03-28 13:01:58 - INFO --> Отсылка почты...
+2018-03-28 13:01:58 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:01:58 - DEBUG --> suo-gimn@rambler.ru
+2018-03-28 13:01:58 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:01:58 - INFO --> сообщение отправлено; 'suo-gimn@rambler.ru'
+2018-03-28 13:01:58 - INFO --> (0.0404 сек.)
+2018-03-28 13:02:45 - INFO --> Отсылка почты...
+2018-03-28 13:02:45 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:02:45 - DEBUG --> dusshtemp1@yandex.ru
+2018-03-28 13:02:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:02:45 - INFO --> сообщение отправлено; 'dusshtemp1@yandex.ru'
+2018-03-28 13:02:45 - INFO --> (0.0769 сек.)
+2018-03-28 13:05:25 - INFO --> Отсылка почты...
+2018-03-28 13:05:25 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:05:25 - DEBUG --> sport@kurganobl.ru
+2018-03-28 13:05:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:05:25 - INFO --> сообщение отправлено; 'sport@kurganobl.ru'
+2018-03-28 13:05:25 - INFO --> (0.0191 сек.)
+2018-03-28 13:35:32 - INFO --> Отсылка почты...
+2018-03-28 13:35:32 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:35:32 - DEBUG --> goudodshvsm@mail.ru
+2018-03-28 13:35:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:35:32 - INFO --> сообщение отправлено; 'goudodshvsm@mail.ru'
+2018-03-28 13:35:32 - INFO --> (0.0206 сек.)
+2018-03-28 13:43:30 - INFO --> Отсылка почты...
+2018-03-28 13:43:30 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:43:30 - DEBUG --> college@list.ru
+2018-03-28 13:43:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:43:30 - INFO --> сообщение отправлено; 'college@list.ru'
+2018-03-28 13:43:30 - INFO --> (0.0245 сек.)
+2018-03-28 13:43:54 - INFO --> Отсылка почты...
+2018-03-28 13:43:54 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:43:54 - DEBUG --> kurganuor@mail.ru
+2018-03-28 13:43:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:43:54 - INFO --> сообщение отправлено; 'kurganuor@mail.ru'
+2018-03-28 13:43:54 - INFO --> (0.0181 сек.)
+2018-03-28 13:44:25 - INFO --> Отсылка почты...
+2018-03-28 13:44:25 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:44:25 - DEBUG --> Kurgan-ds-2@mail.ru
+2018-03-28 13:44:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:44:25 - INFO --> сообщение отправлено; 'Kurgan-ds-2@mail.ru'
+2018-03-28 13:44:25 - INFO --> (0.0194 сек.)
+2018-03-28 13:44:47 - INFO --> Отсылка почты...
+2018-03-28 13:44:47 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:44:47 - DEBUG --> Tobol-kgn@mail.ru
+2018-03-28 13:44:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:44:47 - INFO --> сообщение отправлено; 'Tobol-kgn@mail.ru'
+2018-03-28 13:44:47 - INFO --> (0.0227 сек.)
+2018-03-28 13:47:44 - INFO --> Отсылка почты...
+2018-03-28 13:47:44 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:47:44 - DEBUG --> ducentr@rambler.ru
+2018-03-28 13:47:44 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:47:44 - INFO --> сообщение отправлено; 'ducentr@rambler.ru'
+2018-03-28 13:47:44 - INFO --> (0.0176 сек.)
+2018-03-28 13:48:02 - INFO --> Отсылка почты...
+2018-03-28 13:48:02 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:48:02 - DEBUG --> dussh@shadrinsk.net
+2018-03-28 13:48:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:48:02 - INFO --> сообщение отправлено; 'dussh@shadrinsk.net'
+2018-03-28 13:48:02 - INFO --> (0.0255 сек.)
+2018-03-28 13:48:23 - INFO --> Отсылка почты...
+2018-03-28 13:48:23 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:48:23 - DEBUG --> mixman57@yandex.ru
+2018-03-28 13:48:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:48:23 - INFO --> сообщение отправлено; 'mixman57@yandex.ru'
+2018-03-28 13:48:23 - INFO --> (0.0266 сек.)
+2018-03-28 13:59:28 - INFO --> Отсылка почты...
+2018-03-28 13:59:28 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:59:28 - DEBUG --> musin_bulat@list.ru
+2018-03-28 13:59:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:59:28 - INFO --> сообщение отправлено; 'musin_bulat@list.ru'
+2018-03-28 13:59:28 - INFO --> (0.0178 сек.)
+2018-03-28 13:59:47 - INFO --> Отсылка почты...
+2018-03-28 13:59:47 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 13:59:47 - DEBUG --> belozerkadussh@mail.ru
+2018-03-28 13:59:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 13:59:47 - INFO --> сообщение отправлено; 'belozerkadussh@mail.ru'
+2018-03-28 13:59:47 - INFO --> (0.0183 сек.)
+2018-03-28 14:00:04 - INFO --> Отсылка почты...
+2018-03-28 14:00:04 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:00:04 - DEBUG --> sportivnajashkola.dussch@yandex.ru
+2018-03-28 14:00:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:00:04 - INFO --> сообщение отправлено; 'sportivnajashkola.dussch@yandex.ru'
+2018-03-28 14:00:04 - INFO --> (0.025 сек.)
+2018-03-28 14:00:25 - INFO --> Отсылка почты...
+2018-03-28 14:00:25 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:00:25 - DEBUG --> sportdalmatovo@gmail.com
+2018-03-28 14:00:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:00:25 - INFO --> сообщение отправлено; 'sportdalmatovo@gmail.com'
+2018-03-28 14:00:25 - INFO --> (0.0197 сек.)
+2018-03-28 14:00:45 - INFO --> Отсылка почты...
+2018-03-28 14:00:45 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:00:45 - DEBUG --> mkoudoddyussh@yandex.ru, korkin05@yandex.ru
+2018-03-28 14:00:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:00:45 - INFO --> сообщение отправлено; 'mkoudoddyussh@yandex.ru'
+2018-03-28 14:00:45 - INFO --> сообщение отправлено; 'korkin05@yandex.ru'
+2018-03-28 14:00:45 - INFO --> (0.0401 сек.)
+2018-03-28 14:01:04 - INFO --> Отсылка почты...
+2018-03-28 14:01:04 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:01:04 - DEBUG --> karg.sport@yandex.ru
+2018-03-28 14:01:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:01:04 - INFO --> сообщение отправлено; 'karg.sport@yandex.ru'
+2018-03-28 14:01:04 - INFO --> (0.0187 сек.)
+2018-03-28 14:01:27 - INFO --> Отсылка почты...
+2018-03-28 14:01:27 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:01:27 - DEBUG --> sportkom.kataisk@mail.ru, katajskchempion@yandex.ru
+2018-03-28 14:01:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:01:27 - INFO --> сообщение отправлено; 'sportkom.kataisk@mail.ru'
+2018-03-28 14:01:27 - INFO --> сообщение отправлено; 'katajskchempion@yandex.ru'
+2018-03-28 14:01:27 - INFO --> (0.0581 сек.)
+2018-03-28 14:01:46 - INFO --> Отсылка почты...
+2018-03-28 14:01:46 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:01:46 - DEBUG --> Ketov.sporting-school45@inbox.ru
+2018-03-28 14:01:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:01:46 - INFO --> сообщение отправлено; 'Ketov.sporting-school45@inbox.ru'
+2018-03-28 14:01:46 - INFO --> (0.0253 сек.)
+2018-03-28 14:02:08 - INFO --> Отсылка почты...
+2018-03-28 14:02:08 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:02:08 - DEBUG --> k-dysh@mail.ru
+2018-03-28 14:02:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:02:08 - INFO --> сообщение отправлено; 'k-dysh@mail.ru'
+2018-03-28 14:02:08 - INFO --> (0.0505 сек.)
+2018-03-28 14:02:27 - INFO --> Отсылка почты...
+2018-03-28 14:02:27 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:02:27 - DEBUG --> lebsport@mail.ru
+2018-03-28 14:02:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:02:27 - INFO --> сообщение отправлено; 'lebsport@mail.ru'
+2018-03-28 14:02:27 - INFO --> (0.0176 сек.)
+2018-03-28 14:02:47 - INFO --> Отсылка почты...
+2018-03-28 14:02:47 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:02:47 - DEBUG --> yagancev64@mail.ru
+2018-03-28 14:02:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:02:47 - INFO --> сообщение отправлено; 'yagancev64@mail.ru'
+2018-03-28 14:02:47 - INFO --> (0.0207 сек.)
+2018-03-28 14:11:42 - INFO --> Отсылка почты...
+2018-03-28 14:11:42 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:11:42 - DEBUG --> mdiussh@mail.ru
+2018-03-28 14:11:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:11:42 - INFO --> сообщение отправлено; 'mdiussh@mail.ru'
+2018-03-28 14:11:42 - INFO --> (0.0168 сек.)
+2018-03-28 14:11:59 - INFO --> Отсылка почты...
+2018-03-28 14:11:59 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:11:59 - DEBUG --> sportivnayashkola@list.ru
+2018-03-28 14:11:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:11:59 - INFO --> сообщение отправлено; 'sportivnayashkola@list.ru'
+2018-03-28 14:11:59 - INFO --> (0.0233 сек.)
+2018-03-28 14:12:19 - INFO --> Отсылка почты...
+2018-03-28 14:12:19 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:12:19 - DEBUG --> gorokhov_kostya@mail.ru
+2018-03-28 14:12:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:12:19 - INFO --> сообщение отправлено; 'gorokhov_kostya@mail.ru'
+2018-03-28 14:12:19 - INFO --> (0.0216 сек.)
+2018-03-28 14:12:36 - INFO --> Отсылка почты...
+2018-03-28 14:12:36 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:12:36 - DEBUG --> pol-sportshkol@yandex.ru
+2018-03-28 14:12:36 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:12:36 - INFO --> сообщение отправлено; 'pol-sportshkol@yandex.ru'
+2018-03-28 14:12:36 - INFO --> (0.0185 сек.)
+2018-03-28 14:12:55 - INFO --> Отсылка почты...
+2018-03-28 14:12:55 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:12:55 - DEBUG --> valeriya8645@mail.ru
+2018-03-28 14:12:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:12:55 - INFO --> сообщение отправлено; 'valeriya8645@mail.ru'
+2018-03-28 14:12:55 - INFO --> (0.0179 сек.)
+2018-03-28 14:13:15 - INFO --> Отсылка почты...
+2018-03-28 14:13:15 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:13:15 - DEBUG --> Sport.safakulevo@mail.ru
+2018-03-28 14:13:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:13:15 - INFO --> сообщение отправлено; 'Sport.safakulevo@mail.ru'
+2018-03-28 14:13:15 - INFO --> (0.0183 сек.)
+2018-03-28 14:13:36 - INFO --> Отсылка почты...
+2018-03-28 14:13:36 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:13:36 - DEBUG --> dushcelinnoe@mail.ru
+2018-03-28 14:13:36 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:13:36 - INFO --> сообщение отправлено; 'dushcelinnoe@mail.ru'
+2018-03-28 14:13:36 - INFO --> (0.0237 сек.)
+2018-03-28 14:13:52 - INFO --> Отсылка почты...
+2018-03-28 14:13:52 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:13:52 - DEBUG --> sport-chast@mail.ru
+2018-03-28 14:13:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:13:52 - INFO --> сообщение отправлено; 'sport-chast@mail.ru'
+2018-03-28 14:13:52 - INFO --> (0.0215 сек.)
+2018-03-28 14:14:16 - INFO --> Отсылка почты...
+2018-03-28 14:14:16 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:14:16 - DEBUG --> sport.shadr@mail.ru
+2018-03-28 14:14:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:14:16 - INFO --> сообщение отправлено; 'sport.shadr@mail.ru'
+2018-03-28 14:14:16 - INFO --> (0.0264 сек.)
+2018-03-28 14:17:54 - INFO --> Отсылка почты...
+2018-03-28 14:17:54 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:17:54 - DEBUG --> shatsport@yandex.ru
+2018-03-28 14:17:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:17:54 - INFO --> сообщение отправлено; 'shatsport@yandex.ru'
+2018-03-28 14:17:54 - INFO --> (0.0177 сек.)
+2018-03-28 14:18:19 - INFO --> Отсылка почты...
+2018-03-28 14:18:19 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:18:19 - DEBUG --> Shdussh45@mail.ru
+2018-03-28 14:18:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:18:19 - INFO --> сообщение отправлено; 'Shdussh45@mail.ru'
+2018-03-28 14:18:19 - INFO --> (0.0272 сек.)
+2018-03-28 14:18:34 - INFO --> Отсылка почты...
+2018-03-28 14:18:34 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:18:34 - DEBUG --> schudush@yandex.ru
+2018-03-28 14:18:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:18:34 - INFO --> сообщение отправлено; 'schudush@yandex.ru'
+2018-03-28 14:18:34 - INFO --> (0.0268 сек.)
+2018-03-28 14:18:57 - INFO --> Отсылка почты...
+2018-03-28 14:18:57 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:18:57 - DEBUG --> sportselena01@mail.ru
+2018-03-28 14:18:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:18:57 - INFO --> сообщение отправлено; 'sportselena01@mail.ru'
+2018-03-28 14:18:57 - INFO --> (0.0209 сек.)
+2018-03-28 14:19:54 - INFO --> Отсылка почты...
+2018-03-28 14:19:54 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:19:54 - DEBUG --> shvsm46@yandex.ru
+2018-03-28 14:19:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:19:54 - INFO --> сообщение отправлено; 'shvsm46@yandex.ru'
+2018-03-28 14:19:54 - INFO --> (0.044 сек.)
+2018-03-28 14:22:23 - INFO --> Отсылка почты...
+2018-03-28 14:22:23 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:22:23 - DEBUG --> fk-kursk@mail.ru
+2018-03-28 14:22:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:22:23 - INFO --> сообщение отправлено; 'fk-kursk@mail.ru'
+2018-03-28 14:22:23 - INFO --> (0.0184 сек.)
+2018-03-28 14:22:44 - INFO --> Отсылка почты...
+2018-03-28 14:22:44 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:22:44 - DEBUG --> dus6info@mail.ru
+2018-03-28 14:22:44 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:22:44 - INFO --> сообщение отправлено; 'dus6info@mail.ru'
+2018-03-28 14:22:44 - INFO --> (0.0179 сек.)
+2018-03-28 14:23:31 - INFO --> Отсылка почты...
+2018-03-28 14:23:31 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:23:31 - DEBUG --> fc-avangard-kursk@yandex.ru
+2018-03-28 14:23:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:23:31 - INFO --> сообщение отправлено; 'fc-avangard-kursk@yandex.ru'
+2018-03-28 14:23:31 - INFO --> (0.0174 сек.)
+2018-03-28 14:24:00 - INFO --> Отсылка почты...
+2018-03-28 14:24:00 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:24:00 - DEBUG --> fk-av-shkola@mail.ru
+2018-03-28 14:24:00 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:24:00 - INFO --> сообщение отправлено; 'fk-av-shkola@mail.ru'
+2018-03-28 14:24:00 - INFO --> (0.0278 сек.)
+2018-03-28 14:24:39 - INFO --> Отсылка почты...
+2018-03-28 14:24:39 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:24:39 - DEBUG --> lanin.sport@mail.ru
+2018-03-28 14:24:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:24:39 - INFO --> сообщение отправлено; 'lanin.sport@mail.ru'
+2018-03-28 14:24:39 - INFO --> (0.018 сек.)
+2018-03-28 14:25:02 - INFO --> Отсылка почты...
+2018-03-28 14:25:02 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:25:02 - DEBUG --> osdusshor46@mail.ru
+2018-03-28 14:25:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:25:02 - INFO --> сообщение отправлено; 'osdusshor46@mail.ru'
+2018-03-28 14:25:02 - INFO --> (0.0218 сек.)
+2018-03-28 14:30:17 - INFO --> Отсылка почты...
+2018-03-28 14:30:17 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:30:17 - DEBUG --> uo_tim@mail.ru
+2018-03-28 14:30:17 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:30:18 - INFO --> сообщение отправлено; 'uo_tim@mail.ru'
+2018-03-28 14:30:18 - INFO --> (0.0262 сек.)
+2018-03-28 14:30:43 - INFO --> Отсылка почты...
+2018-03-28 14:30:43 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:30:43 - DEBUG --> korenevoroo@mail.ru
+2018-03-28 14:30:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:30:43 - INFO --> сообщение отправлено; 'korenevoroo@mail.ru'
+2018-03-28 14:30:43 - INFO --> (0.0183 сек.)
+2018-03-28 14:31:05 - INFO --> Отсылка почты...
+2018-03-28 14:31:05 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:31:05 - DEBUG --> ogou_dod@kursknet.ru
+2018-03-28 14:31:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:31:05 - INFO --> сообщение отправлено; 'ogou_dod@kursknet.ru'
+2018-03-28 14:31:05 - INFO --> (0.0186 сек.)
+2018-03-28 14:31:28 - INFO --> Отсылка почты...
+2018-03-28 14:31:28 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:31:28 - DEBUG --> vk.kursk@mail.ru
+2018-03-28 14:31:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:31:28 - INFO --> сообщение отправлено; 'vk.kursk@mail.ru'
+2018-03-28 14:31:28 - INFO --> (0.0186 сек.)
+2018-03-28 14:31:54 - INFO --> Отсылка почты...
+2018-03-28 14:31:54 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:31:54 - DEBUG --> sportshkola41703@yandex.ru
+2018-03-28 14:31:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:31:54 - INFO --> сообщение отправлено; 'sportshkola41703@yandex.ru'
+2018-03-28 14:31:54 - INFO --> (0.0263 сек.)
+2018-03-28 14:32:53 - INFO --> Отсылка почты...
+2018-03-28 14:32:53 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:32:53 - DEBUG --> dushoboyan@gmail.com
+2018-03-28 14:32:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:32:54 - INFO --> сообщение отправлено; 'dushoboyan@gmail.com'
+2018-03-28 14:32:54 - INFO --> (0.0324 сек.)
+2018-03-28 14:35:49 - INFO --> Отсылка почты...
+2018-03-28 14:35:49 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:35:49 - DEBUG --> s1297a@mail.ru
+2018-03-28 14:35:49 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:35:49 - INFO --> сообщение отправлено; 's1297a@mail.ru'
+2018-03-28 14:35:49 - INFO --> (0.018 сек.)
+2018-03-28 14:36:23 - INFO --> Отсылка почты...
+2018-03-28 14:36:23 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:36:23 - DEBUG --> khom.dyussh@mail.ru
+2018-03-28 14:36:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:36:23 - INFO --> сообщение отправлено; 'khom.dyussh@mail.ru'
+2018-03-28 14:36:23 - INFO --> (0.0176 сек.)
+2018-03-28 14:36:50 - INFO --> Отсылка почты...
+2018-03-28 14:36:50 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:36:50 - DEBUG --> seiduk@yandex.ru
+2018-03-28 14:36:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:36:50 - INFO --> сообщение отправлено; 'seiduk@yandex.ru'
+2018-03-28 14:36:50 - INFO --> (0.0177 сек.)
+2018-03-28 14:37:10 - INFO --> Отсылка почты...
+2018-03-28 14:37:10 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:37:10 - DEBUG --> tomilin-misha@yandex.ru, kurchatovsk@mail.ru
+2018-03-28 14:37:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:37:10 - INFO --> сообщение отправлено; 'tomilin-misha@yandex.ru'
+2018-03-28 14:37:10 - INFO --> сообщение отправлено; 'kurchatovsk@mail.ru'
+2018-03-28 14:37:10 - INFO --> (0.0479 сек.)
+2018-03-28 14:37:44 - INFO --> Отсылка почты...
+2018-03-28 14:37:44 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:37:44 - DEBUG --> oktyabrskiy_roo@mail.ru
+2018-03-28 14:37:44 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:37:44 - INFO --> сообщение отправлено; 'oktyabrskiy_roo@mail.ru'
+2018-03-28 14:37:44 - INFO --> (0.0201 сек.)
+2018-03-28 14:38:06 - INFO --> Отсылка почты...
+2018-03-28 14:38:06 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:38:06 - DEBUG --> meddussh@yandex.ru
+2018-03-28 14:38:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:38:06 - INFO --> сообщение отправлено; 'meddussh@yandex.ru'
+2018-03-28 14:38:06 - INFO --> (0.0182 сек.)
+2018-03-28 14:38:50 - INFO --> Отсылка почты...
+2018-03-28 14:38:50 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:38:50 - DEBUG --> sydja-dush@yandex.ru
+2018-03-28 14:38:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:38:50 - INFO --> сообщение отправлено; 'sydja-dush@yandex.ru'
+2018-03-28 14:38:50 - INFO --> (0.0199 сек.)
+2018-03-28 14:39:27 - INFO --> Отсылка почты...
+2018-03-28 14:39:27 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:39:27 - DEBUG --> deush5kursk@mail.ru
+2018-03-28 14:39:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:39:27 - INFO --> сообщение отправлено; 'deush5kursk@mail.ru'
+2018-03-28 14:39:27 - INFO --> (0.0195 сек.)
+2018-03-28 14:40:33 - INFO --> Отсылка почты...
+2018-03-28 14:40:33 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:40:33 - DEBUG --> dussh_victoria@mail.ru
+2018-03-28 14:40:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:40:33 - INFO --> сообщение отправлено; 'dussh_victoria@mail.ru'
+2018-03-28 14:40:33 - INFO --> (0.0203 сек.)
+2018-03-28 14:41:25 - INFO --> Отсылка почты...
+2018-03-28 14:41:25 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:41:25 - DEBUG --> glushkovsk_otdel@mail.ru
+2018-03-28 14:41:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:41:25 - INFO --> сообщение отправлено; 'glushkovsk_otdel@mail.ru'
+2018-03-28 14:41:25 - INFO --> (0.0214 сек.)
+2018-03-28 14:41:45 - INFO --> Отсылка почты...
+2018-03-28 14:41:45 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:41:45 - DEBUG --> musolotuh@mail.ru
+2018-03-28 14:41:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:41:45 - INFO --> сообщение отправлено; 'musolotuh@mail.ru'
+2018-03-28 14:41:45 - INFO --> (0.0179 сек.)
+2018-03-28 14:43:28 - INFO --> Отсылка почты...
+2018-03-28 14:43:28 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:43:28 - DEBUG --> kurskpower@bk.ru
+2018-03-28 14:43:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:43:28 - INFO --> сообщение отправлено; 'kurskpower@bk.ru'
+2018-03-28 14:43:28 - INFO --> (0.017 сек.)
+2018-03-28 14:43:46 - INFO --> Отсылка почты...
+2018-03-28 14:43:46 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:43:46 - DEBUG --> lgov-dussh@yandex.ru
+2018-03-28 14:43:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:43:46 - INFO --> сообщение отправлено; 'lgov-dussh@yandex.ru'
+2018-03-28 14:43:46 - INFO --> (0.0241 сек.)
+2018-03-28 14:44:26 - INFO --> Отсылка почты...
+2018-03-28 14:44:26 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:44:26 - DEBUG --> manturovo-roo@yandex.ru
+2018-03-28 14:44:26 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:44:26 - INFO --> сообщение отправлено; 'manturovo-roo@yandex.ru'
+2018-03-28 14:44:26 - INFO --> (0.0246 сек.)
+2018-03-28 14:44:50 - INFO --> Отсылка почты...
+2018-03-28 14:44:50 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:44:50 - DEBUG --> rimk35@mail.ru
+2018-03-28 14:44:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:44:50 - INFO --> сообщение отправлено; 'rimk35@mail.ru'
+2018-03-28 14:44:50 - INFO --> (0.019 сек.)
+2018-03-28 14:45:16 - INFO --> Отсылка почты...
+2018-03-28 14:45:16 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:45:16 - DEBUG --> rylsk_poarko@mail.ru
+2018-03-28 14:45:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:45:16 - INFO --> сообщение отправлено; 'rylsk_poarko@mail.ru'
+2018-03-28 14:45:16 - INFO --> (0.0245 сек.)
+2018-03-28 14:45:45 - INFO --> Отсылка почты...
+2018-03-28 14:45:45 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:45:45 - DEBUG --> sovinfc@kursknet.ru
+2018-03-28 14:45:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:45:45 - INFO --> сообщение отправлено; 'sovinfc@kursknet.ru'
+2018-03-28 14:45:45 - INFO --> (0.0176 сек.)
+2018-03-28 14:46:05 - INFO --> Отсылка почты...
+2018-03-28 14:46:05 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:46:05 - DEBUG --> solncevo.ddt@yandex.ru
+2018-03-28 14:46:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:46:05 - INFO --> сообщение отправлено; 'solncevo.ddt@yandex.ru'
+2018-03-28 14:46:05 - INFO --> (0.0165 сек.)
+2018-03-28 14:46:45 - INFO --> Отсылка почты...
+2018-03-28 14:46:45 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:46:45 - DEBUG --> fatej228@mail.ru
+2018-03-28 14:46:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:46:45 - INFO --> сообщение отправлено; 'fatej228@mail.ru'
+2018-03-28 14:46:45 - INFO --> (0.0178 сек.)
+2018-03-28 14:47:04 - INFO --> Отсылка почты...
+2018-03-28 14:47:04 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:47:04 - DEBUG --> mkusdpo@mail.ru
+2018-03-28 14:47:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:47:04 - INFO --> сообщение отправлено; 'mkusdpo@mail.ru'
+2018-03-28 14:47:04 - INFO --> (0.0274 сек.)
+2018-03-28 14:47:23 - INFO --> Отсылка почты...
+2018-03-28 14:47:23 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:47:23 - DEBUG --> shigry.obrazov@mail.ru
+2018-03-28 14:47:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:47:23 - INFO --> сообщение отправлено; 'shigry.obrazov@mail.ru'
+2018-03-28 14:47:23 - INFO --> (0.0213 сек.)
+2018-03-28 14:47:39 - INFO --> Отсылка почты...
+2018-03-28 14:47:39 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:47:39 - DEBUG --> mamusia46@gmail.com
+2018-03-28 14:47:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:47:39 - INFO --> сообщение отправлено; 'mamusia46@gmail.com'
+2018-03-28 14:47:39 - INFO --> (0.0259 сек.)
+2018-03-28 14:52:38 - INFO --> Отсылка почты...
+2018-03-28 14:52:38 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:52:38 - DEBUG --> fk_sport48@admlr.lipetsk.ru
+2018-03-28 14:52:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:52:38 - INFO --> сообщение отправлено; 'fk_sport48@admlr.lipetsk.ru'
+2018-03-28 14:52:38 - INFO --> (0.0198 сек.)
+2018-03-28 14:53:22 - INFO --> Отсылка почты...
+2018-03-28 14:53:22 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:53:22 - DEBUG --> sport@cominfo.lipetsk.ru
+2018-03-28 14:53:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:53:22 - INFO --> сообщение отправлено; 'sport@cominfo.lipetsk.ru'
+2018-03-28 14:53:22 - INFO --> (0.0182 сек.)
+2018-03-28 14:55:27 - INFO --> Отсылка почты...
+2018-03-28 14:55:27 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:55:27 - DEBUG --> sportkomitet.adm@mail.ru
+2018-03-28 14:55:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:55:27 - INFO --> сообщение отправлено; 'sportkomitet.adm@mail.ru'
+2018-03-28 14:55:27 - INFO --> (0.0223 сек.)
+2018-03-28 14:56:18 - INFO --> Отсылка почты...
+2018-03-28 14:56:18 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:56:18 - DEBUG --> rassolova.dankov@mail.ru
+2018-03-28 14:56:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:56:18 - INFO --> сообщение отправлено; 'rassolova.dankov@mail.ru'
+2018-03-28 14:56:18 - INFO --> (0.0176 сек.)
+2018-03-28 14:56:45 - INFO --> Отсылка почты...
+2018-03-28 14:56:45 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:56:45 - DEBUG --> cultura.zadonsk.lipetsk@mail.ru
+2018-03-28 14:56:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:56:45 - INFO --> сообщение отправлено; 'cultura.zadonsk.lipetsk@mail.ru'
+2018-03-28 14:56:45 - INFO --> (0.054 сек.)
+2018-03-28 14:57:16 - INFO --> Отсылка почты...
+2018-03-28 14:57:16 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:57:16 - DEBUG --> Lip.ODYSAH@mail.ru,
+2018-03-28 14:57:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:57:16 - INFO --> (0.0002 сек.)
+2018-03-28 14:58:07 - INFO --> Отсылка почты...
+2018-03-28 14:58:07 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 14:58:07 - DEBUG --> Lip.ODYSAH@mail.ru
+2018-03-28 14:58:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 14:58:07 - INFO --> сообщение отправлено; 'Lip.ODYSAH@mail.ru'
+2018-03-28 14:58:07 - INFO --> (0.0187 сек.)
+2018-03-28 15:01:40 - INFO --> Отсылка почты...
+2018-03-28 15:01:40 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:01:40 - DEBUG --> akvatoriya2007@mail.ru
+2018-03-28 15:01:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:01:40 - INFO --> сообщение отправлено; 'akvatoriya2007@mail.ru'
+2018-03-28 15:01:40 - INFO --> (0.0183 сек.)
+2018-03-28 15:01:59 - INFO --> Отсылка почты...
+2018-03-28 15:01:59 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:01:59 - DEBUG --> sportschkk@mail.ru
+2018-03-28 15:01:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:01:59 - INFO --> сообщение отправлено; 'sportschkk@mail.ru'
+2018-03-28 15:01:59 - INFO --> (0.0187 сек.)
+2018-03-28 15:02:23 - INFO --> Отсылка почты...
+2018-03-28 15:02:23 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:02:23 - DEBUG --> sport@cominfo.lipetsk.ru
+2018-03-28 15:02:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:02:23 - INFO --> сообщение отправлено; 'sport@cominfo.lipetsk.ru'
+2018-03-28 15:02:23 - INFO --> (0.0279 сек.)
+2018-03-28 15:03:01 - INFO --> Отсылка почты...
+2018-03-28 15:03:01 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:03:01 - DEBUG --> ynost@lipetsk.ru
+2018-03-28 15:03:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:03:01 - INFO --> сообщение отправлено; 'ynost@lipetsk.ru'
+2018-03-28 15:03:01 - INFO --> (0.0229 сек.)
+2018-03-28 15:03:48 - INFO --> Отсылка почты...
+2018-03-28 15:03:48 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:03:48 - DEBUG --> dussh-12.football@yandex.ru
+2018-03-28 15:03:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:03:48 - INFO --> сообщение отправлено; 'dussh-12.football@yandex.ru'
+2018-03-28 15:03:48 - INFO --> (0.0276 сек.)
+2018-03-28 15:04:08 - INFO --> Отсылка почты...
+2018-03-28 15:04:08 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:04:08 - DEBUG --> sport-shkola@lipetsk.ru,okdysh@mail.ru
+2018-03-28 15:04:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:04:08 - INFO --> сообщение отправлено; 'sport-shkola@lipetsk.ru'
+2018-03-28 15:04:08 - INFO --> сообщение отправлено; 'okdysh@mail.ru'
+2018-03-28 15:04:08 - INFO --> (0.0442 сек.)
+2018-03-28 15:04:31 - INFO --> Отсылка почты...
+2018-03-28 15:04:31 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:04:31 - DEBUG --> viktor01.04@yandex.ru
+2018-03-28 15:04:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:04:31 - INFO --> сообщение отправлено; 'viktor01.04@yandex.ru'
+2018-03-28 15:04:31 - INFO --> (0.019 сек.)
+2018-03-28 15:04:59 - INFO --> Отсылка почты...
+2018-03-28 15:04:59 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:04:59 - DEBUG --> sportshkola.1@mail.ru
+2018-03-28 15:04:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:04:59 - INFO --> сообщение отправлено; 'sportshkola.1@mail.ru'
+2018-03-28 15:04:59 - INFO --> (0.0216 сек.)
+2018-03-28 15:15:03 - INFO --> Отсылка почты...
+2018-03-28 15:15:03 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:15:03 - DEBUG --> sport48dankov@yandex.ru
+2018-03-28 15:15:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:15:03 - INFO --> сообщение отправлено; 'sport48dankov@yandex.ru'
+2018-03-28 15:15:03 - INFO --> (0.017 сек.)
+2018-03-28 15:15:22 - INFO --> Отсылка почты...
+2018-03-28 15:15:22 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:15:22 - DEBUG --> tsielykh2013@mail.ru
+2018-03-28 15:15:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:15:22 - INFO --> сообщение отправлено; 'tsielykh2013@mail.ru'
+2018-03-28 15:15:22 - INFO --> (0.0171 сек.)
+2018-03-28 15:15:52 - INFO --> Отсылка почты...
+2018-03-28 15:15:52 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:15:52 - DEBUG --> lezak@admlr.lipetsk.ru
+2018-03-28 15:15:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:15:52 - INFO --> сообщение отправлено; 'lezak@admlr.lipetsk.ru'
+2018-03-28 15:15:52 - INFO --> (0.0165 сек.)
+2018-03-28 15:16:12 - INFO --> Отсылка почты...
+2018-03-28 15:16:12 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:16:12 - DEBUG --> sport-leb@yandex.ru
+2018-03-28 15:16:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:16:12 - INFO --> сообщение отправлено; 'sport-leb@yandex.ru'
+2018-03-28 15:16:12 - INFO --> (0.0189 сек.)
+2018-03-28 15:25:32 - INFO --> Отсылка почты...
+2018-03-28 15:25:32 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:25:32 - DEBUG --> 79042868224@yandex.ru
+2018-03-28 15:25:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:25:32 - INFO --> сообщение отправлено; '79042868224@yandex.ru'
+2018-03-28 15:25:32 - INFO --> (0.0184 сек.)
+2018-03-28 15:27:05 - INFO --> Отсылка почты...
+2018-03-28 15:27:05 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:27:05 - DEBUG --> Forest.park@mail.ru
+2018-03-28 15:27:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:27:05 - INFO --> сообщение отправлено; 'Forest.park@mail.ru'
+2018-03-28 15:27:05 - INFO --> (0.0284 сек.)
+2018-03-28 15:28:13 - INFO --> Отсылка почты...
+2018-03-28 15:28:13 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:28:13 - DEBUG --> sportcentrgrjazi2012@yandex.ru
+2018-03-28 15:28:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:28:13 - INFO --> сообщение отправлено; 'sportcentrgrjazi2012@yandex.ru'
+2018-03-28 15:28:13 - INFO --> (0.0257 сек.)
+2018-03-28 15:28:38 - INFO --> Отсылка почты...
+2018-03-28 15:28:38 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:28:38 - DEBUG --> doocsitdon@lipetsk.ru
+2018-03-28 15:28:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:28:38 - INFO --> сообщение отправлено; 'doocsitdon@lipetsk.ru'
+2018-03-28 15:28:38 - INFO --> (0.0165 сек.)
+2018-03-28 15:29:02 - INFO --> Отсылка почты...
+2018-03-28 15:29:02 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:29:02 - DEBUG --> dobrinka@admlr.lipetsk.ru
+2018-03-28 15:29:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:29:02 - INFO --> сообщение отправлено; 'dobrinka@admlr.lipetsk.ru'
+2018-03-28 15:29:02 - INFO --> (0.018 сек.)
+2018-03-28 15:29:20 - INFO --> Отсылка почты...
+2018-03-28 15:29:20 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:29:20 - DEBUG --> dpisch@mail.ru
+2018-03-28 15:29:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:29:20 - INFO --> сообщение отправлено; 'dpisch@mail.ru'
+2018-03-28 15:29:20 - INFO --> (0.0196 сек.)
+2018-03-28 15:40:18 - INFO --> Отсылка почты...
+2018-03-28 15:40:18 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:40:18 - DEBUG --> csp51@mail.ru, sigaev51@gmail.com
+2018-03-28 15:40:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:40:18 - INFO --> сообщение отправлено; 'csp51@mail.ru'
+2018-03-28 15:40:18 - INFO --> сообщение отправлено; 'sigaev51@gmail.com'
+2018-03-28 15:40:18 - INFO --> (0.0345 сек.)
+2018-03-28 15:52:35 - INFO --> Отсылка почты...
+2018-03-28 15:52:35 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:52:35 - DEBUG --> kand-obr@yandex.ru
+2018-03-28 15:52:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:52:35 - INFO --> сообщение отправлено; 'kand-obr@yandex.ru'
+2018-03-28 15:52:35 - INFO --> (0.0253 сек.)
+2018-03-28 15:52:54 - INFO --> Отсылка почты...
+2018-03-28 15:52:54 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:52:54 - DEBUG --> volley_dush2@mail.ru
+2018-03-28 15:52:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:52:54 - INFO --> сообщение отправлено; 'volley_dush2@mail.ru'
+2018-03-28 15:52:54 - INFO --> (0.0218 сек.)
+2018-03-28 15:53:23 - INFO --> Отсылка почты...
+2018-03-28 15:53:23 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:53:23 - DEBUG --> football.migun@yandex.ru
+2018-03-28 15:53:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:53:23 - INFO --> сообщение отправлено; 'football.migun@yandex.ru'
+2018-03-28 15:53:23 - INFO --> (0.018 сек.)
+2018-03-28 15:54:03 - INFO --> Отсылка почты...
+2018-03-28 15:54:03 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:54:03 - DEBUG --> basketbol.sportshkola8@yandex.ru
+2018-03-28 15:54:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:54:03 - INFO --> сообщение отправлено; 'basketbol.sportshkola8@yandex.ru'
+2018-03-28 15:54:03 - INFO --> (0.0177 сек.)
+2018-03-28 15:54:48 - INFO --> Отсылка почты...
+2018-03-28 15:54:48 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:54:48 - DEBUG --> gsk.avangard@list.ru
+2018-03-28 15:54:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:54:48 - INFO --> сообщение отправлено; 'gsk.avangard@list.ru'
+2018-03-28 15:54:48 - INFO --> (0.0315 сек.)
+2018-03-28 15:56:00 - INFO --> Отсылка почты...
+2018-03-28 15:56:00 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 15:56:00 - DEBUG --> sportschool1_apatity@rambler.ru
+2018-03-28 15:56:00 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 15:56:00 - INFO --> сообщение отправлено; 'sportschool1_apatity@rambler.ru'
+2018-03-28 15:56:00 - INFO --> (0.0185 сек.)
+2018-03-28 16:07:43 - INFO --> Отсылка почты...
+2018-03-28 16:07:43 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:07:43 - DEBUG --> universal@aprec.ru,  zubkov.vs@yandex.ru
+2018-03-28 16:07:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:07:43 - INFO --> сообщение отправлено; 'universal@aprec.ru'
+2018-03-28 16:07:43 - INFO --> сообщение отправлено; 'zubkov.vs@yandex.ru'
+2018-03-28 16:07:43 - INFO --> (0.0319 сек.)
+2018-03-28 16:08:02 - INFO --> Отсылка почты...
+2018-03-28 16:08:02 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:08:02 - DEBUG --> glavbyx.rypakova@rambler.ru
+2018-03-28 16:08:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:08:02 - INFO --> сообщение отправлено; 'glavbyx.rypakova@rambler.ru'
+2018-03-28 16:08:02 - INFO --> (0.0244 сек.)
+2018-03-28 16:08:20 - INFO --> Отсылка почты...
+2018-03-28 16:08:20 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:08:20 - DEBUG --> natalya.rumyantseva2013@yandex.ru
+2018-03-28 16:08:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:08:20 - INFO --> сообщение отправлено; 'natalya.rumyantseva2013@yandex.ru'
+2018-03-28 16:08:20 - INFO --> (0.0172 сек.)
+2018-03-28 16:08:41 - INFO --> Отсылка почты...
+2018-03-28 16:08:41 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:08:41 - DEBUG --> dusschkr72@mail.ru
+2018-03-28 16:08:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:08:41 - INFO --> сообщение отправлено; 'dusschkr72@mail.ru'
+2018-03-28 16:08:41 - INFO --> (0.0214 сек.)
+2018-03-28 16:09:14 - INFO --> Отсылка почты...
+2018-03-28 16:09:14 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:09:14 - DEBUG --> dusshpz@yandex.ru
+2018-03-28 16:09:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:09:14 - INFO --> сообщение отправлено; 'dusshpz@yandex.ru'
+2018-03-28 16:09:14 - INFO --> (0.0189 сек.)
+2018-03-28 16:09:34 - INFO --> Отсылка почты...
+2018-03-28 16:09:34 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:09:34 - DEBUG --> gpolyarny.dyussch@yandex.ru
+2018-03-28 16:09:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:09:34 - INFO --> сообщение отправлено; 'gpolyarny.dyussch@yandex.ru'
+2018-03-28 16:09:34 - INFO --> (0.0181 сек.)
+2018-03-28 16:14:03 - INFO --> Отсылка почты...
+2018-03-28 16:14:03 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:14:03 - DEBUG --> p.czentr2012@mail.ru
+2018-03-28 16:14:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:14:03 - INFO --> сообщение отправлено; 'p.czentr2012@mail.ru'
+2018-03-28 16:14:03 - INFO --> (0.0176 сек.)
+2018-03-28 16:14:21 - INFO --> Отсылка почты...
+2018-03-28 16:14:21 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:14:21 - DEBUG --> sportschoolmonch@rambler.ru
+2018-03-28 16:14:21 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:14:21 - INFO --> сообщение отправлено; 'sportschoolmonch@rambler.ru'
+2018-03-28 16:14:21 - INFO --> (0.0172 сек.)
+2018-03-28 16:14:41 - INFO --> Отсылка почты...
+2018-03-28 16:14:41 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:14:41 - DEBUG --> sekretarducsh-2@mail.ru, wbarda@rambler.ru
+2018-03-28 16:14:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:14:41 - INFO --> сообщение отправлено; 'sekretarducsh-2@mail.ru'
+2018-03-28 16:14:41 - INFO --> сообщение отправлено; 'wbarda@rambler.ru'
+2018-03-28 16:14:41 - INFO --> (0.0428 сек.)
+2018-03-28 16:15:19 - INFO --> Отсылка почты...
+2018-03-28 16:15:19 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:15:19 - DEBUG --> nickeldush@yandex.ru
+2018-03-28 16:15:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:15:19 - INFO --> сообщение отправлено; 'nickeldush@yandex.ru'
+2018-03-28 16:15:19 - INFO --> (0.0179 сек.)
+2018-03-28 16:15:38 - INFO --> Отсылка почты...
+2018-03-28 16:15:38 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:15:38 - DEBUG --> dysshg@mail.ru
+2018-03-28 16:15:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:15:38 - INFO --> сообщение отправлено; 'dysshg@mail.ru'
+2018-03-28 16:15:38 - INFO --> (0.0178 сек.)
+2018-03-28 16:17:41 - INFO --> Отсылка почты...
+2018-03-28 16:17:41 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:17:41 - DEBUG --> dyussh.4@mail.ru
+2018-03-28 16:17:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:17:41 - INFO --> сообщение отправлено; 'dyussh.4@mail.ru'
+2018-03-28 16:17:41 - INFO --> (0.0259 сек.)
+2018-03-28 16:18:11 - INFO --> Отсылка почты...
+2018-03-28 16:18:11 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:18:11 - DEBUG --> sportshkola@hotmail.com
+2018-03-28 16:18:11 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:18:11 - INFO --> сообщение отправлено; 'sportshkola@hotmail.com'
+2018-03-28 16:18:11 - INFO --> (0.018 сек.)
+2018-03-28 16:18:30 - INFO --> Отсылка почты...
+2018-03-28 16:18:30 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:18:30 - DEBUG --> dusch-1@severomorsk-edu.ru, tramp-sch@severomorsk-edu.ru
+2018-03-28 16:18:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:18:30 - INFO --> сообщение отправлено; 'dusch-1@severomorsk-edu.ru'
+2018-03-28 16:18:30 - INFO --> сообщение отправлено; 'tramp-sch@severomorsk-edu.ru'
+2018-03-28 16:18:30 - INFO --> (0.034 сек.)
+2018-03-28 16:18:50 - INFO --> Отсылка почты...
+2018-03-28 16:18:50 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:18:50 - DEBUG --> sports-school3sever@severomorsk-edu.ru
+2018-03-28 16:18:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:18:50 - INFO --> сообщение отправлено; 'sports-school3sever@severomorsk-edu.ru'
+2018-03-28 16:18:50 - INFO --> (0.0185 сек.)
+2018-03-28 16:19:12 - INFO --> Отсылка почты...
+2018-03-28 16:19:12 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:19:12 - DEBUG --> dush-3@yandex.ru
+2018-03-28 16:19:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:19:12 - INFO --> сообщение отправлено; 'dush-3@yandex.ru'
+2018-03-28 16:19:12 - INFO --> (0.0194 сек.)
+2018-03-28 16:19:33 - INFO --> Отсылка почты...
+2018-03-28 16:19:33 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:19:33 - DEBUG --> \&quot;dyussh-p-revda@yandex.ru
+2018-03-28 16:19:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:19:33 - INFO --> (0.0002 сек.)
+2018-03-28 16:19:55 - INFO --> Отсылка почты...
+2018-03-28 16:19:55 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:19:55 - DEBUG --> dyussh-p-revda@yandex.ru
+2018-03-28 16:19:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:19:55 - INFO --> сообщение отправлено; 'dyussh-p-revda@yandex.ru'
+2018-03-28 16:19:55 - INFO --> (0.025 сек.)
+2018-03-28 16:20:13 - INFO --> Отсылка почты...
+2018-03-28 16:20:13 - INFO --> Тема; 'аксессуары для тренировок 2018'
+2018-03-28 16:20:13 - DEBUG --> Dusch-1@list.ru
+2018-03-28 16:20:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/acsessuary-nesco-2018.jpg'
+2018-03-28 16:20:13 - INFO --> сообщение отправлено; 'Dusch-1@list.ru'
+2018-03-28 16:20:13 - INFO --> (0.0194 сек.)

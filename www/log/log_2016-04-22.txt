@@ -1,0 +1,73 @@
+2016-04-22 9:09:11 - INFO --> Отсылка почты...
+2016-04-22 9:09:11 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-22 9:09:11 - DEBUG --> dyussh.biryusinsk@mail.ru
+2016-04-22 9:09:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-22 9:09:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-22 9:09:11 - INFO --> сообщение отправлено; 'dyussh.biryusinsk@mail.ru'
+2016-04-22 9:09:11 - INFO --> (0.034 сек.)
+2016-04-22 9:34:26 - INFO --> Отсылка почты...
+2016-04-22 9:34:26 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-22 9:34:26 - DEBUG --> sport.sibir@bk.ru
+2016-04-22 9:34:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-22 9:34:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-22 9:34:26 - INFO --> сообщение отправлено; 'sport.sibir@bk.ru'
+2016-04-22 9:34:26 - INFO --> (0.0383 сек.)
+2016-04-22 9:38:25 - INFO --> Отсылка почты...
+2016-04-22 9:38:25 - INFO --> Тема; 'Экипировка NESCO апрель - май 2016'
+2016-04-22 9:38:25 - DEBUG --> cultura.zadonsk.lipetsk@mail.ru
+2016-04-22 9:38:25 - INFO --> сообщение отправлено; 'cultura.zadonsk.lipetsk@mail.ru'
+2016-04-22 9:38:25 - INFO --> (0.0137 сек.)
+2016-04-22 9:42:15 - INFO --> Отсылка почты...
+2016-04-22 9:42:15 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-22 9:42:15 - DEBUG --> fcs@list.ru
+2016-04-22 9:42:15 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-22 9:42:15 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-22 9:42:15 - INFO --> сообщение отправлено; 'fcs@list.ru'
+2016-04-22 9:42:15 - INFO --> (0.0387 сек.)
+2016-04-22 9:58:24 - INFO --> Отсылка почты...
+2016-04-22 9:58:24 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-22 9:58:24 - DEBUG --> dussh6@bk.ru
+2016-04-22 9:58:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-22 9:58:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-22 9:58:24 - INFO --> сообщение отправлено; 'dussh6@bk.ru'
+2016-04-22 9:58:24 - INFO --> (0.0257 сек.)
+2016-04-22 10:03:08 - INFO --> Отсылка почты...
+2016-04-22 10:03:08 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-22 10:03:08 - DEBUG --> 1953tolya@mail.ru
+2016-04-22 10:03:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-22 10:03:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-22 10:03:08 - INFO --> сообщение отправлено; '1953tolya@mail.ru'
+2016-04-22 10:03:08 - INFO --> (0.0365 сек.)
+2016-04-22 10:04:16 - INFO --> Отсылка почты...
+2016-04-22 10:04:16 - INFO --> Тема; 'Экипировка NESCO апрель - май 2016'
+2016-04-22 10:04:16 - DEBUG --> dussh4lipetsk@yandex.ru
+2016-04-22 10:04:16 - INFO --> сообщение отправлено; 'dussh4lipetsk@yandex.ru'
+2016-04-22 10:04:16 - INFO --> (0.0204 сек.)
+2016-04-22 10:12:56 - INFO --> Отсылка почты...
+2016-04-22 10:12:56 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-22 10:12:56 - DEBUG --> rukosuevve@mail.ru
+2016-04-22 10:12:56 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-22 10:12:56 - INFO --> сообщение отправлено; 'rukosuevve@mail.ru'
+2016-04-22 10:12:56 - INFO --> (0.0338 сек.)
+2016-04-22 10:18:48 - INFO --> Отсылка почты...
+2016-04-22 10:18:48 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-22 10:18:48 - DEBUG --> angarsk-uor@mail.ru
+2016-04-22 10:18:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-22 10:18:48 - INFO --> сообщение отправлено; 'angarsk-uor@mail.ru'
+2016-04-22 10:18:48 - INFO --> (0.0252 сек.)
+2016-04-22 10:26:59 - INFO --> Отсылка почты...
+2016-04-22 10:26:59 - INFO --> Тема; 'Экипировка NESCO апрель - май 2016'
+2016-04-22 10:26:59 - DEBUG --> super.dush7@yandex.ru
+2016-04-22 10:26:59 - INFO --> сообщение отправлено; 'super.dush7@yandex.ru'
+2016-04-22 10:26:59 - INFO --> (0.0276 сек.)
+2016-04-22 11:29:47 - INFO --> Отсылка почты...
+2016-04-22 11:29:47 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-22 11:29:47 - DEBUG --> v.kharlukova@govirk.ru
+2016-04-22 11:29:47 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Olympic_sport_katalog2016_to_PRINT_a4.pdf'
+2016-04-22 11:29:48 - ERROR --> сообщение не отправлено!; 'v.kharlukova@govirk.ru'
+2016-04-22 11:29:48 - INFO --> (1.1343 сек.)
+2016-04-22 13:04:26 - INFO --> Отсылка почты...
+2016-04-22 13:04:26 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-22 13:04:26 - DEBUG --> v.kharlukova@govirk.ru
+2016-04-22 13:04:26 - INFO --> сообщение отправлено; 'v.kharlukova@govirk.ru'
+2016-04-22 13:04:26 - INFO --> (0.0138 сек.)

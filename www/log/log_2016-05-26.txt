@@ -1,0 +1,44 @@
+2016-05-26 10:24:26 - INFO --> Отсылка почты...
+2016-05-26 10:24:26 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-26 10:24:26 - DEBUG --> profkom@polyef.ru
+2016-05-26 10:24:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-26 10:24:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-26 10:24:26 - INFO --> сообщение отправлено; 'profkom@polyef.ru'
+2016-05-26 10:24:26 - INFO --> (0.0584 сек.)
+2016-05-26 10:31:33 - INFO --> Отсылка почты...
+2016-05-26 10:31:33 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-26 10:31:33 - DEBUG --> polunin@uossibur.ru
+2016-05-26 10:31:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-26 10:31:33 - INFO --> сообщение отправлено; 'polunin@uossibur.ru'
+2016-05-26 10:31:33 - INFO --> (0.0215 сек.)
+2016-05-26 10:40:12 - INFO --> Отсылка почты...
+2016-05-26 10:40:12 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-26 10:40:12 - DEBUG --> PoluninSI@uos.sibur.ru
+2016-05-26 10:40:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-26 10:40:12 - INFO --> сообщение отправлено; 'PoluninSI@uos.sibur.ru'
+2016-05-26 10:40:12 - INFO --> (0.0301 сек.)
+2016-05-26 13:24:27 - INFO --> Отсылка почты...
+2016-05-26 13:24:27 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-26 13:24:27 - DEBUG --> ritkinavb@stg.sibur.ru
+2016-05-26 13:24:27 - INFO --> сообщение отправлено; 'ritkinavb@stg.sibur.ru'
+2016-05-26 13:24:27 - INFO --> (0.0134 сек.)
+2016-05-26 13:58:19 - INFO --> Отсылка почты...
+2016-05-26 13:58:19 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-26 13:58:19 - DEBUG --> smirnovIN@tnhk.sibur.ru
+2016-05-26 13:58:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-26 13:58:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-26 13:58:19 - INFO --> сообщение отправлено; 'smirnovIN@tnhk.sibur.ru'
+2016-05-26 13:58:19 - INFO --> (0.0412 сек.)
+2016-05-26 14:25:51 - INFO --> Отсылка почты...
+2016-05-26 14:25:51 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-26 14:25:51 - DEBUG --> ivanovov@biaxplen.ru
+2016-05-26 14:25:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-26 14:25:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-26 14:25:51 - INFO --> сообщение отправлено; 'ivanovov@biaxplen.ru'
+2016-05-26 14:25:51 - INFO --> (0.0367 сек.)
+2016-05-26 17:12:17 - INFO --> Отсылка почты...
+2016-05-26 17:12:17 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-26 17:12:17 - DEBUG --> mamatovss@sk.sibur.ru
+2016-05-26 17:12:17 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-26 17:12:17 - INFO --> сообщение отправлено; 'mamatovss@sk.sibur.ru'
+2016-05-26 17:12:17 - INFO --> (0.0219 сек.)

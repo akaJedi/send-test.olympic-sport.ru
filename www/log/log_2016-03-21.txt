@@ -1,0 +1,183 @@
+2016-03-21 9:37:19 - INFO --> Отсылка почты...
+2016-03-21 9:37:19 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 9:37:19 - DEBUG --> dusch1busuluk@mail.ru
+2016-03-21 9:37:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 9:37:19 - INFO --> сообщение отправлено; 'dusch1busuluk@mail.ru'
+2016-03-21 9:37:19 - INFO --> (0.0266 сек.)
+2016-03-21 9:38:13 - INFO --> Отсылка почты...
+2016-03-21 9:38:13 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 9:38:13 - DEBUG --> s.dysch@gmail.com
+2016-03-21 9:38:13 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 9:38:13 - INFO --> сообщение отправлено; 's.dysch@gmail.com'
+2016-03-21 9:38:13 - INFO --> (0.0254 сек.)
+2016-03-21 9:39:22 - INFO --> Отсылка почты...
+2016-03-21 9:39:22 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 9:39:22 - DEBUG --> sport_706@mail.ru, penzasport@mail.ru
+2016-03-21 9:39:22 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 9:39:22 - INFO --> сообщение отправлено; 'sport_706@mail.ru'
+2016-03-21 9:39:22 - INFO --> сообщение отправлено; 'penzasport@mail.ru'
+2016-03-21 9:39:22 - INFO --> (0.0649 сек.)
+2016-03-21 9:40:10 - INFO --> Отсылка почты...
+2016-03-21 9:40:10 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 9:40:10 - DEBUG --> shvsmpenza@mail.ru
+2016-03-21 9:40:10 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 9:40:10 - INFO --> сообщение отправлено; 'shvsmpenza@mail.ru'
+2016-03-21 9:40:10 - INFO --> (0.0262 сек.)
+2016-03-21 9:40:52 - INFO --> Отсылка почты...
+2016-03-21 9:40:52 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 9:40:52 - DEBUG --> uor_lider@mail.ru
+2016-03-21 9:40:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 9:40:52 - INFO --> сообщение отправлено; 'uor_lider@mail.ru'
+2016-03-21 9:40:52 - INFO --> (0.0297 сек.)
+2016-03-21 9:41:24 - INFO --> Отсылка почты...
+2016-03-21 9:41:24 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 9:41:24 - DEBUG --> ksdushor_penza@mail.ru
+2016-03-21 9:41:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 9:41:24 - INFO --> сообщение отправлено; 'ksdushor_penza@mail.ru'
+2016-03-21 9:41:24 - INFO --> (0.0195 сек.)
+2016-03-21 9:41:58 - INFO --> Отсылка почты...
+2016-03-21 9:41:58 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 9:41:58 - DEBUG --> sportschool.zato@mail.ru
+2016-03-21 9:41:58 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 9:41:58 - INFO --> сообщение отправлено; 'sportschool.zato@mail.ru'
+2016-03-21 9:41:58 - INFO --> (0.0217 сек.)
+2016-03-21 9:42:41 - INFO --> Отсылка почты...
+2016-03-21 9:42:41 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 9:42:41 - DEBUG --> dyusch2@mail.ru
+2016-03-21 9:42:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 9:42:42 - INFO --> сообщение отправлено; 'dyusch2@mail.ru'
+2016-03-21 9:42:42 - INFO --> (0.0355 сек.)
+2016-03-21 9:43:17 - INFO --> Отсылка почты...
+2016-03-21 9:43:17 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 9:43:17 - DEBUG --> dysh_bas@mail.ru
+2016-03-21 9:43:17 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 9:43:17 - INFO --> сообщение отправлено; 'dysh_bas@mail.ru'
+2016-03-21 9:43:17 - INFO --> (0.0238 сек.)
+2016-03-21 9:43:41 - INFO --> Отсылка почты...
+2016-03-21 9:43:41 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 9:43:41 - DEBUG --> dush-vadinsk@mail.ru
+2016-03-21 9:43:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 9:43:41 - INFO --> сообщение отправлено; 'dush-vadinsk@mail.ru'
+2016-03-21 9:43:41 - INFO --> (0.0253 сек.)
+2016-03-21 9:44:11 - INFO --> Отсылка почты...
+2016-03-21 9:44:11 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 9:44:11 - DEBUG --> dussh1.kamenka@mail.ru
+2016-03-21 9:44:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 9:44:11 - INFO --> сообщение отправлено; 'dussh1.kamenka@mail.ru'
+2016-03-21 9:44:11 - INFO --> (0.0261 сек.)
+2016-03-21 10:51:30 - INFO --> Отсылка почты...
+2016-03-21 10:51:30 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 10:51:30 - DEBUG --> rkt@msau.rti.ras.ru
+2016-03-21 10:51:30 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 10:51:30 - INFO --> сообщение отправлено; 'rkt@msau.rti.ras.ru'
+2016-03-21 10:51:30 - INFO --> (0.0352 сек.)
+2016-03-21 10:52:41 - INFO --> Отсылка почты...
+2016-03-21 10:52:41 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 10:52:41 - DEBUG --> pryakhin@mirea.ru
+2016-03-21 10:52:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 10:52:41 - INFO --> сообщение отправлено; 'pryakhin@mirea.ru'
+2016-03-21 10:52:41 - INFO --> (0.0247 сек.)
+2016-03-21 10:53:20 - INFO --> Отсылка почты...
+2016-03-21 10:53:20 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 10:53:20 - DEBUG --> rektorat@mma.ru, expedition@mma.ru
+2016-03-21 10:53:20 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 10:53:20 - INFO --> сообщение отправлено; 'rektorat@mma.ru'
+2016-03-21 10:53:20 - INFO --> сообщение отправлено; 'expedition@mma.ru'
+2016-03-21 10:53:20 - INFO --> (0.0656 сек.)
+2016-03-21 11:06:26 - INFO --> Отсылка почты...
+2016-03-21 11:06:26 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-21 11:06:26 - DEBUG --> o.a.gladkova@mail.ru
+2016-03-21 11:06:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-21 11:06:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-21 11:06:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 11:06:26 - INFO --> сообщение отправлено; 'o.a.gladkova@mail.ru'
+2016-03-21 11:06:26 - INFO --> (0.0533 сек.)
+2016-03-21 11:11:30 - INFO --> Отсылка почты...
+2016-03-21 11:11:30 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 11:11:30 - DEBUG --> info@football42.ru
+2016-03-21 11:11:30 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 11:11:30 - INFO --> сообщение отправлено; 'info@football42.ru'
+2016-03-21 11:11:30 - INFO --> (0.0273 сек.)
+2016-03-21 11:27:48 - INFO --> Отсылка почты...
+2016-03-21 11:27:48 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-21 11:27:48 - DEBUG --> moudodsd@rambler.ru
+2016-03-21 11:27:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-21 11:27:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-21 11:27:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 11:27:48 - INFO --> сообщение отправлено; 'moudodsd@rambler.ru'
+2016-03-21 11:27:48 - INFO --> (0.0357 сек.)
+2016-03-21 11:39:21 - INFO --> Отсылка почты...
+2016-03-21 11:39:21 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-21 11:39:21 - DEBUG --> bmr-atlant@yandex.ru
+2016-03-21 11:39:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-21 11:39:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-21 11:39:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 11:39:21 - INFO --> сообщение отправлено; 'bmr-atlant@yandex.ru'
+2016-03-21 11:39:21 - INFO --> (0.0381 сек.)
+2016-03-21 11:44:12 - INFO --> Отсылка почты...
+2016-03-21 11:44:12 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-21 11:44:12 - DEBUG --> prasport@mail.ru
+2016-03-21 11:44:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-21 11:44:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-21 11:44:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 11:44:12 - INFO --> сообщение отправлено; 'prasport@mail.ru'
+2016-03-21 11:44:12 - INFO --> (0.0401 сек.)
+2016-03-21 12:56:01 - INFO --> Отсылка почты...
+2016-03-21 12:56:01 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-21 12:56:01 - DEBUG --> nev-wool@yandex.ru
+2016-03-21 12:56:01 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-21 12:56:01 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-21 12:56:01 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 12:56:01 - INFO --> сообщение отправлено; 'nev-wool@yandex.ru'
+2016-03-21 12:56:01 - INFO --> (0.0384 сек.)
+2016-03-21 13:02:32 - INFO --> Отсылка почты...
+2016-03-21 13:02:32 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-21 13:02:32 - DEBUG --> sportshkola26@mail.ru
+2016-03-21 13:02:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-21 13:02:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-21 13:02:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 13:02:32 - INFO --> сообщение отправлено; 'sportshkola26@mail.ru'
+2016-03-21 13:02:32 - INFO --> (0.0388 сек.)
+2016-03-21 13:09:16 - INFO --> Отсылка почты...
+2016-03-21 13:09:16 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-21 13:09:16 - DEBUG --> sport-stav@mail.ru
+2016-03-21 13:09:16 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-21 13:09:16 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-21 13:09:16 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 13:09:16 - INFO --> сообщение отправлено; 'sport-stav@mail.ru'
+2016-03-21 13:09:16 - INFO --> (0.04 сек.)
+2016-03-21 14:21:38 - INFO --> Отсылка почты...
+2016-03-21 14:21:38 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-21 14:21:38 - DEBUG --> dusshor2pyat@mail.ru
+2016-03-21 14:21:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-21 14:21:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-21 14:21:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 14:21:38 - INFO --> сообщение отправлено; 'dusshor2pyat@mail.ru'
+2016-03-21 14:21:38 - INFO --> (0.0386 сек.)
+2016-03-21 14:46:23 - INFO --> Отсылка почты...
+2016-03-21 14:46:23 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-21 14:46:23 - DEBUG --> RudenkoNG@tomskneft.ru
+2016-03-21 14:46:23 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 14:46:23 - INFO --> сообщение отправлено; 'RudenkoNG@tomskneft.ru'
+2016-03-21 14:46:23 - INFO --> (0.0317 сек.)
+2016-03-21 15:55:43 - INFO --> Отсылка почты...
+2016-03-21 15:55:43 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-21 15:55:43 - DEBUG --> td.patriot@mail.ru
+2016-03-21 15:55:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-21 15:55:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 15:55:43 - INFO --> сообщение отправлено; 'td.patriot@mail.ru'
+2016-03-21 15:55:43 - INFO --> (0.0359 сек.)
+2016-03-21 16:03:24 - INFO --> Отсылка почты...
+2016-03-21 16:03:24 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-21 16:03:24 - DEBUG --> tatami08@mail.ru
+2016-03-21 16:03:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-21 16:03:24 - INFO --> сообщение отправлено; 'tatami08@mail.ru'
+2016-03-21 16:03:24 - INFO --> (0.0189 сек.)
+2016-03-21 16:14:57 - INFO --> Отсылка почты...
+2016-03-21 16:14:57 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-21 16:14:57 - DEBUG --> almaz60@udm.net
+2016-03-21 16:14:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-21 16:14:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-21 16:14:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-21 16:14:57 - INFO --> сообщение отправлено; 'almaz60@udm.net'
+2016-03-21 16:14:57 - INFO --> (0.0363 сек.)

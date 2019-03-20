@@ -1,0 +1,76 @@
+2016-04-21 11:48:35 - INFO --> Отсылка почты...
+2016-04-21 11:48:35 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-21 11:48:35 - DEBUG --> dyussh@list.ru
+2016-04-21 11:48:35 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-21 11:48:35 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-21 11:48:36 - INFO --> сообщение отправлено; 'dyussh@list.ru'
+2016-04-21 11:48:36 - INFO --> (0.0471 сек.)
+2016-04-21 11:54:05 - INFO --> Отсылка почты...
+2016-04-21 11:54:05 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-21 11:54:05 - DEBUG --> slud-dush@mail.ru
+2016-04-21 11:54:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-21 11:54:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-21 11:54:05 - INFO --> сообщение отправлено; 'slud-dush@mail.ru'
+2016-04-21 11:54:05 - INFO --> (0.0334 сек.)
+2016-04-21 12:01:50 - INFO --> Отсылка почты...
+2016-04-21 12:01:50 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-21 12:01:50 - DEBUG --> sport-uda@yandex.ru
+2016-04-21 12:01:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-21 12:01:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-21 12:01:50 - INFO --> сообщение отправлено; 'sport-uda@yandex.ru'
+2016-04-21 12:01:50 - INFO --> (0.0355 сек.)
+2016-04-21 13:51:00 - INFO --> Отсылка почты...
+2016-04-21 13:51:00 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-21 13:51:00 - DEBUG --> dush44ner@yandex.ru
+2016-04-21 13:51:00 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-21 13:51:00 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-21 13:51:00 - INFO --> сообщение отправлено; 'dush44ner@yandex.ru'
+2016-04-21 13:51:00 - INFO --> (0.0353 сек.)
+2016-04-21 13:52:38 - INFO --> Отсылка почты...
+2016-04-21 13:52:38 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-21 13:52:38 - DEBUG --> dush44ner@yandex.ru
+2016-04-21 13:52:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_volleyball_red2 no price.jpg'
+2016-04-21 13:52:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-21 13:52:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-21 13:52:38 - INFO --> сообщение отправлено; 'dush44ner@yandex.ru'
+2016-04-21 13:52:38 - INFO --> (0.078 сек.)
+2016-04-21 14:29:41 - INFO --> Отсылка почты...
+2016-04-21 14:29:41 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-21 14:29:41 - DEBUG --> fokspartak2014@yandex.ru
+2016-04-21 14:29:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-21 14:29:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-21 14:29:41 - INFO --> сообщение отправлено; 'fokspartak2014@yandex.ru'
+2016-04-21 14:29:41 - INFO --> (0.0345 сек.)
+2016-04-21 14:39:58 - INFO --> Отсылка почты...
+2016-04-21 14:39:58 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-21 14:39:58 - DEBUG --> d.makarjev@yandex.ru
+2016-04-21 14:39:58 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-21 14:39:58 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-21 14:39:58 - INFO --> сообщение отправлено; 'd.makarjev@yandex.ru'
+2016-04-21 14:39:58 - INFO --> (0.0396 сек.)
+2016-04-21 14:52:09 - INFO --> Отсылка почты...
+2016-04-21 14:52:09 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-21 14:52:09 - DEBUG --> kultura.parfenievo@yandex.ru
+2016-04-21 14:52:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-21 14:52:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-21 14:52:09 - INFO --> сообщение отправлено; 'kultura.parfenievo@yandex.ru'
+2016-04-21 14:52:09 - INFO --> (0.0356 сек.)
+2016-04-21 15:38:35 - INFO --> Отсылка почты...
+2016-04-21 15:38:35 - INFO --> Тема; 'Экипировка NESCO апрель - май 2016'
+2016-04-21 15:38:35 - DEBUG --> Lip.ODYSAH@mail.ru
+2016-04-21 15:38:35 - INFO --> сообщение отправлено; 'Lip.ODYSAH@mail.ru'
+2016-04-21 15:38:35 - INFO --> (0.0186 сек.)
+2016-04-21 16:21:06 - INFO --> Отсылка почты...
+2016-04-21 16:21:06 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-21 16:21:06 - DEBUG --> skdelfin@gmail.com
+2016-04-21 16:21:06 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-21 16:21:06 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-21 16:21:06 - INFO --> сообщение отправлено; 'skdelfin@gmail.com'
+2016-04-21 16:21:06 - INFO --> (0.0423 сек.)
+2016-04-21 17:12:43 - INFO --> Отсылка почты...
+2016-04-21 17:12:43 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-04-21 17:12:43 - DEBUG --> fokmelody@rambler.ru
+2016-04-21 17:12:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-04-21 17:12:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-04-21 17:12:43 - INFO --> сообщение отправлено; 'fokmelody@rambler.ru'
+2016-04-21 17:12:43 - INFO --> (0.0242 сек.)

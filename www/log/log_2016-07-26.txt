@@ -1,0 +1,668 @@
+2016-07-26 12:45:47 - INFO --> Отсылка почты...
+2016-07-26 12:45:47 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 12:45:47 - DEBUG --> krokodil79@mail.ru,tess.tess2013@yandex.ru,olympic21@yandex.ru
+2016-07-26 12:45:47 - INFO --> сообщение отправлено; 'krokodil79@mail.ru'
+2016-07-26 12:45:48 - INFO --> сообщение отправлено; 'tess.tess2013@yandex.ru'
+2016-07-26 12:45:48 - INFO --> сообщение отправлено; 'olympic21@yandex.ru'
+2016-07-26 12:45:48 - INFO --> (0.0672 сек.)
+2016-07-26 12:47:38 - INFO --> Отсылка почты...
+2016-07-26 12:47:38 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 12:47:38 - DEBUG --> tzakharova@olympic-sport.ru
+2016-07-26 12:47:38 - INFO --> сообщение отправлено; 'tzakharova@olympic-sport.ru'
+2016-07-26 12:47:38 - INFO --> (0.0151 сек.)
+2016-07-26 12:49:37 - INFO --> Отсылка почты...
+2016-07-26 12:49:37 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 12:49:37 - DEBUG --> tzakharova@olympic-sport.ru,tess.tess2013@yandex.ru
+2016-07-26 12:49:37 - INFO --> сообщение отправлено; 'tzakharova@olympic-sport.ru'
+2016-07-26 12:49:37 - INFO --> сообщение отправлено; 'tess.tess2013@yandex.ru'
+2016-07-26 12:49:37 - INFO --> (0.035 сек.)
+2016-07-26 12:51:37 - INFO --> Отсылка почты...
+2016-07-26 12:51:37 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 12:51:37 - DEBUG --> tzakharova@olympic-sport.ru,tess.tess2013@yandex.ru
+2016-07-26 12:51:37 - INFO --> сообщение отправлено; 'tzakharova@olympic-sport.ru'
+2016-07-26 12:51:37 - INFO --> сообщение отправлено; 'tess.tess2013@yandex.ru'
+2016-07-26 12:51:37 - INFO --> (0.0251 сек.)
+2016-07-26 13:58:06 - INFO --> Отсылка почты...
+2016-07-26 13:58:06 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 13:58:06 - DEBUG --> minsport@stavregion.ru
+2016-07-26 13:58:06 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 13:58:06 - INFO --> сообщение отправлено; 'minsport@stavregion.ru'
+2016-07-26 13:58:06 - INFO --> (0.0275 сек.)
+2016-07-26 13:59:10 - INFO --> Отсылка почты...
+2016-07-26 13:59:10 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 13:59:10 - DEBUG --> shvsm-stav@yandex.ru
+2016-07-26 13:59:10 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 13:59:10 - INFO --> сообщение отправлено; 'shvsm-stav@yandex.ru'
+2016-07-26 13:59:10 - INFO --> (0.0354 сек.)
+2016-07-26 13:59:38 - INFO --> Отсылка почты...
+2016-07-26 13:59:38 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 13:59:38 - DEBUG --> o.a.gladkova@mail.ru
+2016-07-26 13:59:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 13:59:38 - INFO --> сообщение отправлено; 'o.a.gladkova@mail.ru'
+2016-07-26 13:59:38 - INFO --> (0.0218 сек.)
+2016-07-26 14:00:08 - INFO --> Отсылка почты...
+2016-07-26 14:00:08 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:00:08 - DEBUG --> sport.sshkola.aleks@mail.ru
+2016-07-26 14:00:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:00:08 - INFO --> сообщение отправлено; 'sport.sshkola.aleks@mail.ru'
+2016-07-26 14:00:08 - INFO --> (0.0247 сек.)
+2016-07-26 14:00:50 - INFO --> Отсылка почты...
+2016-07-26 14:00:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:00:50 - DEBUG --> ritta.k@mail.ru
+2016-07-26 14:00:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:00:50 - INFO --> сообщение отправлено; 'ritta.k@mail.ru'
+2016-07-26 14:00:50 - INFO --> (0.0249 сек.)
+2016-07-26 14:02:55 - INFO --> Отсылка почты...
+2016-07-26 14:02:55 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:02:55 - DEBUG --> moudodsd@rambler.ru
+2016-07-26 14:02:55 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:02:55 - INFO --> сообщение отправлено; 'moudodsd@rambler.ru'
+2016-07-26 14:02:55 - INFO --> (0.0294 сек.)
+2016-07-26 14:03:32 - INFO --> Отсылка почты...
+2016-07-26 14:03:32 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:03:32 - DEBUG --> gdush2008@yandex.ru, vladrat1974@ya.ru
+2016-07-26 14:03:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:03:32 - INFO --> сообщение отправлено; 'gdush2008@yandex.ru'
+2016-07-26 14:03:32 - INFO --> сообщение отправлено; 'vladrat1974@ya.ru'
+2016-07-26 14:03:32 - INFO --> (0.0537 сек.)
+2016-07-26 14:05:38 - INFO --> Отсылка почты...
+2016-07-26 14:05:38 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:05:38 - DEBUG --> ipat_dush00@mail.ru
+2016-07-26 14:05:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:05:38 - INFO --> сообщение отправлено; 'ipat_dush00@mail.ru'
+2016-07-26 14:05:38 - INFO --> (0.0245 сек.)
+2016-07-26 14:06:05 - INFO --> Отсылка почты...
+2016-07-26 14:06:05 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:06:05 - DEBUG --> izob-dussh@mail.ru
+2016-07-26 14:06:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:06:05 - INFO --> сообщение отправлено; 'izob-dussh@mail.ru'
+2016-07-26 14:06:05 - INFO --> (0.0223 сек.)
+2016-07-26 14:06:57 - INFO --> Отсылка почты...
+2016-07-26 14:06:57 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:06:57 - DEBUG --> bal-dush2@mail.ru
+2016-07-26 14:06:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:06:57 - INFO --> сообщение отправлено; 'bal-dush2@mail.ru'
+2016-07-26 14:06:57 - INFO --> (0.0218 сек.)
+2016-07-26 14:07:22 - INFO --> Отсылка почты...
+2016-07-26 14:07:22 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:07:22 - DEBUG --> sportschool_26@mail.ru
+2016-07-26 14:07:22 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:07:22 - INFO --> сообщение отправлено; 'sportschool_26@mail.ru'
+2016-07-26 14:07:22 - INFO --> (0.0217 сек.)
+2016-07-26 14:07:54 - INFO --> Отсылка почты...
+2016-07-26 14:07:54 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:07:54 - DEBUG --> startsport2011@mail.ru
+2016-07-26 14:07:54 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:07:54 - INFO --> сообщение отправлено; 'startsport2011@mail.ru'
+2016-07-26 14:07:54 - INFO --> (0.0247 сек.)
+2016-07-26 14:08:45 - INFO --> Отсылка почты...
+2016-07-26 14:08:45 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:08:45 - DEBUG --> levokumskoedush@mail.ru
+2016-07-26 14:08:45 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:08:45 - INFO --> сообщение отправлено; 'levokumskoedush@mail.ru'
+2016-07-26 14:08:45 - INFO --> (0.028 сек.)
+2016-07-26 14:09:27 - INFO --> Отсылка почты...
+2016-07-26 14:09:27 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:09:27 - DEBUG --> mkoudod.dyussh@mail.ru
+2016-07-26 14:09:27 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:09:27 - INFO --> сообщение отправлено; 'mkoudod.dyussh@mail.ru'
+2016-07-26 14:09:27 - INFO --> (0.0253 сек.)
+2016-07-26 14:12:51 - INFO --> Отсылка почты...
+2016-07-26 14:12:51 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:12:51 - DEBUG --> viktor.erkin@yandex.ru
+2016-07-26 14:12:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:12:51 - INFO --> сообщение отправлено; 'viktor.erkin@yandex.ru'
+2016-07-26 14:12:51 - INFO --> (0.0215 сек.)
+2016-07-26 14:13:24 - INFO --> Отсылка почты...
+2016-07-26 14:13:24 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:13:24 - DEBUG --> osnova5@rambler.ru, sport-apmr@mail.ru
+2016-07-26 14:13:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:13:24 - INFO --> сообщение отправлено; 'osnova5@rambler.ru'
+2016-07-26 14:13:24 - INFO --> сообщение отправлено; 'sport-apmr@mail.ru'
+2016-07-26 14:13:24 - INFO --> (0.0676 сек.)
+2016-07-26 14:15:04 - INFO --> Отсылка почты...
+2016-07-26 14:15:04 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:15:04 - DEBUG --> mbyckosmrsk@yandex.ru
+2016-07-26 14:15:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:15:04 - INFO --> сообщение отправлено; 'mbyckosmrsk@yandex.ru'
+2016-07-26 14:15:04 - INFO --> (0.0311 сек.)
+2016-07-26 14:15:35 - INFO --> Отсылка почты...
+2016-07-26 14:15:35 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:15:35 - DEBUG --> sport-roma2012@yandex.ru
+2016-07-26 14:15:35 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:15:35 - INFO --> сообщение отправлено; 'sport-roma2012@yandex.ru'
+2016-07-26 14:15:35 - INFO --> (0.0246 сек.)
+2016-07-26 14:19:10 - INFO --> Отсылка почты...
+2016-07-26 14:19:10 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:19:10 - DEBUG --> shpak_sport@mail.ru
+2016-07-26 14:19:10 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:19:10 - INFO --> сообщение отправлено; 'shpak_sport@mail.ru'
+2016-07-26 14:19:10 - INFO --> (0.0291 сек.)
+2016-07-26 14:22:33 - INFO --> Отсылка почты...
+2016-07-26 14:22:33 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:22:33 - DEBUG --> dsjelez@yandex.ru
+2016-07-26 14:22:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:22:33 - INFO --> сообщение отправлено; 'dsjelez@yandex.ru'
+2016-07-26 14:22:33 - INFO --> (0.0221 сек.)
+2016-07-26 14:34:05 - INFO --> Отсылка почты...
+2016-07-26 14:34:05 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:34:05 - DEBUG --> sportstart1@gmail.com, sport1@uokk.ru
+2016-07-26 14:34:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:34:05 - INFO --> сообщение отправлено; 'sportstart1@gmail.com'
+2016-07-26 14:34:05 - INFO --> сообщение отправлено; 'sport1@uokk.ru'
+2016-07-26 14:34:05 - INFO --> (0.0507 сек.)
+2016-07-26 14:45:43 - INFO --> Отсылка почты...
+2016-07-26 14:45:43 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:45:43 - DEBUG --> trudovec@mail.ru
+2016-07-26 14:45:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:45:43 - INFO --> сообщение отправлено; 'trudovec@mail.ru'
+2016-07-26 14:45:43 - INFO --> (0.0291 сек.)
+2016-07-26 14:47:49 - INFO --> Отсылка почты...
+2016-07-26 14:47:49 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:47:49 - DEBUG --> nev-wool@yandex.ru
+2016-07-26 14:47:49 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:47:49 - INFO --> сообщение отправлено; 'nev-wool@yandex.ru'
+2016-07-26 14:47:49 - INFO --> (0.0222 сек.)
+2016-07-26 14:49:53 - INFO --> Отсылка почты...
+2016-07-26 14:49:53 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:49:53 - DEBUG --> school.ivs2012@yandex.ru
+2016-07-26 14:49:53 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:49:53 - INFO --> сообщение отправлено; 'school.ivs2012@yandex.ru'
+2016-07-26 14:49:53 - INFO --> (0.0287 сек.)
+2016-07-26 14:52:18 - INFO --> Отсылка почты...
+2016-07-26 14:52:18 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:52:18 - DEBUG --> sport_school-1@mail.ru
+2016-07-26 14:52:18 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:52:18 - INFO --> сообщение отправлено; 'sport_school-1@mail.ru'
+2016-07-26 14:52:18 - INFO --> (0.0261 сек.)
+2016-07-26 14:56:45 - INFO --> Отсылка почты...
+2016-07-26 14:56:45 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:56:45 - DEBUG --> DUSSHOR1@yandex.ru
+2016-07-26 14:56:45 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:56:46 - INFO --> сообщение отправлено; 'DUSSHOR1@yandex.ru'
+2016-07-26 14:56:46 - INFO --> (0.0222 сек.)
+2016-07-26 14:58:07 - INFO --> Отсылка почты...
+2016-07-26 14:58:07 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:58:07 - DEBUG --> rono-cb@mail.ru
+2016-07-26 14:58:07 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:58:07 - INFO --> сообщение отправлено; 'rono-cb@mail.ru'
+2016-07-26 14:58:07 - INFO --> (0.0318 сек.)
+2016-07-26 14:58:36 - INFO --> Отсылка почты...
+2016-07-26 14:58:36 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:58:36 - DEBUG --> duswgmr@mail.ru
+2016-07-26 14:58:36 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:58:36 - INFO --> сообщение отправлено; 'duswgmr@mail.ru'
+2016-07-26 14:58:36 - INFO --> (0.0221 сек.)
+2016-07-26 14:58:57 - INFO --> Отсылка почты...
+2016-07-26 14:58:57 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 14:58:57 - DEBUG --> kr_dush_2@mail.ru
+2016-07-26 14:58:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 14:58:57 - INFO --> сообщение отправлено; 'kr_dush_2@mail.ru'
+2016-07-26 14:58:57 - INFO --> (0.0217 сек.)
+2016-07-26 15:00:41 - INFO --> Отсылка почты...
+2016-07-26 15:00:41 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:00:41 - DEBUG --> steproo@yandex.ru
+2016-07-26 15:00:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:00:41 - INFO --> сообщение отправлено; 'steproo@yandex.ru'
+2016-07-26 15:00:41 - INFO --> (0.0224 сек.)
+2016-07-26 15:01:10 - INFO --> Отсылка почты...
+2016-07-26 15:01:10 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:01:10 - DEBUG --> letnyayastawka.dyussh@yandex.ru
+2016-07-26 15:01:10 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:01:10 - INFO --> сообщение отправлено; 'letnyayastawka.dyussh@yandex.ru'
+2016-07-26 15:01:10 - INFO --> (0.0281 сек.)
+2016-07-26 15:01:40 - INFO --> Отсылка почты...
+2016-07-26 15:01:40 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:01:40 - DEBUG --> ofksmpaamr2010@yandex.ru
+2016-07-26 15:01:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:01:40 - INFO --> сообщение отправлено; 'ofksmpaamr2010@yandex.ru'
+2016-07-26 15:01:40 - INFO --> (0.0388 сек.)
+2016-07-26 15:02:09 - INFO --> Отсылка почты...
+2016-07-26 15:02:09 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:02:09 - DEBUG --> Ivanbrod71@mail.ru
+2016-07-26 15:02:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:02:09 - INFO --> сообщение отправлено; 'Ivanbrod71@mail.ru'
+2016-07-26 15:02:09 - INFO --> (0.0215 сек.)
+2016-07-26 15:02:37 - INFO --> Отсылка почты...
+2016-07-26 15:02:37 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:02:37 - DEBUG --> osrarzgir@yandex.ru, admArzMO@mail.ru
+2016-07-26 15:02:37 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:02:37 - INFO --> сообщение отправлено; 'osrarzgir@yandex.ru'
+2016-07-26 15:02:37 - INFO --> сообщение отправлено; 'admArzMO@mail.ru'
+2016-07-26 15:02:37 - INFO --> (0.0693 сек.)
+2016-07-26 15:03:02 - INFO --> Отсылка почты...
+2016-07-26 15:03:02 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:03:02 - DEBUG --> mishenkovictoria@yandex.ru, abmr@blag.stv.ru
+2016-07-26 15:03:02 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:03:02 - INFO --> сообщение отправлено; 'mishenkovictoria@yandex.ru'
+2016-07-26 15:03:02 - INFO --> сообщение отправлено; 'abmr@blag.stv.ru'
+2016-07-26 15:03:02 - INFO --> (0.0585 сек.)
+2016-07-26 15:06:05 - INFO --> Отсылка почты...
+2016-07-26 15:06:05 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:06:05 - DEBUG --> sport-kom-budennovsk@yandex.ru, bud.mun.adm@rambler.ru
+2016-07-26 15:06:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:06:05 - INFO --> сообщение отправлено; 'sport-kom-budennovsk@yandex.ru'
+2016-07-26 15:06:05 - INFO --> сообщение отправлено; 'bud.mun.adm@rambler.ru'
+2016-07-26 15:06:05 - INFO --> (0.0557 сек.)
+2016-07-26 15:06:29 - INFO --> Отсылка почты...
+2016-07-26 15:06:29 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:06:29 - DEBUG --> su-bragin@mail.ru
+2016-07-26 15:06:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:06:29 - INFO --> сообщение отправлено; 'su-bragin@mail.ru'
+2016-07-26 15:06:29 - INFO --> (0.0212 сек.)
+2016-07-26 15:08:11 - INFO --> Отсылка почты...
+2016-07-26 15:08:11 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:08:11 - DEBUG --> sportcom14@mail.ru
+2016-07-26 15:08:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:08:12 - INFO --> сообщение отправлено; 'sportcom14@mail.ru'
+2016-07-26 15:08:12 - INFO --> (0.0417 сек.)
+2016-07-26 15:08:52 - INFO --> Отсылка почты...
+2016-07-26 15:08:52 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:08:52 - DEBUG --> anmrsk@bk.ru, sportklubyunost@bk.ru
+2016-07-26 15:08:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:08:52 - INFO --> сообщение отправлено; 'anmrsk@bk.ru'
+2016-07-26 15:08:52 - INFO --> сообщение отправлено; 'sportklubyunost@bk.ru'
+2016-07-26 15:08:52 - INFO --> (0.0417 сек.)
+2016-07-26 15:09:27 - INFO --> Отсылка почты...
+2016-07-26 15:09:27 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:09:27 - DEBUG --> petr.adm@mail.ru
+2016-07-26 15:09:27 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:09:27 - INFO --> сообщение отправлено; 'petr.adm@mail.ru'
+2016-07-26 15:09:27 - INFO --> (0.0404 сек.)
+2016-07-26 15:09:55 - INFO --> Отсылка почты...
+2016-07-26 15:09:55 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:09:55 - DEBUG --> apmr2006@yandex.ru, predgor-molodej@rambler.ru
+2016-07-26 15:09:55 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:09:55 - INFO --> сообщение отправлено; 'apmr2006@yandex.ru'
+2016-07-26 15:09:55 - INFO --> сообщение отправлено; 'predgor-molodej@rambler.ru'
+2016-07-26 15:09:55 - INFO --> (0.0498 сек.)
+2016-07-26 15:10:24 - INFO --> Отсылка почты...
+2016-07-26 15:10:24 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:10:24 - DEBUG --> adm.stepnoe26@yandex.ru
+2016-07-26 15:10:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:10:24 - INFO --> сообщение отправлено; 'adm.stepnoe26@yandex.ru'
+2016-07-26 15:10:24 - INFO --> (0.0219 сек.)
+2016-07-26 15:12:31 - INFO --> Отсылка почты...
+2016-07-26 15:12:31 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:12:31 - DEBUG --> fk-sport@yandex.ru
+2016-07-26 15:12:31 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:12:31 - INFO --> сообщение отправлено; 'fk-sport@yandex.ru'
+2016-07-26 15:12:31 - INFO --> (0.0211 сек.)
+2016-07-26 15:12:53 - INFO --> Отсылка почты...
+2016-07-26 15:12:53 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:12:53 - DEBUG --> adm_geo@mail.ru, kfkmpgeo@mail.ru
+2016-07-26 15:12:53 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:12:53 - INFO --> сообщение отправлено; 'adm_geo@mail.ru'
+2016-07-26 15:12:53 - INFO --> сообщение отправлено; 'kfkmpgeo@mail.ru'
+2016-07-26 15:12:53 - INFO --> (0.0403 сек.)
+2016-07-26 15:24:57 - INFO --> Отсылка почты...
+2016-07-26 15:24:57 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:24:57 - DEBUG --> sport-ess@yandex.ru
+2016-07-26 15:24:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:24:57 - INFO --> сообщение отправлено; 'sport-ess@yandex.ru'
+2016-07-26 15:24:57 - INFO --> (0.0287 сек.)
+2016-07-26 15:27:07 - INFO --> Отсылка почты...
+2016-07-26 15:27:07 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:27:07 - DEBUG --> sportzheleznovodsk@mail.ru
+2016-07-26 15:27:07 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:27:07 - INFO --> сообщение отправлено; 'sportzheleznovodsk@mail.ru'
+2016-07-26 15:27:07 - INFO --> (0.0216 сек.)
+2016-07-26 15:27:33 - INFO --> Отсылка почты...
+2016-07-26 15:27:33 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:27:33 - DEBUG --> glava1@bk.ru
+2016-07-26 15:27:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:27:33 - INFO --> сообщение отправлено; 'glava1@bk.ru'
+2016-07-26 15:27:33 - INFO --> (0.022 сек.)
+2016-07-26 15:28:03 - INFO --> Отсылка почты...
+2016-07-26 15:28:03 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:28:03 - DEBUG --> kdm_lermontov@mail.ru
+2016-07-26 15:28:03 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:28:03 - INFO --> сообщение отправлено; 'kdm_lermontov@mail.ru'
+2016-07-26 15:28:03 - INFO --> (0.0269 сек.)
+2016-07-26 15:28:32 - INFO --> Отсылка почты...
+2016-07-26 15:28:32 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:28:32 - DEBUG --> kommol@nevadm.ru, kdm-nev@yandex.ru
+2016-07-26 15:28:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:28:32 - INFO --> сообщение отправлено; 'kommol@nevadm.ru'
+2016-07-26 15:28:32 - INFO --> сообщение отправлено; 'kdm-nev@yandex.ru'
+2016-07-26 15:28:32 - INFO --> (0.052 сек.)
+2016-07-26 15:29:03 - INFO --> Отсылка почты...
+2016-07-26 15:29:03 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:29:03 - DEBUG --> comitetfc@rambler.ru
+2016-07-26 15:29:03 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:29:03 - INFO --> сообщение отправлено; 'comitetfc@rambler.ru'
+2016-07-26 15:29:03 - INFO --> (0.0237 сек.)
+2016-07-26 15:39:35 - INFO --> Отсылка почты...
+2016-07-26 15:39:35 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:39:35 - DEBUG --> suor26@yandex.ru
+2016-07-26 15:39:35 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:39:35 - INFO --> сообщение отправлено; 'suor26@yandex.ru'
+2016-07-26 15:39:35 - INFO --> (0.0293 сек.)
+2016-07-26 15:42:07 - INFO --> Отсылка почты...
+2016-07-26 15:42:07 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:42:07 - DEBUG --> astrsport@rambler.ru
+2016-07-26 15:42:07 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:42:07 - INFO --> сообщение отправлено; 'astrsport@rambler.ru'
+2016-07-26 15:42:07 - INFO --> (0.0411 сек.)
+2016-07-26 15:42:42 - INFO --> Отсылка почты...
+2016-07-26 15:42:42 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:42:42 - DEBUG --> odush.astra@mail.ru
+2016-07-26 15:42:42 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:42:42 - INFO --> сообщение отправлено; 'odush.astra@mail.ru'
+2016-07-26 15:42:42 - INFO --> (0.0241 сек.)
+2016-07-26 15:43:08 - INFO --> Отсылка почты...
+2016-07-26 15:43:08 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:43:08 - DEBUG --> dyusshznam@mail.ru
+2016-07-26 15:43:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:43:08 - INFO --> сообщение отправлено; 'dyusshznam@mail.ru'
+2016-07-26 15:43:08 - INFO --> (0.0244 сек.)
+2016-07-26 15:43:54 - INFO --> Отсылка почты...
+2016-07-26 15:43:54 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:43:54 - DEBUG --> kryar_dusch@mail.ru
+2016-07-26 15:43:54 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:43:54 - INFO --> сообщение отправлено; 'kryar_dusch@mail.ru'
+2016-07-26 15:43:54 - INFO --> (0.0251 сек.)
+2016-07-26 15:44:50 - INFO --> Отсылка почты...
+2016-07-26 15:44:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:44:50 - DEBUG --> en_sport_dush@mail.ru
+2016-07-26 15:44:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:44:50 - INFO --> сообщение отправлено; 'en_sport_dush@mail.ru'
+2016-07-26 15:44:50 - INFO --> (0.0278 сек.)
+2016-07-26 15:48:15 - INFO --> Отсылка почты...
+2016-07-26 15:48:15 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:48:15 - DEBUG --> adm.mo.ahtubinsk@mail.ru
+2016-07-26 15:48:15 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:48:15 - INFO --> сообщение отправлено; 'adm.mo.ahtubinsk@mail.ru'
+2016-07-26 15:48:15 - INFO --> (0.0291 сек.)
+2016-07-26 15:48:40 - INFO --> Отсылка почты...
+2016-07-26 15:48:40 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:48:40 - DEBUG --> vol.sport.4@mail.ru
+2016-07-26 15:48:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:48:40 - INFO --> сообщение отправлено; 'vol.sport.4@mail.ru'
+2016-07-26 15:48:40 - INFO --> (0.0385 сек.)
+2016-07-26 15:49:05 - INFO --> Отсылка почты...
+2016-07-26 15:49:05 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:49:05 - DEBUG --> en.sport@mail.ru
+2016-07-26 15:49:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:49:05 - INFO --> сообщение отправлено; 'en.sport@mail.ru'
+2016-07-26 15:49:05 - INFO --> (0.0309 сек.)
+2016-07-26 15:49:45 - INFO --> Отсылка почты...
+2016-07-26 15:49:45 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:49:45 - DEBUG --> sport.znam@mail.ru
+2016-07-26 15:49:45 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:49:45 - INFO --> сообщение отправлено; 'sport.znam@mail.ru'
+2016-07-26 15:49:45 - INFO --> (0.0205 сек.)
+2016-07-26 15:52:19 - INFO --> Отсылка почты...
+2016-07-26 15:52:19 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:52:19 - DEBUG --> sport@krasniyar.ru, adm@krasniyar.ru
+2016-07-26 15:52:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:52:19 - INFO --> сообщение отправлено; 'sport@krasniyar.ru'
+2016-07-26 15:52:19 - INFO --> сообщение отправлено; 'adm@krasniyar.ru'
+2016-07-26 15:52:19 - INFO --> (0.0431 сек.)
+2016-07-26 15:53:04 - INFO --> Отсылка почты...
+2016-07-26 15:53:04 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:53:04 - DEBUG --> anarimanow@mail.ru
+2016-07-26 15:53:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:53:04 - INFO --> сообщение отправлено; 'anarimanow@mail.ru'
+2016-07-26 15:53:04 - INFO --> (0.022 сек.)
+2016-07-26 15:55:05 - INFO --> Отсылка почты...
+2016-07-26 15:55:05 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:55:05 - DEBUG --> info@beluo31.ru
+2016-07-26 15:55:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:55:05 - INFO --> сообщение отправлено; 'info@beluo31.ru'
+2016-07-26 15:55:05 - INFO --> (0.0216 сек.)
+2016-07-26 15:55:35 - INFO --> Отсылка почты...
+2016-07-26 15:55:35 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:55:35 - DEBUG --> v.alimaskin@mail.ru
+2016-07-26 15:55:35 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:55:35 - INFO --> сообщение отправлено; 'v.alimaskin@mail.ru'
+2016-07-26 15:55:35 - INFO --> (0.0217 сек.)
+2016-07-26 15:56:04 - INFO --> Отсылка почты...
+2016-07-26 15:56:04 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:56:04 - DEBUG --> vej_sport@mail.ru
+2016-07-26 15:56:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:56:04 - INFO --> сообщение отправлено; 'vej_sport@mail.ru'
+2016-07-26 15:56:04 - INFO --> (0.0302 сек.)
+2016-07-26 15:56:41 - INFO --> Отсылка почты...
+2016-07-26 15:56:41 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:56:41 - DEBUG --> graiv_dussh@mail.ru
+2016-07-26 15:56:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:56:41 - INFO --> сообщение отправлено; 'graiv_dussh@mail.ru'
+2016-07-26 15:56:41 - INFO --> (0.0708 сек.)
+2016-07-26 15:57:05 - INFO --> Отсылка почты...
+2016-07-26 15:57:05 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:57:05 - DEBUG --> ufkis2013@mail.ru
+2016-07-26 15:57:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:57:05 - INFO --> сообщение отправлено; 'ufkis2013@mail.ru'
+2016-07-26 15:57:05 - INFO --> (0.0224 сек.)
+2016-07-26 15:57:33 - INFO --> Отсылка почты...
+2016-07-26 15:57:33 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:57:33 - DEBUG --> dyussh.v2@mail.ru
+2016-07-26 15:57:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:57:33 - INFO --> сообщение отправлено; 'dyussh.v2@mail.ru'
+2016-07-26 15:57:33 - INFO --> (0.0222 сек.)
+2016-07-26 15:58:06 - INFO --> Отсылка почты...
+2016-07-26 15:58:06 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:58:06 - DEBUG --> oskol.molodost@mail.ru
+2016-07-26 15:58:06 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:58:07 - INFO --> сообщение отправлено; 'oskol.molodost@mail.ru'
+2016-07-26 15:58:07 - INFO --> (0.0328 сек.)
+2016-07-26 15:58:34 - INFO --> Отсылка почты...
+2016-07-26 15:58:34 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 15:58:34 - DEBUG --> sportivnaya85@mail.ru
+2016-07-26 15:58:34 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 15:58:34 - INFO --> сообщение отправлено; 'sportivnaya85@mail.ru'
+2016-07-26 15:58:34 - INFO --> (0.0384 сек.)
+2016-07-26 16:03:10 - INFO --> Отсылка почты...
+2016-07-26 16:03:10 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:03:10 - DEBUG --> ivndusch@mail.ru
+2016-07-26 16:03:10 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:03:10 - INFO --> сообщение отправлено; 'ivndusch@mail.ru'
+2016-07-26 16:03:10 - INFO --> (0.0237 сек.)
+2016-07-26 16:05:04 - INFO --> Отсылка почты...
+2016-07-26 16:05:04 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:05:04 - DEBUG --> sportskola@bk.ru
+2016-07-26 16:05:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:05:04 - INFO --> сообщение отправлено; 'sportskola@bk.ru'
+2016-07-26 16:05:04 - INFO --> (0.0265 сек.)
+2016-07-26 16:05:29 - INFO --> Отсылка почты...
+2016-07-26 16:05:29 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:05:29 - DEBUG --> dyussh-biryuch@mail.ru
+2016-07-26 16:05:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:05:29 - INFO --> сообщение отправлено; 'dyussh-biryuch@mail.ru'
+2016-07-26 16:05:29 - INFO --> (0.0227 сек.)
+2016-07-26 16:05:54 - INFO --> Отсылка почты...
+2016-07-26 16:05:54 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:05:54 - DEBUG --> nsksportshkola@mail.ru
+2016-07-26 16:05:54 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:05:54 - INFO --> сообщение отправлено; 'nsksportshkola@mail.ru'
+2016-07-26 16:05:54 - INFO --> (0.0293 сек.)
+2016-07-26 16:06:20 - INFO --> Отсылка почты...
+2016-07-26 16:06:20 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:06:20 - DEBUG --> sportskola@yandex.ru
+2016-07-26 16:06:20 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:06:20 - INFO --> сообщение отправлено; 'sportskola@yandex.ru'
+2016-07-26 16:06:20 - INFO --> (0.0391 сек.)
+2016-07-26 16:14:51 - INFO --> Отсылка почты...
+2016-07-26 16:14:51 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:14:51 - DEBUG --> s.schckola@yandex.ru
+2016-07-26 16:14:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:14:51 - INFO --> сообщение отправлено; 's.schckola@yandex.ru'
+2016-07-26 16:14:51 - INFO --> (0.0245 сек.)
+2016-07-26 16:16:48 - INFO --> Отсылка почты...
+2016-07-26 16:16:48 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:16:48 - DEBUG --> ofsalex@yandex.ru
+2016-07-26 16:16:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:16:48 - INFO --> сообщение отправлено; 'ofsalex@yandex.ru'
+2016-07-26 16:16:48 - INFO --> (0.0242 сек.)
+2016-07-26 16:18:28 - INFO --> Отсылка почты...
+2016-07-26 16:18:28 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:18:28 - DEBUG --> klintsi@mail.ru
+2016-07-26 16:18:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:18:28 - INFO --> сообщение отправлено; 'klintsi@mail.ru'
+2016-07-26 16:18:28 - INFO --> (0.0396 сек.)
+2016-07-26 16:18:50 - INFO --> Отсылка почты...
+2016-07-26 16:18:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:18:50 - DEBUG --> radmdtk@mail.ru
+2016-07-26 16:18:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:18:50 - INFO --> сообщение отправлено; 'radmdtk@mail.ru'
+2016-07-26 16:18:50 - INFO --> (0.058 сек.)
+2016-07-26 16:19:19 - INFO --> Отсылка почты...
+2016-07-26 16:19:19 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:19:19 - DEBUG --> socmol@rambler.ru, ketama@mail.ru
+2016-07-26 16:19:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:19:19 - INFO --> сообщение отправлено; 'socmol@rambler.ru'
+2016-07-26 16:19:19 - INFO --> сообщение отправлено; 'ketama@mail.ru'
+2016-07-26 16:19:19 - INFO --> (0.0417 сек.)
+2016-07-26 16:19:33 - INFO --> Отсылка почты...
+2016-07-26 16:19:33 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:19:33 - DEBUG --> socmol@rambler.ru, ketama@mail.ru
+2016-07-26 16:19:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:19:33 - INFO --> сообщение отправлено; 'socmol@rambler.ru'
+2016-07-26 16:19:33 - INFO --> сообщение отправлено; 'ketama@mail.ru'
+2016-07-26 16:19:33 - INFO --> (0.0434 сек.)
+2016-07-26 16:20:22 - INFO --> Отсылка почты...
+2016-07-26 16:20:22 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:20:22 - DEBUG --> sporttorpedo@mail.ru
+2016-07-26 16:20:22 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:20:22 - INFO --> сообщение отправлено; 'sporttorpedo@mail.ru'
+2016-07-26 16:20:22 - INFO --> (0.0215 сек.)
+2016-07-26 16:20:47 - INFO --> Отсылка почты...
+2016-07-26 16:20:47 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:20:47 - DEBUG --> bryansk-olimp@yandex.ru
+2016-07-26 16:20:47 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:20:47 - INFO --> сообщение отправлено; 'bryansk-olimp@yandex.ru'
+2016-07-26 16:20:47 - INFO --> (0.0217 сек.)
+2016-07-26 16:21:11 - INFO --> Отсылка почты...
+2016-07-26 16:21:11 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:21:11 - DEBUG --> kubokspartak@yandex.ru
+2016-07-26 16:21:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:21:11 - INFO --> сообщение отправлено; 'kubokspartak@yandex.ru'
+2016-07-26 16:21:11 - INFO --> (0.0216 сек.)
+2016-07-26 16:21:46 - INFO --> Отсылка почты...
+2016-07-26 16:21:46 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:21:46 - DEBUG --> mou_dod_dussh_elektron@mail.ru
+2016-07-26 16:21:46 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:21:46 - INFO --> сообщение отправлено; 'mou_dod_dussh_elektron@mail.ru'
+2016-07-26 16:21:46 - INFO --> (0.0212 сек.)
+2016-07-26 16:22:19 - INFO --> Отсылка почты...
+2016-07-26 16:22:19 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:22:19 - DEBUG --> shkola.dush@yandex.ru
+2016-07-26 16:22:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:22:19 - INFO --> сообщение отправлено; 'shkola.dush@yandex.ru'
+2016-07-26 16:22:19 - INFO --> (0.0291 сек.)
+2016-07-26 16:22:48 - INFO --> Отсылка почты...
+2016-07-26 16:22:48 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:22:48 - DEBUG --> glindush@yandex.ru
+2016-07-26 16:22:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:22:48 - INFO --> сообщение отправлено; 'glindush@yandex.ru'
+2016-07-26 16:22:48 - INFO --> (0.0217 сек.)
+2016-07-26 16:23:32 - INFO --> Отсылка почты...
+2016-07-26 16:23:32 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:23:32 - DEBUG --> dysh168@mail.ru
+2016-07-26 16:23:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:23:32 - INFO --> сообщение отправлено; 'dysh168@mail.ru'
+2016-07-26 16:23:32 - INFO --> (0.0217 сек.)
+2016-07-26 16:24:10 - INFO --> Отсылка почты...
+2016-07-26 16:24:10 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:24:10 - DEBUG --> rognedinosport@rambler.ru
+2016-07-26 16:24:10 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:24:10 - INFO --> сообщение отправлено; 'rognedinosport@rambler.ru'
+2016-07-26 16:24:10 - INFO --> (0.0313 сек.)
+2016-07-26 16:31:28 - INFO --> Отсылка почты...
+2016-07-26 16:31:28 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:31:28 - DEBUG --> klet-2007@yandex.ru
+2016-07-26 16:31:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:31:28 - INFO --> сообщение отправлено; 'klet-2007@yandex.ru'
+2016-07-26 16:31:28 - INFO --> (0.0229 сек.)
+2016-07-26 16:31:52 - INFO --> Отсылка почты...
+2016-07-26 16:31:52 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:31:52 - DEBUG --> uoa-pogar@mail.ru, pogar.sport@mail.ru
+2016-07-26 16:31:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:31:52 - INFO --> сообщение отправлено; 'uoa-pogar@mail.ru'
+2016-07-26 16:31:52 - INFO --> сообщение отправлено; 'pogar.sport@mail.ru'
+2016-07-26 16:31:52 - INFO --> (0.0483 сек.)
+2016-07-26 16:32:22 - INFO --> Отсылка почты...
+2016-07-26 16:32:22 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:32:22 - DEBUG --> dush-zhu@yandex.ru
+2016-07-26 16:32:22 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:32:22 - INFO --> сообщение отправлено; 'dush-zhu@yandex.ru'
+2016-07-26 16:32:22 - INFO --> (0.028 сек.)
+2016-07-26 16:32:45 - INFO --> Отсылка почты...
+2016-07-26 16:32:45 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:32:45 - DEBUG --> andrey.ermachenko.73@mail.ru
+2016-07-26 16:32:45 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:32:45 - INFO --> сообщение отправлено; 'andrey.ermachenko.73@mail.ru'
+2016-07-26 16:32:45 - INFO --> (0.0254 сек.)
+2016-07-26 16:33:09 - INFO --> Отсылка почты...
+2016-07-26 16:33:09 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:33:09 - DEBUG --> dussh.shkyrnogo@yandex.ru
+2016-07-26 16:33:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:33:09 - INFO --> сообщение отправлено; 'dussh.shkyrnogo@yandex.ru'
+2016-07-26 16:33:09 - INFO --> (0.0223 сек.)
+2016-07-26 16:35:31 - INFO --> Отсылка почты...
+2016-07-26 16:35:31 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:35:31 - DEBUG --> navlya.diussh@yandex.ru
+2016-07-26 16:35:31 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:35:31 - INFO --> сообщение отправлено; 'navlya.diussh@yandex.ru'
+2016-07-26 16:35:31 - INFO --> (0.0225 сек.)
+2016-07-26 16:35:53 - INFO --> Отсылка почты...
+2016-07-26 16:35:53 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:35:53 - DEBUG --> karachev_dyussh@mail.ru
+2016-07-26 16:35:53 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:35:53 - INFO --> сообщение отправлено; 'karachev_dyussh@mail.ru'
+2016-07-26 16:35:53 - INFO --> (0.0219 сек.)
+2016-07-26 16:36:27 - INFO --> Отсылка почты...
+2016-07-26 16:36:27 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:36:27 - DEBUG --> Oksana_ivanina@mail.ru
+2016-07-26 16:36:27 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:36:27 - INFO --> сообщение отправлено; 'Oksana_ivanina@mail.ru'
+2016-07-26 16:36:27 - INFO --> (0.0239 сек.)
+2016-07-26 16:50:56 - INFO --> Отсылка почты...
+2016-07-26 16:50:56 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:50:56 - DEBUG --> sport@volganet.ru
+2016-07-26 16:50:56 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:50:56 - INFO --> сообщение отправлено; 'sport@volganet.ru'
+2016-07-26 16:50:56 - INFO --> (0.0216 сек.)
+2016-07-26 16:51:31 - INFO --> Отсылка почты...
+2016-07-26 16:51:31 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:51:31 - DEBUG --> mu_sk_rodina@mail.ru
+2016-07-26 16:51:31 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:51:31 - INFO --> сообщение отправлено; 'mu_sk_rodina@mail.ru'
+2016-07-26 16:51:31 - INFO --> (0.0283 сек.)
+2016-07-26 16:52:13 - INFO --> Отсылка почты...
+2016-07-26 16:52:13 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:52:13 - DEBUG --> s_school7@mail.ru
+2016-07-26 16:52:13 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:52:13 - INFO --> сообщение отправлено; 's_school7@mail.ru'
+2016-07-26 16:52:13 - INFO --> (0.028 сек.)
+2016-07-26 16:52:42 - INFO --> Отсылка почты...
+2016-07-26 16:52:42 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:52:42 - DEBUG --> Olimpic_3@mail.ru
+2016-07-26 16:52:42 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:52:42 - INFO --> сообщение отправлено; 'Olimpic_3@mail.ru'
+2016-07-26 16:52:42 - INFO --> (0.0214 сек.)
+2016-07-26 16:53:10 - INFO --> Отсылка почты...
+2016-07-26 16:53:10 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:53:10 - DEBUG --> mssp_al@mail.ru
+2016-07-26 16:53:10 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:53:10 - INFO --> сообщение отправлено; 'mssp_al@mail.ru'
+2016-07-26 16:53:10 - INFO --> (0.0227 сек.)
+2016-07-26 16:53:32 - INFO --> Отсылка почты...
+2016-07-26 16:53:32 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:53:32 - DEBUG --> gorsport@rambler.ru
+2016-07-26 16:53:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:53:32 - INFO --> сообщение отправлено; 'gorsport@rambler.ru'
+2016-07-26 16:53:32 - INFO --> (0.0215 сек.)
+2016-07-26 16:54:00 - INFO --> Отсылка почты...
+2016-07-26 16:54:00 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 16:54:00 - DEBUG --> n-dush@mail.ru
+2016-07-26 16:54:00 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 16:54:00 - INFO --> сообщение отправлено; 'n-dush@mail.ru'
+2016-07-26 16:54:00 - INFO --> (0.0214 сек.)
+2016-07-26 17:00:33 - INFO --> Отсылка почты...
+2016-07-26 17:00:33 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-07-26 17:00:33 - DEBUG --> dushelani@yandex.ru
+2016-07-26 17:00:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/voleyball_komplex_2016.jpg'
+2016-07-26 17:00:33 - INFO --> сообщение отправлено; 'dushelani@yandex.ru'
+2016-07-26 17:00:33 - INFO --> (0.0313 сек.)

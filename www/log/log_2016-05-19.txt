@@ -1,0 +1,20 @@
+2016-05-19 15:03:55 - INFO --> Отсылка почты...
+2016-05-19 15:03:55 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-19 15:03:55 - DEBUG --> dusshvp@mail.ru
+2016-05-19 15:03:55 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-19 15:03:55 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-19 15:03:55 - INFO --> сообщение отправлено; 'dusshvp@mail.ru'
+2016-05-19 15:03:55 - INFO --> (0.0534 сек.)
+2016-05-19 15:48:43 - INFO --> Отсылка почты...
+2016-05-19 15:48:43 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-19 15:48:43 - DEBUG --> pr-krepost@yandex.ru
+2016-05-19 15:48:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-19 15:48:43 - INFO --> сообщение отправлено; 'pr-krepost@yandex.ru'
+2016-05-19 15:48:43 - INFO --> (0.0218 сек.)
+2016-05-19 16:55:49 - INFO --> Отсылка почты...
+2016-05-19 16:55:49 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-05-19 16:55:49 - DEBUG --> sport_chehov@mail.ru
+2016-05-19 16:55:49 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-05-19 16:55:49 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/rasprodaja_04_05_2016.jpg'
+2016-05-19 16:55:49 - INFO --> сообщение отправлено; 'sport_chehov@mail.ru'
+2016-05-19 16:55:49 - INFO --> (0.0398 сек.)

@@ -1,0 +1,822 @@
+2016-03-16 9:40:50 - INFO --> Отсылка почты...
+2016-03-16 9:40:50 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-16 9:40:50 - DEBUG --> mol38448@yandex.ru
+2016-03-16 9:40:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-16 9:40:50 - INFO --> сообщение отправлено; 'mol38448@yandex.ru'
+2016-03-16 9:40:50 - INFO --> (0.0386 сек.)
+2016-03-16 9:53:17 - INFO --> Отсылка почты...
+2016-03-16 9:53:17 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-16 9:53:17 - DEBUG --> \&quot;sport_shcool@mail.ru  \&quot;
+2016-03-16 9:53:17 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-16 9:53:17 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-16 9:53:17 - INFO --> (0.0002 сек.)
+2016-03-16 9:54:03 - INFO --> Отсылка почты...
+2016-03-16 9:54:03 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-16 9:54:03 - DEBUG --> sport_shcool@mail.ru
+2016-03-16 9:54:03 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-16 9:54:03 - INFO --> сообщение отправлено; 'sport_shcool@mail.ru'
+2016-03-16 9:54:03 - INFO --> (0.0254 сек.)
+2016-03-16 10:50:58 - INFO --> Отсылка почты...
+2016-03-16 10:50:58 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-16 10:50:58 - DEBUG --> duschoolvvv@mail.ru, zabelin_sp@mail.ru
+2016-03-16 10:50:58 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-16 10:50:58 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-16 10:50:58 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-16 10:50:58 - INFO --> сообщение отправлено; 'duschoolvvv@mail.ru'
+2016-03-16 10:50:58 - INFO --> сообщение отправлено; 'zabelin_sp@mail.ru'
+2016-03-16 10:50:58 - INFO --> (0.0815 сек.)
+2016-03-16 11:07:23 - INFO --> Отсылка почты...
+2016-03-16 11:07:23 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-16 11:07:23 - DEBUG --> osnk-sport@yandex.ru
+2016-03-16 11:07:23 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-16 11:07:23 - INFO --> сообщение отправлено; 'osnk-sport@yandex.ru'
+2016-03-16 11:07:23 - INFO --> (0.0227 сек.)
+2016-03-16 11:11:46 - INFO --> Отсылка почты...
+2016-03-16 11:11:46 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:11:46 - DEBUG --> guz.caf@yandex.ru, guz-caf-pisckaev@yandex.ru , fizvospit@hse.ru, ov_buravkova@mail.ru,  fkis1@rambler.ru , mail@sportmsu.ru                                                                 , kaf-f@mai.ru, sportclub@mai.ru, info@madi.ru, sport-mgpu@mail.ru, 1674865@mail.ru, mishakpp@mail.ru, rasul72@list.ru, sport@msmu.ru                                       , ne-maksimov@yandex.ru, fizvos@mail.ru                                                          , fizvospitmirea@mail.ru, Lobanov@linguanet.ru, fizra-msmsu@mail.ru, verbludka@yandex.ru, milehinav@mgppu.ru                     , sattarova@mgsu.ru                           , kfvum@mail.ru, info@mstuca.aero , sport@bmstu.ru       , gl.volkova@stankin.ru, miigaiksport@ya.ru, mgalp.msk@ru.net        , o_sport_mgup@mail.ru, fizra@mgupp.ru, kaf-fiz@yandex.ru, fayasib@yandex.ru, ord@mgutm.ru, Rostevanov.AG@rea.ru , sk@mpgu.edu, info@mipt.ru , edu.admin@phystech.edu, anna030872@mail.ru, stadionenergiya@rambler.ru, avo56@mail.ru, kaf15@mephi.ru, rektorat@mma.ru , rggu.fiz@yandex.ru, fizvospitanie@rggu.ru                                                , usob-rgmu@mail.ru, rasmirbi@gmail.com , kfv-rgsu@yandex.ru    , post@mati.ru     , v.bar57@mail.ru                   , fis@gubkin.ru                                                                                    , rector.06@mail.ru                             , v-stilerxty@mail.ru, sport-atiso@mail.ru, info@vavt.ru, amshuvalov@yandex.ru, info@gka.ru, info@miba.ru , balletacademy-rectorat@yandex.ru     , gaugn@inbox.ru                                   , fiz-kaf@mail.ru                                 , prorector-vr@mgta.ru                                              , info@timacad.ru, info@mghpu.ru, raj-priem@mail.ru, info@raj.ru, info@gitis.net   , mail@gitr.ru       , information@anx.ru    , rpa@rpa-mjust.ru, amvd@mail.ru, varvsn@mil.ru             , varxbz@inbox.ru          , info@mgafk.ru, prorektor-svr@mgafk.ru, info@miba.ru , netadm@miee.ru, eostrovskiy@mail.ru, mailbox@gnesin-academy.ru                        , fizkaf@mguki.ru, holod@msaab.ru, info@mghpu.ru       , demidovaee@mail.ru, VLednev@synergy.ru, feedback@synergy.ru , info@miepl.ru,  info@miemp.ru , info@mosgu.ru, sport@mosgu.ru, sportcentre@mosgu.ru , inbox@pushkin.edu.ru, info@pushkin.institute, EVBurdenyuk@pushkin.institute , a.e.busigin@rucoop.ru   , rector@rusacad.ru, ermakova_ee@rusacad.ru, info@rmat.ru, kfprta@mail.ru, umc@muh.ru, a.tadeev@gmail.com            , priem@urao.edu , info@mefi.ru                    , ata59@mail.ru , pavel-galochkin81@yandex.ru, VRudenko@fa.ru, ou@orun.ru, zkasa@nes.ru             
+2016-03-16 11:11:46 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'guz.caf@yandex.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'guz-caf-pisckaev@yandex.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'fizvospit@hse.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'ov_buravkova@mail.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'fkis1@rambler.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'mail@sportmsu.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'kaf-f@mai.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'sportclub@mai.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'info@madi.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'sport-mgpu@mail.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; '1674865@mail.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'mishakpp@mail.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'rasul72@list.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'sport@msmu.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'ne-maksimov@yandex.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'fizvos@mail.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'fizvospitmirea@mail.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'Lobanov@linguanet.ru'
+2016-03-16 11:11:46 - INFO --> сообщение отправлено; 'fizra-msmsu@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'verbludka@yandex.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'milehinav@mgppu.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'sattarova@mgsu.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'kfvum@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'info@mstuca.aero'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'sport@bmstu.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'gl.volkova@stankin.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'miigaiksport@ya.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'mgalp.msk@ru.net'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'o_sport_mgup@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'fizra@mgupp.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'kaf-fiz@yandex.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'fayasib@yandex.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'ord@mgutm.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'Rostevanov.AG@rea.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'sk@mpgu.edu'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'info@mipt.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'edu.admin@phystech.edu'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'anna030872@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'stadionenergiya@rambler.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'avo56@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'kaf15@mephi.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'rektorat@mma.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'rggu.fiz@yandex.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'fizvospitanie@rggu.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'usob-rgmu@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'rasmirbi@gmail.com'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'kfv-rgsu@yandex.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'post@mati.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'v.bar57@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'fis@gubkin.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'rector.06@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'v-stilerxty@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'sport-atiso@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'info@vavt.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'amshuvalov@yandex.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'info@gka.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'info@miba.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'balletacademy-rectorat@yandex.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'gaugn@inbox.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'fiz-kaf@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'prorector-vr@mgta.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'info@timacad.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'info@mghpu.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'raj-priem@mail.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'info@raj.ru'
+2016-03-16 11:11:47 - INFO --> сообщение отправлено; 'info@gitis.net'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'mail@gitr.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'information@anx.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'rpa@rpa-mjust.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'amvd@mail.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'varvsn@mil.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'varxbz@inbox.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'info@mgafk.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'prorektor-svr@mgafk.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'info@miba.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'netadm@miee.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'eostrovskiy@mail.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'mailbox@gnesin-academy.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'fizkaf@mguki.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'holod@msaab.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'info@mghpu.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'demidovaee@mail.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'VLednev@synergy.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'feedback@synergy.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'info@miepl.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'info@miemp.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'info@mosgu.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'sport@mosgu.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'sportcentre@mosgu.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'inbox@pushkin.edu.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'info@pushkin.institute'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'EVBurdenyuk@pushkin.institute'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'a.e.busigin@rucoop.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'rector@rusacad.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'ermakova_ee@rusacad.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'info@rmat.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'kfprta@mail.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'umc@muh.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'a.tadeev@gmail.com'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'priem@urao.edu'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'info@mefi.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'ata59@mail.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'pavel-galochkin81@yandex.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'VRudenko@fa.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'ou@orun.ru'
+2016-03-16 11:11:48 - INFO --> сообщение отправлено; 'zkasa@nes.ru'
+2016-03-16 11:11:48 - INFO --> (2.2398 сек.)
+2016-03-16 11:12:35 - INFO --> Отсылка почты...
+2016-03-16 11:12:35 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:12:35 - DEBUG --> academydinamo@gmail.com, sdushor44@yandex.ru, mfc-krepost@mail.ru, 6723472@mail.ru,   s57@mossport.ru, mail@kuntsevofootball.ru,  mail@fckait-sport.ru, school@fclm.ru, sc.futbol-mva@yandex.ru,           fc.mva@yandex.ru, mkm2005@mail.ru, megaprofi@list.ru, sch1062@rcsz.ru , moskvich@sport-moskvich.ru, burkenya_ds@sport-moskvich.ru, uso@sport-moskvich.ru, aliferov1968@mail.ru, s80@mossport.ru, info@sportschool101.ru,  sdusshor101@mail.ru, s4@mossport.ru, dush-70@mail.ru, s75@mossport.ru,                     dush-75@mail.ru, s82@mossport.ru, smena-63@mail.ru,  s27@mossport.ru, school@spartak.com, spartak2@ynmoscow.ru, s112@mossport.ru, Fcstroginofootball2013@yandex.ru,  akunenko@gmail.com , info@dush76.ru, s76@mossport.ru,    dush76@mail.ru, sfk.tr@mossport.ru, info@fcrosich.com, fk.fshm@mossport.ru, Evgi_m@mail.ru, smertin-e@bk.ru,  info@footballschoolkhimki.ru, school@pfc-cska.com, s46@mossport.ru, chertanovo-football@yandex.ru,  alex1175-63@mail.ru                              , info@schoolball.ru, info@yundin.ru, pfknika@yandex.ru, yuriy.tarhanov@mail.ru, torpedo@ynmoscow.ru, torpedoschool@yandex.ru, open@mailvg.ru,       director@mailvg.ru
+2016-03-16 11:12:35 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-16 11:12:35 - INFO --> сообщение отправлено; 'academydinamo@gmail.com'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'sdushor44@yandex.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'mfc-krepost@mail.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; '6723472@mail.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 's57@mossport.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'mail@kuntsevofootball.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'mail@fckait-sport.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'school@fclm.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'sc.futbol-mva@yandex.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'fc.mva@yandex.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'mkm2005@mail.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'megaprofi@list.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'sch1062@rcsz.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'moskvich@sport-moskvich.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'burkenya_ds@sport-moskvich.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'uso@sport-moskvich.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'aliferov1968@mail.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 's80@mossport.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'info@sportschool101.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'sdusshor101@mail.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 's4@mossport.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'dush-70@mail.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 's75@mossport.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'dush-75@mail.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 's82@mossport.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'smena-63@mail.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 's27@mossport.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'school@spartak.com'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'spartak2@ynmoscow.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 's112@mossport.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'Fcstroginofootball2013@yandex.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'akunenko@gmail.com'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'info@dush76.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 's76@mossport.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'dush76@mail.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'sfk.tr@mossport.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'info@fcrosich.com'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'fk.fshm@mossport.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'Evgi_m@mail.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'smertin-e@bk.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'info@footballschoolkhimki.ru'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 'school@pfc-cska.com'
+2016-03-16 11:12:36 - INFO --> сообщение отправлено; 's46@mossport.ru'
+2016-03-16 11:12:37 - INFO --> сообщение отправлено; 'chertanovo-football@yandex.ru'
+2016-03-16 11:12:37 - INFO --> сообщение отправлено; 'alex1175-63@mail.ru'
+2016-03-16 11:12:37 - INFO --> сообщение отправлено; 'info@schoolball.ru'
+2016-03-16 11:12:37 - INFO --> сообщение отправлено; 'info@yundin.ru'
+2016-03-16 11:12:37 - INFO --> сообщение отправлено; 'pfknika@yandex.ru'
+2016-03-16 11:12:37 - INFO --> сообщение отправлено; 'yuriy.tarhanov@mail.ru'
+2016-03-16 11:12:37 - INFO --> сообщение отправлено; 'torpedo@ynmoscow.ru'
+2016-03-16 11:12:37 - INFO --> сообщение отправлено; 'torpedoschool@yandex.ru'
+2016-03-16 11:12:37 - INFO --> сообщение отправлено; 'open@mailvg.ru'
+2016-03-16 11:12:37 - INFO --> сообщение отправлено; 'director@mailvg.ru'
+2016-03-16 11:12:37 - INFO --> (1.2342 сек.)
+2016-03-16 11:13:05 - INFO --> Отсылка почты...
+2016-03-16 11:13:05 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-16 11:13:05 - DEBUG --> sk-shahter@yandex.ru
+2016-03-16 11:13:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-16 11:13:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-16 11:13:05 - INFO --> сообщение отправлено; 'sk-shahter@yandex.ru'
+2016-03-16 11:13:05 - INFO --> (0.0312 сек.)
+2016-03-16 11:14:11 - INFO --> Отсылка почты...
+2016-03-16 11:14:11 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:14:11 - DEBUG --> olimp-rez@mail.ru, dussh56@yandex.ru, hoz-73@yandex.ru   , dussh_olimp@rambler.ru, dussh-nadym@mail.ru, sibirskieymedvedi@mail.ru, swimming@migsv.ru, N.Bessonova@ygd.gazprom.ru, A.Kapustin@ygd.gazprom.ru   , kontakt-88@yandex.ru, sport_upr@mail.ru, mfootball-nur@mail.ru, dysshmur@yandex.ru, sdiushor@yandex.ru, sdushormira40a@mail.ru, kuznetsov07@bk.ru, olimpiec91@mail.ru, sdushor.82@yandex.ru, dush_viktoria@mail.ru, dusshpurpe@mail.ru , dsports-hanimei@mail.ru, samdush31061@mail.ru, dush2006@mail.ru, sport-tasu@yandex.ru,  pav.petrow2009@yandex.ru             , selkup-dyssh@mail.ru, dussh_aksarka@mail.ru, okrSMO@rambler.ru, National-sports@mail.ru, CPSM-SPORTYAMAL@YANDEX.RU , SDUASSHOR@rambler.ru, glavbuh3000@yandex.ru
+2016-03-16 11:14:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'olimp-rez@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'dussh56@yandex.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'hoz-73@yandex.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'dussh_olimp@rambler.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'dussh-nadym@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'sibirskieymedvedi@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'swimming@migsv.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'N.Bessonova@ygd.gazprom.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'A.Kapustin@ygd.gazprom.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'kontakt-88@yandex.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'sport_upr@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'mfootball-nur@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'dysshmur@yandex.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'sdiushor@yandex.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'sdushormira40a@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'kuznetsov07@bk.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'olimpiec91@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'sdushor.82@yandex.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'dush_viktoria@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'dusshpurpe@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'dsports-hanimei@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'samdush31061@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'dush2006@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'sport-tasu@yandex.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'pav.petrow2009@yandex.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'selkup-dyssh@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'dussh_aksarka@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'okrSMO@rambler.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'National-sports@mail.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'CPSM-SPORTYAMAL@YANDEX.RU'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'SDUASSHOR@rambler.ru'
+2016-03-16 11:14:11 - INFO --> сообщение отправлено; 'glavbuh3000@yandex.ru'
+2016-03-16 11:14:11 - INFO --> (0.6806 сек.)
+2016-03-16 11:17:12 - INFO --> Отсылка почты...
+2016-03-16 11:17:12 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:17:12 - DEBUG --> Olimp_bug85@mail.ru,  vvolohin@mail.ru              ,  bug-dyussh@yandex.ru , dusch1buzuluk@mail.ru, avi73@bk.ru, moudodsdysshor@yandex.ru, sportshkola1.gai@rambler.ru, maxim_zma@rambler.ru, aisbergoff@mail.ru, dyussh-1@mail.ru, dyussh2novotroick@mail.ru, sport_spartak@mail.ru, yunost-2010@mail.ru, shkola.gorod@list.ru, dussh2progress@mail.ru, alifia-08.06@mail.ru, school-4-ural@yandex.ru, suchowa2013@yandex.ru , sports_school6@mail.ru, dyussh7@mail.ru, sport_school8@mail.ru, nok550@mail.ru, boks.56@yandex.ru, oren-sdu@mail.ru, orenbasket@mail.ru, orensdushor6@yandex.ru, sportschool78@mail.ru, sport_school_1@mail.ru, dyussh.2@mail.ru, dus3@bk.ru, fok_nadejda@mail.ru, sport_yunost_2013@mail.ru , svoboda96@bk.ru, avangard@orsk.ru, dusschor@yandex.ru, sportliderorsk@mail.ru, orskchess@mail.ru, dusch2@dlm.ru, dush-4orsk@mail.ru, sdusshor2003@mail.ru, s.dysch@mail.ru, sport_skola_abdulino@mail.ru, mail@adamroo.info, 56ouo13@obraz-orenburg.ru, akbulak-dusch@rambler.ru, sport_aleks00@mail.ru, dussh-asek@mail.ru, beldush@yandex.ru, sport.br@mail.ru, moudodsdysshor@yandex.ru, sport-gra@mail.ru, mobudod.dyussh@mail.ru , ilek-sport@mail.ru, kvar00@mail.ru, sportDSHA@mail.ru, dush-kuv@yandex.ru, kursport@yandex.ru, 56ouo28@obraz-orenburg.ru, matveevka_dusha@mail.ru, novdushs@yandex.ru , dussh@inbox.ru, sportsh@bk.ru , dyussh.or.r@mail.ru , 83534841386@mail.ru, perevdush@gmail.com, pon_sport1@mail.ru, ouo36@obraz-orenburg.ru, diucshsar@rambler.ru, sv.dyussh@yandex.ru, dussch39@mail.ru, dyussh.1987@mail.ru, dush_sambo85@mail.ru, s.dysch@gmail.com, tashla.dyussh@mail.ru, tozksport@mail.ru, tyulgan-dyusch@mail.ru , DUSSHSharlik@yandex.ru, zatoduch@mail.ru, skasbest@yandex.ru, aax@mail.ru, csp56@mail.ru
+2016-03-16 11:17:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'Olimp_bug85@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'vvolohin@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'bug-dyussh@yandex.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'dusch1buzuluk@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'avi73@bk.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'moudodsdysshor@yandex.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'sportshkola1.gai@rambler.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'maxim_zma@rambler.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'aisbergoff@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'dyussh-1@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'dyussh2novotroick@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'sport_spartak@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'yunost-2010@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'shkola.gorod@list.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'dussh2progress@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'alifia-08.06@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'school-4-ural@yandex.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'suchowa2013@yandex.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'sports_school6@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'dyussh7@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'sport_school8@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'nok550@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'boks.56@yandex.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'oren-sdu@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'orenbasket@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'orensdushor6@yandex.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'sportschool78@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'sport_school_1@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'dyussh.2@mail.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'dus3@bk.ru'
+2016-03-16 11:17:12 - INFO --> сообщение отправлено; 'fok_nadejda@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'sport_yunost_2013@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'svoboda96@bk.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'avangard@orsk.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'dusschor@yandex.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'sportliderorsk@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'orskchess@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'dusch2@dlm.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'dush-4orsk@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'sdusshor2003@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 's.dysch@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'sport_skola_abdulino@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'mail@adamroo.info'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; '56ouo13@obraz-orenburg.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'akbulak-dusch@rambler.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'sport_aleks00@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'dussh-asek@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'beldush@yandex.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'sport.br@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'moudodsdysshor@yandex.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'sport-gra@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'mobudod.dyussh@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'ilek-sport@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'kvar00@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'sportDSHA@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'dush-kuv@yandex.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'kursport@yandex.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; '56ouo28@obraz-orenburg.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'matveevka_dusha@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'novdushs@yandex.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'dussh@inbox.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'sportsh@bk.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'dyussh.or.r@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; '83534841386@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'perevdush@gmail.com'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'pon_sport1@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'ouo36@obraz-orenburg.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'diucshsar@rambler.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'sv.dyussh@yandex.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'dussch39@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'dyussh.1987@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'dush_sambo85@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 's.dysch@gmail.com'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'tashla.dyussh@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'tozksport@mail.ru'
+2016-03-16 11:17:13 - INFO --> сообщение отправлено; 'tyulgan-dyusch@mail.ru'
+2016-03-16 11:17:14 - INFO --> сообщение отправлено; 'DUSSHSharlik@yandex.ru'
+2016-03-16 11:17:14 - INFO --> сообщение отправлено; 'zatoduch@mail.ru'
+2016-03-16 11:17:14 - INFO --> сообщение отправлено; 'skasbest@yandex.ru'
+2016-03-16 11:17:14 - INFO --> сообщение отправлено; 'aax@mail.ru'
+2016-03-16 11:17:14 - INFO --> сообщение отправлено; 'csp56@mail.ru'
+2016-03-16 11:17:14 - INFO --> (1.6984 сек.)
+2016-03-16 11:19:23 - INFO --> Отсылка почты...
+2016-03-16 11:19:23 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:19:23 - DEBUG --> sport_706@mail.ru, penzasport@mail.ru , shvsmpenza@mail.ru, uor_lider@mail.ru, ksdushor_penza@mail.ru, sportschool.zato@mail.ru, sdushorsambo@mail.ru, sh_vityaz@mail.ru, dysh-1-penza@rambler.ru, dush4@bk.ru, sportbeg@rambler.ru, dush8pnz@yandex.ru, dush.zato@yandex.ru, dyusch2@mail.ru, snsaushkin@rambler.ru, narsport@yandex.ru, shkola.sport2011@yandex.ru, dysh_bas@mail.ru, belinsk_oo@edu-penza.ru, dushbr@rambler.ru, dush-vadinsk@mail.ru, issa-sport@yandex.ru, dussh1.kamenka@mail.ru, sshdorognik@mail.ru
+2016-03-16 11:19:23 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'sport_706@mail.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'penzasport@mail.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'shvsmpenza@mail.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'uor_lider@mail.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'ksdushor_penza@mail.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'sportschool.zato@mail.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'sdushorsambo@mail.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'sh_vityaz@mail.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'dysh-1-penza@rambler.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'dush4@bk.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'sportbeg@rambler.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'dush8pnz@yandex.ru'
+2016-03-16 11:19:23 - INFO --> сообщение отправлено; 'dush.zato@yandex.ru'
+2016-03-16 11:19:24 - INFO --> сообщение отправлено; 'dyusch2@mail.ru'
+2016-03-16 11:19:24 - INFO --> сообщение отправлено; 'snsaushkin@rambler.ru'
+2016-03-16 11:19:24 - INFO --> сообщение отправлено; 'narsport@yandex.ru'
+2016-03-16 11:19:24 - INFO --> сообщение отправлено; 'shkola.sport2011@yandex.ru'
+2016-03-16 11:19:24 - INFO --> сообщение отправлено; 'dysh_bas@mail.ru'
+2016-03-16 11:19:24 - INFO --> сообщение отправлено; 'belinsk_oo@edu-penza.ru'
+2016-03-16 11:19:24 - INFO --> сообщение отправлено; 'dushbr@rambler.ru'
+2016-03-16 11:19:24 - INFO --> сообщение отправлено; 'dush-vadinsk@mail.ru'
+2016-03-16 11:19:24 - INFO --> сообщение отправлено; 'issa-sport@yandex.ru'
+2016-03-16 11:19:24 - INFO --> сообщение отправлено; 'dussh1.kamenka@mail.ru'
+2016-03-16 11:19:24 - INFO --> сообщение отправлено; 'sshdorognik@mail.ru'
+2016-03-16 11:19:24 - INFO --> (0.6482 сек.)
+2016-03-16 11:29:28 - INFO --> Отсылка почты...
+2016-03-16 11:29:28 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:29:28 - DEBUG --> olimp.magazin@yandex.ru
+2016-03-16 11:29:28 - INFO --> сообщение отправлено; 'olimp.magazin@yandex.ru'
+2016-03-16 11:29:28 - INFO --> (0.0332 сек.)
+2016-03-16 11:29:52 - INFO --> Отсылка почты...
+2016-03-16 11:29:52 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:29:52 - DEBUG --> sportinstructor@mail.ru
+2016-03-16 11:29:52 - INFO --> сообщение отправлено; 'sportinstructor@mail.ru'
+2016-03-16 11:29:52 - INFO --> (0.0183 сек.)
+2016-03-16 11:30:13 - INFO --> Отсылка почты...
+2016-03-16 11:30:13 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:30:13 - DEBUG --> orientir36@yandex.ru
+2016-03-16 11:30:13 - INFO --> сообщение отправлено; 'orientir36@yandex.ru'
+2016-03-16 11:30:13 - INFO --> (0.0137 сек.)
+2016-03-16 11:30:34 - INFO --> Отсылка почты...
+2016-03-16 11:30:34 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:30:34 - DEBUG --> fbline@inbox.ru
+2016-03-16 11:30:34 - INFO --> сообщение отправлено; 'fbline@inbox.ru'
+2016-03-16 11:30:34 - INFO --> (0.0195 сек.)
+2016-03-16 11:34:51 - INFO --> Отсылка почты...
+2016-03-16 11:34:51 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:34:51 - DEBUG --> vorsport@mail.ru
+2016-03-16 11:34:51 - INFO --> сообщение отправлено; 'vorsport@mail.ru'
+2016-03-16 11:34:51 - INFO --> (0.0141 сек.)
+2016-03-16 11:35:17 - INFO --> Отсылка почты...
+2016-03-16 11:35:17 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:35:17 - DEBUG --> mail@fifauefa.ru, kuhnyaforreal@gmail.com
+2016-03-16 11:35:17 - INFO --> сообщение отправлено; 'mail@fifauefa.ru'
+2016-03-16 11:35:17 - INFO --> сообщение отправлено; 'kuhnyaforreal@gmail.com'
+2016-03-16 11:35:17 - INFO --> (0.0308 сек.)
+2016-03-16 11:35:44 - INFO --> Отсылка почты...
+2016-03-16 11:35:44 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:35:44 - DEBUG --> kp@sportaim.ru, info@sportaim.ru
+2016-03-16 11:35:44 - INFO --> сообщение отправлено; 'kp@sportaim.ru'
+2016-03-16 11:35:44 - INFO --> сообщение отправлено; 'info@sportaim.ru'
+2016-03-16 11:35:44 - INFO --> (0.0261 сек.)
+2016-03-16 11:36:07 - INFO --> Отсылка почты...
+2016-03-16 11:36:07 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:36:07 - DEBUG --> arenasport@vmail.ru
+2016-03-16 11:36:07 - INFO --> сообщение отправлено; 'arenasport@vmail.ru'
+2016-03-16 11:36:07 - INFO --> (0.0178 сек.)
+2016-03-16 11:36:29 - INFO --> Отсылка почты...
+2016-03-16 11:36:29 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:36:29 - DEBUG --> extremevrn@mail.ru
+2016-03-16 11:36:29 - INFO --> сообщение отправлено; 'extremevrn@mail.ru'
+2016-03-16 11:36:29 - INFO --> (0.0133 сек.)
+2016-03-16 11:36:56 - INFO --> Отсылка почты...
+2016-03-16 11:36:56 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:36:56 - DEBUG --> info@aktiv48.ru, info@startlipetsk.ru
+2016-03-16 11:36:56 - INFO --> сообщение отправлено; 'info@aktiv48.ru'
+2016-03-16 11:36:56 - INFO --> сообщение отправлено; 'info@startlipetsk.ru'
+2016-03-16 11:36:56 - INFO --> (0.0225 сек.)
+2016-03-16 11:37:16 - INFO --> Отсылка почты...
+2016-03-16 11:37:16 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:37:16 - DEBUG --> kiko82@yandex.ru
+2016-03-16 11:37:16 - INFO --> сообщение отправлено; 'kiko82@yandex.ru'
+2016-03-16 11:37:16 - INFO --> (0.0153 сек.)
+2016-03-16 11:37:35 - INFO --> Отсылка почты...
+2016-03-16 11:37:35 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:37:35 - DEBUG --> \&quot;sportmir@bk.ru
+2016-03-16 11:37:35 - INFO --> (0.0002 сек.)
+2016-03-16 11:38:24 - INFO --> Отсылка почты...
+2016-03-16 11:38:24 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:38:24 - DEBUG --> sportmir@bk.ru
+2016-03-16 11:38:25 - INFO --> сообщение отправлено; 'sportmir@bk.ru'
+2016-03-16 11:38:25 - INFO --> (0.0164 сек.)
+2016-03-16 11:38:44 - INFO --> Отсылка почты...
+2016-03-16 11:38:44 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:38:44 - DEBUG --> sport-volga@mail.ru
+2016-03-16 11:38:44 - INFO --> сообщение отправлено; 'sport-volga@mail.ru'
+2016-03-16 11:38:44 - INFO --> (0.0133 сек.)
+2016-03-16 11:39:08 - INFO --> Отсылка почты...
+2016-03-16 11:39:08 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:39:08 - DEBUG --> vilchik@mail.ru
+2016-03-16 11:39:08 - INFO --> сообщение отправлено; 'vilchik@mail.ru'
+2016-03-16 11:39:08 - INFO --> (0.028 сек.)
+2016-03-16 11:39:31 - INFO --> Отсылка почты...
+2016-03-16 11:39:31 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:39:31 - DEBUG --> sportvam@yandex.ru
+2016-03-16 11:39:31 - INFO --> сообщение отправлено; 'sportvam@yandex.ru'
+2016-03-16 11:39:31 - INFO --> (0.0148 сек.)
+2016-03-16 11:39:50 - INFO --> Отсылка почты...
+2016-03-16 11:39:50 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:39:50 - DEBUG --> pro-sport37@mail.ru
+2016-03-16 11:39:50 - INFO --> сообщение отправлено; 'pro-sport37@mail.ru'
+2016-03-16 11:39:50 - INFO --> (0.0125 сек.)
+2016-03-16 11:40:14 - INFO --> Отсылка почты...
+2016-03-16 11:40:14 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:40:14 - DEBUG --> rastorgueva@weidersport.ru
+2016-03-16 11:40:14 - INFO --> сообщение отправлено; 'rastorgueva@weidersport.ru'
+2016-03-16 11:40:14 - INFO --> (0.0134 сек.)
+2016-03-16 11:40:44 - INFO --> Отсылка почты...
+2016-03-16 11:40:44 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:40:44 - DEBUG --> sportpro40@gmail.com
+2016-03-16 11:40:44 - INFO --> сообщение отправлено; 'sportpro40@gmail.com'
+2016-03-16 11:40:44 - INFO --> (0.0223 сек.)
+2016-03-16 11:41:02 - INFO --> Отсылка почты...
+2016-03-16 11:41:02 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:41:02 - DEBUG --> intersportshop@mail.ru
+2016-03-16 11:41:02 - INFO --> сообщение отправлено; 'intersportshop@mail.ru'
+2016-03-16 11:41:02 - INFO --> (0.021 сек.)
+2016-03-16 11:41:22 - INFO --> Отсылка почты...
+2016-03-16 11:41:22 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:41:22 - DEBUG --> techsport@mail.ru
+2016-03-16 11:41:22 - INFO --> сообщение отправлено; 'techsport@mail.ru'
+2016-03-16 11:41:22 - INFO --> (0.0166 сек.)
+2016-03-16 11:41:47 - INFO --> Отсылка почты...
+2016-03-16 11:41:47 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:41:47 - DEBUG --> mupsport57@mail.ru
+2016-03-16 11:41:47 - INFO --> сообщение отправлено; 'mupsport57@mail.ru'
+2016-03-16 11:41:47 - INFO --> (0.0174 сек.)
+2016-03-16 11:42:12 - INFO --> Отсылка почты...
+2016-03-16 11:42:12 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:42:12 - DEBUG --> kirsport@kirsport.ru
+2016-03-16 11:42:12 - INFO --> сообщение отправлено; 'kirsport@kirsport.ru'
+2016-03-16 11:42:12 - INFO --> (0.0139 сек.)
+2016-03-16 11:43:37 - INFO --> Отсылка почты...
+2016-03-16 11:43:37 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:43:37 - DEBUG --> info@perfectee-sport.ru
+2016-03-16 11:43:37 - INFO --> сообщение отправлено; 'info@perfectee-sport.ru'
+2016-03-16 11:43:37 - INFO --> (0.0137 сек.)
+2016-03-16 11:44:11 - INFO --> Отсылка почты...
+2016-03-16 11:44:11 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:44:11 - DEBUG --> ruslotto1@yandex.ru
+2016-03-16 11:44:11 - INFO --> сообщение отправлено; 'ruslotto1@yandex.ru'
+2016-03-16 11:44:11 - INFO --> (0.0137 сек.)
+2016-03-16 11:44:32 - INFO --> Отсылка почты...
+2016-03-16 11:44:32 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:44:32 - DEBUG --> mail@forma63.ru
+2016-03-16 11:44:32 - INFO --> сообщение отправлено; 'mail@forma63.ru'
+2016-03-16 11:44:32 - INFO --> (0.0133 сек.)
+2016-03-16 11:44:51 - INFO --> Отсылка почты...
+2016-03-16 11:44:51 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:44:51 - DEBUG --> info@sporthouse63.net
+2016-03-16 11:44:51 - INFO --> сообщение отправлено; 'info@sporthouse63.net'
+2016-03-16 11:44:51 - INFO --> (0.0199 сек.)
+2016-03-16 11:45:07 - INFO --> Отсылка почты...
+2016-03-16 11:45:07 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:45:07 - DEBUG --> lll-sport@mail.ru
+2016-03-16 11:45:07 - INFO --> сообщение отправлено; 'lll-sport@mail.ru'
+2016-03-16 11:45:07 - INFO --> (0.0136 сек.)
+2016-03-16 11:45:31 - INFO --> Отсылка почты...
+2016-03-16 11:45:31 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:45:31 - DEBUG --> totalsport64@bk.ru
+2016-03-16 11:45:31 - INFO --> сообщение отправлено; 'totalsport64@bk.ru'
+2016-03-16 11:45:31 - INFO --> (0.0266 сек.)
+2016-03-16 11:45:49 - INFO --> Отсылка почты...
+2016-03-16 11:45:49 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:45:49 - DEBUG --> shop@fizrasaratov.ru
+2016-03-16 11:45:49 - INFO --> сообщение отправлено; 'shop@fizrasaratov.ru'
+2016-03-16 11:45:49 - INFO --> (0.02 сек.)
+2016-03-16 11:46:07 - INFO --> Отсылка почты...
+2016-03-16 11:46:07 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:46:07 - DEBUG --> info@cruisesports.ru
+2016-03-16 11:46:07 - INFO --> сообщение отправлено; 'info@cruisesports.ru'
+2016-03-16 11:46:07 - INFO --> (0.0147 сек.)
+2016-03-16 11:46:35 - INFO --> Отсылка почты...
+2016-03-16 11:46:35 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:46:35 - DEBUG --> sport-line@mail.ru
+2016-03-16 11:46:35 - INFO --> сообщение отправлено; 'sport-line@mail.ru'
+2016-03-16 11:46:35 - INFO --> (0.0184 сек.)
+2016-03-16 11:47:00 - INFO --> Отсылка почты...
+2016-03-16 11:47:00 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:47:00 - DEBUG --> ridsport@mail.ru
+2016-03-16 11:47:00 - INFO --> сообщение отправлено; 'ridsport@mail.ru'
+2016-03-16 11:47:00 - INFO --> (0.014 сек.)
+2016-03-16 11:47:23 - INFO --> Отсылка почты...
+2016-03-16 11:47:23 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:47:23 - DEBUG --> freesport@mail.ru
+2016-03-16 11:47:23 - INFO --> сообщение отправлено; 'freesport@mail.ru'
+2016-03-16 11:47:23 - INFO --> (0.0133 сек.)
+2016-03-16 11:47:45 - INFO --> Отсылка почты...
+2016-03-16 11:47:45 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:47:45 - DEBUG --> rzn-rsez@yandex.ru
+2016-03-16 11:47:46 - INFO --> сообщение отправлено; 'rzn-rsez@yandex.ru'
+2016-03-16 11:47:46 - INFO --> (0.0128 сек.)
+2016-03-16 11:50:05 - INFO --> Отсылка почты...
+2016-03-16 11:50:05 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:50:05 - DEBUG --> 227593@mail.ru
+2016-03-16 11:50:05 - INFO --> сообщение отправлено; '227593@mail.ru'
+2016-03-16 11:50:05 - INFO --> (0.0142 сек.)
+2016-03-16 11:50:24 - INFO --> Отсылка почты...
+2016-03-16 11:50:24 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:50:24 - DEBUG --> spartak2017@yandex.ru
+2016-03-16 11:50:24 - INFO --> сообщение отправлено; 'spartak2017@yandex.ru'
+2016-03-16 11:50:24 - INFO --> (0.0135 сек.)
+2016-03-16 11:50:54 - INFO --> Отсылка почты...
+2016-03-16 11:50:54 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:50:54 - DEBUG --> zakaz@sportvsem48.ru
+2016-03-16 11:50:54 - INFO --> сообщение отправлено; 'zakaz@sportvsem48.ru'
+2016-03-16 11:50:54 - INFO --> (0.0128 сек.)
+2016-03-16 11:51:14 - INFO --> Отсылка почты...
+2016-03-16 11:51:14 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:51:14 - DEBUG --> info@povsport.ru
+2016-03-16 11:51:15 - INFO --> сообщение отправлено; 'info@povsport.ru'
+2016-03-16 11:51:15 - INFO --> (0.0346 сек.)
+2016-03-16 11:51:38 - INFO --> Отсылка почты...
+2016-03-16 11:51:38 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:51:38 - DEBUG --> SPORTNNOV@MAIL.RU
+2016-03-16 11:51:38 - INFO --> сообщение отправлено; 'SPORTNNOV@MAIL.RU'
+2016-03-16 11:51:38 - INFO --> (0.0131 сек.)
+2016-03-16 11:51:59 - INFO --> Отсылка почты...
+2016-03-16 11:51:59 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:51:59 - DEBUG --> belyimax@yandex.ru
+2016-03-16 11:51:59 - INFO --> сообщение отправлено; 'belyimax@yandex.ru'
+2016-03-16 11:51:59 - INFO --> (0.0149 сек.)
+2016-03-16 11:52:25 - INFO --> Отсылка почты...
+2016-03-16 11:52:25 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:52:25 - DEBUG --> opt@sportsman.nnov.ru
+2016-03-16 11:52:25 - INFO --> сообщение отправлено; 'opt@sportsman.nnov.ru'
+2016-03-16 11:52:25 - INFO --> (0.0235 сек.)
+2016-03-16 11:52:42 - INFO --> Отсылка почты...
+2016-03-16 11:52:42 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:52:42 - DEBUG --> support@territorysport.ru
+2016-03-16 11:52:42 - INFO --> сообщение отправлено; 'support@territorysport.ru'
+2016-03-16 11:52:42 - INFO --> (0.0143 сек.)
+2016-03-16 11:53:02 - INFO --> Отсылка почты...
+2016-03-16 11:53:02 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:53:02 - DEBUG --> glavsport@mail.ru
+2016-03-16 11:53:02 - INFO --> сообщение отправлено; 'glavsport@mail.ru'
+2016-03-16 11:53:02 - INFO --> (0.0187 сек.)
+2016-03-16 11:53:23 - INFO --> Отсылка почты...
+2016-03-16 11:53:23 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:53:23 - DEBUG --> morozoff-na@yandex.ru
+2016-03-16 11:53:23 - INFO --> сообщение отправлено; 'morozoff-na@yandex.ru'
+2016-03-16 11:53:23 - INFO --> (0.0223 сек.)
+2016-03-16 11:53:41 - INFO --> Отсылка почты...
+2016-03-16 11:53:41 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:53:41 - DEBUG --> info@vladfoot.ru
+2016-03-16 11:53:41 - INFO --> сообщение отправлено; 'info@vladfoot.ru'
+2016-03-16 11:53:41 - INFO --> (0.0131 сек.)
+2016-03-16 11:54:04 - INFO --> Отсылка почты...
+2016-03-16 11:54:04 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:54:04 - DEBUG --> 73sport@mail.ru
+2016-03-16 11:54:04 - INFO --> сообщение отправлено; '73sport@mail.ru'
+2016-03-16 11:54:04 - INFO --> (0.018 сек.)
+2016-03-16 11:54:22 - INFO --> Отсылка почты...
+2016-03-16 11:54:22 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:54:22 - DEBUG --> manager@kitezh73.ru
+2016-03-16 11:54:22 - INFO --> сообщение отправлено; 'manager@kitezh73.ru'
+2016-03-16 11:54:22 - INFO --> (0.0141 сек.)
+2016-03-16 11:56:15 - INFO --> Отсылка почты...
+2016-03-16 11:56:15 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:56:15 - DEBUG --> runner@europe.com
+2016-03-16 11:56:15 - INFO --> сообщение отправлено; 'runner@europe.com'
+2016-03-16 11:56:15 - INFO --> (0.022 сек.)
+2016-03-16 11:56:33 - INFO --> Отсылка почты...
+2016-03-16 11:56:33 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:56:33 - DEBUG --> info@lidsport.ru
+2016-03-16 11:56:33 - INFO --> сообщение отправлено; 'info@lidsport.ru'
+2016-03-16 11:56:33 - INFO --> (0.0187 сек.)
+2016-03-16 11:56:57 - INFO --> Отсылка почты...
+2016-03-16 11:56:57 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:56:57 - DEBUG --> sport26@bk.ru
+2016-03-16 11:56:57 - INFO --> сообщение отправлено; 'sport26@bk.ru'
+2016-03-16 11:56:57 - INFO --> (0.0161 сек.)
+2016-03-16 11:57:15 - INFO --> Отсылка почты...
+2016-03-16 11:57:15 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:57:15 - DEBUG --> development@studia25.ru
+2016-03-16 11:57:15 - INFO --> сообщение отправлено; 'development@studia25.ru'
+2016-03-16 11:57:15 - INFO --> (0.0154 сек.)
+2016-03-16 11:57:34 - INFO --> Отсылка почты...
+2016-03-16 11:57:34 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:57:34 - DEBUG --> skt.krasnodar@mail.ru
+2016-03-16 11:57:34 - INFO --> сообщение отправлено; 'skt.krasnodar@mail.ru'
+2016-03-16 11:57:34 - INFO --> (0.0261 сек.)
+2016-03-16 11:58:05 - INFO --> Отсылка почты...
+2016-03-16 11:58:05 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:58:05 - DEBUG --> garbuzov_ta@u4group.ru
+2016-03-16 11:58:05 - INFO --> сообщение отправлено; 'garbuzov_ta@u4group.ru'
+2016-03-16 11:58:05 - INFO --> (0.0132 сек.)
+2016-03-16 11:58:33 - INFO --> Отсылка почты...
+2016-03-16 11:58:33 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:58:33 - DEBUG --> OLGA_ADRES@MAIL.RU
+2016-03-16 11:58:33 - INFO --> сообщение отправлено; 'OLGA_ADRES@MAIL.RU'
+2016-03-16 11:58:33 - INFO --> (0.0192 сек.)
+2016-03-16 11:58:55 - INFO --> Отсылка почты...
+2016-03-16 11:58:55 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:58:55 - DEBUG --> winner-sport23@mail.ru
+2016-03-16 11:58:55 - INFO --> сообщение отправлено; 'winner-sport23@mail.ru'
+2016-03-16 11:58:55 - INFO --> (0.0161 сек.)
+2016-03-16 11:59:18 - INFO --> Отсылка почты...
+2016-03-16 11:59:18 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 11:59:18 - DEBUG --> olimpionik-rb2012@mail.ru
+2016-03-16 11:59:18 - INFO --> сообщение отправлено; 'olimpionik-rb2012@mail.ru'
+2016-03-16 11:59:18 - INFO --> (0.0116 сек.)
+2016-03-16 12:00:38 - INFO --> Отсылка почты...
+2016-03-16 12:00:38 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-16 12:00:38 - DEBUG --> dush_1_prk@mail.ru
+2016-03-16 12:00:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-16 12:00:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-16 12:00:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-16 12:00:38 - INFO --> сообщение отправлено; 'dush_1_prk@mail.ru'
+2016-03-16 12:00:38 - INFO --> (0.038 сек.)
+2016-03-16 12:00:50 - INFO --> Отсылка почты...
+2016-03-16 12:00:50 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:00:50 - DEBUG --> skimax02@mail.ru
+2016-03-16 12:00:50 - INFO --> сообщение отправлено; 'skimax02@mail.ru'
+2016-03-16 12:00:50 - INFO --> (0.0261 сек.)
+2016-03-16 12:01:09 - INFO --> Отсылка почты...
+2016-03-16 12:01:09 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:01:09 - DEBUG --> info@sportpunkt.ru
+2016-03-16 12:01:09 - INFO --> сообщение отправлено; 'info@sportpunkt.ru'
+2016-03-16 12:01:09 - INFO --> (0.0145 сек.)
+2016-03-16 12:01:30 - INFO --> Отсылка почты...
+2016-03-16 12:01:30 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:01:30 - DEBUG --> novaialiga@gmail.com, odissej@inbox.ru
+2016-03-16 12:01:30 - INFO --> сообщение отправлено; 'novaialiga@gmail.com'
+2016-03-16 12:01:30 - INFO --> сообщение отправлено; 'odissej@inbox.ru'
+2016-03-16 12:01:30 - INFO --> (0.0388 сек.)
+2016-03-16 12:01:49 - INFO --> Отсылка почты...
+2016-03-16 12:01:49 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:01:49 - DEBUG --> reserv2001@mail.ru
+2016-03-16 12:01:49 - INFO --> сообщение отправлено; 'reserv2001@mail.ru'
+2016-03-16 12:01:49 - INFO --> (0.0141 сек.)
+2016-03-16 12:02:08 - INFO --> Отсылка почты...
+2016-03-16 12:02:08 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:02:08 - DEBUG --> mupsport57@mail.ru
+2016-03-16 12:02:08 - INFO --> сообщение отправлено; 'mupsport57@mail.ru'
+2016-03-16 12:02:08 - INFO --> (0.0222 сек.)
+2016-03-16 12:02:27 - INFO --> Отсылка почты...
+2016-03-16 12:02:27 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:02:27 - DEBUG --> komandaplus_omsk@mail.ru
+2016-03-16 12:02:27 - INFO --> сообщение отправлено; 'komandaplus_omsk@mail.ru'
+2016-03-16 12:02:27 - INFO --> (0.016 сек.)
+2016-03-16 12:02:45 - INFO --> Отсылка почты...
+2016-03-16 12:02:45 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:02:45 - DEBUG --> oleg_novichenko@mail.ru
+2016-03-16 12:02:45 - INFO --> сообщение отправлено; 'oleg_novichenko@mail.ru'
+2016-03-16 12:02:45 - INFO --> (0.0139 сек.)
+2016-03-16 12:03:04 - INFO --> Отсылка почты...
+2016-03-16 12:03:04 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:03:04 - DEBUG --> \&quot;sales@shop-darts.ru
+2016-03-16 12:03:04 - INFO --> (0.0003 сек.)
+2016-03-16 12:04:20 - INFO --> Отсылка почты...
+2016-03-16 12:04:20 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:04:20 - DEBUG --> sales@shop-darts.ru
+2016-03-16 12:04:20 - INFO --> сообщение отправлено; 'sales@shop-darts.ru'
+2016-03-16 12:04:20 - INFO --> (0.0142 сек.)
+2016-03-16 12:04:43 - INFO --> Отсылка почты...
+2016-03-16 12:04:43 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:04:43 - DEBUG --> evgeny7@bk.ru
+2016-03-16 12:04:43 - INFO --> сообщение отправлено; 'evgeny7@bk.ru'
+2016-03-16 12:04:43 - INFO --> (0.0323 сек.)
+2016-03-16 12:05:12 - INFO --> Отсылка почты...
+2016-03-16 12:05:12 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:05:12 - DEBUG --> equip.zapros@yandex.ru
+2016-03-16 12:05:12 - INFO --> сообщение отправлено; 'equip.zapros@yandex.ru'
+2016-03-16 12:05:12 - INFO --> (0.0219 сек.)
+2016-03-16 12:05:35 - INFO --> Отсылка почты...
+2016-03-16 12:05:35 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:05:35 - DEBUG --> m.nikolaev@sportprofy.ru
+2016-03-16 12:05:35 - INFO --> сообщение отправлено; 'm.nikolaev@sportprofy.ru'
+2016-03-16 12:05:35 - INFO --> (0.022 сек.)
+2016-03-16 12:05:53 - INFO --> Отсылка почты...
+2016-03-16 12:05:53 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:05:53 - DEBUG --> zakyp-ls@mail.ru
+2016-03-16 12:05:53 - INFO --> сообщение отправлено; 'zakyp-ls@mail.ru'
+2016-03-16 12:05:53 - INFO --> (0.014 сек.)
+2016-03-16 12:06:31 - INFO --> Отсылка почты...
+2016-03-16 12:06:31 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:06:31 - DEBUG --> 777@sk2009.ru
+2016-03-16 12:06:31 - INFO --> сообщение отправлено; '777@sk2009.ru'
+2016-03-16 12:06:31 - INFO --> (0.0133 сек.)
+2016-03-16 12:06:51 - INFO --> Отсылка почты...
+2016-03-16 12:06:51 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:06:51 - DEBUG --> lab2003@list.ru
+2016-03-16 12:06:51 - INFO --> сообщение отправлено; 'lab2003@list.ru'
+2016-03-16 12:06:51 - INFO --> (0.0144 сек.)
+2016-03-16 12:07:18 - INFO --> Отсылка почты...
+2016-03-16 12:07:18 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:07:18 - DEBUG --> magazin_BARS@mail.ru
+2016-03-16 12:07:18 - INFO --> сообщение отправлено; 'magazin_BARS@mail.ru'
+2016-03-16 12:07:18 - INFO --> (0.0122 сек.)
+2016-03-16 12:07:38 - INFO --> Отсылка почты...
+2016-03-16 12:07:38 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:07:38 - DEBUG --> chitasport@yandex.ru
+2016-03-16 12:07:38 - INFO --> сообщение отправлено; 'chitasport@yandex.ru'
+2016-03-16 12:07:38 - INFO --> (0.0206 сек.)
+2016-03-16 12:07:55 - INFO --> Отсылка почты...
+2016-03-16 12:07:55 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:07:55 - DEBUG --> sportm2008@mail.ru, 5356429@mail.ru
+2016-03-16 12:07:55 - INFO --> сообщение отправлено; 'sportm2008@mail.ru'
+2016-03-16 12:07:55 - INFO --> сообщение отправлено; '5356429@mail.ru'
+2016-03-16 12:07:55 - INFO --> (0.0254 сек.)
+2016-03-16 12:08:53 - INFO --> Отсылка почты...
+2016-03-16 12:08:53 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:08:53 - DEBUG --> kazan_miras@mail.ru
+2016-03-16 12:08:53 - INFO --> сообщение отправлено; 'kazan_miras@mail.ru'
+2016-03-16 12:08:53 - INFO --> (0.022 сек.)
+2016-03-16 12:09:10 - INFO --> Отсылка почты...
+2016-03-16 12:09:10 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:09:10 - DEBUG --> garerail@mail.ru
+2016-03-16 12:09:10 - INFO --> сообщение отправлено; 'garerail@mail.ru'
+2016-03-16 12:09:10 - INFO --> (0.0157 сек.)
+2016-03-16 12:09:28 - INFO --> Отсылка почты...
+2016-03-16 12:09:28 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:09:28 - DEBUG --> ivanovo.sport@mail.ru
+2016-03-16 12:09:28 - INFO --> сообщение отправлено; 'ivanovo.sport@mail.ru'
+2016-03-16 12:09:28 - INFO --> (0.0137 сек.)
+2016-03-16 12:09:51 - INFO --> Отсылка почты...
+2016-03-16 12:09:51 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:09:51 - DEBUG --> v.mazun@gtt.gazprom.ru
+2016-03-16 12:09:51 - INFO --> сообщение отправлено; 'v.mazun@gtt.gazprom.ru'
+2016-03-16 12:09:51 - INFO --> (0.0172 сек.)
+2016-03-16 12:10:13 - INFO --> Отсылка почты...
+2016-03-16 12:10:13 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:10:13 - DEBUG --> sev-sport@mail.ru
+2016-03-16 12:10:13 - INFO --> сообщение отправлено; 'sev-sport@mail.ru'
+2016-03-16 12:10:13 - INFO --> (0.0137 сек.)
+2016-03-16 12:10:39 - INFO --> Отсылка почты...
+2016-03-16 12:10:39 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:10:39 - DEBUG --> champion250@rambler.ru
+2016-03-16 12:10:39 - INFO --> сообщение отправлено; 'champion250@rambler.ru'
+2016-03-16 12:10:39 - INFO --> (0.0099 сек.)
+2016-03-16 12:11:03 - INFO --> Отсылка почты...
+2016-03-16 12:11:03 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:11:03 - DEBUG --> ovgorelov@list.ru
+2016-03-16 12:11:03 - INFO --> сообщение отправлено; 'ovgorelov@list.ru'
+2016-03-16 12:11:03 - INFO --> (0.0129 сек.)
+2016-03-16 12:11:19 - INFO --> Отсылка почты...
+2016-03-16 12:11:19 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:11:19 - DEBUG --> penzafootball@mail.ru
+2016-03-16 12:11:19 - INFO --> сообщение отправлено; 'penzafootball@mail.ru'
+2016-03-16 12:11:19 - INFO --> (0.0144 сек.)
+2016-03-16 12:11:36 - INFO --> Отсылка почты...
+2016-03-16 12:11:36 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:11:36 - DEBUG --> garincha_surgut@mail.ru
+2016-03-16 12:11:36 - INFO --> сообщение отправлено; 'garincha_surgut@mail.ru'
+2016-03-16 12:11:36 - INFO --> (0.0323 сек.)
+2016-03-16 12:11:59 - INFO --> Отсылка почты...
+2016-03-16 12:11:59 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:11:59 - DEBUG --> info@ekasport.ru
+2016-03-16 12:11:59 - INFO --> сообщение отправлено; 'info@ekasport.ru'
+2016-03-16 12:11:59 - INFO --> (0.0269 сек.)
+2016-03-16 12:12:16 - INFO --> Отсылка почты...
+2016-03-16 12:12:16 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:12:16 - DEBUG --> rylcev@sport-style.ru
+2016-03-16 12:12:16 - INFO --> сообщение отправлено; 'rylcev@sport-style.ru'
+2016-03-16 12:12:16 - INFO --> (0.0125 сек.)
+2016-03-16 12:12:35 - INFO --> Отсылка почты...
+2016-03-16 12:12:35 - INFO --> Тема; 'ФУТБОЛЬНАЯ ФОРМА  - СПЕЦИАЛЬНАЯ ЦЕНА 2016'
+2016-03-16 12:12:35 - DEBUG --> eurosportnov@yandex.ru
+2016-03-16 12:12:35 - INFO --> сообщение отправлено; 'eurosportnov@yandex.ru'
+2016-03-16 12:12:35 - INFO --> (0.018 сек.)
+2016-03-16 12:34:33 - INFO --> Отсылка почты...
+2016-03-16 12:34:33 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-16 12:34:33 - DEBUG --> sport@yurga.org
+2016-03-16 12:34:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/Коммерческое предложение ОЛИМПИК СПОРТ.doc'
+2016-03-16 12:34:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-16 12:34:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-16 12:34:33 - INFO --> сообщение отправлено; 'sport@yurga.org'
+2016-03-16 12:34:33 - INFO --> (0.0349 сек.)
+2016-03-16 16:00:46 - INFO --> Отсылка почты...
+2016-03-16 16:00:46 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-03-16 16:00:46 - DEBUG --> st.meteor@mail.ru
+2016-03-16 16:00:46 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/specpredlogenie-obuve.jpg'
+2016-03-16 16:00:46 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/footballforma_rasprodaja_2016_2.png'
+2016-03-16 16:00:46 - INFO --> сообщение отправлено; 'st.meteor@mail.ru'
+2016-03-16 16:00:46 - INFO --> (0.054 сек.)

@@ -1,0 +1,843 @@
+2018-06-21 9:48:29 - INFO --> Отсылка почты...
+2018-06-21 9:48:29 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 9:48:29 - DEBUG --> office@gtt.gazprom.ru, dudOA@gtt.gazprom.ru
+2018-06-21 9:48:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 9:48:29 - INFO --> сообщение отправлено; 'office@gtt.gazprom.ru'
+2018-06-21 9:48:29 - INFO --> сообщение отправлено; 'dudOA@gtt.gazprom.ru'
+2018-06-21 9:48:29 - INFO --> (0.042 сек.)
+2018-06-21 9:49:03 - INFO --> Отсылка почты...
+2018-06-21 9:49:03 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 9:49:03 - DEBUG --> kpetrova@invest.gazprom.ru
+2018-06-21 9:49:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 9:49:03 - INFO --> сообщение отправлено; 'kpetrova@invest.gazprom.ru'
+2018-06-21 9:49:03 - INFO --> (0.0209 сек.)
+2018-06-21 9:52:00 - INFO --> Отсылка почты...
+2018-06-21 9:52:00 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 9:52:00 - DEBUG --> info@gazprominvestproject.ru, zakharov@gazprominvestproject.ru
+2018-06-21 9:52:00 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 9:52:00 - INFO --> сообщение отправлено; 'info@gazprominvestproject.ru'
+2018-06-21 9:52:00 - INFO --> сообщение отправлено; 'zakharov@gazprominvestproject.ru'
+2018-06-21 9:52:00 - INFO --> (0.0474 сек.)
+2018-06-21 9:52:39 - INFO --> Отсылка почты...
+2018-06-21 9:52:39 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 9:52:39 - DEBUG --> yug-invest@yug-invest.gazprom.ru
+2018-06-21 9:52:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 9:52:39 - INFO --> сообщение отправлено; 'yug-invest@yug-invest.gazprom.ru'
+2018-06-21 9:52:39 - INFO --> (0.0215 сек.)
+2018-06-21 9:53:07 - INFO --> Отсылка почты...
+2018-06-21 9:53:07 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 9:53:07 - DEBUG --> M.Romanova@inform.gazprom.ru
+2018-06-21 9:53:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 9:53:07 - INFO --> сообщение отправлено; 'M.Romanova@inform.gazprom.ru'
+2018-06-21 9:53:07 - INFO --> (0.0282 сек.)
+2018-06-21 9:53:34 - INFO --> Отсылка почты...
+2018-06-21 9:53:34 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 9:53:34 - DEBUG --> amilenin@komplekt.gazprom.ru
+2018-06-21 9:53:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 9:53:34 - INFO --> сообщение отправлено; 'amilenin@komplekt.gazprom.ru'
+2018-06-21 9:53:34 - INFO --> (0.0271 сек.)
+2018-06-21 9:54:06 - INFO --> Отсылка почты...
+2018-06-21 9:54:06 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 9:54:06 - DEBUG --> pr@gcr.gazprom.ru
+2018-06-21 9:54:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 9:54:06 - INFO --> сообщение отправлено; 'pr@gcr.gazprom.ru'
+2018-06-21 9:54:06 - INFO --> (0.0337 сек.)
+2018-06-21 9:55:04 - INFO --> Отсылка почты...
+2018-06-21 9:55:04 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 9:55:04 - DEBUG --> info@gazpromexport.com
+2018-06-21 9:55:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 9:55:04 - INFO --> сообщение отправлено; 'info@gazpromexport.com'
+2018-06-21 9:55:04 - INFO --> (0.0214 сек.)
+2018-06-21 9:55:32 - INFO --> Отсылка почты...
+2018-06-21 9:55:32 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 9:55:32 - DEBUG --> info@adm.energo.gazprom.ru,sharova-mk@yandex.ru
+2018-06-21 9:55:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 9:55:32 - INFO --> сообщение отправлено; 'info@adm.energo.gazprom.ru'
+2018-06-21 9:55:32 - INFO --> сообщение отправлено; 'sharova-mk@yandex.ru'
+2018-06-21 9:55:32 - INFO --> (0.0508 сек.)
+2018-06-21 9:56:18 - INFO --> Отсылка почты...
+2018-06-21 9:56:18 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 9:56:18 - DEBUG --> goncharov@gazpromflot.ru
+2018-06-21 9:56:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 9:56:18 - INFO --> сообщение отправлено; 'goncharov@gazpromflot.ru'
+2018-06-21 9:56:18 - INFO --> (0.0258 сек.)
+2018-06-21 9:59:18 - INFO --> Отсылка почты...
+2018-06-21 9:59:18 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 9:59:18 - DEBUG --> zsgp@zsgp.ru
+2018-06-21 9:59:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 9:59:18 - INFO --> сообщение отправлено; 'zsgp@zsgp.ru'
+2018-06-21 9:59:18 - INFO --> (0.0204 сек.)
+2018-06-21 10:00:43 - INFO --> Отсылка почты...
+2018-06-21 10:00:43 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:00:43 - DEBUG --> e.alenina@ggr.gazprom.ru, office@ggr.gazprom.ru
+2018-06-21 10:00:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:00:43 - INFO --> сообщение отправлено; 'e.alenina@ggr.gazprom.ru'
+2018-06-21 10:00:43 - INFO --> сообщение отправлено; 'office@ggr.gazprom.ru'
+2018-06-21 10:00:43 - INFO --> (0.0397 сек.)
+2018-06-21 10:01:07 - INFO --> Отсылка почты...
+2018-06-21 10:01:07 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:01:07 - DEBUG --> info@gazprom-engineering.ru
+2018-06-21 10:01:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:01:07 - INFO --> сообщение отправлено; 'info@gazprom-engineering.ru'
+2018-06-21 10:01:07 - INFO --> (0.0294 сек.)
+2018-06-21 10:01:28 - INFO --> Отсылка почты...
+2018-06-21 10:01:28 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:01:28 - DEBUG --> g.voronov@gazpromgeotech.ru
+2018-06-21 10:01:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:01:29 - INFO --> сообщение отправлено; 'g.voronov@gazpromgeotech.ru'
+2018-06-21 10:01:29 - INFO --> (0.0226 сек.)
+2018-06-21 10:01:52 - INFO --> Отсылка почты...
+2018-06-21 10:01:52 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:01:52 - DEBUG --> svnipigz@sevcavnipi. gazprom.ru, kozhayeva_e@mail.ru
+2018-06-21 10:01:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:01:52 - INFO --> (0.0003 сек.)
+2018-06-21 10:09:22 - INFO --> Отсылка почты...
+2018-06-21 10:09:22 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:09:22 - DEBUG --> sogaz@sogaz.ru
+2018-06-21 10:09:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:09:22 - INFO --> сообщение отправлено; 'sogaz@sogaz.ru'
+2018-06-21 10:09:22 - INFO --> (0.0214 сек.)
+2018-06-21 10:09:47 - INFO --> Отсылка почты...
+2018-06-21 10:09:47 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:09:47 - DEBUG --> info@tngg.ru, ryabovsa@tngg.ru
+2018-06-21 10:09:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:09:47 - INFO --> сообщение отправлено; 'info@tngg.ru'
+2018-06-21 10:09:47 - INFO --> сообщение отправлено; 'ryabovsa@tngg.ru'
+2018-06-21 10:09:47 - INFO --> (0.0552 сек.)
+2018-06-21 10:10:11 - INFO --> Отсылка почты...
+2018-06-21 10:10:11 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:10:11 - DEBUG --> ask@sakhalinenergy.ru
+2018-06-21 10:10:11 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:10:11 - INFO --> сообщение отправлено; 'ask@sakhalinenergy.ru'
+2018-06-21 10:10:11 - INFO --> (0.0274 сек.)
+2018-06-21 10:13:24 - INFO --> Отсылка почты...
+2018-06-21 10:13:24 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:13:24 - DEBUG --> tkacheva_ev@centrgaz-gazprom.ru
+2018-06-21 10:13:24 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:13:24 - INFO --> сообщение отправлено; 'tkacheva_ev@centrgaz-gazprom.ru'
+2018-06-21 10:13:24 - INFO --> (0.0224 сек.)
+2018-06-21 10:14:19 - INFO --> Отсылка почты...
+2018-06-21 10:14:19 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:14:19 - DEBUG --> steshin@gaznadzor.gazprom.ru
+2018-06-21 10:14:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:14:19 - INFO --> сообщение отправлено; 'steshin@gaznadzor.gazprom.ru'
+2018-06-21 10:14:19 - INFO --> (0.0293 сек.)
+2018-06-21 10:14:38 - INFO --> Отсылка почты...
+2018-06-21 10:14:38 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:14:38 - DEBUG --> v.borzyak@gazpromlpg.ru
+2018-06-21 10:14:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:14:38 - INFO --> сообщение отправлено; 'v.borzyak@gazpromlpg.ru'
+2018-06-21 10:14:38 - INFO --> (0.0257 сек.)
+2018-06-21 10:17:49 - INFO --> Отсылка почты...
+2018-06-21 10:17:49 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:17:49 - DEBUG --> s.pakhomov@econom.gazprom.ru
+2018-06-21 10:17:49 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:17:49 - INFO --> сообщение отправлено; 's.pakhomov@econom.gazprom.ru'
+2018-06-21 10:17:49 - INFO --> (0.0238 сек.)
+2018-06-21 10:18:31 - INFO --> Отсылка почты...
+2018-06-21 10:18:31 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:18:31 - DEBUG --> info@northgas.ru
+2018-06-21 10:18:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:18:31 - INFO --> сообщение отправлено; 'info@northgas.ru'
+2018-06-21 10:18:31 - INFO --> (0.0195 сек.)
+2018-06-21 10:19:00 - INFO --> Отсылка почты...
+2018-06-21 10:19:00 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:19:00 - DEBUG --> EliseevAN@sngp.com
+2018-06-21 10:19:00 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:19:01 - INFO --> сообщение отправлено; 'EliseevAN@sngp.com'
+2018-06-21 10:19:01 - INFO --> (0.0291 сек.)
+2018-06-21 10:23:10 - INFO --> Отсылка почты...
+2018-06-21 10:23:10 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:23:10 - DEBUG --> G.Rybanova@Gazbez.Gazprom.ru, V.Dovbnia@gazbez.gazprom.ru
+2018-06-21 10:23:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:23:10 - INFO --> сообщение отправлено; 'G.Rybanova@Gazbez.Gazprom.ru'
+2018-06-21 10:23:10 - INFO --> сообщение отправлено; 'V.Dovbnia@gazbez.gazprom.ru'
+2018-06-21 10:23:10 - INFO --> (0.0442 сек.)
+2018-06-21 10:23:34 - INFO --> Отсылка почты...
+2018-06-21 10:23:34 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:23:34 - DEBUG --> info@oblgas.atnet.ru
+2018-06-21 10:23:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:23:34 - INFO --> сообщение отправлено; 'info@oblgas.atnet.ru'
+2018-06-21 10:23:34 - INFO --> (0.0295 сек.)
+2018-06-21 10:23:52 - INFO --> Отсылка почты...
+2018-06-21 10:23:52 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:23:52 - DEBUG --> astroblgaz@astranet.ru, ligina@astroblgaz.ru
+2018-06-21 10:23:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:23:52 - INFO --> сообщение отправлено; 'astroblgaz@astranet.ru'
+2018-06-21 10:23:52 - INFO --> сообщение отправлено; 'ligina@astroblgaz.ru'
+2018-06-21 10:23:52 - INFO --> (0.044 сек.)
+2018-06-21 10:24:25 - INFO --> Отсылка почты...
+2018-06-21 10:24:25 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:24:25 - DEBUG --> referend@vlg-gaz.ru, vikstrem_ig@vlg- gaz.ru
+2018-06-21 10:24:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:24:25 - INFO --> (0.0002 сек.)
+2018-06-21 10:25:23 - INFO --> Отсылка почты...
+2018-06-21 10:25:23 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:25:23 - DEBUG --> info@kgas.kht.ru
+2018-06-21 10:25:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:25:23 - INFO --> сообщение отправлено; 'info@kgas.kht.ru'
+2018-06-21 10:25:23 - INFO --> (0.0284 сек.)
+2018-06-21 10:26:29 - INFO --> Отсылка почты...
+2018-06-21 10:26:29 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:26:29 - DEBUG --> profsouz@ogg.orel.ru
+2018-06-21 10:26:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:26:29 - INFO --> сообщение отправлено; 'profsouz@ogg.orel.ru'
+2018-06-21 10:26:29 - INFO --> (0.0199 сек.)
+2018-06-21 10:26:53 - INFO --> Отсылка почты...
+2018-06-21 10:26:53 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:26:53 - DEBUG --> golovnevdd@gro32.ru
+2018-06-21 10:26:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:26:53 - INFO --> сообщение отправлено; 'golovnevdd@gro32.ru'
+2018-06-21 10:26:53 - INFO --> (0.0229 сек.)
+2018-06-21 10:27:40 - INFO --> Отсылка почты...
+2018-06-21 10:27:40 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:27:40 - DEBUG --> post@oblgas.natm.ru
+2018-06-21 10:27:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:27:40 - INFO --> сообщение отправлено; 'post@oblgas.natm.ru'
+2018-06-21 10:27:40 - INFO --> (0.0241 сек.)
+2018-06-21 10:33:34 - INFO --> Отсылка почты...
+2018-06-21 10:33:34 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:33:34 - DEBUG --> info@vladoblgaz.ru, sergeyp@vladoblgaz.ru
+2018-06-21 10:33:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:33:34 - INFO --> сообщение отправлено; 'info@vladoblgaz.ru'
+2018-06-21 10:33:34 - INFO --> сообщение отправлено; 'sergeyp@vladoblgaz.ru'
+2018-06-21 10:33:34 - INFO --> (0.046 сек.)
+2018-06-21 10:36:01 - INFO --> Отсылка почты...
+2018-06-21 10:36:01 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:36:01 - DEBUG --> belkova@oblgaz.vrn.ru
+2018-06-21 10:36:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:36:01 - INFO --> сообщение отправлено; 'belkova@oblgaz.vrn.ru'
+2018-06-21 10:36:01 - INFO --> (0.0282 сек.)
+2018-06-21 10:36:27 - INFO --> Отсылка почты...
+2018-06-21 10:36:27 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:36:27 - DEBUG --> office@udmgas.udm.ru, M.baklanova@udmgas.udm.ru
+2018-06-21 10:36:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:36:27 - INFO --> сообщение отправлено; 'office@udmgas.udm.ru'
+2018-06-21 10:36:27 - INFO --> сообщение отправлено; 'M.baklanova@udmgas.udm.ru'
+2018-06-21 10:36:27 - INFO --> (0.0383 сек.)
+2018-06-21 10:36:47 - INFO --> Отсылка почты...
+2018-06-21 10:36:47 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:36:47 - DEBUG --> SABelyava@gpgr-ivanovo.ru
+2018-06-21 10:36:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:36:47 - INFO --> сообщение отправлено; 'SABelyava@gpgr-ivanovo.ru'
+2018-06-21 10:36:47 - INFO --> (0.0296 сек.)
+2018-06-21 10:37:07 - INFO --> Отсылка почты...
+2018-06-21 10:37:07 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:37:07 - DEBUG --> gorbunova.nt@kalugaoblgaz.ru
+2018-06-21 10:37:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:37:07 - INFO --> сообщение отправлено; 'gorbunova.nt@kalugaoblgaz.ru'
+2018-06-21 10:37:07 - INFO --> (0.0233 сек.)
+2018-06-21 10:37:27 - INFO --> Отсылка почты...
+2018-06-21 10:37:27 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:37:27 - DEBUG --> i.khalev@gpgrkirov.ru
+2018-06-21 10:37:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:37:27 - INFO --> сообщение отправлено; 'i.khalev@gpgrkirov.ru'
+2018-06-21 10:37:27 - INFO --> (0.0254 сек.)
+2018-06-21 10:37:46 - INFO --> Отсылка почты...
+2018-06-21 10:37:46 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:37:46 - DEBUG --> t.brandukova@gpgr.kostroma.ru, sizovma@gas-44.ru
+2018-06-21 10:37:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:37:46 - INFO --> сообщение отправлено; 't.brandukova@gpgr.kostroma.ru'
+2018-06-21 10:37:46 - INFO --> сообщение отправлено; 'sizovma@gas-44.ru'
+2018-06-21 10:37:46 - INFO --> (0.0454 сек.)
+2018-06-21 10:38:07 - INFO --> Отсылка почты...
+2018-06-21 10:38:07 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:38:07 - DEBUG --> e.takoeva@kraygaz.ru
+2018-06-21 10:38:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:38:07 - INFO --> сообщение отправлено; 'e.takoeva@kraygaz.ru'
+2018-06-21 10:38:07 - INFO --> (0.0219 сек.)
+2018-06-21 10:38:28 - INFO --> Отсылка почты...
+2018-06-21 10:38:28 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:38:28 - DEBUG --> ilyina_jv@kurskgaz.ru, mail@kurskgaz.ru,  medik@kurskgaz.ru
+2018-06-21 10:38:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:38:28 - INFO --> сообщение отправлено; 'ilyina_jv@kurskgaz.ru'
+2018-06-21 10:38:28 - INFO --> сообщение отправлено; 'mail@kurskgaz.ru'
+2018-06-21 10:38:28 - INFO --> сообщение отправлено; 'medik@kurskgaz.ru'
+2018-06-21 10:38:28 - INFO --> (0.0638 сек.)
+2018-06-21 10:38:55 - INFO --> Отсылка почты...
+2018-06-21 10:38:55 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:38:55 - DEBUG --> prof@oblgas.lipetsk.ru, anatol@lipetsk.ru
+2018-06-21 10:38:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:38:55 - INFO --> сообщение отправлено; 'prof@oblgas.lipetsk.ru'
+2018-06-21 10:38:55 - INFO --> сообщение отправлено; 'anatol@lipetsk.ru'
+2018-06-21 10:38:55 - INFO --> (0.0393 сек.)
+2018-06-21 10:39:16 - INFO --> Отсылка почты...
+2018-06-21 10:39:16 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:39:16 - DEBUG --> popov@adyggaz.ru
+2018-06-21 10:39:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:39:16 - INFO --> сообщение отправлено; 'popov@adyggaz.ru'
+2018-06-21 10:39:16 - INFO --> (0.0222 сек.)
+2018-06-21 10:39:35 - INFO --> Отсылка почты...
+2018-06-21 10:39:35 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:39:35 - DEBUG --> info@kbgaz.ru, ivv-slava@mail.ru
+2018-06-21 10:39:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:39:35 - INFO --> сообщение отправлено; 'info@kbgaz.ru'
+2018-06-21 10:39:35 - INFO --> сообщение отправлено; 'ivv-slava@mail.ru'
+2018-06-21 10:39:35 - INFO --> (0.0449 сек.)
+2018-06-21 10:40:33 - INFO --> Отсылка почты...
+2018-06-21 10:40:33 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:40:33 - DEBUG --> umts@oblgaz.nnov.ru
+2018-06-21 10:40:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:40:33 - INFO --> сообщение отправлено; 'umts@oblgaz.nnov.ru'
+2018-06-21 10:40:33 - INFO --> (0.0208 сек.)
+2018-06-21 10:41:35 - INFO --> Отсылка почты...
+2018-06-21 10:41:35 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:41:35 - DEBUG --> prm@penzaoblgaz.ru, tugusheva.z@yandex.ru
+2018-06-21 10:41:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:41:35 - INFO --> сообщение отправлено; 'prm@penzaoblgaz.ru'
+2018-06-21 10:41:35 - INFO --> сообщение отправлено; 'tugusheva.z@yandex.ru'
+2018-06-21 10:41:35 - INFO --> (0.0431 сек.)
+2018-06-21 10:41:59 - INFO --> Отсылка почты...
+2018-06-21 10:41:59 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:41:59 - DEBUG --> info@gro60.ru, pressa@pskovregiongaz.ru
+2018-06-21 10:41:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:41:59 - INFO --> сообщение отправлено; 'info@gro60.ru'
+2018-06-21 10:41:59 - INFO --> сообщение отправлено; 'pressa@pskovregiongaz.ru'
+2018-06-21 10:41:59 - INFO --> (0.0557 сек.)
+2018-06-21 10:43:09 - INFO --> Отсылка почты...
+2018-06-21 10:43:09 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:43:09 - DEBUG --> pr@rostovoblgaz.ru
+2018-06-21 10:43:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:43:09 - INFO --> сообщение отправлено; 'pr@rostovoblgaz.ru'
+2018-06-21 10:43:09 - INFO --> (0.03 сек.)
+2018-06-21 10:45:24 - INFO --> Отсылка почты...
+2018-06-21 10:45:24 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:45:24 - DEBUG --> ryazanoblgaz@ryazanoblgaz.ru, e.lobachev@ryazanoblgaz.ru
+2018-06-21 10:45:24 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:45:24 - INFO --> сообщение отправлено; 'ryazanoblgaz@ryazanoblgaz.ru'
+2018-06-21 10:45:24 - INFO --> сообщение отправлено; 'e.lobachev@ryazanoblgaz.ru'
+2018-06-21 10:45:24 - INFO --> (0.0506 сек.)
+2018-06-21 10:45:45 - INFO --> Отсылка почты...
+2018-06-21 10:45:45 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:45:45 - DEBUG --> gaz@moris.ru
+2018-06-21 10:45:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:45:45 - INFO --> сообщение отправлено; 'gaz@moris.ru'
+2018-06-21 10:45:45 - INFO --> (0.0281 сек.)
+2018-06-21 10:49:43 - INFO --> Отсылка почты...
+2018-06-21 10:49:43 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:49:43 - DEBUG --> mts@oblgas.san.ru
+2018-06-21 10:49:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:49:43 - INFO --> сообщение отправлено; 'mts@oblgas.san.ru'
+2018-06-21 10:49:43 - INFO --> (0.0297 сек.)
+2018-06-21 10:50:22 - INFO --> Отсылка почты...
+2018-06-21 10:50:22 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:50:22 - DEBUG --> napreevsmoloblgaz@yandex.ru
+2018-06-21 10:50:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:50:22 - INFO --> сообщение отправлено; 'napreevsmoloblgaz@yandex.ru'
+2018-06-21 10:50:22 - INFO --> (0.0238 сек.)
+2018-06-21 10:50:57 - INFO --> Отсылка почты...
+2018-06-21 10:50:57 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:50:57 - DEBUG --> reception@stavkraygaz.ru, shkurdzets@stavkraygaz.ru
+2018-06-21 10:50:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:50:57 - INFO --> сообщение отправлено; 'reception@stavkraygaz.ru'
+2018-06-21 10:50:57 - INFO --> сообщение отправлено; 'shkurdzets@stavkraygaz.ru'
+2018-06-21 10:50:57 - INFO --> (0.0437 сек.)
+2018-06-21 10:51:18 - INFO --> Отсылка почты...
+2018-06-21 10:51:18 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:51:18 - DEBUG --> tog@tmb.ru, pozdnyakova_yv@tog.tmb.ru, profcom@tog.tmb.ru
+2018-06-21 10:51:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:51:18 - INFO --> сообщение отправлено; 'tog@tmb.ru'
+2018-06-21 10:51:18 - INFO --> сообщение отправлено; 'pozdnyakova_yv@tog.tmb.ru'
+2018-06-21 10:51:18 - INFO --> сообщение отправлено; 'profcom@tog.tmb.ru'
+2018-06-21 10:51:18 - INFO --> (0.0676 сек.)
+2018-06-21 10:52:04 - INFO --> Отсылка почты...
+2018-06-21 10:52:04 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 10:52:04 - DEBUG --> vasilyev@togas.tvcom.ru
+2018-06-21 10:52:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 10:52:04 - INFO --> сообщение отправлено; 'vasilyev@togas.tvcom.ru'
+2018-06-21 10:52:04 - INFO --> (0.0206 сек.)
+2018-06-21 11:06:51 - INFO --> Отсылка почты...
+2018-06-21 11:06:51 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:06:51 - DEBUG --> office@kalmgaz.ru
+2018-06-21 11:06:51 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:06:51 - INFO --> сообщение отправлено; 'office@kalmgaz.ru'
+2018-06-21 11:06:51 - INFO --> (0.0209 сек.)
+2018-06-21 11:08:11 - INFO --> Отсылка почты...
+2018-06-21 11:08:11 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:08:11 - DEBUG --> bobrov-vb@yaroblgaz.ru, info@yaroblgaz.ru
+2018-06-21 11:08:11 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:08:11 - INFO --> сообщение отправлено; 'bobrov-vb@yaroblgaz.ru'
+2018-06-21 11:08:11 - INFO --> сообщение отправлено; 'info@yaroblgaz.ru'
+2018-06-21 11:08:11 - INFO --> (0.0396 сек.)
+2018-06-21 11:08:33 - INFO --> Отсылка почты...
+2018-06-21 11:08:33 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:08:33 - DEBUG --> RV.Shorin@MRG037.ru
+2018-06-21 11:08:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:08:33 - INFO --> сообщение отправлено; 'RV.Shorin@MRG037.ru'
+2018-06-21 11:08:33 - INFO --> (0.0204 сек.)
+2018-06-21 11:08:52 - INFO --> Отсылка почты...
+2018-06-21 11:08:52 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:08:52 - DEBUG --> info@vladoblgaz.ru
+2018-06-21 11:08:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:08:52 - INFO --> сообщение отправлено; 'info@vladoblgaz.ru'
+2018-06-21 11:08:52 - INFO --> (0.0206 сек.)
+2018-06-21 11:10:34 - INFO --> Отсылка почты...
+2018-06-21 11:10:34 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:10:34 - DEBUG --> info@voloblgaz.ru
+2018-06-21 11:10:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:10:34 - INFO --> сообщение отправлено; 'info@voloblgaz.ru'
+2018-06-21 11:10:34 - INFO --> (0.0301 сек.)
+2018-06-21 11:16:57 - INFO --> Отсылка почты...
+2018-06-21 11:16:57 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:16:57 - DEBUG --> gaz_servis@gaz-servis.ru
+2018-06-21 11:16:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:16:57 - INFO --> сообщение отправлено; 'gaz_servis@gaz-servis.ru'
+2018-06-21 11:16:57 - INFO --> (0.0225 сек.)
+2018-06-21 11:17:29 - INFO --> Отсылка почты...
+2018-06-21 11:17:29 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:17:29 - DEBUG --> gazset@chtts.ru
+2018-06-21 11:17:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:17:29 - INFO --> сообщение отправлено; 'gazset@chtts.ru'
+2018-06-21 11:17:29 - INFO --> (0.0207 сек.)
+2018-06-21 11:17:50 - INFO --> Отсылка почты...
+2018-06-21 11:17:50 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:17:50 - DEBUG --> info@oaorgs.ru
+2018-06-21 11:17:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:17:51 - INFO --> сообщение отправлено; 'info@oaorgs.ru'
+2018-06-21 11:17:51 - INFO --> (0.0283 сек.)
+2018-06-21 11:18:18 - INFO --> Отсылка почты...
+2018-06-21 11:18:18 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:18:18 - DEBUG --> v.minin@chelgaz.ru
+2018-06-21 11:18:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:18:18 - INFO --> сообщение отправлено; 'v.minin@chelgaz.ru'
+2018-06-21 11:18:18 - INFO --> (0.0197 сек.)
+2018-06-21 11:19:23 - INFO --> Отсылка почты...
+2018-06-21 11:19:23 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:19:23 - DEBUG --> marigas@mari-el.ru
+2018-06-21 11:19:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:19:23 - INFO --> сообщение отправлено; 'marigas@mari-el.ru'
+2018-06-21 11:19:23 - INFO --> (0.0276 сек.)
+2018-06-21 11:20:26 - INFO --> Отсылка почты...
+2018-06-21 11:20:26 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:20:26 - DEBUG --> anna1702@ulgaz.ru
+2018-06-21 11:20:26 - INFO --> сообщение отправлено; 'anna1702@ulgaz.ru'
+2018-06-21 11:20:26 - INFO --> (0.0198 сек.)
+2018-06-21 11:36:20 - INFO --> Отсылка почты...
+2018-06-21 11:36:20 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:36:20 - DEBUG --> iog@irkgaz.ru
+2018-06-21 11:36:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:36:20 - INFO --> сообщение отправлено; 'iog@irkgaz.ru'
+2018-06-21 11:36:20 - INFO --> (0.0223 сек.)
+2018-06-21 11:36:41 - INFO --> Отсылка почты...
+2018-06-21 11:36:41 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:36:41 - DEBUG --> karelgaz@karelgaz.ru
+2018-06-21 11:36:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:36:41 - INFO --> сообщение отправлено; 'karelgaz@karelgaz.ru'
+2018-06-21 11:36:41 - INFO --> (0.0206 сек.)
+2018-06-21 11:37:03 - INFO --> Отсылка почты...
+2018-06-21 11:37:03 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:37:03 - DEBUG --> mail@kurgangazcom.ru
+2018-06-21 11:37:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:37:03 - INFO --> сообщение отправлено; 'mail@kurgangazcom.ru'
+2018-06-21 11:37:03 - INFO --> (0.0206 сек.)
+2018-06-21 11:37:32 - INFO --> Отсылка почты...
+2018-06-21 11:37:32 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:37:32 - DEBUG --> office@omskoblgaz.ru
+2018-06-21 11:37:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:37:32 - INFO --> сообщение отправлено; 'office@omskoblgaz.ru'
+2018-06-21 11:37:32 - INFO --> (0.0212 сек.)
+2018-06-21 11:37:55 - INFO --> Отсылка почты...
+2018-06-21 11:37:55 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 11:37:55 - DEBUG --> info@sakhalinoblgaz.ru
+2018-06-21 11:37:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 11:37:55 - INFO --> сообщение отправлено; 'info@sakhalinoblgaz.ru'
+2018-06-21 11:37:55 - INFO --> (0.0261 сек.)
+2018-06-21 12:35:32 - INFO --> Отсылка почты...
+2018-06-21 12:35:32 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:35:32 - DEBUG --> sedova.lv@yamal.gazprom-neft.ru
+2018-06-21 12:35:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:35:32 - INFO --> сообщение отправлено; 'sedova.lv@yamal.gazprom-neft.ru'
+2018-06-21 12:35:32 - INFO --> (0.0545 сек.)
+2018-06-21 12:36:05 - INFO --> Отсылка почты...
+2018-06-21 12:36:05 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:36:05 - DEBUG --> ODO@hantos.gazprom-neft.ru, novikov.DA@hantos.gazprom-neft.ru
+2018-06-21 12:36:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:36:05 - INFO --> сообщение отправлено; 'ODO@hantos.gazprom-neft.ru'
+2018-06-21 12:36:05 - INFO --> сообщение отправлено; 'novikov.DA@hantos.gazprom-neft.ru'
+2018-06-21 12:36:05 - INFO --> (0.0444 сек.)
+2018-06-21 12:39:17 - INFO --> Отсылка почты...
+2018-06-21 12:39:17 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:39:17 - DEBUG --> reception@tomsk.gazprom-neft.ru, popkov.ep@tomsk.gazprom-neft.ru
+2018-06-21 12:39:17 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:39:17 - INFO --> сообщение отправлено; 'reception@tomsk.gazprom-neft.ru'
+2018-06-21 12:39:17 - INFO --> сообщение отправлено; 'popkov.ep@tomsk.gazprom-neft.ru'
+2018-06-21 12:39:17 - INFO --> (0.0428 сек.)
+2018-06-21 12:40:10 - INFO --> Отсылка почты...
+2018-06-21 12:40:10 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:40:10 - DEBUG --> vasilev.ak@gazprom-neft.ru, konstan1980@yandex.ru, oleynik.yuv@gazprom-neft.ru
+2018-06-21 12:40:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:40:10 - INFO --> сообщение отправлено; 'vasilev.ak@gazprom-neft.ru'
+2018-06-21 12:40:10 - INFO --> сообщение отправлено; 'konstan1980@yandex.ru'
+2018-06-21 12:40:10 - INFO --> сообщение отправлено; 'oleynik.yuv@gazprom-neft.ru'
+2018-06-21 12:40:10 - INFO --> (0.0697 сек.)
+2018-06-21 12:40:39 - INFO --> Отсылка почты...
+2018-06-21 12:40:39 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:40:39 - DEBUG --> info@mnpz.ru, zasedatelev.va@mnpz.ru
+2018-06-21 12:40:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:40:39 - INFO --> сообщение отправлено; 'info@mnpz.ru'
+2018-06-21 12:40:39 - INFO --> сообщение отправлено; 'zasedatelev.va@mnpz.ru'
+2018-06-21 12:40:39 - INFO --> (0.0395 сек.)
+2018-06-21 12:41:07 - INFO --> Отсылка почты...
+2018-06-21 12:41:07 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:41:07 - DEBUG --> aero@gazprom-neft.ru
+2018-06-21 12:41:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:41:07 - INFO --> сообщение отправлено; 'aero@gazprom-neft.ru'
+2018-06-21 12:41:07 - INFO --> (0.0246 сек.)
+2018-06-21 12:50:29 - INFO --> Отсылка почты...
+2018-06-21 12:50:29 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:50:29 - DEBUG --> info@it-sk.ru
+2018-06-21 12:50:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:50:29 - INFO --> сообщение отправлено; 'info@it-sk.ru'
+2018-06-21 12:50:29 - INFO --> (0.0214 сек.)
+2018-06-21 12:51:00 - INFO --> Отсылка почты...
+2018-06-21 12:51:00 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:51:00 - DEBUG --> info@ongg.ru
+2018-06-21 12:51:00 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:51:00 - INFO --> сообщение отправлено; 'info@ongg.ru'
+2018-06-21 12:51:00 - INFO --> (0.0207 сек.)
+2018-06-21 12:51:48 - INFO --> Отсылка почты...
+2018-06-21 12:51:48 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:51:48 - DEBUG --> gazprom-nefteservis@gazprom-neft.ru
+2018-06-21 12:51:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:51:48 - INFO --> сообщение отправлено; 'gazprom-nefteservis@gazprom-neft.ru'
+2018-06-21 12:51:48 - INFO --> (0.0218 сек.)
+2018-06-21 12:52:41 - INFO --> Отсылка почты...
+2018-06-21 12:52:41 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:52:41 - DEBUG --> gpns@gazprom-neft.ru
+2018-06-21 12:52:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:52:41 - INFO --> сообщение отправлено; 'gpns@gazprom-neft.ru'
+2018-06-21 12:52:41 - INFO --> (0.0201 сек.)
+2018-06-21 12:52:59 - INFO --> Отсылка почты...
+2018-06-21 12:52:59 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:52:59 - DEBUG --> konc@omsk.gazprom-neft.ru
+2018-06-21 12:52:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:52:59 - INFO --> сообщение отправлено; 'konc@omsk.gazprom-neft.ru'
+2018-06-21 12:52:59 - INFO --> (0.0258 сек.)
+2018-06-21 12:53:33 - INFO --> Отсылка почты...
+2018-06-21 12:53:33 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:53:33 - DEBUG --> Kovaleva.TV@azs.gazprom-neft.ru
+2018-06-21 12:53:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:53:33 - INFO --> сообщение отправлено; 'Kovaleva.TV@azs.gazprom-neft.ru'
+2018-06-21 12:53:33 - INFO --> (0.0219 сек.)
+2018-06-21 12:56:58 - INFO --> Отсылка почты...
+2018-06-21 12:56:58 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:56:58 - DEBUG --> sib-info@gazprom-neft.ru, savenko.ao@nsk.gazprom-neft.ru
+2018-06-21 12:56:58 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:56:58 - INFO --> сообщение отправлено; 'sib-info@gazprom-neft.ru'
+2018-06-21 12:56:58 - INFO --> сообщение отправлено; 'savenko.ao@nsk.gazprom-neft.ru'
+2018-06-21 12:56:58 - INFO --> (0.0441 сек.)
+2018-06-21 12:57:24 - INFO --> Отсылка почты...
+2018-06-21 12:57:24 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:57:24 - DEBUG --> gpnsz@spb.gazprom-neft.ru
+2018-06-21 12:57:24 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:57:24 - INFO --> сообщение отправлено; 'gpnsz@spb.gazprom-neft.ru'
+2018-06-21 12:57:24 - INFO --> (0.0209 сек.)
+2018-06-21 12:58:31 - INFO --> Отсылка почты...
+2018-06-21 12:58:31 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:58:31 - DEBUG --> gpn-rpfc@gazprom-neft.ru, Krisov.IYu@gazprom-neft.ru
+2018-06-21 12:58:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:58:31 - INFO --> сообщение отправлено; 'gpn-rpfc@gazprom-neft.ru'
+2018-06-21 12:58:31 - INFO --> сообщение отправлено; 'Krisov.IYu@gazprom-neft.ru'
+2018-06-21 12:58:31 - INFO --> (0.0424 сек.)
+2018-06-21 12:59:16 - INFO --> Отсылка почты...
+2018-06-21 12:59:16 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:59:16 - DEBUG --> info@gazprom-neft.ru
+2018-06-21 12:59:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:59:16 - INFO --> сообщение отправлено; 'info@gazprom-neft.ru'
+2018-06-21 12:59:16 - INFO --> (0.0253 сек.)
+2018-06-21 12:59:38 - INFO --> Отсылка почты...
+2018-06-21 12:59:38 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 12:59:38 - DEBUG --> gpn-s@gazprom-neft.ru
+2018-06-21 12:59:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 12:59:38 - INFO --> сообщение отправлено; 'gpn-s@gazprom-neft.ru'
+2018-06-21 12:59:38 - INFO --> (0.0204 сек.)
+2018-06-21 13:00:04 - INFO --> Отсылка почты...
+2018-06-21 13:00:04 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:00:04 - DEBUG --> info@gazprom-neft.ru
+2018-06-21 13:00:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:00:04 - INFO --> сообщение отправлено; 'info@gazprom-neft.ru'
+2018-06-21 13:00:04 - INFO --> (0.0235 сек.)
+2018-06-21 13:01:06 - INFO --> Отсылка почты...
+2018-06-21 13:01:06 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:01:06 - DEBUG --> Transport@omsk.gazprom-neft.ru
+2018-06-21 13:01:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:01:06 - INFO --> сообщение отправлено; 'Transport@omsk.gazprom-neft.ru'
+2018-06-21 13:01:06 - INFO --> (0.0214 сек.)
+2018-06-21 13:01:23 - INFO --> Отсылка почты...
+2018-06-21 13:01:23 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:01:23 - DEBUG --> ural@ekb.gazprom-neft.ru
+2018-06-21 13:01:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:01:23 - INFO --> сообщение отправлено; 'ural@ekb.gazprom-neft.ru'
+2018-06-21 13:01:23 - INFO --> (0.0209 сек.)
+2018-06-21 13:01:46 - INFO --> Отсылка почты...
+2018-06-21 13:01:46 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:01:46 - DEBUG --> office@shelf-neft.gazprom.ru
+2018-06-21 13:01:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:01:46 - INFO --> сообщение отправлено; 'office@shelf-neft.gazprom.ru'
+2018-06-21 13:01:46 - INFO --> (0.0221 сек.)
+2018-06-21 13:31:47 - INFO --> Отсылка почты...
+2018-06-21 13:31:47 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:31:47 - DEBUG --> info@rosseti.ru, rogozin-pa@rosseti.ru
+2018-06-21 13:31:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:31:47 - INFO --> сообщение отправлено; 'info@rosseti.ru'
+2018-06-21 13:31:47 - INFO --> сообщение отправлено; 'rogozin-pa@rosseti.ru'
+2018-06-21 13:31:47 - INFO --> (0.0377 сек.)
+2018-06-21 13:32:11 - INFO --> Отсылка почты...
+2018-06-21 13:32:11 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:32:11 - DEBUG --> posta@mrsk-1.ru, lebedeva_gn@mrsk-1.ru
+2018-06-21 13:32:11 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:32:11 - INFO --> сообщение отправлено; 'posta@mrsk-1.ru'
+2018-06-21 13:32:11 - INFO --> сообщение отправлено; 'lebedeva_gn@mrsk-1.ru'
+2018-06-21 13:32:11 - INFO --> (0.0504 сек.)
+2018-06-21 13:32:32 - INFO --> Отсылка почты...
+2018-06-21 13:32:32 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:32:32 - DEBUG --> bryanskenergo@mrsk-1.ru
+2018-06-21 13:32:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:32:32 - INFO --> сообщение отправлено; 'bryanskenergo@mrsk-1.ru'
+2018-06-21 13:32:32 - INFO --> (0.0216 сек.)
+2018-06-21 13:55:39 - INFO --> Отсылка почты...
+2018-06-21 13:55:39 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:55:39 - DEBUG --> tambov@mrsk-1.ru
+2018-06-21 13:55:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:55:39 - INFO --> сообщение отправлено; 'tambov@mrsk-1.ru'
+2018-06-21 13:55:39 - INFO --> (0.0255 сек.)
+2018-06-21 13:56:27 - INFO --> Отсылка почты...
+2018-06-21 13:56:27 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:56:27 - DEBUG --> lipetskenergo@mrsk-1.ru, titova.sa@mrsk-1.ru
+2018-06-21 13:56:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:56:27 - INFO --> сообщение отправлено; 'lipetskenergo@mrsk-1.ru'
+2018-06-21 13:56:27 - INFO --> сообщение отправлено; 'titova.sa@mrsk-1.ru'
+2018-06-21 13:56:27 - INFO --> (0.0494 сек.)
+2018-06-21 13:56:52 - INFO --> Отсылка почты...
+2018-06-21 13:56:52 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:56:52 - DEBUG --> pron@veco.ru
+2018-06-21 13:56:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:56:52 - INFO --> сообщение отправлено; 'pron@veco.ru'
+2018-06-21 13:56:52 - INFO --> (0.0224 сек.)
+2018-06-21 13:57:32 - INFO --> Отсылка почты...
+2018-06-21 13:57:32 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:57:32 - DEBUG --> belgorodenergo@mrsk-1.ru, golovko.ov@mrsk-1.ru
+2018-06-21 13:57:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:57:32 - INFO --> сообщение отправлено; 'belgorodenergo@mrsk-1.ru'
+2018-06-21 13:57:32 - INFO --> сообщение отправлено; 'golovko.ov@mrsk-1.ru'
+2018-06-21 13:57:32 - INFO --> (0.0488 сек.)
+2018-06-21 13:57:57 - INFO --> Отсылка почты...
+2018-06-21 13:57:57 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:57:57 - DEBUG --> kurskenergo@mrsk-1.ru, kalinin.nv@mrsk-1.ru
+2018-06-21 13:57:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:57:57 - INFO --> сообщение отправлено; 'kurskenergo@mrsk-1.ru'
+2018-06-21 13:57:57 - INFO --> сообщение отправлено; 'kalinin.nv@mrsk-1.ru'
+2018-06-21 13:57:57 - INFO --> (0.0473 сек.)
+2018-06-21 13:58:24 - INFO --> Отсылка почты...
+2018-06-21 13:58:24 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:58:24 - DEBUG --> smolenskenergo@mrsk-1.ru, ryabtseva.gv@mrsk-1.ru
+2018-06-21 13:58:24 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:58:24 - INFO --> сообщение отправлено; 'smolenskenergo@mrsk-1.ru'
+2018-06-21 13:58:24 - INFO --> сообщение отправлено; 'ryabtseva.gv@mrsk-1.ru'
+2018-06-21 13:58:24 - INFO --> (0.0384 сек.)
+2018-06-21 13:58:56 - INFO --> Отсылка почты...
+2018-06-21 13:58:56 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:58:56 - DEBUG --> aksakov.sv@mrsk-1.ru
+2018-06-21 13:58:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:58:56 - INFO --> сообщение отправлено; 'aksakov.sv@mrsk-1.ru'
+2018-06-21 13:58:56 - INFO --> (0.023 сек.)
+2018-06-21 13:59:31 - INFO --> Отсылка почты...
+2018-06-21 13:59:31 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 13:59:31 - DEBUG --> yarenergo@mrsk-1.ru, suharev.ae@mrsk-1.ru
+2018-06-21 13:59:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 13:59:31 - INFO --> сообщение отправлено; 'yarenergo@mrsk-1.ru'
+2018-06-21 13:59:31 - INFO --> сообщение отправлено; 'suharev.ae@mrsk-1.ru'
+2018-06-21 13:59:31 - INFO --> (0.0446 сек.)
+2018-06-21 14:02:43 - INFO --> Отсылка почты...
+2018-06-21 14:02:43 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:02:43 - DEBUG --> \&quot;Lyamina_EB@mrsk-cp.ru
+2018-06-21 14:02:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:02:43 - INFO --> (0.0002 сек.)
+2018-06-21 14:04:49 - INFO --> Отсылка почты...
+2018-06-21 14:04:49 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:04:49 - DEBUG --> Lyamina_EB@mrsk-cp.ru
+2018-06-21 14:04:49 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:04:49 - INFO --> сообщение отправлено; 'Lyamina_EB@mrsk-cp.ru'
+2018-06-21 14:04:49 - INFO --> (0.0215 сек.)
+2018-06-21 14:05:25 - INFO --> Отсылка почты...
+2018-06-21 14:05:25 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:05:25 - DEBUG --> info@nn.mrsk-cp.ru
+2018-06-21 14:05:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:05:25 - INFO --> сообщение отправлено; 'info@nn.mrsk-cp.ru'
+2018-06-21 14:05:25 - INFO --> (0.0362 сек.)
+2018-06-21 14:25:13 - INFO --> Отсылка почты...
+2018-06-21 14:25:13 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:25:13 - DEBUG --> energy@energy.mari.ru, mgdo@energy.mari.ru
+2018-06-21 14:25:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:25:13 - INFO --> сообщение отправлено; 'energy@energy.mari.ru'
+2018-06-21 14:25:13 - INFO --> сообщение отправлено; 'mgdo@energy.mari.ru'
+2018-06-21 14:25:13 - INFO --> (0.0395 сек.)
+2018-06-21 14:30:56 - INFO --> Отсылка почты...
+2018-06-21 14:30:56 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:30:56 - DEBUG --> office@mrsk-yuga.ru
+2018-06-21 14:30:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:30:56 - INFO --> сообщение отправлено; 'office@mrsk-yuga.ru'
+2018-06-21 14:30:56 - INFO --> (0.0217 сек.)
+2018-06-21 14:31:19 - INFO --> Отсылка почты...
+2018-06-21 14:31:19 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:31:19 - DEBUG --> office@re.mrsk-yuga.ru, artemenkovain@mrsk-yuga.ru
+2018-06-21 14:31:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:31:19 - INFO --> сообщение отправлено; 'office@re.mrsk-yuga.ru'
+2018-06-21 14:31:19 - INFO --> сообщение отправлено; 'artemenkovain@mrsk-yuga.ru'
+2018-06-21 14:31:19 - INFO --> (0.0378 сек.)
+2018-06-21 14:32:01 - INFO --> Отсылка почты...
+2018-06-21 14:32:01 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:32:01 - DEBUG --> priem@ke.mrsk-yuga.ru
+2018-06-21 14:32:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:32:01 - INFO --> сообщение отправлено; 'priem@ke.mrsk-yuga.ru'
+2018-06-21 14:32:01 - INFO --> (0.0241 сек.)
+2018-06-21 14:33:07 - INFO --> Отсылка почты...
+2018-06-21 14:33:07 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:33:07 - DEBUG --> mrsk@mrsks.ru
+2018-06-21 14:33:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:33:07 - INFO --> сообщение отправлено; 'mrsk@mrsks.ru'
+2018-06-21 14:33:07 - INFO --> (0.0365 сек.)
+2018-06-21 14:34:57 - INFO --> Отсылка почты...
+2018-06-21 14:34:57 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:34:57 - DEBUG --> btt@burene.ru,  les262@mail.ru, kalinkina_nv@ul.mrsks.ru
+2018-06-21 14:34:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:34:57 - INFO --> сообщение отправлено; 'btt@burene.ru'
+2018-06-21 14:34:57 - INFO --> сообщение отправлено; 'les262@mail.ru'
+2018-06-21 14:34:57 - INFO --> сообщение отправлено; 'kalinkina_nv@ul.mrsks.ru'
+2018-06-21 14:34:57 - INFO --> (0.0827 сек.)
+2018-06-21 14:39:15 - INFO --> Отсылка почты...
+2018-06-21 14:39:15 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:39:15 - DEBUG --> krasene@kr.mrsks.ru , anciferova_ev@kr.mrsks.ru
+2018-06-21 14:39:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:39:15 - INFO --> сообщение отправлено; 'krasene@kr.mrsks.ru'
+2018-06-21 14:39:15 - INFO --> сообщение отправлено; 'anciferova_ev@kr.mrsks.ru'
+2018-06-21 14:39:15 - INFO --> (0.0379 сек.)
+2018-06-21 14:40:41 - INFO --> Отсылка почты...
+2018-06-21 14:40:41 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:40:41 - DEBUG --> Keinfo@ke.mrsks.ru
+2018-06-21 14:40:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:40:41 - INFO --> сообщение отправлено; 'Keinfo@ke.mrsks.ru'
+2018-06-21 14:40:41 - INFO --> (0.0209 сек.)
+2018-06-21 14:41:57 - INFO --> Отсылка почты...
+2018-06-21 14:41:57 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:41:57 - DEBUG --> trk@trk.tom.ru, sma@trk.tom.ru
+2018-06-21 14:41:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:41:57 - INFO --> сообщение отправлено; 'trk@trk.tom.ru'
+2018-06-21 14:41:57 - INFO --> сообщение отправлено; 'sma@trk.tom.ru'
+2018-06-21 14:41:57 - INFO --> (0.0412 сек.)
+2018-06-21 14:42:50 - INFO --> Отсылка почты...
+2018-06-21 14:42:50 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:42:50 - DEBUG --> tuvaenergo@tuva.mrsk-sib.ru
+2018-06-21 14:42:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:42:50 - INFO --> сообщение отправлено; 'tuvaenergo@tuva.mrsk-sib.ru'
+2018-06-21 14:42:50 - INFO --> (0.0286 сек.)
+2018-06-21 14:44:21 - INFO --> Отсылка почты...
+2018-06-21 14:44:21 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:44:21 - DEBUG --> post@moren.ru, csg@moren.ru
+2018-06-21 14:44:21 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:44:21 - INFO --> сообщение отправлено; 'post@moren.ru'
+2018-06-21 14:44:21 - INFO --> сообщение отправлено; 'csg@moren.ru'
+2018-06-21 14:44:21 - INFO --> (0.0382 сек.)
+2018-06-21 14:48:55 - INFO --> Отсылка почты...
+2018-06-21 14:48:55 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:48:55 - DEBUG --> post@moren.ru, csg@moren.ru
+2018-06-21 14:48:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:48:55 - INFO --> сообщение отправлено; 'post@moren.ru'
+2018-06-21 14:48:55 - INFO --> сообщение отправлено; 'csg@moren.ru'
+2018-06-21 14:48:55 - INFO --> (0.0624 сек.)
+2018-06-21 14:49:22 - INFO --> Отсылка почты...
+2018-06-21 14:49:22 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:49:22 - DEBUG --> public@penzacom.ru, carkina@penzacom.ru
+2018-06-21 14:49:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:49:22 - INFO --> сообщение отправлено; 'public@penzacom.ru'
+2018-06-21 14:49:22 - INFO --> сообщение отправлено; 'carkina@penzacom.ru'
+2018-06-21 14:49:22 - INFO --> (0.0428 сек.)
+2018-06-21 14:49:56 - INFO --> Отсылка почты...
+2018-06-21 14:49:56 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:49:56 - DEBUG --> \&quot;adm@ch-energo.ru,   av.kirillov@ch-energo.ru, mm.kuzmina@ch-energo.ru
+2018-06-21 14:49:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:49:56 - INFO --> (0.0003 сек.)
+2018-06-21 14:50:22 - INFO --> Отсылка почты...
+2018-06-21 14:50:22 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:50:22 - DEBUG --> adm@ch-energo.ru,   av.kirillov@ch-energo.ru, mm.kuzmina@ch-energo.ru
+2018-06-21 14:50:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:50:22 - INFO --> сообщение отправлено; 'adm@ch-energo.ru'
+2018-06-21 14:50:22 - INFO --> сообщение отправлено; 'av.kirillov@ch-energo.ru'
+2018-06-21 14:50:22 - INFO --> сообщение отправлено; 'mm.kuzmina@ch-energo.ru'
+2018-06-21 14:50:22 - INFO --> (0.0578 сек.)
+2018-06-21 14:51:08 - INFO --> Отсылка почты...
+2018-06-21 14:51:08 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:51:08 - DEBUG --> mberdina@mrsk-ural.ru, kokovina-ma@mrsk-ural.ru
+2018-06-21 14:51:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:51:08 - INFO --> сообщение отправлено; 'mberdina@mrsk-ural.ru'
+2018-06-21 14:51:08 - INFO --> сообщение отправлено; 'kokovina-ma@mrsk-ural.ru'
+2018-06-21 14:51:08 - INFO --> (0.0521 сек.)
+2018-06-21 14:51:38 - INFO --> Отсылка почты...
+2018-06-21 14:51:38 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:51:38 - DEBUG --> secr@permenergo.ru, ledentsov-du@permenergo.ru
+2018-06-21 14:51:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:51:38 - INFO --> сообщение отправлено; 'secr@permenergo.ru'
+2018-06-21 14:51:38 - INFO --> сообщение отправлено; 'ledentsov-du@permenergo.ru'
+2018-06-21 14:51:38 - INFO --> (0.047 сек.)
+2018-06-21 14:52:02 - INFO --> Отсылка почты...
+2018-06-21 14:52:02 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:52:02 - DEBUG --> \&quot;post@energo.pssr.ru, leontyev-yua@mrsk-ural.ru
+2018-06-21 14:52:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:52:02 - INFO --> (0.0002 сек.)
+2018-06-21 14:53:07 - INFO --> Отсылка почты...
+2018-06-21 14:53:07 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:53:07 - DEBUG --> post@energo.pssr.ru, leontyev-yua@mrsk-ural.ru
+2018-06-21 14:53:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:53:07 - INFO --> сообщение отправлено; 'post@energo.pssr.ru'
+2018-06-21 14:53:07 - INFO --> сообщение отправлено; 'leontyev-yua@mrsk-ural.ru'
+2018-06-21 14:53:07 - INFO --> (0.0505 сек.)
+2018-06-21 14:56:45 - INFO --> Отсылка почты...
+2018-06-21 14:56:45 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 14:56:45 - DEBUG --> office@lenenergo.ru
+2018-06-21 14:56:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 14:56:45 - INFO --> сообщение отправлено; 'office@lenenergo.ru'
+2018-06-21 14:56:45 - INFO --> (0.0239 сек.)
+2018-06-21 15:01:34 - INFO --> Отсылка почты...
+2018-06-21 15:01:34 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 15:01:34 - DEBUG --> \&quot;mov@mrsksevzap.ru, aob@mrsksevzap.ru
+2018-06-21 15:01:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 15:01:34 - INFO --> (0.0002 сек.)
+2018-06-21 15:02:23 - INFO --> Отсылка почты...
+2018-06-21 15:02:23 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 15:02:23 - DEBUG --> mov@mrsksevzap.ru, aob@mrsksevzap.ru
+2018-06-21 15:02:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 15:02:23 - INFO --> сообщение отправлено; 'mov@mrsksevzap.ru'
+2018-06-21 15:02:24 - INFO --> сообщение отправлено; 'aob@mrsksevzap.ru'
+2018-06-21 15:02:24 - INFO --> (0.0425 сек.)
+2018-06-21 15:03:01 - INFO --> Отсылка почты...
+2018-06-21 15:03:01 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 15:03:01 - DEBUG --> mrsk-sk@mrsk-sk.ru
+2018-06-21 15:03:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 15:03:01 - INFO --> сообщение отправлено; 'mrsk-sk@mrsk-sk.ru'
+2018-06-21 15:03:01 - INFO --> (0.0222 сек.)
+2018-06-21 15:03:20 - INFO --> Отсылка почты...
+2018-06-21 15:03:20 - INFO --> Тема; 'Специальное предложение лето 2018'
+2018-06-21 15:03:20 - DEBUG --> stepanova-LV@yantarenergo.ru
+2018-06-21 15:03:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/Nesco_june_2018.jpg'
+2018-06-21 15:03:20 - INFO --> сообщение отправлено; 'stepanova-LV@yantarenergo.ru'
+2018-06-21 15:03:20 - INFO --> (0.0232 сек.)
+2018-06-21 16:43:59 - INFO --> Отсылка почты...
+2018-06-21 16:43:59 - INFO --> Тема; 'Специальное предложение лето 2018 СПб'
+2018-06-21 16:43:59 - DEBUG --> dmklyuchnik@npfsb.ru
+2018-06-21 16:43:59 - INFO --> сообщение отправлено; 'dmklyuchnik@npfsb.ru'
+2018-06-21 16:43:59 - INFO --> (0.0114 сек.)
+2018-06-21 16:48:15 - INFO --> Отсылка почты...
+2018-06-21 16:48:15 - INFO --> Тема; 'Специальное предложение лето 2018 СПб'
+2018-06-21 16:48:15 - DEBUG --> yushkova@cspso.ru
+2018-06-21 16:48:15 - INFO --> сообщение отправлено; 'yushkova@cspso.ru'
+2018-06-21 16:48:15 - INFO --> (0.0124 сек.)
+2018-06-21 16:54:52 - INFO --> Отсылка почты...
+2018-06-21 16:54:52 - INFO --> Тема; 'Специальное предложение лето 2018 СПб'
+2018-06-21 16:54:52 - DEBUG --> sportotdel@sdushor3spb.ru
+2018-06-21 16:54:52 - INFO --> сообщение отправлено; 'sportotdel@sdushor3spb.ru'
+2018-06-21 16:54:52 - INFO --> (0.0135 сек.)
+2018-06-21 16:56:00 - INFO --> Отсылка почты...
+2018-06-21 16:56:00 - INFO --> Тема; 'Специальное предложение лето 2018 СПб'
+2018-06-21 16:56:00 - DEBUG --> sport@sdushor3spb.ru
+2018-06-21 16:56:00 - INFO --> сообщение отправлено; 'sport@sdushor3spb.ru'
+2018-06-21 16:56:00 - INFO --> (0.0129 сек.)

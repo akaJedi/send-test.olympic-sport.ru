@@ -1,0 +1,96 @@
+2017-03-17 13:48:27 - INFO --> Отсылка почты...
+2017-03-17 13:48:27 - INFO --> Тема; 'РАСПРОДАЖА коллекции NESCO 2016(1)'
+2017-03-17 13:48:27 - DEBUG --> ffu86@mail.ru, chumak_d@mail.ru
+2017-03-17 13:48:27 - INFO --> сообщение отправлено; 'ffu86@mail.ru'
+2017-03-17 13:48:27 - INFO --> сообщение отправлено; 'chumak_d@mail.ru'
+2017-03-17 13:48:27 - INFO --> (0.0869 сек.)
+2017-03-17 13:54:34 - INFO --> Отсылка почты...
+2017-03-17 13:54:34 - INFO --> Тема; 'РАСПРОДАЖА коллекции NESCO 2016(1)'
+2017-03-17 13:54:34 - DEBUG --> csi-mto@yandex.ru
+2017-03-17 13:54:34 - INFO --> сообщение отправлено; 'csi-mto@yandex.ru'
+2017-03-17 13:54:34 - INFO --> (0.0164 сек.)
+2017-03-17 14:11:35 - INFO --> Отсылка почты...
+2017-03-17 14:11:35 - INFO --> Тема; 'ОЛИМПИК СПОРТ каталог экипировка 2016'
+2017-03-17 14:11:35 - DEBUG --> mtbss@mail.ru
+2017-03-17 14:11:35 - INFO --> сообщение отправлено; 'mtbss@mail.ru'
+2017-03-17 14:11:35 - INFO --> (0.0104 сек.)
+2017-03-17 14:33:49 - INFO --> Отсылка почты...
+2017-03-17 14:33:49 - INFO --> Тема; 'ОЛИМПИК СПОРТ каталог экипировка 2016'
+2017-03-17 14:33:49 - DEBUG --> makeeva.NB@mail.ru
+2017-03-17 14:33:49 - INFO --> сообщение отправлено; 'makeeva.NB@mail.ru'
+2017-03-17 14:33:49 - INFO --> (0.0206 сек.)
+2017-03-17 14:48:24 - INFO --> Отсылка почты...
+2017-03-17 14:48:24 - INFO --> Тема; 'ОЛИМПИК СПОРТ каталог экипировка 2016'
+2017-03-17 14:48:24 - DEBUG --> cspskro2015@mail.ru
+2017-03-17 14:48:24 - INFO --> сообщение отправлено; 'cspskro2015@mail.ru'
+2017-03-17 14:48:24 - INFO --> (0.0109 сек.)
+2017-03-17 15:01:36 - INFO --> Отсылка почты...
+2017-03-17 15:01:36 - INFO --> Тема; 'Экипировка для гребли  NESCO каталог 2016(1)'
+2017-03-17 15:01:36 - DEBUG --> gurocsp-1@yandex.ru
+2017-03-17 15:01:36 - INFO --> сообщение отправлено; 'gurocsp-1@yandex.ru'
+2017-03-17 15:01:36 - INFO --> (0.0176 сек.)
+2017-03-17 15:56:00 - INFO --> Отсылка почты...
+2017-03-17 15:56:00 - INFO --> Тема; 'ОЛИМПИК СПОРТ каталог экипировка 2016'
+2017-03-17 15:56:00 - DEBUG --> csp62rus@mail.ru
+2017-03-17 15:56:00 - INFO --> сообщение отправлено; 'csp62rus@mail.ru'
+2017-03-17 15:56:00 - INFO --> (0.0115 сек.)
+2017-03-17 16:15:05 - INFO --> Отсылка почты...
+2017-03-17 16:15:05 - INFO --> Тема; 'Экипировка для гребли  NESCO каталог 2016(1)'
+2017-03-17 16:15:05 - DEBUG --> taep4ik@mail.ru, maksurin@mail.ru, sport@ynmoscow.ru, rowing@ynmoscow.ru, uor2@mos.ru, svirin@uor2.ru, alexeysvirin78@mail.ru, scherbakova@uor2.ru, yacun@uor2.ru,  evs30142@rambler.ru   , dimaprokofev@yandex.ru, covs-mo@mail.ru, info@guorbron.ru,  sduchor_1@mail.ru, z.rita1962@mail.ru, dussh-ruza@yandex.ru, spgspartak@mail.ru, kolomna_rowing@mail.ru, info@rowingclub.ru, academgr.nn@mail.ru, agkaluga@mail.ru, sargrebli@yandex.ru, info@watersport.org.ru, rowing-kld@rambler.ru, rowingenergy@gmail.com, sortsport@yandex.ru, hssvvs@mail.ru, sveta.shishakova@mail.ru, sdyushor-greblya@yandex.ru , gckaspiy@yandex.ru, olimp.tikhonov@yandex.ru, sport-shkola@lipetsk.ru, sdushor-10-Lipetsk@yandex.ru, lanasport@list.ru, Lip.ODYSAH@mail.ru, info@olimp-nov.ru , dysch_engels@mail.ru, spartakrowing@rambler.ru, kayak_canoe.kub@mail.ru , brsport2006@yandex.ru, kazanrowing@mail.ru, u4olimp@mail.ru , nikarowing@rambler.ru , rowing-tver@rambler.ru, sport-shkola-6@mail.ru, sport36sd1@mail.ru, sport_centr36@mail.ru, guor63@mail.ru, sdusshor.dts@mail.ru  , mouviktoria@yandex.ru ,  gou_olimpic@mail.ru, tebenihinvv@mail.ru, sport-pl@mail.ru, rgk2003@yandex.ru, dushb2012@yandex.ru, sdushor6yar@yandex.ru
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'taep4ik@mail.ru'
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'maksurin@mail.ru'
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'sport@ynmoscow.ru'
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'rowing@ynmoscow.ru'
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'uor2@mos.ru'
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'svirin@uor2.ru'
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'alexeysvirin78@mail.ru'
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'scherbakova@uor2.ru'
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'yacun@uor2.ru'
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'evs30142@rambler.ru'
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'dimaprokofev@yandex.ru'
+2017-03-17 16:15:05 - INFO --> сообщение отправлено; 'covs-mo@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'info@guorbron.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sduchor_1@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'z.rita1962@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'dussh-ruza@yandex.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'spgspartak@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'kolomna_rowing@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'info@rowingclub.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'academgr.nn@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'agkaluga@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sargrebli@yandex.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'info@watersport.org.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'rowing-kld@rambler.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'rowingenergy@gmail.com'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sortsport@yandex.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'hssvvs@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sveta.shishakova@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sdyushor-greblya@yandex.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'gckaspiy@yandex.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'olimp.tikhonov@yandex.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sport-shkola@lipetsk.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sdushor-10-Lipetsk@yandex.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'lanasport@list.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'Lip.ODYSAH@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'info@olimp-nov.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'dysch_engels@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'spartakrowing@rambler.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'kayak_canoe.kub@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'brsport2006@yandex.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'kazanrowing@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'u4olimp@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'nikarowing@rambler.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'rowing-tver@rambler.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sport-shkola-6@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sport36sd1@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sport_centr36@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'guor63@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sdusshor.dts@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'mouviktoria@yandex.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'gou_olimpic@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'tebenihinvv@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sport-pl@mail.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'rgk2003@yandex.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'dushb2012@yandex.ru'
+2017-03-17 16:15:06 - INFO --> сообщение отправлено; 'sdushor6yar@yandex.ru'
+2017-03-17 16:15:06 - INFO --> (1.0731 сек.)

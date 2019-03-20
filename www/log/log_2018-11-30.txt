@@ -1,0 +1,2044 @@
+2018-11-30 9:38:18 - INFO --> Отсылка почты...
+2018-11-30 9:38:18 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:38:18 - DEBUG --> don36pvl@yandex.ru
+2018-11-30 9:38:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:38:18 - INFO --> сообщение отправлено; 'don36pvl@yandex.ru'
+2018-11-30 9:38:18 - INFO --> (0.024 сек.)
+2018-11-30 9:38:44 - INFO --> Отсылка почты...
+2018-11-30 9:38:44 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:38:44 - DEBUG --> adminross@list.ru,otdel_fkis@list.ru
+2018-11-30 9:38:44 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:38:44 - INFO --> сообщение отправлено; 'adminross@list.ru'
+2018-11-30 9:38:44 - INFO --> сообщение отправлено; 'otdel_fkis@list.ru'
+2018-11-30 9:38:44 - INFO --> (0.0443 сек.)
+2018-11-30 9:39:03 - INFO --> Отсылка почты...
+2018-11-30 9:39:03 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:39:03 - DEBUG --> sport@cityhall.voronezh-city.ru
+2018-11-30 9:39:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:39:03 - INFO --> сообщение отправлено; 'sport@cityhall.voronezh-city.ru'
+2018-11-30 9:39:03 - INFO --> (0.0224 сек.)
+2018-11-30 9:39:19 - INFO --> Отсылка почты...
+2018-11-30 9:39:19 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:39:19 - DEBUG --> abr-sport2468@yandex.ru
+2018-11-30 9:39:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:39:19 - INFO --> сообщение отправлено; 'abr-sport2468@yandex.ru'
+2018-11-30 9:39:19 - INFO --> (0.0224 сек.)
+2018-11-30 9:40:24 - INFO --> Отсылка почты...
+2018-11-30 9:40:24 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:40:24 - DEBUG --> admin-sport070@rambler.ru
+2018-11-30 9:40:24 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:40:24 - INFO --> сообщение отправлено; 'admin-sport070@rambler.ru'
+2018-11-30 9:40:24 - INFO --> (0.0333 сек.)
+2018-11-30 9:41:05 - INFO --> Отсылка почты...
+2018-11-30 9:41:05 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:41:05 - DEBUG --> kolesnikov@yandex.ru
+2018-11-30 9:41:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:41:05 - INFO --> сообщение отправлено; 'kolesnikov@yandex.ru'
+2018-11-30 9:41:05 - INFO --> (0.0226 сек.)
+2018-11-30 9:41:25 - INFO --> Отсылка почты...
+2018-11-30 9:41:25 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:41:25 - DEBUG --> mr.bogdanovd@yandex.ru
+2018-11-30 9:41:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:41:25 - INFO --> сообщение отправлено; 'mr.bogdanovd@yandex.ru'
+2018-11-30 9:41:25 - INFO --> (0.0222 сек.)
+2018-11-30 9:41:40 - INFO --> Отсылка почты...
+2018-11-30 9:41:40 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:41:40 - DEBUG --> ofkst_kan@mail.ru
+2018-11-30 9:41:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:41:40 - INFO --> сообщение отправлено; 'ofkst_kan@mail.ru'
+2018-11-30 9:41:40 - INFO --> (0.0216 сек.)
+2018-11-30 9:42:22 - INFO --> Отсылка почты...
+2018-11-30 9:42:22 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:42:22 - DEBUG --> kashirakul@yandex.ru
+2018-11-30 9:42:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:42:22 - INFO --> сообщение отправлено; 'kashirakul@yandex.ru'
+2018-11-30 9:42:22 - INFO --> (0.0287 сек.)
+2018-11-30 9:42:58 - INFO --> Отсылка почты...
+2018-11-30 9:42:58 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:42:58 - DEBUG --> marina.nosova.1991@mail.ru
+2018-11-30 9:42:58 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:42:58 - INFO --> сообщение отправлено; 'marina.nosova.1991@mail.ru'
+2018-11-30 9:42:58 - INFO --> (0.0268 сек.)
+2018-11-30 9:43:28 - INFO --> Отсылка почты...
+2018-11-30 9:43:28 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:43:28 - DEBUG --> novohoper@govvrn.ru
+2018-11-30 9:43:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:43:28 - INFO --> сообщение отправлено; 'novohoper@govvrn.ru'
+2018-11-30 9:43:28 - INFO --> (0.0226 сек.)
+2018-11-30 9:44:08 - INFO --> Отсылка почты...
+2018-11-30 9:44:08 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:44:08 - DEBUG --> olhsport@mail.ru
+2018-11-30 9:44:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:44:08 - INFO --> сообщение отправлено; 'olhsport@mail.ru'
+2018-11-30 9:44:08 - INFO --> (0.0226 сек.)
+2018-11-30 9:44:27 - INFO --> Отсылка почты...
+2018-11-30 9:44:27 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:44:27 - DEBUG --> otdelfk-ostr@mail.ru, ostro@govvrn.ru
+2018-11-30 9:44:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:44:27 - INFO --> сообщение отправлено; 'otdelfk-ostr@mail.ru'
+2018-11-30 9:44:27 - INFO --> сообщение отправлено; 'ostro@govvrn.ru'
+2018-11-30 9:44:27 - INFO --> (0.0457 сек.)
+2018-11-30 9:44:57 - INFO --> Отсылка почты...
+2018-11-30 9:44:57 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:44:57 - DEBUG --> ppavl@govvrn.ru, kulturi.otdel@yandex.ru
+2018-11-30 9:44:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:44:57 - INFO --> сообщение отправлено; 'ppavl@govvrn.ru'
+2018-11-30 9:44:57 - INFO --> сообщение отправлено; 'kulturi.otdel@yandex.ru'
+2018-11-30 9:44:57 - INFO --> (0.0681 сек.)
+2018-11-30 9:57:11 - INFO --> Отсылка почты...
+2018-11-30 9:57:11 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:57:11 - DEBUG --> povorinosport@mail.ru
+2018-11-30 9:57:11 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:57:11 - INFO --> сообщение отправлено; 'povorinosport@mail.ru'
+2018-11-30 9:57:11 - INFO --> (0.0229 сек.)
+2018-11-30 9:57:29 - INFO --> Отсылка почты...
+2018-11-30 9:57:29 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:57:29 - DEBUG --> podgorobrazovanie@yandex.ru
+2018-11-30 9:57:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:57:29 - INFO --> сообщение отправлено; 'podgorobrazovanie@yandex.ru'
+2018-11-30 9:57:29 - INFO --> (0.0222 сек.)
+2018-11-30 9:57:48 - INFO --> Отсылка почты...
+2018-11-30 9:57:48 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:57:48 - DEBUG --> sport.ramon@yandex.ru
+2018-11-30 9:57:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:57:48 - INFO --> сообщение отправлено; 'sport.ramon@yandex.ru'
+2018-11-30 9:57:48 - INFO --> (0.0325 сек.)
+2018-11-30 9:58:03 - INFO --> Отсылка почты...
+2018-11-30 9:58:03 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:58:03 - DEBUG --> mku_cfkis@mail.ru
+2018-11-30 9:58:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:58:03 - INFO --> сообщение отправлено; 'mku_cfkis@mail.ru'
+2018-11-30 9:58:03 - INFO --> (0.0241 сек.)
+2018-11-30 9:58:19 - INFO --> Отсылка почты...
+2018-11-30 9:58:19 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:58:19 - DEBUG --> semil.adm.sport@mail.ru
+2018-11-30 9:58:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:58:19 - INFO --> сообщение отправлено; 'semil.adm.sport@mail.ru'
+2018-11-30 9:58:19 - INFO --> (0.0222 сек.)
+2018-11-30 9:58:36 - INFO --> Отсылка почты...
+2018-11-30 9:58:36 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:58:36 - DEBUG --> sport-schein2015@yandex.ru
+2018-11-30 9:58:36 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:58:36 - INFO --> сообщение отправлено; 'sport-schein2015@yandex.ru'
+2018-11-30 9:58:36 - INFO --> (0.0227 сек.)
+2018-11-30 9:58:52 - INFO --> Отсылка почты...
+2018-11-30 9:58:52 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:58:52 - DEBUG --> terndush@mail.ru
+2018-11-30 9:58:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:58:52 - INFO --> сообщение отправлено; 'terndush@mail.ru'
+2018-11-30 9:58:52 - INFO --> (0.0227 сек.)
+2018-11-30 9:59:08 - INFO --> Отсылка почты...
+2018-11-30 9:59:08 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:59:08 - DEBUG --> hohrono@mail.ru
+2018-11-30 9:59:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:59:08 - INFO --> сообщение отправлено; 'hohrono@mail.ru'
+2018-11-30 9:59:08 - INFO --> (0.0239 сек.)
+2018-11-30 9:59:25 - INFO --> Отсылка почты...
+2018-11-30 9:59:25 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 9:59:25 - DEBUG --> sport.gornyak@mail.ru
+2018-11-30 9:59:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 9:59:25 - INFO --> сообщение отправлено; 'sport.gornyak@mail.ru'
+2018-11-30 9:59:25 - INFO --> (0.0233 сек.)
+2018-11-30 10:00:29 - INFO --> Отсылка почты...
+2018-11-30 10:00:29 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:00:29 - DEBUG --> sport@gov37.ivanovo.ru
+2018-11-30 10:00:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:00:29 - INFO --> сообщение отправлено; 'sport@gov37.ivanovo.ru'
+2018-11-30 10:00:29 - INFO --> (0.025 сек.)
+2018-11-30 10:00:46 - INFO --> Отсылка почты...
+2018-11-30 10:00:46 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:00:46 - DEBUG --> ol_dmitr@mail.ru
+2018-11-30 10:00:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:00:46 - INFO --> сообщение отправлено; 'ol_dmitr@mail.ru'
+2018-11-30 10:00:46 - INFO --> (0.024 сек.)
+2018-11-30 10:01:02 - INFO --> Отсылка почты...
+2018-11-30 10:01:02 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:01:02 - DEBUG --> ifb2012@mail.ru
+2018-11-30 10:01:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:01:02 - INFO --> сообщение отправлено; 'ifb2012@mail.ru'
+2018-11-30 10:01:02 - INFO --> (0.023 сек.)
+2018-11-30 10:01:22 - INFO --> Отсылка почты...
+2018-11-30 10:01:22 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:01:22 - DEBUG --> volley37@yandex.ru
+2018-11-30 10:01:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:01:22 - INFO --> сообщение отправлено; 'volley37@yandex.ru'
+2018-11-30 10:01:22 - INFO --> (0.0253 сек.)
+2018-11-30 10:01:38 - INFO --> Отсылка почты...
+2018-11-30 10:01:38 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:01:38 - DEBUG --> 6324530@mail.ru
+2018-11-30 10:01:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:01:38 - INFO --> сообщение отправлено; '6324530@mail.ru'
+2018-11-30 10:01:38 - INFO --> (0.0227 сек.)
+2018-11-30 10:01:54 - INFO --> Отсылка почты...
+2018-11-30 10:01:54 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:01:54 - DEBUG --> goroshuk.iv@mail.ru
+2018-11-30 10:01:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:01:54 - INFO --> сообщение отправлено; 'goroshuk.iv@mail.ru'
+2018-11-30 10:01:54 - INFO --> (0.0236 сек.)
+2018-11-30 10:02:15 - INFO --> Отсылка почты...
+2018-11-30 10:02:15 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:02:15 - DEBUG --> orangeball2007@rambler.ru
+2018-11-30 10:02:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:02:15 - INFO --> сообщение отправлено; 'orangeball2007@rambler.ru'
+2018-11-30 10:02:15 - INFO --> (0.0226 сек.)
+2018-11-30 10:02:33 - INFO --> Отсылка почты...
+2018-11-30 10:02:33 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:02:33 - DEBUG --> sportschool5@mail.ru
+2018-11-30 10:02:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:02:33 - INFO --> сообщение отправлено; 'sportschool5@mail.ru'
+2018-11-30 10:02:33 - INFO --> (0.0226 сек.)
+2018-11-30 10:03:06 - INFO --> Отсылка почты...
+2018-11-30 10:03:06 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:03:06 - DEBUG --> \&quot;box-ivanovo@mail.ru, ms-6262@mail.ru
+2018-11-30 10:03:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:03:06 - INFO --> (0.0003 сек.)
+2018-11-30 10:03:35 - INFO --> Отсылка почты...
+2018-11-30 10:03:35 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:03:35 - DEBUG --> box-ivanovo@mail.ru, ms-6262@mail.ru
+2018-11-30 10:03:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:03:35 - INFO --> сообщение отправлено; 'box-ivanovo@mail.ru'
+2018-11-30 10:03:35 - INFO --> сообщение отправлено; 'ms-6262@mail.ru'
+2018-11-30 10:03:35 - INFO --> (0.0566 сек.)
+2018-11-30 10:03:51 - INFO --> Отсылка почты...
+2018-11-30 10:03:51 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:03:51 - DEBUG --> ivspartak8@yandex.ru
+2018-11-30 10:03:51 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:03:51 - INFO --> сообщение отправлено; 'ivspartak8@yandex.ru'
+2018-11-30 10:03:51 - INFO --> (0.0353 сек.)
+2018-11-30 10:04:10 - INFO --> Отсылка почты...
+2018-11-30 10:04:10 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:04:10 - DEBUG --> sdyusshor3.ivanovo@yandex.ru
+2018-11-30 10:04:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:04:10 - INFO --> сообщение отправлено; 'sdyusshor3.ivanovo@yandex.ru'
+2018-11-30 10:04:10 - INFO --> (0.0226 сек.)
+2018-11-30 10:08:53 - INFO --> Отсылка почты...
+2018-11-30 10:08:53 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:08:53 - DEBUG --> olimp-edin7@mail.ru
+2018-11-30 10:08:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:08:53 - INFO --> сообщение отправлено; 'olimp-edin7@mail.ru'
+2018-11-30 10:08:53 - INFO --> (0.0298 сек.)
+2018-11-30 10:09:34 - INFO --> Отсылка почты...
+2018-11-30 10:09:34 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:09:34 - DEBUG --> sportshkola9@mail.ru
+2018-11-30 10:09:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:09:34 - INFO --> сообщение отправлено; 'sportshkola9@mail.ru'
+2018-11-30 10:09:34 - INFO --> (0.0305 сек.)
+2018-11-30 10:09:50 - INFO --> Отсылка почты...
+2018-11-30 10:09:50 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:09:50 - DEBUG --> gorsportcom@yandex.ru
+2018-11-30 10:09:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:09:50 - INFO --> сообщение отправлено; 'gorsportcom@yandex.ru'
+2018-11-30 10:09:50 - INFO --> (0.0261 сек.)
+2018-11-30 10:10:07 - INFO --> Отсылка почты...
+2018-11-30 10:10:07 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:10:07 - DEBUG --> dush-10@mail.ru
+2018-11-30 10:10:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:10:07 - INFO --> сообщение отправлено; 'dush-10@mail.ru'
+2018-11-30 10:10:07 - INFO --> (0.0305 сек.)
+2018-11-30 10:16:44 - INFO --> Отсылка почты...
+2018-11-30 10:16:44 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:16:44 - DEBUG --> zdyussh@mail.ru
+2018-11-30 10:16:44 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:16:44 - INFO --> сообщение отправлено; 'zdyussh@mail.ru'
+2018-11-30 10:16:44 - INFO --> (0.0228 сек.)
+2018-11-30 10:17:14 - INFO --> Отсылка почты...
+2018-11-30 10:17:14 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:17:14 - DEBUG --> sportcomkinehma@mail.ru
+2018-11-30 10:17:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:17:14 - INFO --> сообщение отправлено; 'sportcomkinehma@mail.ru'
+2018-11-30 10:17:14 - INFO --> (0.0231 сек.)
+2018-11-30 10:17:33 - INFO --> Отсылка почты...
+2018-11-30 10:17:33 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:17:33 - DEBUG --> arena-kineshma@mail.ru
+2018-11-30 10:17:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:17:33 - INFO --> сообщение отправлено; 'arena-kineshma@mail.ru'
+2018-11-30 10:17:33 - INFO --> (0.0232 сек.)
+2018-11-30 10:19:22 - INFO --> Отсылка почты...
+2018-11-30 10:19:22 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:19:22 - DEBUG --> volganinsport@mail.ru
+2018-11-30 10:19:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:19:22 - INFO --> сообщение отправлено; 'volganinsport@mail.ru'
+2018-11-30 10:19:22 - INFO --> (0.0363 сек.)
+2018-11-30 10:19:38 - INFO --> Отсылка почты...
+2018-11-30 10:19:38 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:19:38 - DEBUG --> aleksey_kudryavcev_80@mail.ru
+2018-11-30 10:19:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:19:38 - INFO --> сообщение отправлено; 'aleksey_kudryavcev_80@mail.ru'
+2018-11-30 10:19:38 - INFO --> (0.0423 сек.)
+2018-11-30 10:20:32 - INFO --> Отсылка почты...
+2018-11-30 10:20:32 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:20:32 - DEBUG --> dyush2006kohma@mail.ru
+2018-11-30 10:20:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:20:32 - INFO --> сообщение отправлено; 'dyush2006kohma@mail.ru'
+2018-11-30 10:20:32 - INFO --> (0.0228 сек.)
+2018-11-30 10:20:49 - INFO --> Отсылка почты...
+2018-11-30 10:20:49 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:20:49 - DEBUG --> dyussh77@mail.ru
+2018-11-30 10:20:49 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:20:49 - INFO --> сообщение отправлено; 'dyussh77@mail.ru'
+2018-11-30 10:20:49 - INFO --> (0.0279 сек.)
+2018-11-30 10:21:04 - INFO --> Отсылка почты...
+2018-11-30 10:21:04 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:21:04 - DEBUG --> dyusshgteykovo@mail.ru
+2018-11-30 10:21:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:21:04 - INFO --> сообщение отправлено; 'dyusshgteykovo@mail.ru'
+2018-11-30 10:21:04 - INFO --> (0.023 сек.)
+2018-11-30 10:21:20 - INFO --> Отсылка почты...
+2018-11-30 10:21:20 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:21:20 - DEBUG --> dysh-furm@mail.ru
+2018-11-30 10:21:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:21:20 - INFO --> сообщение отправлено; 'dysh-furm@mail.ru'
+2018-11-30 10:21:20 - INFO --> (0.0222 сек.)
+2018-11-30 10:21:35 - INFO --> Отсылка почты...
+2018-11-30 10:21:35 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:21:35 - DEBUG --> shuyadush@mail.ru
+2018-11-30 10:21:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:21:35 - INFO --> сообщение отправлено; 'shuyadush@mail.ru'
+2018-11-30 10:21:35 - INFO --> (0.0212 сек.)
+2018-11-30 10:21:54 - INFO --> Отсылка почты...
+2018-11-30 10:21:54 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:21:54 - DEBUG --> doosc@mail.ru
+2018-11-30 10:21:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:21:54 - INFO --> сообщение отправлено; 'doosc@mail.ru'
+2018-11-30 10:21:54 - INFO --> (0.0302 сек.)
+2018-11-30 10:22:09 - INFO --> Отсылка почты...
+2018-11-30 10:22:09 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:22:09 - DEBUG --> dfooc@yandex.ru
+2018-11-30 10:22:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:22:09 - INFO --> сообщение отправлено; 'dfooc@yandex.ru'
+2018-11-30 10:22:09 - INFO --> (0.0222 сек.)
+2018-11-30 10:22:26 - INFO --> Отсылка почты...
+2018-11-30 10:22:26 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:22:26 - DEBUG --> olimp48@bk.ru
+2018-11-30 10:22:26 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:22:26 - INFO --> сообщение отправлено; 'olimp48@bk.ru'
+2018-11-30 10:22:26 - INFO --> (0.0227 сек.)
+2018-11-30 10:22:43 - INFO --> Отсылка почты...
+2018-11-30 10:22:43 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:22:43 - DEBUG --> Sport.tsvetkova@yandex.ru
+2018-11-30 10:22:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:22:43 - INFO --> сообщение отправлено; 'Sport.tsvetkova@yandex.ru'
+2018-11-30 10:22:43 - INFO --> (0.0232 сек.)
+2018-11-30 10:23:02 - INFO --> Отсылка почты...
+2018-11-30 10:23:02 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:23:02 - DEBUG --> moudodusshtr@yandex.ru
+2018-11-30 10:23:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:23:02 - INFO --> сообщение отправлено; 'moudodusshtr@yandex.ru'
+2018-11-30 10:23:02 - INFO --> (0.0224 сек.)
+2018-11-30 10:23:19 - INFO --> Отсылка почты...
+2018-11-30 10:23:19 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:23:19 - DEBUG --> sportb.dootz@yandex.ru
+2018-11-30 10:23:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:23:19 - INFO --> сообщение отправлено; 'sportb.dootz@yandex.ru'
+2018-11-30 10:23:19 - INFO --> (0.0225 сек.)
+2018-11-30 10:23:37 - INFO --> Отсылка почты...
+2018-11-30 10:23:37 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:23:37 - DEBUG --> dyussh.yurevets@mail.ru
+2018-11-30 10:23:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:23:37 - INFO --> сообщение отправлено; 'dyussh.yurevets@mail.ru'
+2018-11-30 10:23:37 - INFO --> (0.0318 сек.)
+2018-11-30 10:23:54 - INFO --> Отсылка почты...
+2018-11-30 10:23:54 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:23:54 - DEBUG --> sportmir08@inbox.ru
+2018-11-30 10:23:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:23:54 - INFO --> сообщение отправлено; 'sportmir08@inbox.ru'
+2018-11-30 10:23:54 - INFO --> (0.0324 сек.)
+2018-11-30 10:24:27 - INFO --> Отсылка почты...
+2018-11-30 10:24:27 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:24:27 - DEBUG --> info@vlandeh-admin.ru, okss@vlandeh-admin.ru
+2018-11-30 10:24:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:24:28 - INFO --> сообщение отправлено; 'info@vlandeh-admin.ru'
+2018-11-30 10:24:28 - INFO --> сообщение отправлено; 'okss@vlandeh-admin.ru'
+2018-11-30 10:24:28 - INFO --> (0.0429 сек.)
+2018-11-30 10:24:52 - INFO --> Отсылка почты...
+2018-11-30 10:24:52 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:24:52 - DEBUG --> adm-202@mail.ru
+2018-11-30 10:24:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:24:52 - INFO --> сообщение отправлено; 'adm-202@mail.ru'
+2018-11-30 10:24:52 - INFO --> (0.0241 сек.)
+2018-11-30 10:25:08 - INFO --> Отсылка почты...
+2018-11-30 10:25:08 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:25:08 - DEBUG --> 37zavadm@rambler.ru, omks37@yandex.ru
+2018-11-30 10:25:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:25:08 - INFO --> сообщение отправлено; '37zavadm@rambler.ru'
+2018-11-30 10:25:08 - INFO --> сообщение отправлено; 'omks37@yandex.ru'
+2018-11-30 10:25:08 - INFO --> (0.0548 сек.)
+2018-11-30 10:25:42 - INFO --> Отсылка почты...
+2018-11-30 10:25:42 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:25:42 - DEBUG --> ilin@admilinskoe.ru
+2018-11-30 10:25:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:25:42 - INFO --> сообщение отправлено; 'ilin@admilinskoe.ru'
+2018-11-30 10:25:42 - INFO --> (0.0275 сек.)
+2018-11-30 10:26:02 - INFO --> Отсылка почты...
+2018-11-30 10:26:02 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:26:02 - DEBUG --> root@mrkineshma.ru
+2018-11-30 10:26:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:26:02 - INFO --> сообщение отправлено; 'root@mrkineshma.ru'
+2018-11-30 10:26:02 - INFO --> (0.0246 сек.)
+2018-11-30 10:26:21 - INFO --> Отсылка почты...
+2018-11-30 10:26:21 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:26:21 - DEBUG --> admin.komsomolsk@mail.ru,  koms.okms@mail.ru
+2018-11-30 10:26:21 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:26:21 - INFO --> сообщение отправлено; 'admin.komsomolsk@mail.ru'
+2018-11-30 10:26:21 - INFO --> сообщение отправлено; 'koms.okms@mail.ru'
+2018-11-30 10:26:21 - INFO --> (0.0449 сек.)
+2018-11-30 10:26:38 - INFO --> Отсылка почты...
+2018-11-30 10:26:38 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:26:38 - DEBUG --> glava.luh@yandex.ru, olmi29@yandex.ru
+2018-11-30 10:26:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:26:38 - INFO --> сообщение отправлено; 'glava.luh@yandex.ru'
+2018-11-30 10:26:38 - INFO --> сообщение отправлено; 'olmi29@yandex.ru'
+2018-11-30 10:26:38 - INFO --> (0.0426 сек.)
+2018-11-30 10:26:54 - INFO --> Отсылка почты...
+2018-11-30 10:26:54 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:26:54 - DEBUG --> paleh@gov37.ivanovo.ru
+2018-11-30 10:26:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:26:54 - INFO --> сообщение отправлено; 'paleh@gov37.ivanovo.ru'
+2018-11-30 10:26:54 - INFO --> (0.023 сек.)
+2018-11-30 10:27:10 - INFO --> Отсылка почты...
+2018-11-30 10:27:10 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:27:10 - DEBUG --> rayadm01@yandex.ru
+2018-11-30 10:27:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:27:10 - INFO --> сообщение отправлено; 'rayadm01@yandex.ru'
+2018-11-30 10:27:10 - INFO --> (0.0236 сек.)
+2018-11-30 10:27:26 - INFO --> Отсылка почты...
+2018-11-30 10:27:26 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:27:26 - DEBUG --> reception@privadmin.ru
+2018-11-30 10:27:26 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:27:26 - INFO --> сообщение отправлено; 'reception@privadmin.ru'
+2018-11-30 10:27:26 - INFO --> (0.0335 сек.)
+2018-11-30 10:27:42 - INFO --> Отсылка почты...
+2018-11-30 10:27:42 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:27:42 - DEBUG --> admpmr@ya.ru, puchroo@mail.ru
+2018-11-30 10:27:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:27:42 - INFO --> сообщение отправлено; 'admpmr@ya.ru'
+2018-11-30 10:27:42 - INFO --> сообщение отправлено; 'puchroo@mail.ru'
+2018-11-30 10:27:42 - INFO --> (0.0621 сек.)
+2018-11-30 10:28:10 - INFO --> Отсылка почты...
+2018-11-30 10:28:10 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:28:10 - DEBUG --> rodniki-mo@mail.ru
+2018-11-30 10:28:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:28:10 - INFO --> сообщение отправлено; 'rodniki-mo@mail.ru'
+2018-11-30 10:28:10 - INFO --> (0.0304 сек.)
+2018-11-30 10:28:41 - INFO --> Отсылка почты...
+2018-11-30 10:28:41 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:28:41 - DEBUG --> 6-55@mail.ru
+2018-11-30 10:28:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:28:41 - INFO --> сообщение отправлено; '6-55@mail.ru'
+2018-11-30 10:28:41 - INFO --> (0.0233 сек.)
+2018-11-30 10:28:46 - INFO --> Отсылка почты...
+2018-11-30 10:28:46 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:28:46 - DEBUG --> mko@sport.tambov.gov.ru
+2018-11-30 10:28:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:28:46 - INFO --> сообщение отправлено; 'mko@sport.tambov.gov.ru'
+2018-11-30 10:28:46 - INFO --> (0.0233 сек.)
+2018-11-30 10:29:05 - INFO --> Отсылка почты...
+2018-11-30 10:29:05 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:29:05 - DEBUG --> priem.teikovo.raion@mail.ru, teikovo.raion@mail.ru
+2018-11-30 10:29:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:29:05 - INFO --> сообщение отправлено; 'priem.teikovo.raion@mail.ru'
+2018-11-30 10:29:05 - INFO --> сообщение отправлено; 'teikovo.raion@mail.ru'
+2018-11-30 10:29:05 - INFO --> (0.0501 сек.)
+2018-11-30 10:29:30 - INFO --> Отсылка почты...
+2018-11-30 10:29:30 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:29:30 - DEBUG --> furm_city@rambler.ru
+2018-11-30 10:29:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:29:30 - INFO --> сообщение отправлено; 'furm_city@rambler.ru'
+2018-11-30 10:29:30 - INFO --> (0.0266 сек.)
+2018-11-30 10:29:46 - INFO --> Отсылка почты...
+2018-11-30 10:29:46 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:29:46 - DEBUG --> adm-shr@mail.ru, kultura37@mail.ru
+2018-11-30 10:29:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:29:46 - INFO --> сообщение отправлено; 'adm-shr@mail.ru'
+2018-11-30 10:29:46 - INFO --> сообщение отправлено; 'kultura37@mail.ru'
+2018-11-30 10:29:46 - INFO --> (0.048 сек.)
+2018-11-30 10:30:02 - INFO --> Отсылка почты...
+2018-11-30 10:30:02 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:30:02 - DEBUG --> yuzhaadm@yuzha.ru, social@yuzha.ru, turizm@yuzha.ru
+2018-11-30 10:30:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:30:02 - INFO --> сообщение отправлено; 'yuzhaadm@yuzha.ru'
+2018-11-30 10:30:02 - INFO --> сообщение отправлено; 'social@yuzha.ru'
+2018-11-30 10:30:02 - INFO --> сообщение отправлено; 'turizm@yuzha.ru'
+2018-11-30 10:30:02 - INFO --> (0.0622 сек.)
+2018-11-30 10:30:09 - INFO --> Отсылка почты...
+2018-11-30 10:30:09 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:30:09 - DEBUG --> post-ksport@cityadm.tambov.gov.ru, stgn@cityadm.tambov.gov.ru
+2018-11-30 10:30:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:30:09 - INFO --> сообщение отправлено; 'post-ksport@cityadm.tambov.gov.ru'
+2018-11-30 10:30:09 - INFO --> сообщение отправлено; 'stgn@cityadm.tambov.gov.ru'
+2018-11-30 10:30:09 - INFO --> (0.0419 сек.)
+2018-11-30 10:30:19 - INFO --> Отсылка почты...
+2018-11-30 10:30:19 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:30:19 - DEBUG --> adm@yurevets.ru, yurevets.adm@mail.ru
+2018-11-30 10:30:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:30:19 - INFO --> сообщение отправлено; 'adm@yurevets.ru'
+2018-11-30 10:30:19 - INFO --> сообщение отправлено; 'yurevets.adm@mail.ru'
+2018-11-30 10:30:19 - INFO --> (0.0424 сек.)
+2018-11-30 10:30:44 - INFO --> Отсылка почты...
+2018-11-30 10:30:44 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:30:44 - DEBUG --> post@obraz.tambov.gov.ru, rnv@obraz.tambov.gov.ru
+2018-11-30 10:30:44 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:30:44 - INFO --> сообщение отправлено; 'post@obraz.tambov.gov.ru'
+2018-11-30 10:30:44 - INFO --> сообщение отправлено; 'rnv@obraz.tambov.gov.ru'
+2018-11-30 10:30:44 - INFO --> (0.0431 сек.)
+2018-11-30 10:31:26 - INFO --> Отсылка почты...
+2018-11-30 10:31:26 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:31:26 - DEBUG --> post@cityadm.tambov.gov.ru
+2018-11-30 10:31:26 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:31:26 - INFO --> сообщение отправлено; 'post@cityadm.tambov.gov.ru'
+2018-11-30 10:31:26 - INFO --> (0.0296 сек.)
+2018-11-30 10:31:41 - INFO --> Отсылка почты...
+2018-11-30 10:31:41 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:31:41 - DEBUG --> v.kharlukova@govirk.ru
+2018-11-30 10:31:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:31:41 - INFO --> сообщение отправлено; 'v.kharlukova@govirk.ru'
+2018-11-30 10:31:41 - INFO --> (0.0225 сек.)
+2018-11-30 10:31:58 - INFO --> Отсылка почты...
+2018-11-30 10:31:58 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:31:58 - DEBUG --> odm1@irkadm.ru, shangin@admirk.ru
+2018-11-30 10:31:58 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:31:58 - INFO --> сообщение отправлено; 'odm1@irkadm.ru'
+2018-11-30 10:31:58 - INFO --> сообщение отправлено; 'shangin@admirk.ru'
+2018-11-30 10:31:58 - INFO --> (0.043 сек.)
+2018-11-30 10:32:00 - INFO --> Отсылка почты...
+2018-11-30 10:32:00 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:32:00 - DEBUG --> post@r34.tambov.gov.ru
+2018-11-30 10:32:00 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:32:00 - INFO --> сообщение отправлено; 'post@r34.tambov.gov.ru'
+2018-11-30 10:32:00 - INFO --> (0.0399 сек.)
+2018-11-30 10:32:25 - INFO --> Отсылка почты...
+2018-11-30 10:32:25 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:32:25 - DEBUG --> dep_obr@admirk.ru
+2018-11-30 10:32:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:32:25 - INFO --> сообщение отправлено; 'dep_obr@admirk.ru'
+2018-11-30 10:32:25 - INFO --> (0.0218 сек.)
+2018-11-30 10:32:30 - INFO --> Отсылка почты...
+2018-11-30 10:32:30 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:32:30 - DEBUG --> kvu@r51.tambov.gov.ru
+2018-11-30 10:32:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:32:30 - INFO --> сообщение отправлено; 'kvu@r51.tambov.gov.ru'
+2018-11-30 10:32:30 - INFO --> (0.0247 сек.)
+2018-11-30 10:32:45 - INFO --> Отсылка почты...
+2018-11-30 10:32:45 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:32:45 - DEBUG --> kovalev74@mail.ru
+2018-11-30 10:32:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:32:45 - INFO --> сообщение отправлено; 'kovalev74@mail.ru'
+2018-11-30 10:32:45 - INFO --> (0.0269 сек.)
+2018-11-30 10:32:58 - INFO --> Отсылка почты...
+2018-11-30 10:32:58 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:32:58 - DEBUG --> sport@r35.tambov.gov.ru
+2018-11-30 10:32:58 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:32:58 - INFO --> сообщение отправлено; 'sport@r35.tambov.gov.ru'
+2018-11-30 10:32:58 - INFO --> (0.0229 сек.)
+2018-11-30 10:33:02 - INFO --> Отсылка почты...
+2018-11-30 10:33:02 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:33:02 - DEBUG --> volleyball.federation@mail.ru
+2018-11-30 10:33:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:33:02 - INFO --> сообщение отправлено; 'volleyball.federation@mail.ru'
+2018-11-30 10:33:02 - INFO --> (0.0217 сек.)
+2018-11-30 10:33:23 - INFO --> Отсылка почты...
+2018-11-30 10:33:23 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:33:23 - DEBUG --> mail@angarsk-adm.ru
+2018-11-30 10:33:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:33:23 - INFO --> сообщение отправлено; 'mail@angarsk-adm.ru'
+2018-11-30 10:33:23 - INFO --> (0.0239 сек.)
+2018-11-30 10:33:37 - INFO --> Отсылка почты...
+2018-11-30 10:33:37 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:33:37 - DEBUG --> post@r52.tambov.gov.ru
+2018-11-30 10:33:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:33:37 - INFO --> сообщение отправлено; 'post@r52.tambov.gov.ru'
+2018-11-30 10:33:37 - INFO --> (0.0276 сек.)
+2018-11-30 10:33:39 - INFO --> Отсылка почты...
+2018-11-30 10:33:39 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:33:39 - DEBUG --> ystilimsport@mail.ru
+2018-11-30 10:33:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:33:39 - INFO --> сообщение отправлено; 'ystilimsport@mail.ru'
+2018-11-30 10:33:39 - INFO --> (0.0235 сек.)
+2018-11-30 10:34:06 - INFO --> Отсылка почты...
+2018-11-30 10:34:06 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:34:06 - DEBUG --> sport.usole@mail.ru
+2018-11-30 10:34:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:34:06 - INFO --> сообщение отправлено; 'sport.usole@mail.ru'
+2018-11-30 10:34:06 - INFO --> (0.0244 сек.)
+2018-11-30 10:34:25 - INFO --> Отсылка почты...
+2018-11-30 10:34:25 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:34:25 - DEBUG --> kfks@mail.ru,molodejk@yandex.ru
+2018-11-30 10:34:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:34:25 - INFO --> сообщение отправлено; 'kfks@mail.ru'
+2018-11-30 10:34:25 - INFO --> сообщение отправлено; 'molodejk@yandex.ru'
+2018-11-30 10:34:25 - INFO --> (0.0419 сек.)
+2018-11-30 10:34:30 - INFO --> Отсылка почты...
+2018-11-30 10:34:30 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:34:30 - DEBUG --> molod@r53.tambov.gov.ru
+2018-11-30 10:34:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:34:30 - INFO --> сообщение отправлено; 'molod@r53.tambov.gov.ru'
+2018-11-30 10:34:30 - INFO --> (0.0232 сек.)
+2018-11-30 10:34:43 - INFO --> Отсылка почты...
+2018-11-30 10:34:43 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:34:43 - DEBUG --> ompustkut@mail.ru, naumov.korvin@yandex.ru
+2018-11-30 10:34:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:34:43 - INFO --> сообщение отправлено; 'ompustkut@mail.ru'
+2018-11-30 10:34:43 - INFO --> сообщение отправлено; 'naumov.korvin@yandex.ru'
+2018-11-30 10:34:43 - INFO --> (0.0443 сек.)
+2018-11-30 10:35:07 - INFO --> Отсылка почты...
+2018-11-30 10:35:07 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:35:07 - DEBUG --> obraz@r37.tambov.gov.ru
+2018-11-30 10:35:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:35:07 - INFO --> сообщение отправлено; 'obraz@r37.tambov.gov.ru'
+2018-11-30 10:35:07 - INFO --> (0.0227 сек.)
+2018-11-30 10:35:52 - INFO --> Отсылка почты...
+2018-11-30 10:35:52 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:35:52 - DEBUG --> mkult@r42.tambov.gov.ru
+2018-11-30 10:35:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:35:52 - INFO --> сообщение отправлено; 'mkult@r42.tambov.gov.ru'
+2018-11-30 10:35:52 - INFO --> (0.0226 сек.)
+2018-11-30 10:36:20 - INFO --> Отсылка почты...
+2018-11-30 10:36:20 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:36:20 - DEBUG --> kms@r36.tambov.gov.ru
+2018-11-30 10:36:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:36:20 - INFO --> сообщение отправлено; 'kms@r36.tambov.gov.ru'
+2018-11-30 10:36:20 - INFO --> (0.0259 сек.)
+2018-11-30 10:36:52 - INFO --> Отсылка почты...
+2018-11-30 10:36:52 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:36:52 - DEBUG --> sport@r48.tambov.gov.ru
+2018-11-30 10:36:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:36:52 - INFO --> сообщение отправлено; 'sport@r48.tambov.gov.ru'
+2018-11-30 10:36:52 - INFO --> (0.0225 сек.)
+2018-11-30 10:37:21 - INFO --> Отсылка почты...
+2018-11-30 10:37:21 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:37:21 - DEBUG --> cult@r31.tambov.gov.ru
+2018-11-30 10:37:21 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:37:21 - INFO --> сообщение отправлено; 'cult@r31.tambov.gov.ru'
+2018-11-30 10:37:21 - INFO --> (0.0276 сек.)
+2018-11-30 10:38:04 - INFO --> Отсылка почты...
+2018-11-30 10:38:04 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:38:04 - DEBUG --> cult@r55.tambov.gov.ru
+2018-11-30 10:38:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:38:04 - INFO --> сообщение отправлено; 'cult@r55.tambov.gov.ru'
+2018-11-30 10:38:04 - INFO --> (0.037 сек.)
+2018-11-30 10:38:34 - INFO --> Отсылка почты...
+2018-11-30 10:38:34 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:38:34 - DEBUG --> kult@r56.tambov.gov.ru
+2018-11-30 10:38:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:38:34 - INFO --> сообщение отправлено; 'kult@r56.tambov.gov.ru'
+2018-11-30 10:38:34 - INFO --> (0.0313 сек.)
+2018-11-30 10:39:01 - INFO --> Отсылка почты...
+2018-11-30 10:39:01 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:39:01 - DEBUG --> junior_dynamo@inbox.ru
+2018-11-30 10:39:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:39:01 - INFO --> сообщение отправлено; 'junior_dynamo@inbox.ru'
+2018-11-30 10:39:01 - INFO --> (0.0412 сек.)
+2018-11-30 10:39:04 - INFO --> Отсылка почты...
+2018-11-30 10:39:04 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:39:04 - DEBUG --> obraz@r43.tambov.gov.ru
+2018-11-30 10:39:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:39:04 - INFO --> сообщение отправлено; 'obraz@r43.tambov.gov.ru'
+2018-11-30 10:39:04 - INFO --> (0.0239 сек.)
+2018-11-30 10:39:16 - INFO --> Отсылка почты...
+2018-11-30 10:39:16 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:39:16 - DEBUG --> sparta78@mail.ru
+2018-11-30 10:39:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:39:16 - INFO --> сообщение отправлено; 'sparta78@mail.ru'
+2018-11-30 10:39:16 - INFO --> (0.0237 сек.)
+2018-11-30 10:39:32 - INFO --> Отсылка почты...
+2018-11-30 10:39:32 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:39:32 - DEBUG --> rekord@irk.ru, marina.tkhir@mail.ru
+2018-11-30 10:39:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:39:32 - INFO --> сообщение отправлено; 'rekord@irk.ru'
+2018-11-30 10:39:32 - INFO --> сообщение отправлено; 'marina.tkhir@mail.ru'
+2018-11-30 10:39:32 - INFO --> (0.0422 сек.)
+2018-11-30 10:39:32 - INFO --> Отсылка почты...
+2018-11-30 10:39:32 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:39:32 - DEBUG --> kmf@r00.tambov.gov.ru
+2018-11-30 10:39:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:39:32 - INFO --> сообщение отправлено; 'kmf@r00.tambov.gov.ru'
+2018-11-30 10:39:32 - INFO --> (0.0431 сек.)
+2018-11-30 10:39:56 - INFO --> Отсылка почты...
+2018-11-30 10:39:56 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:39:56 - DEBUG --> 203765@mail.ru
+2018-11-30 10:39:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:39:56 - INFO --> сообщение отправлено; '203765@mail.ru'
+2018-11-30 10:39:56 - INFO --> (0.0226 сек.)
+2018-11-30 10:39:59 - INFO --> Отсылка почты...
+2018-11-30 10:39:59 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:39:59 - DEBUG --> post@r58.tambov.gov.ru
+2018-11-30 10:39:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:39:59 - INFO --> сообщение отправлено; 'post@r58.tambov.gov.ru'
+2018-11-30 10:39:59 - INFO --> (0.0217 сек.)
+2018-11-30 10:40:17 - INFO --> Отсылка почты...
+2018-11-30 10:40:17 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:40:17 - DEBUG --> angarsk-uor@mail.ru, uorangarsk@mail.ru
+2018-11-30 10:40:17 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:40:17 - INFO --> сообщение отправлено; 'angarsk-uor@mail.ru'
+2018-11-30 10:40:17 - INFO --> сообщение отправлено; 'uorangarsk@mail.ru'
+2018-11-30 10:40:17 - INFO --> (0.0432 сек.)
+2018-11-30 10:40:31 - INFO --> Отсылка почты...
+2018-11-30 10:40:31 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:40:31 - DEBUG --> post@r59.tambov.gov.ru
+2018-11-30 10:40:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:40:31 - INFO --> сообщение отправлено; 'post@r59.tambov.gov.ru'
+2018-11-30 10:40:31 - INFO --> (0.0261 сек.)
+2018-11-30 10:40:39 - INFO --> Отсылка почты...
+2018-11-30 10:40:39 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:40:39 - DEBUG --> Shvsmschool@mail.ru
+2018-11-30 10:40:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:40:39 - INFO --> сообщение отправлено; 'Shvsmschool@mail.ru'
+2018-11-30 10:40:39 - INFO --> (0.0291 сек.)
+2018-11-30 10:40:55 - INFO --> Отсылка почты...
+2018-11-30 10:40:55 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:40:55 - DEBUG --> fsio.irk@yandex.ru
+2018-11-30 10:40:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:40:55 - INFO --> сообщение отправлено; 'fsio.irk@yandex.ru'
+2018-11-30 10:40:55 - INFO --> (0.0442 сек.)
+2018-11-30 10:41:05 - INFO --> Отсылка почты...
+2018-11-30 10:41:05 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:41:05 - DEBUG --> kmks@g37.tambov.gov.ru
+2018-11-30 10:41:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:41:05 - INFO --> сообщение отправлено; 'kmks@g37.tambov.gov.ru'
+2018-11-30 10:41:05 - INFO --> (0.0226 сек.)
+2018-11-30 10:41:35 - INFO --> Отсылка почты...
+2018-11-30 10:41:35 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:41:35 - DEBUG --> obraz@g37.tambov.gov.ru, nachobr@g37.tambov.gov.ru
+2018-11-30 10:41:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:41:35 - INFO --> сообщение отправлено; 'obraz@g37.tambov.gov.ru'
+2018-11-30 10:41:35 - INFO --> сообщение отправлено; 'nachobr@g37.tambov.gov.ru'
+2018-11-30 10:41:35 - INFO --> (0.0519 сек.)
+2018-11-30 10:42:05 - INFO --> Отсылка почты...
+2018-11-30 10:42:05 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:42:05 - DEBUG --> kultura.rasskazovo@mail.ru
+2018-11-30 10:42:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:42:05 - INFO --> сообщение отправлено; 'kultura.rasskazovo@mail.ru'
+2018-11-30 10:42:05 - INFO --> (0.0281 сек.)
+2018-11-30 10:42:38 - INFO --> Отсылка почты...
+2018-11-30 10:42:38 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:42:38 - DEBUG --> cpsport@mail.ru
+2018-11-30 10:42:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:42:39 - INFO --> сообщение отправлено; 'cpsport@mail.ru'
+2018-11-30 10:42:39 - INFO --> (0.0228 сек.)
+2018-11-30 10:43:51 - INFO --> Отсылка почты...
+2018-11-30 10:43:51 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:43:51 - DEBUG --> dusashtambov@yandex.ru
+2018-11-30 10:43:51 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:43:51 - INFO --> сообщение отправлено; 'dusashtambov@yandex.ru'
+2018-11-30 10:43:51 - INFO --> (0.0235 сек.)
+2018-11-30 10:44:20 - INFO --> Отсылка почты...
+2018-11-30 10:44:20 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:44:20 - DEBUG --> centr_edinoborstv_tambov@mail.ru
+2018-11-30 10:44:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:44:20 - INFO --> сообщение отправлено; 'centr_edinoborstv_tambov@mail.ru'
+2018-11-30 10:44:20 - INFO --> (0.0323 сек.)
+2018-11-30 10:44:59 - INFO --> Отсылка почты...
+2018-11-30 10:44:59 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:44:59 - DEBUG --> akademia68@yandex.ru
+2018-11-30 10:44:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:44:59 - INFO --> сообщение отправлено; 'akademia68@yandex.ru'
+2018-11-30 10:44:59 - INFO --> (0.0217 сек.)
+2018-11-30 10:45:45 - INFO --> Отсылка почты...
+2018-11-30 10:45:45 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:45:45 - DEBUG --> togufoc@mail.ru
+2018-11-30 10:45:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:45:45 - INFO --> сообщение отправлено; 'togufoc@mail.ru'
+2018-11-30 10:45:45 - INFO --> (0.0226 сек.)
+2018-11-30 10:46:38 - INFO --> Отсылка почты...
+2018-11-30 10:46:38 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:46:38 - DEBUG --> dushmordovo@yandex.ru
+2018-11-30 10:46:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:46:38 - INFO --> сообщение отправлено; 'dushmordovo@yandex.ru'
+2018-11-30 10:46:38 - INFO --> (0.0231 сек.)
+2018-11-30 10:47:11 - INFO --> Отсылка почты...
+2018-11-30 10:47:11 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:47:11 - DEBUG --> judo-bratsk-spartak@rambler.ru, spartak.ogbou@yandex.ru
+2018-11-30 10:47:11 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:47:11 - INFO --> сообщение отправлено; 'judo-bratsk-spartak@rambler.ru'
+2018-11-30 10:47:11 - INFO --> сообщение отправлено; 'spartak.ogbou@yandex.ru'
+2018-11-30 10:47:11 - INFO --> (0.0482 сек.)
+2018-11-30 10:47:21 - INFO --> Отсылка почты...
+2018-11-30 10:47:21 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:47:21 - DEBUG --> nurnina@yandex.ru
+2018-11-30 10:47:21 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:47:21 - INFO --> сообщение отправлено; 'nurnina@yandex.ru'
+2018-11-30 10:47:21 - INFO --> (0.0225 сек.)
+2018-11-30 10:47:28 - INFO --> Отсылка почты...
+2018-11-30 10:47:28 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:47:28 - DEBUG --> csp.irk@yandex.ru, v.moiseev80@mail.ru
+2018-11-30 10:47:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:47:28 - INFO --> сообщение отправлено; 'csp.irk@yandex.ru'
+2018-11-30 10:47:28 - INFO --> сообщение отправлено; 'v.moiseev80@mail.ru'
+2018-11-30 10:47:28 - INFO --> (0.042 сек.)
+2018-11-30 10:47:46 - INFO --> Отсылка почты...
+2018-11-30 10:47:46 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:47:46 - DEBUG --> znam.sport.chkola@mail.ru
+2018-11-30 10:47:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:47:46 - INFO --> сообщение отправлено; 'znam.sport.chkola@mail.ru'
+2018-11-30 10:47:46 - INFO --> (0.0225 сек.)
+2018-11-30 10:47:56 - INFO --> Отсылка почты...
+2018-11-30 10:47:56 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:47:56 - DEBUG --> itfk@bk.ru
+2018-11-30 10:47:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:47:56 - INFO --> сообщение отправлено; 'itfk@bk.ru'
+2018-11-30 10:47:56 - INFO --> (0.0223 сек.)
+2018-11-30 10:48:12 - INFO --> Отсылка почты...
+2018-11-30 10:48:12 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:48:12 - DEBUG --> dsport3@mail.ru
+2018-11-30 10:48:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:48:12 - INFO --> сообщение отправлено; 'dsport3@mail.ru'
+2018-11-30 10:48:12 - INFO --> (0.0224 сек.)
+2018-11-30 10:48:56 - INFO --> Отсылка почты...
+2018-11-30 10:48:56 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:48:56 - DEBUG --> kaverin-sn@yandex.ru
+2018-11-30 10:48:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:48:56 - INFO --> сообщение отправлено; 'kaverin-sn@yandex.ru'
+2018-11-30 10:48:56 - INFO --> (0.0224 сек.)
+2018-11-30 10:49:23 - INFO --> Отсылка почты...
+2018-11-30 10:49:23 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:49:23 - DEBUG --> dusshuvarovo@yandex.ru
+2018-11-30 10:49:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:49:23 - INFO --> сообщение отправлено; 'dusshuvarovo@yandex.ru'
+2018-11-30 10:49:23 - INFO --> (0.0227 сек.)
+2018-11-30 10:49:56 - INFO --> Отсылка почты...
+2018-11-30 10:49:56 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:49:56 - DEBUG --> sportmorsh@mail.ru
+2018-11-30 10:49:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:49:56 - INFO --> сообщение отправлено; 'sportmorsh@mail.ru'
+2018-11-30 10:49:56 - INFO --> (0.0237 сек.)
+2018-11-30 10:50:28 - INFO --> Отсылка почты...
+2018-11-30 10:50:28 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:50:28 - DEBUG --> mich-dush.ryumin@yandex.ru
+2018-11-30 10:50:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:50:28 - INFO --> сообщение отправлено; 'mich-dush.ryumin@yandex.ru'
+2018-11-30 10:50:28 - INFO --> (0.022 сек.)
+2018-11-30 10:51:08 - INFO --> Отсылка почты...
+2018-11-30 10:51:08 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:51:08 - DEBUG --> dush4.irk@mail.ru, 1953tolya@mail.ru
+2018-11-30 10:51:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:51:08 - INFO --> сообщение отправлено; 'dush4.irk@mail.ru'
+2018-11-30 10:51:08 - INFO --> сообщение отправлено; '1953tolya@mail.ru'
+2018-11-30 10:51:08 - INFO --> (0.0412 сек.)
+2018-11-30 10:51:23 - INFO --> Отсылка почты...
+2018-11-30 10:51:23 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:51:23 - DEBUG --> dussh6@bk.ru
+2018-11-30 10:51:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:51:23 - INFO --> сообщение отправлено; 'dussh6@bk.ru'
+2018-11-30 10:51:23 - INFO --> (0.0223 сек.)
+2018-11-30 10:51:24 - INFO --> Отсылка почты...
+2018-11-30 10:51:24 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:51:24 - DEBUG --> dussh2kotovsk@yandex.ru
+2018-11-30 10:51:24 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:51:24 - INFO --> сообщение отправлено; 'dussh2kotovsk@yandex.ru'
+2018-11-30 10:51:24 - INFO --> (0.0387 сек.)
+2018-11-30 10:51:38 - INFO --> Отсылка почты...
+2018-11-30 10:51:38 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:51:38 - DEBUG --> DUSSHA7@yandex.ru
+2018-11-30 10:51:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:51:38 - INFO --> сообщение отправлено; 'DUSSHA7@yandex.ru'
+2018-11-30 10:51:38 - INFO --> (0.0223 сек.)
+2018-11-30 10:51:53 - INFO --> Отсылка почты...
+2018-11-30 10:51:53 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:51:53 - DEBUG --> sdysshor@gmail.com
+2018-11-30 10:51:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:51:53 - INFO --> сообщение отправлено; 'sdysshor@gmail.com'
+2018-11-30 10:51:53 - INFO --> (0.0222 сек.)
+2018-11-30 10:52:00 - INFO --> Отсылка почты...
+2018-11-30 10:52:00 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:52:00 - DEBUG --> kirsanovsport@rambler.ru
+2018-11-30 10:52:00 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:52:00 - INFO --> сообщение отправлено; 'kirsanovsport@rambler.ru'
+2018-11-30 10:52:00 - INFO --> (0.0281 сек.)
+2018-11-30 10:52:09 - INFO --> Отсылка почты...
+2018-11-30 10:52:09 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:52:09 - DEBUG --> dusshrekord@mail.ru
+2018-11-30 10:52:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:52:09 - INFO --> сообщение отправлено; 'dusshrekord@mail.ru'
+2018-11-30 10:52:09 - INFO --> (0.0732 сек.)
+2018-11-30 10:52:25 - INFO --> Отсылка почты...
+2018-11-30 10:52:25 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:52:25 - DEBUG --> fcs@list.ru
+2018-11-30 10:52:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:52:25 - INFO --> сообщение отправлено; 'fcs@list.ru'
+2018-11-30 10:52:25 - INFO --> (0.0225 сек.)
+2018-11-30 10:52:34 - INFO --> Отсылка почты...
+2018-11-30 10:52:34 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:52:34 - DEBUG --> sducshor-kotovsk@yandex.ru
+2018-11-30 10:52:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:52:34 - INFO --> сообщение отправлено; 'sducshor-kotovsk@yandex.ru'
+2018-11-30 10:52:34 - INFO --> (0.0227 сек.)
+2018-11-30 10:52:50 - INFO --> Отсылка почты...
+2018-11-30 10:52:50 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:52:50 - DEBUG --> sibir-angarsk@bk.ru
+2018-11-30 10:52:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:52:50 - INFO --> сообщение отправлено; 'sibir-angarsk@bk.ru'
+2018-11-30 10:52:50 - INFO --> (0.024 сек.)
+2018-11-30 10:53:07 - INFO --> Отсылка почты...
+2018-11-30 10:53:07 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:53:07 - DEBUG --> ermak-sport@mail.ru
+2018-11-30 10:53:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:53:07 - INFO --> сообщение отправлено; 'ermak-sport@mail.ru'
+2018-11-30 10:53:07 - INFO --> (0.0224 сек.)
+2018-11-30 10:53:22 - INFO --> Отсылка почты...
+2018-11-30 10:53:22 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:53:22 - DEBUG --> angara0701@mail.ru
+2018-11-30 10:53:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:53:22 - INFO --> сообщение отправлено; 'angara0701@mail.ru'
+2018-11-30 10:53:22 - INFO --> (0.0393 сек.)
+2018-11-30 10:53:31 - INFO --> Отсылка почты...
+2018-11-30 10:53:31 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:53:31 - DEBUG --> dyussch-1@yandex.ru
+2018-11-30 10:53:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:53:31 - INFO --> сообщение отправлено; 'dyussch-1@yandex.ru'
+2018-11-30 10:53:31 - INFO --> (0.0229 сек.)
+2018-11-30 10:53:37 - INFO --> Отсылка почты...
+2018-11-30 10:53:37 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:53:37 - DEBUG --> pobeda_sdusshor@mail.ru
+2018-11-30 10:53:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:53:37 - INFO --> сообщение отправлено; 'pobeda_sdusshor@mail.ru'
+2018-11-30 10:53:37 - INFO --> (0.0225 сек.)
+2018-11-30 10:53:55 - INFO --> Отсылка почты...
+2018-11-30 10:53:55 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:53:55 - DEBUG --> swsibiryak@mail.ru, angarsk.sibiryak@mail.ru
+2018-11-30 10:53:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:53:55 - INFO --> сообщение отправлено; 'swsibiryak@mail.ru'
+2018-11-30 10:53:55 - INFO --> сообщение отправлено; 'angarsk.sibiryak@mail.ru'
+2018-11-30 10:53:55 - INFO --> (0.0644 сек.)
+2018-11-30 10:54:02 - INFO --> Отсылка почты...
+2018-11-30 10:54:02 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:54:02 - DEBUG --> dyu13326064@yandex.ru
+2018-11-30 10:54:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:54:02 - INFO --> сообщение отправлено; 'dyu13326064@yandex.ru'
+2018-11-30 10:54:02 - INFO --> (0.0233 сек.)
+2018-11-30 10:54:12 - INFO --> Отсылка почты...
+2018-11-30 10:54:12 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:54:12 - DEBUG --> lesohimik@mail.ru
+2018-11-30 10:54:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:54:12 - INFO --> сообщение отправлено; 'lesohimik@mail.ru'
+2018-11-30 10:54:12 - INFO --> (0.0223 сек.)
+2018-11-30 10:54:29 - INFO --> Отсылка почты...
+2018-11-30 10:54:29 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:54:29 - DEBUG --> mbuskc2011@mail.ru
+2018-11-30 10:54:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:54:29 - INFO --> сообщение отправлено; 'mbuskc2011@mail.ru'
+2018-11-30 10:54:29 - INFO --> (0.0222 сек.)
+2018-11-30 10:54:32 - INFO --> Отсылка почты...
+2018-11-30 10:54:32 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:54:32 - DEBUG --> LyadaSportSchool@yandex.ru
+2018-11-30 10:54:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:54:32 - INFO --> сообщение отправлено; 'LyadaSportSchool@yandex.ru'
+2018-11-30 10:54:32 - INFO --> (0.0228 сек.)
+2018-11-30 10:54:57 - INFO --> Отсылка почты...
+2018-11-30 10:54:57 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:54:57 - DEBUG --> himikstadion@rambler.ru
+2018-11-30 10:54:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:54:57 - INFO --> сообщение отправлено; 'himikstadion@rambler.ru'
+2018-11-30 10:54:57 - INFO --> (0.0241 сек.)
+2018-11-30 10:55:04 - INFO --> Отсылка почты...
+2018-11-30 10:55:04 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:55:04 - DEBUG --> sosnduz@yandex.ru
+2018-11-30 10:55:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:55:04 - INFO --> сообщение отправлено; 'sosnduz@yandex.ru'
+2018-11-30 10:55:04 - INFO --> (0.022 сек.)
+2018-11-30 10:55:35 - INFO --> Отсылка почты...
+2018-11-30 10:55:35 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:55:35 - DEBUG --> dyusshstaro43@yandex.ru
+2018-11-30 10:55:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:55:35 - INFO --> сообщение отправлено; 'dyusshstaro43@yandex.ru'
+2018-11-30 10:55:35 - INFO --> (0.0343 сек.)
+2018-11-30 10:55:42 - INFO --> Отсылка почты...
+2018-11-30 10:55:42 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:55:42 - DEBUG --> dush-usolie-sib@mail.ru
+2018-11-30 10:55:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:55:42 - INFO --> сообщение отправлено; 'dush-usolie-sib@mail.ru'
+2018-11-30 10:55:42 - INFO --> (0.024 сек.)
+2018-11-30 10:56:13 - INFO --> Отсылка почты...
+2018-11-30 10:56:13 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:56:13 - DEBUG --> sport.school.cherem@mail.ru
+2018-11-30 10:56:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:56:13 - INFO --> сообщение отправлено; 'sport.school.cherem@mail.ru'
+2018-11-30 10:56:13 - INFO --> (0.0227 сек.)
+2018-11-30 10:56:30 - INFO --> Отсылка почты...
+2018-11-30 10:56:30 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:56:30 - DEBUG --> dyussh-mihailovka@mail.ru
+2018-11-30 10:56:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:56:31 - INFO --> сообщение отправлено; 'dyussh-mihailovka@mail.ru'
+2018-11-30 10:56:31 - INFO --> (0.0221 сек.)
+2018-11-30 10:56:37 - INFO --> Отсылка почты...
+2018-11-30 10:56:37 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:56:37 - DEBUG --> rgaksa-dush@yandex.ru
+2018-11-30 10:56:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:56:37 - INFO --> сообщение отправлено; 'rgaksa-dush@yandex.ru'
+2018-11-30 10:56:37 - INFO --> (0.0218 сек.)
+2018-11-30 10:57:01 - INFO --> Отсылка почты...
+2018-11-30 10:57:01 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:57:01 - DEBUG --> rassk_sport@mail.ru
+2018-11-30 10:57:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:57:01 - INFO --> сообщение отправлено; 'rassk_sport@mail.ru'
+2018-11-30 10:57:01 - INFO --> (0.0429 сек.)
+2018-11-30 10:57:28 - INFO --> Отсылка почты...
+2018-11-30 10:57:28 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:57:28 - DEBUG --> sportpsosh@yandex.ru
+2018-11-30 10:57:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:57:28 - INFO --> сообщение отправлено; 'sportpsosh@yandex.ru'
+2018-11-30 10:57:28 - INFO --> (0.0232 сек.)
+2018-11-30 10:58:35 - INFO --> Отсылка почты...
+2018-11-30 10:58:35 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:58:35 - DEBUG --> nikiforsport@yandex.ru
+2018-11-30 10:58:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:58:35 - INFO --> сообщение отправлено; 'nikiforsport@yandex.ru'
+2018-11-30 10:58:35 - INFO --> (0.0223 сек.)
+2018-11-30 10:58:58 - INFO --> Отсылка почты...
+2018-11-30 10:58:58 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:58:58 - DEBUG --> salut84754631977@yandex.ru
+2018-11-30 10:58:58 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:58:58 - INFO --> сообщение отправлено; 'salut84754631977@yandex.ru'
+2018-11-30 10:58:58 - INFO --> (0.0317 сек.)
+2018-11-30 10:59:12 - INFO --> Отсылка почты...
+2018-11-30 10:59:12 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:59:12 - DEBUG --> salut84754631977@yandex.ru
+2018-11-30 10:59:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:59:12 - INFO --> сообщение отправлено; 'salut84754631977@yandex.ru'
+2018-11-30 10:59:12 - INFO --> (0.0231 сек.)
+2018-11-30 10:59:51 - INFO --> Отсылка почты...
+2018-11-30 10:59:51 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 10:59:51 - DEBUG --> moy_dod_sduswor_1@mail.ru
+2018-11-30 10:59:51 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 10:59:51 - INFO --> сообщение отправлено; 'moy_dod_sduswor_1@mail.ru'
+2018-11-30 10:59:51 - INFO --> (0.0225 сек.)
+2018-11-30 11:00:31 - INFO --> Отсылка почты...
+2018-11-30 11:00:31 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:00:31 - DEBUG --> dussh2tmb@yandex.ru
+2018-11-30 11:00:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:00:31 - INFO --> сообщение отправлено; 'dussh2tmb@yandex.ru'
+2018-11-30 11:00:31 - INFO --> (0.0293 сек.)
+2018-11-30 11:01:02 - INFO --> Отсылка почты...
+2018-11-30 11:01:02 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:01:02 - DEBUG --> odush2006@yandex.ru
+2018-11-30 11:01:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:01:02 - INFO --> сообщение отправлено; 'odush2006@yandex.ru'
+2018-11-30 11:01:02 - INFO --> (0.0226 сек.)
+2018-11-30 11:01:32 - INFO --> Отсылка почты...
+2018-11-30 11:01:32 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:01:32 - DEBUG --> dussh8tmb@yandex.ru
+2018-11-30 11:01:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:01:32 - INFO --> сообщение отправлено; 'dussh8tmb@yandex.ru'
+2018-11-30 11:01:32 - INFO --> (0.0226 сек.)
+2018-11-30 11:02:35 - INFO --> Отсылка почты...
+2018-11-30 11:02:35 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:02:35 - DEBUG --> sdyusshor-6@yandex.ru
+2018-11-30 11:02:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:02:35 - INFO --> сообщение отправлено; 'sdyusshor-6@yandex.ru'
+2018-11-30 11:02:35 - INFO --> (0.0212 сек.)
+2018-11-30 11:03:02 - INFO --> Отсылка почты...
+2018-11-30 11:03:02 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:03:02 - DEBUG --> dussh4tmb@yandex.ru
+2018-11-30 11:03:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:03:02 - INFO --> сообщение отправлено; 'dussh4tmb@yandex.ru'
+2018-11-30 11:03:02 - INFO --> (0.0263 сек.)
+2018-11-30 11:03:37 - INFO --> Отсылка почты...
+2018-11-30 11:03:37 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:03:37 - DEBUG --> SDUSSHOR-5@yandex.ru
+2018-11-30 11:03:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:03:37 - INFO --> сообщение отправлено; 'SDUSSHOR-5@yandex.ru'
+2018-11-30 11:03:37 - INFO --> (0.0231 сек.)
+2018-11-30 11:06:05 - INFO --> Отсылка почты...
+2018-11-30 11:06:05 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:06:05 - DEBUG --> minsport@ryazangov.ru, kdm62@mail.ru
+2018-11-30 11:06:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:06:05 - INFO --> сообщение отправлено; 'minsport@ryazangov.ru'
+2018-11-30 11:06:05 - INFO --> сообщение отправлено; 'kdm62@mail.ru'
+2018-11-30 11:06:05 - INFO --> (0.0416 сек.)
+2018-11-30 11:06:53 - INFO --> Отсылка почты...
+2018-11-30 11:06:53 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:06:53 - DEBUG --> sport196@yandex.ru
+2018-11-30 11:06:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:06:53 - INFO --> сообщение отправлено; 'sport196@yandex.ru'
+2018-11-30 11:06:53 - INFO --> (0.0289 сек.)
+2018-11-30 11:07:30 - INFO --> Отсылка почты...
+2018-11-30 11:07:30 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:07:30 - DEBUG --> umpis@mail.ru
+2018-11-30 11:07:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:07:30 - INFO --> сообщение отправлено; 'umpis@mail.ru'
+2018-11-30 11:07:30 - INFO --> (0.0242 сек.)
+2018-11-30 11:08:14 - INFO --> Отсылка почты...
+2018-11-30 11:08:14 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:08:14 - DEBUG --> admklepiki@klepiki.ryazan.ru
+2018-11-30 11:08:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:08:14 - INFO --> сообщение отправлено; 'admklepiki@klepiki.ryazan.ru'
+2018-11-30 11:08:14 - INFO --> (0.0285 сек.)
+2018-11-30 11:08:47 - INFO --> Отсылка почты...
+2018-11-30 11:08:47 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:08:47 - DEBUG --> csp62rus@mail.ru
+2018-11-30 11:08:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:08:47 - INFO --> сообщение отправлено; 'csp62rus@mail.ru'
+2018-11-30 11:08:47 - INFO --> (0.0225 сек.)
+2018-11-30 11:09:13 - INFO --> Отсылка почты...
+2018-11-30 11:09:13 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:09:13 - DEBUG --> sambo@rksport.ru
+2018-11-30 11:09:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:09:13 - INFO --> сообщение отправлено; 'sambo@rksport.ru'
+2018-11-30 11:09:13 - INFO --> (0.0223 сек.)
+2018-11-30 11:09:55 - INFO --> Отсылка почты...
+2018-11-30 11:09:55 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:09:55 - DEBUG --> sokol-rzn@mail.ru
+2018-11-30 11:09:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:09:55 - INFO --> сообщение отправлено; 'sokol-rzn@mail.ru'
+2018-11-30 11:09:55 - INFO --> (0.0269 сек.)
+2018-11-30 11:10:16 - INFO --> Отсылка почты...
+2018-11-30 11:10:16 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:10:16 - DEBUG --> zolo.kupola@yandex.ru
+2018-11-30 11:10:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:10:16 - INFO --> сообщение отправлено; 'zolo.kupola@yandex.ru'
+2018-11-30 11:10:16 - INFO --> (0.0315 сек.)
+2018-11-30 11:10:41 - INFO --> Отсылка почты...
+2018-11-30 11:10:41 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:10:41 - DEBUG --> nadegda-sokolow@yandex.ru
+2018-11-30 11:10:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:10:42 - INFO --> сообщение отправлено; 'nadegda-sokolow@yandex.ru'
+2018-11-30 11:10:42 - INFO --> (0.022 сек.)
+2018-11-30 11:11:08 - INFO --> Отсылка почты...
+2018-11-30 11:11:08 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:11:08 - DEBUG --> cdtsouthern@mail.ru
+2018-11-30 11:11:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:11:08 - INFO --> сообщение отправлено; 'cdtsouthern@mail.ru'
+2018-11-30 11:11:08 - INFO --> (0.0223 сек.)
+2018-11-30 11:11:32 - INFO --> Отсылка почты...
+2018-11-30 11:11:32 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:11:32 - DEBUG --> cdt-oct@yandex.ru
+2018-11-30 11:11:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:11:32 - INFO --> сообщение отправлено; 'cdt-oct@yandex.ru'
+2018-11-30 11:11:32 - INFO --> (0.0219 сек.)
+2018-11-30 11:12:16 - INFO --> Отсылка почты...
+2018-11-30 11:12:16 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:12:16 - DEBUG --> cdtpriokski@mail.ru
+2018-11-30 11:12:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:12:16 - INFO --> сообщение отправлено; 'cdtpriokski@mail.ru'
+2018-11-30 11:12:16 - INFO --> (0.0229 сек.)
+2018-11-30 11:13:05 - INFO --> Отсылка почты...
+2018-11-30 11:13:05 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:13:05 - DEBUG --> centerstar@yandex.ru
+2018-11-30 11:13:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:13:05 - INFO --> сообщение отправлено; 'centerstar@yandex.ru'
+2018-11-30 11:13:05 - INFO --> (0.0227 сек.)
+2018-11-30 11:13:30 - INFO --> Отсылка почты...
+2018-11-30 11:13:30 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:13:30 - DEBUG --> ducsh5@mail.ru
+2018-11-30 11:13:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:13:30 - INFO --> сообщение отправлено; 'ducsh5@mail.ru'
+2018-11-30 11:13:30 - INFO --> (0.0226 сек.)
+2018-11-30 11:13:54 - INFO --> Отсылка почты...
+2018-11-30 11:13:54 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:13:54 - DEBUG --> gou_olimpic@mail.ru
+2018-11-30 11:13:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:13:54 - INFO --> сообщение отправлено; 'gou_olimpic@mail.ru'
+2018-11-30 11:13:54 - INFO --> (0.0271 сек.)
+2018-11-30 11:14:26 - INFO --> Отсылка почты...
+2018-11-30 11:14:26 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:14:26 - DEBUG --> ryazan@sportunros.ru
+2018-11-30 11:14:26 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:14:26 - INFO --> сообщение отправлено; 'ryazan@sportunros.ru'
+2018-11-30 11:14:26 - INFO --> (0.0225 сек.)
+2018-11-30 11:14:52 - INFO --> Отсылка почты...
+2018-11-30 11:14:52 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:14:52 - DEBUG --> lider-fsk@yandex.ru
+2018-11-30 11:14:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:14:52 - INFO --> сообщение отправлено; 'lider-fsk@yandex.ru'
+2018-11-30 11:14:52 - INFO --> (0.023 сек.)
+2018-11-30 11:16:04 - INFO --> Отсылка почты...
+2018-11-30 11:16:04 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:16:04 - DEBUG --> shelsport-yunost@mail.ru
+2018-11-30 11:16:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:16:04 - INFO --> сообщение отправлено; 'shelsport-yunost@mail.ru'
+2018-11-30 11:16:04 - INFO --> (0.0228 сек.)
+2018-11-30 11:16:51 - INFO --> Отсылка почты...
+2018-11-30 11:16:51 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:16:51 - DEBUG --> fsk.kristall2013@mail.ru
+2018-11-30 11:16:51 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:16:51 - INFO --> сообщение отправлено; 'fsk.kristall2013@mail.ru'
+2018-11-30 11:16:51 - INFO --> (0.0327 сек.)
+2018-11-30 11:17:15 - INFO --> Отсылка почты...
+2018-11-30 11:17:15 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:17:15 - DEBUG --> bassein-start@mail.ru
+2018-11-30 11:17:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:17:15 - INFO --> сообщение отправлено; 'bassein-start@mail.ru'
+2018-11-30 11:17:15 - INFO --> (0.0226 сек.)
+2018-11-30 11:18:10 - INFO --> Отсылка почты...
+2018-11-30 11:18:10 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:18:10 - DEBUG --> bassein-start@mail.ru
+2018-11-30 11:18:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:18:10 - INFO --> сообщение отправлено; 'bassein-start@mail.ru'
+2018-11-30 11:18:10 - INFO --> (0.0231 сек.)
+2018-11-30 11:18:43 - INFO --> Отсылка почты...
+2018-11-30 11:18:43 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:18:43 - DEBUG --> himik-rzn@mail.ru
+2018-11-30 11:18:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:18:43 - INFO --> сообщение отправлено; 'himik-rzn@mail.ru'
+2018-11-30 11:18:43 - INFO --> (0.0235 сек.)
+2018-11-30 11:19:26 - INFO --> Отсылка почты...
+2018-11-30 11:19:26 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:19:26 - DEBUG --> dusshvvs@yandex.ru
+2018-11-30 11:19:26 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:19:26 - INFO --> сообщение отправлено; 'dusshvvs@yandex.ru'
+2018-11-30 11:19:26 - INFO --> (0.0327 сек.)
+2018-11-30 11:20:20 - INFO --> Отсылка почты...
+2018-11-30 11:20:20 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:20:20 - DEBUG --> sportschola@yandex.ru
+2018-11-30 11:20:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:20:20 - INFO --> сообщение отправлено; 'sportschola@yandex.ru'
+2018-11-30 11:20:20 - INFO --> (0.0259 сек.)
+2018-11-30 11:20:35 - INFO --> Отсылка почты...
+2018-11-30 11:20:35 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:20:35 - DEBUG --> taishet_kultura@mail.ru, admin@taishet.com, admin@taishetrn.ru
+2018-11-30 11:20:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:20:35 - INFO --> сообщение отправлено; 'taishet_kultura@mail.ru'
+2018-11-30 11:20:35 - INFO --> сообщение отправлено; 'admin@taishet.com'
+2018-11-30 11:20:35 - INFO --> сообщение отправлено; 'admin@taishetrn.ru'
+2018-11-30 11:20:35 - INFO --> (0.0828 сек.)
+2018-11-30 11:20:50 - INFO --> Отсылка почты...
+2018-11-30 11:20:50 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:20:50 - DEBUG --> dyussh.biryusinsk@mail.ru
+2018-11-30 11:20:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:20:50 - INFO --> сообщение отправлено; 'dyussh.biryusinsk@mail.ru'
+2018-11-30 11:20:50 - INFO --> (0.0229 сек.)
+2018-11-30 11:21:05 - INFO --> Отсылка почты...
+2018-11-30 11:21:05 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:21:05 - DEBUG --> sport1start@yandex.ru
+2018-11-30 11:21:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:21:05 - INFO --> сообщение отправлено; 'sport1start@yandex.ru'
+2018-11-30 11:21:05 - INFO --> (0.0274 сек.)
+2018-11-30 11:21:20 - INFO --> Отсылка почты...
+2018-11-30 11:21:20 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:21:20 - DEBUG --> sportschool.svirsk@bk.ru, potapova@svirsk.ru
+2018-11-30 11:21:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:21:20 - INFO --> сообщение отправлено; 'sportschool.svirsk@bk.ru'
+2018-11-30 11:21:20 - INFO --> сообщение отправлено; 'potapova@svirsk.ru'
+2018-11-30 11:21:20 - INFO --> (0.0571 сек.)
+2018-11-30 11:21:45 - INFO --> Отсылка почты...
+2018-11-30 11:21:45 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:21:45 - DEBUG --> sport-uda@yandex.ru
+2018-11-30 11:21:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:21:45 - INFO --> сообщение отправлено; 'sport-uda@yandex.ru'
+2018-11-30 11:21:45 - INFO --> (0.031 сек.)
+2018-11-30 11:22:03 - INFO --> Отсылка почты...
+2018-11-30 11:22:03 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:22:03 - DEBUG --> molsport-zima@mail.ru
+2018-11-30 11:22:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:22:04 - INFO --> сообщение отправлено; 'molsport-zima@mail.ru'
+2018-11-30 11:22:04 - INFO --> (0.0226 сек.)
+2018-11-30 11:22:19 - INFO --> Отсылка почты...
+2018-11-30 11:22:19 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:22:19 - DEBUG --> sport-zima@mail.ru
+2018-11-30 11:22:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:22:19 - INFO --> сообщение отправлено; 'sport-zima@mail.ru'
+2018-11-30 11:22:19 - INFO --> (0.0222 сек.)
+2018-11-30 11:22:41 - INFO --> Отсылка почты...
+2018-11-30 11:22:41 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:22:41 - DEBUG --> sportilim@mail.ru
+2018-11-30 11:22:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:22:41 - INFO --> сообщение отправлено; 'sportilim@mail.ru'
+2018-11-30 11:22:41 - INFO --> (0.023 сек.)
+2018-11-30 11:22:52 - INFO --> Отсылка почты...
+2018-11-30 11:22:52 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:22:52 - DEBUG --> moydoddyshl@yandex.ru
+2018-11-30 11:22:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:22:52 - INFO --> сообщение отправлено; 'moydoddyshl@yandex.ru'
+2018-11-30 11:22:52 - INFO --> (0.0301 сек.)
+2018-11-30 11:22:56 - INFO --> Отсылка почты...
+2018-11-30 11:22:56 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:22:56 - DEBUG --> dyussh@list.ru
+2018-11-30 11:22:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:22:56 - INFO --> сообщение отправлено; 'dyussh@list.ru'
+2018-11-30 11:22:56 - INFO --> (0.0227 сек.)
+2018-11-30 11:23:13 - INFO --> Отсылка почты...
+2018-11-30 11:23:13 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:23:13 - DEBUG --> dussh2014@mail.ru
+2018-11-30 11:23:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:23:13 - INFO --> сообщение отправлено; 'dussh2014@mail.ru'
+2018-11-30 11:23:13 - INFO --> (0.0299 сек.)
+2018-11-30 11:23:18 - INFO --> Отсылка почты...
+2018-11-30 11:23:18 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:23:18 - DEBUG --> tennis-club-centre@yandex.ru
+2018-11-30 11:23:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:23:18 - INFO --> сообщение отправлено; 'tennis-club-centre@yandex.ru'
+2018-11-30 11:23:18 - INFO --> (0.0211 сек.)
+2018-11-30 11:23:28 - INFO --> Отсылка почты...
+2018-11-30 11:23:28 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:23:28 - DEBUG --> slud-dush@mail.ru
+2018-11-30 11:23:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:23:28 - INFO --> сообщение отправлено; 'slud-dush@mail.ru'
+2018-11-30 11:23:28 - INFO --> (0.0229 сек.)
+2018-11-30 11:23:52 - INFO --> Отсылка почты...
+2018-11-30 11:23:52 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:23:52 - DEBUG --> moy_dod_kometa@mail.ru
+2018-11-30 11:23:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:23:52 - INFO --> сообщение отправлено; 'moy_dod_kometa@mail.ru'
+2018-11-30 11:23:52 - INFO --> (0.0222 сек.)
+2018-11-30 11:23:53 - INFO --> Отсылка почты...
+2018-11-30 11:23:53 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:23:53 - DEBUG --> alaruprav@list.ru
+2018-11-30 11:23:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:23:53 - INFO --> сообщение отправлено; 'alaruprav@list.ru'
+2018-11-30 11:23:53 - INFO --> (0.0228 сек.)
+2018-11-30 11:24:19 - INFO --> Отсылка почты...
+2018-11-30 11:24:19 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:24:19 - DEBUG --> sdushor4-rzn@mail.ru
+2018-11-30 11:24:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:24:19 - INFO --> сообщение отправлено; 'sdushor4-rzn@mail.ru'
+2018-11-30 11:24:19 - INFO --> (0.0263 сек.)
+2018-11-30 11:24:19 - INFO --> Отсылка почты...
+2018-11-30 11:24:19 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:24:19 - DEBUG --> balagansk_admin@irmail.ru
+2018-11-30 11:24:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:24:19 - INFO --> сообщение отправлено; 'balagansk_admin@irmail.ru'
+2018-11-30 11:24:19 - INFO --> (0.0306 сек.)
+2018-11-30 11:24:39 - INFO --> Отсылка почты...
+2018-11-30 11:24:39 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:24:39 - DEBUG --> baynadm@yandex.ru
+2018-11-30 11:24:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:24:39 - INFO --> сообщение отправлено; 'baynadm@yandex.ru'
+2018-11-30 11:24:39 - INFO --> (0.0228 сек.)
+2018-11-30 11:24:45 - INFO --> Отсылка почты...
+2018-11-30 11:24:45 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:24:45 - DEBUG --> sportedinstvo@mail.ru
+2018-11-30 11:24:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:24:45 - INFO --> сообщение отправлено; 'sportedinstvo@mail.ru'
+2018-11-30 11:24:45 - INFO --> (0.0296 сек.)
+2018-11-30 11:25:12 - INFO --> Отсылка почты...
+2018-11-30 11:25:12 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:25:12 - DEBUG --> ryazansambo@yandex.ru
+2018-11-30 11:25:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:25:12 - INFO --> сообщение отправлено; 'ryazansambo@yandex.ru'
+2018-11-30 11:25:12 - INFO --> (0.0442 сек.)
+2018-11-30 11:25:44 - INFO --> Отсылка почты...
+2018-11-30 11:25:44 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:25:44 - DEBUG --> dush1rzn@mail.ru
+2018-11-30 11:25:44 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:25:44 - INFO --> сообщение отправлено; 'dush1rzn@mail.ru'
+2018-11-30 11:25:44 - INFO --> (0.0225 сек.)
+2018-11-30 11:26:18 - INFO --> Отсылка почты...
+2018-11-30 11:26:18 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:26:18 - DEBUG --> spskolaorion@mail.ru
+2018-11-30 11:26:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:26:18 - INFO --> сообщение отправлено; 'spskolaorion@mail.ru'
+2018-11-30 11:26:18 - INFO --> (0.0245 сек.)
+2018-11-30 11:26:33 - INFO --> Отсылка почты...
+2018-11-30 11:26:33 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:26:33 - DEBUG --> bodaibo_mer@irmail.ru
+2018-11-30 11:26:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:26:33 - INFO --> сообщение отправлено; 'bodaibo_mer@irmail.ru'
+2018-11-30 11:26:33 - INFO --> (0.0393 сек.)
+2018-11-30 11:26:45 - INFO --> Отсылка почты...
+2018-11-30 11:26:45 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:26:45 - DEBUG --> ryazturclub@mail.ru
+2018-11-30 11:26:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:26:45 - INFO --> сообщение отправлено; 'ryazturclub@mail.ru'
+2018-11-30 11:26:45 - INFO --> (0.0295 сек.)
+2018-11-30 11:29:28 - INFO --> Отсылка почты...
+2018-11-30 11:29:28 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:29:28 - DEBUG --> bohanmo_odk@irmail.ru, bohansport@mail.ru
+2018-11-30 11:29:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:29:28 - INFO --> сообщение отправлено; 'bohanmo_odk@irmail.ru'
+2018-11-30 11:29:28 - INFO --> сообщение отправлено; 'bohansport@mail.ru'
+2018-11-30 11:29:28 - INFO --> (0.0419 сек.)
+2018-11-30 11:29:47 - INFO --> Отсылка почты...
+2018-11-30 11:29:47 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:29:47 - DEBUG --> amobraion@mail.ru, molodezh_braion@mail.ru
+2018-11-30 11:29:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:29:47 - INFO --> сообщение отправлено; 'amobraion@mail.ru'
+2018-11-30 11:29:47 - INFO --> сообщение отправлено; 'molodezh_braion@mail.ru'
+2018-11-30 11:29:47 - INFO --> (0.0426 сек.)
+2018-11-30 11:30:06 - INFO --> Отсылка почты...
+2018-11-30 11:30:06 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:30:06 - DEBUG --> secretar@irmail.ru, kultura08@inbox.ru
+2018-11-30 11:30:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:30:06 - INFO --> сообщение отправлено; 'secretar@irmail.ru'
+2018-11-30 11:30:06 - INFO --> сообщение отправлено; 'kultura08@inbox.ru'
+2018-11-30 11:30:06 - INFO --> (0.0458 сек.)
+2018-11-30 11:30:14 - INFO --> Отсылка почты...
+2018-11-30 11:30:14 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:30:14 - DEBUG --> sport62@yandex.ru
+2018-11-30 11:30:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:30:14 - INFO --> сообщение отправлено; 'sport62@yandex.ru'
+2018-11-30 11:30:14 - INFO --> (0.0314 сек.)
+2018-11-30 11:30:44 - INFO --> Отсылка почты...
+2018-11-30 11:30:44 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:30:44 - DEBUG --> zaladmin@irmail.ru
+2018-11-30 11:30:44 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:30:44 - INFO --> сообщение отправлено; 'zaladmin@irmail.ru'
+2018-11-30 11:30:44 - INFO --> (0.0342 сек.)
+2018-11-30 11:30:48 - INFO --> Отсылка почты...
+2018-11-30 11:30:48 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:30:48 - DEBUG --> fso.Russia@mail.ru
+2018-11-30 11:30:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:30:48 - INFO --> сообщение отправлено; 'fso.Russia@mail.ru'
+2018-11-30 11:30:48 - INFO --> (0.0281 сек.)
+2018-11-30 11:31:14 - INFO --> Отсылка почты...
+2018-11-30 11:31:14 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:31:14 - DEBUG --> adm-klr@yandex.ru
+2018-11-30 11:31:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:31:14 - INFO --> сообщение отправлено; 'adm-klr@yandex.ru'
+2018-11-30 11:31:14 - INFO --> (0.0229 сек.)
+2018-11-30 11:31:38 - INFO --> Отсылка почты...
+2018-11-30 11:31:38 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:31:38 - DEBUG --> admkat@yandex.ru
+2018-11-30 11:31:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:31:38 - INFO --> сообщение отправлено; 'admkat@yandex.ru'
+2018-11-30 11:31:38 - INFO --> (0.0266 сек.)
+2018-11-30 11:32:12 - INFO --> Отсылка почты...
+2018-11-30 11:32:12 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:32:12 - DEBUG --> kachugadmin@irmail.ru
+2018-11-30 11:32:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:32:12 - INFO --> сообщение отправлено; 'kachugadmin@irmail.ru'
+2018-11-30 11:32:12 - INFO --> (0.0227 сек.)
+2018-11-30 11:32:33 - INFO --> Отсылка почты...
+2018-11-30 11:32:33 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:32:33 - DEBUG --> kirenskadm@yandex.ru
+2018-11-30 11:32:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:32:33 - INFO --> сообщение отправлено; 'kirenskadm@yandex.ru'
+2018-11-30 11:32:33 - INFO --> (0.0222 сек.)
+2018-11-30 11:33:07 - INFO --> Отсылка почты...
+2018-11-30 11:33:07 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:33:07 - DEBUG --> kuitmer@mail.ru
+2018-11-30 11:33:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:33:07 - INFO --> сообщение отправлено; 'kuitmer@mail.ru'
+2018-11-30 11:33:07 - INFO --> (0.0288 сек.)
+2018-11-30 11:33:28 - INFO --> Отсылка почты...
+2018-11-30 11:33:28 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:33:28 - DEBUG --> adm_mo_mama@mail.ru
+2018-11-30 11:33:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:33:28 - INFO --> сообщение отправлено; 'adm_mo_mama@mail.ru'
+2018-11-30 11:33:28 - INFO --> (0.0243 сек.)
+2018-11-30 11:33:32 - INFO --> Отсылка почты...
+2018-11-30 11:33:32 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:33:32 - DEBUG --> sergeng@mail.ru
+2018-11-30 11:33:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:33:32 - INFO --> сообщение отправлено; 'sergeng@mail.ru'
+2018-11-30 11:33:32 - INFO --> (0.0232 сек.)
+2018-11-30 11:34:03 - INFO --> Отсылка почты...
+2018-11-30 11:34:03 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:34:03 - DEBUG --> nuradm@rambler.ru
+2018-11-30 11:34:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:34:03 - INFO --> сообщение отправлено; 'nuradm@rambler.ru'
+2018-11-30 11:34:03 - INFO --> (0.0227 сек.)
+2018-11-30 11:34:06 - INFO --> Отсылка почты...
+2018-11-30 11:34:06 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:34:06 - DEBUG --> fok_ermish@mail.ru
+2018-11-30 11:34:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:34:06 - INFO --> сообщение отправлено; 'fok_ermish@mail.ru'
+2018-11-30 11:34:06 - INFO --> (0.0207 сек.)
+2018-11-30 11:34:22 - INFO --> Отсылка почты...
+2018-11-30 11:34:22 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:34:22 - DEBUG --> nukuti_econ@mail.ru
+2018-11-30 11:34:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:34:22 - INFO --> сообщение отправлено; 'nukuti_econ@mail.ru'
+2018-11-30 11:34:22 - INFO --> (0.0227 сек.)
+2018-11-30 11:34:33 - INFO --> Отсылка почты...
+2018-11-30 11:34:33 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:34:33 - DEBUG --> zaxarovodush@yandex.ru
+2018-11-30 11:34:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:34:33 - INFO --> сообщение отправлено; 'zaxarovodush@yandex.ru'
+2018-11-30 11:34:33 - INFO --> (0.0227 сек.)
+2018-11-30 11:34:40 - INFO --> Отсылка почты...
+2018-11-30 11:34:40 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:34:40 - DEBUG --> olkhon@mail.ru
+2018-11-30 11:34:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:34:40 - INFO --> сообщение отправлено; 'olkhon@mail.ru'
+2018-11-30 11:34:40 - INFO --> (0.0227 сек.)
+2018-11-30 11:34:57 - INFO --> Отсылка почты...
+2018-11-30 11:34:57 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:34:57 - DEBUG --> osaadm@mail.ru, sportosaadm@mail.ru
+2018-11-30 11:34:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:34:57 - INFO --> сообщение отправлено; 'osaadm@mail.ru'
+2018-11-30 11:34:57 - INFO --> сообщение отправлено; 'sportosaadm@mail.ru'
+2018-11-30 11:34:57 - INFO --> (0.0419 сек.)
+2018-11-30 11:35:12 - INFO --> Отсылка почты...
+2018-11-30 11:35:12 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:35:12 - DEBUG --> Elatom-sport@yandex.ru
+2018-11-30 11:35:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:35:12 - INFO --> сообщение отправлено; 'Elatom-sport@yandex.ru'
+2018-11-30 11:35:12 - INFO --> (0.0233 сек.)
+2018-11-30 11:35:16 - INFO --> Отсылка почты...
+2018-11-30 11:35:16 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:35:16 - DEBUG --> Slradm@irk.ru, kultura@slud.ru, slud_molodejj@slud.ru, sportcom@slud.ru
+2018-11-30 11:35:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:35:16 - INFO --> сообщение отправлено; 'Slradm@irk.ru'
+2018-11-30 11:35:16 - INFO --> сообщение отправлено; 'kultura@slud.ru'
+2018-11-30 11:35:16 - INFO --> сообщение отправлено; 'slud_molodejj@slud.ru'
+2018-11-30 11:35:16 - INFO --> сообщение отправлено; 'sportcom@slud.ru'
+2018-11-30 11:35:16 - INFO --> (0.0789 сек.)
+2018-11-30 11:35:33 - INFO --> Отсылка почты...
+2018-11-30 11:35:33 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:35:33 - DEBUG --> mertulr@irmail.ru
+2018-11-30 11:35:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:35:33 - INFO --> сообщение отправлено; 'mertulr@irmail.ru'
+2018-11-30 11:35:33 - INFO --> (0.0242 сек.)
+2018-11-30 11:35:38 - INFO --> Отсылка почты...
+2018-11-30 11:35:38 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:35:38 - DEBUG --> klep_dush@mail.ru
+2018-11-30 11:35:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:35:38 - INFO --> сообщение отправлено; 'klep_dush@mail.ru'
+2018-11-30 11:35:38 - INFO --> (0.0218 сек.)
+2018-11-30 11:35:50 - INFO --> Отсылка почты...
+2018-11-30 11:35:50 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:35:50 - DEBUG --> urmo@list.ru
+2018-11-30 11:35:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:35:50 - INFO --> сообщение отправлено; 'urmo@list.ru'
+2018-11-30 11:35:50 - INFO --> (0.0237 сек.)
+2018-11-30 11:36:10 - INFO --> Отсылка почты...
+2018-11-30 11:36:10 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:36:10 - DEBUG --> mail@ui-raion.ru
+2018-11-30 11:36:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:36:10 - INFO --> сообщение отправлено; 'mail@ui-raion.ru'
+2018-11-30 11:36:10 - INFO --> (0.0225 сек.)
+2018-11-30 11:36:26 - INFO --> Отсылка почты...
+2018-11-30 11:36:26 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:36:26 - DEBUG --> priemnaya@admin-ukmo.ru, otdel_ust-kut@mail.ru
+2018-11-30 11:36:26 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:36:26 - INFO --> сообщение отправлено; 'priemnaya@admin-ukmo.ru'
+2018-11-30 11:36:26 - INFO --> сообщение отправлено; 'otdel_ust-kut@mail.ru'
+2018-11-30 11:36:26 - INFO --> (0.0426 сек.)
+2018-11-30 11:36:43 - INFO --> Отсылка почты...
+2018-11-30 11:36:43 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:36:43 - DEBUG --> ustuda_MO@bk.ru
+2018-11-30 11:36:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:36:43 - INFO --> сообщение отправлено; 'ustuda_MO@bk.ru'
+2018-11-30 11:36:43 - INFO --> (0.0307 сек.)
+2018-11-30 11:37:01 - INFO --> Отсылка почты...
+2018-11-30 11:37:01 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:37:01 - DEBUG --> orgotdel-cher-raion@mail.ru, politika56@mail.ru
+2018-11-30 11:37:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:37:01 - INFO --> сообщение отправлено; 'orgotdel-cher-raion@mail.ru'
+2018-11-30 11:37:01 - INFO --> сообщение отправлено; 'politika56@mail.ru'
+2018-11-30 11:37:01 - INFO --> (0.0422 сек.)
+2018-11-30 11:37:21 - INFO --> Отсылка почты...
+2018-11-30 11:37:21 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:37:21 - DEBUG --> chunameria@mail.ru, oksmpchuna@mail.ru
+2018-11-30 11:37:21 - INFO --> сообщение отправлено; 'chunameria@mail.ru'
+2018-11-30 11:37:21 - INFO --> сообщение отправлено; 'oksmpchuna@mail.ru'
+2018-11-30 11:37:21 - INFO --> (0.0325 сек.)
+2018-11-30 11:37:38 - INFO --> Отсылка почты...
+2018-11-30 11:37:38 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:37:38 - DEBUG --> adm@sheladm.ru
+2018-11-30 11:37:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:37:38 - INFO --> сообщение отправлено; 'adm@sheladm.ru'
+2018-11-30 11:37:38 - INFO --> (0.0236 сек.)
+2018-11-30 11:37:55 - INFO --> Отсылка почты...
+2018-11-30 11:37:55 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:37:55 - DEBUG --> ehiritmo@irmail.ru
+2018-11-30 11:37:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:37:55 - INFO --> сообщение отправлено; 'ehiritmo@irmail.ru'
+2018-11-30 11:37:55 - INFO --> (0.025 сек.)
+2018-11-30 11:38:15 - INFO --> Отсылка почты...
+2018-11-30 11:38:15 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:38:15 - DEBUG --> fsio.irk@yandex.ru
+2018-11-30 11:38:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:38:15 - INFO --> сообщение отправлено; 'fsio.irk@yandex.ru'
+2018-11-30 11:38:15 - INFO --> (0.023 сек.)
+2018-11-30 11:39:30 - INFO --> Отсылка почты...
+2018-11-30 11:39:30 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:39:30 - DEBUG --> minsport@adm.kaluga.ru, Loginov@adm.kaluga.ru
+2018-11-30 11:39:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:39:30 - INFO --> сообщение отправлено; 'minsport@adm.kaluga.ru'
+2018-11-30 11:39:30 - INFO --> сообщение отправлено; 'Loginov@adm.kaluga.ru'
+2018-11-30 11:39:30 - INFO --> (0.0426 сек.)
+2018-11-30 11:39:57 - INFO --> Отсылка почты...
+2018-11-30 11:39:57 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:39:57 - DEBUG --> uprsport@kaluga-gov.ru
+2018-11-30 11:39:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:39:57 - INFO --> сообщение отправлено; 'uprsport@kaluga-gov.ru'
+2018-11-30 11:39:57 - INFO --> (0.0227 сек.)
+2018-11-30 11:40:09 - INFO --> Отсылка почты...
+2018-11-30 11:40:09 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:40:09 - DEBUG --> tumadush@yandex.ru
+2018-11-30 11:40:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:40:09 - INFO --> сообщение отправлено; 'tumadush@yandex.ru'
+2018-11-30 11:40:09 - INFO --> (0.0235 сек.)
+2018-11-30 11:40:12 - INFO --> Отсылка почты...
+2018-11-30 11:40:12 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:40:12 - DEBUG --> sport@admobninsk.ru
+2018-11-30 11:40:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:40:12 - INFO --> сообщение отправлено; 'sport@admobninsk.ru'
+2018-11-30 11:40:12 - INFO --> (0.0225 сек.)
+2018-11-30 11:40:41 - INFO --> Отсылка почты...
+2018-11-30 11:40:41 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:40:41 - DEBUG --> Sportkor2013@mail.ru
+2018-11-30 11:40:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:40:41 - INFO --> сообщение отправлено; 'Sportkor2013@mail.ru'
+2018-11-30 11:40:41 - INFO --> (0.0218 сек.)
+2018-11-30 11:40:53 - INFO --> Отсылка почты...
+2018-11-30 11:40:53 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:40:53 - DEBUG --> aludin@adm.kaluga.ru, kultura_lud@kaluga.ru
+2018-11-30 11:40:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:40:53 - INFO --> сообщение отправлено; 'aludin@adm.kaluga.ru'
+2018-11-30 11:40:53 - INFO --> сообщение отправлено; 'kultura_lud@kaluga.ru'
+2018-11-30 11:40:53 - INFO --> (0.0411 сек.)
+2018-11-30 11:41:08 - INFO --> Отсылка почты...
+2018-11-30 11:41:08 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:41:08 - DEBUG --> chvastovichi-adm@kaluga.ru
+2018-11-30 11:41:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:41:09 - INFO --> сообщение отправлено; 'chvastovichi-adm@kaluga.ru'
+2018-11-30 11:41:09 - INFO --> (0.0225 сек.)
+2018-11-30 11:41:10 - INFO --> Отсылка почты...
+2018-11-30 11:41:10 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:41:10 - DEBUG --> Meteor-mich@mail.ru
+2018-11-30 11:41:10 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:41:10 - INFO --> сообщение отправлено; 'Meteor-mich@mail.ru'
+2018-11-30 11:41:10 - INFO --> (0.0213 сек.)
+2018-11-30 11:41:25 - INFO --> Отсылка почты...
+2018-11-30 11:41:25 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:41:25 - DEBUG --> aferzik@adm.kaluga.ru
+2018-11-30 11:41:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:41:25 - INFO --> сообщение отправлено; 'aferzik@adm.kaluga.ru'
+2018-11-30 11:41:25 - INFO --> (0.0223 сек.)
+2018-11-30 11:41:42 - INFO --> Отсылка почты...
+2018-11-30 11:41:42 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:41:42 - DEBUG --> mi-duschs@mail.ru
+2018-11-30 11:41:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:41:42 - INFO --> сообщение отправлено; 'mi-duschs@mail.ru'
+2018-11-30 11:41:42 - INFO --> (0.0229 сек.)
+2018-11-30 11:41:47 - INFO --> Отсылка почты...
+2018-11-30 11:41:47 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:41:47 - DEBUG --> ferz-obr@yandex.ru
+2018-11-30 11:41:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:41:47 - INFO --> сообщение отправлено; 'ferz-obr@yandex.ru'
+2018-11-30 11:41:47 - INFO --> (0.0294 сек.)
+2018-11-30 11:42:13 - INFO --> Отсылка почты...
+2018-11-30 11:42:13 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:42:13 - DEBUG --> kurbakova@adm.kaluga.ru, aulian@adm.kaluga.ru
+2018-11-30 11:42:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:42:13 - INFO --> сообщение отправлено; 'kurbakova@adm.kaluga.ru'
+2018-11-30 11:42:13 - INFO --> сообщение отправлено; 'aulian@adm.kaluga.ru'
+2018-11-30 11:42:13 - INFO --> (0.042 сек.)
+2018-11-30 11:42:17 - INFO --> Отсылка почты...
+2018-11-30 11:42:17 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:42:17 - DEBUG --> sportschooll@yandex.ru
+2018-11-30 11:42:17 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:42:17 - INFO --> сообщение отправлено; 'sportschooll@yandex.ru'
+2018-11-30 11:42:17 - INFO --> (0.0204 сек.)
+2018-11-30 11:42:30 - INFO --> Отсылка почты...
+2018-11-30 11:42:30 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:42:30 - DEBUG --> atarus@adm.kaluga.ru, admzam-tvs@yandex.ru
+2018-11-30 11:42:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:42:30 - INFO --> сообщение отправлено; 'atarus@adm.kaluga.ru'
+2018-11-30 11:42:30 - INFO --> сообщение отправлено; 'admzam-tvs@yandex.ru'
+2018-11-30 11:42:30 - INFO --> (0.0421 сек.)
+2018-11-30 11:42:45 - INFO --> Отсылка почты...
+2018-11-30 11:42:45 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:42:45 - DEBUG --> dussh-putyatino@yandex.ru
+2018-11-30 11:42:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:42:45 - INFO --> сообщение отправлено; 'dussh-putyatino@yandex.ru'
+2018-11-30 11:42:45 - INFO --> (0.0275 сек.)
+2018-11-30 11:42:46 - INFO --> Отсылка почты...
+2018-11-30 11:42:46 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:42:46 - DEBUG --> budanova_55@mail.ru
+2018-11-30 11:42:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:42:46 - INFO --> сообщение отправлено; 'budanova_55@mail.ru'
+2018-11-30 11:42:46 - INFO --> (0.0218 сек.)
+2018-11-30 11:43:12 - INFO --> Отсылка почты...
+2018-11-30 11:43:12 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:43:12 - DEBUG --> belova.olga21@mail.ru
+2018-11-30 11:43:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:43:12 - INFO --> сообщение отправлено; 'belova.olga21@mail.ru'
+2018-11-30 11:43:12 - INFO --> (0.0226 сек.)
+2018-11-30 11:43:12 - INFO --> Отсылка почты...
+2018-11-30 11:43:12 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:43:12 - DEBUG --> info@fskzvezda.ru
+2018-11-30 11:43:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:43:12 - INFO --> сообщение отправлено; 'info@fskzvezda.ru'
+2018-11-30 11:43:12 - INFO --> (0.0209 сек.)
+2018-11-30 11:43:31 - INFO --> Отсылка почты...
+2018-11-30 11:43:31 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:43:31 - DEBUG --> msk_natali@mail.ru
+2018-11-30 11:43:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:43:31 - INFO --> сообщение отправлено; 'msk_natali@mail.ru'
+2018-11-30 11:43:31 - INFO --> (0.0227 сек.)
+2018-11-30 11:43:40 - INFO --> Отсылка почты...
+2018-11-30 11:43:40 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:43:40 - DEBUG --> fskflagman126@mail.ru
+2018-11-30 11:43:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:43:40 - INFO --> сообщение отправлено; 'fskflagman126@mail.ru'
+2018-11-30 11:43:40 - INFO --> (0.0216 сек.)
+2018-11-30 11:43:49 - INFO --> Отсылка почты...
+2018-11-30 11:43:49 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:43:49 - DEBUG --> 214632011@mail.ru
+2018-11-30 11:43:49 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:43:49 - INFO --> сообщение отправлено; '214632011@mail.ru'
+2018-11-30 11:43:49 - INFO --> (0.022 сек.)
+2018-11-30 11:44:07 - INFO --> Отсылка почты...
+2018-11-30 11:44:07 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:44:07 - DEBUG --> Otdelsporta.med@ya.ru
+2018-11-30 11:44:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:44:07 - INFO --> сообщение отправлено; 'Otdelsporta.med@ya.ru'
+2018-11-30 11:44:07 - INFO --> (0.0226 сек.)
+2018-11-30 11:44:20 - INFO --> Отсылка почты...
+2018-11-30 11:44:20 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:44:20 - DEBUG --> sportsap@yandex.ru
+2018-11-30 11:44:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:44:20 - INFO --> сообщение отправлено; 'sportsap@yandex.ru'
+2018-11-30 11:44:20 - INFO --> (0.0224 сек.)
+2018-11-30 11:44:23 - INFO --> Отсылка почты...
+2018-11-30 11:44:23 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:44:23 - DEBUG --> kozelsk-mol@yandex.ru
+2018-11-30 11:44:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:44:23 - INFO --> сообщение отправлено; 'kozelsk-mol@yandex.ru'
+2018-11-30 11:44:23 - INFO --> (0.0223 сек.)
+2018-11-30 11:44:40 - INFO --> Отсылка почты...
+2018-11-30 11:44:40 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:44:40 - DEBUG --> Irina-vasileva-71@mail.ru
+2018-11-30 11:44:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:44:40 - INFO --> сообщение отправлено; 'Irina-vasileva-71@mail.ru'
+2018-11-30 11:44:40 - INFO --> (0.0335 сек.)
+2018-11-30 11:44:49 - INFO --> Отсылка почты...
+2018-11-30 11:44:49 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:44:49 - DEBUG --> sportsarai@mail.ru
+2018-11-30 11:44:49 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:44:49 - INFO --> сообщение отправлено; 'sportsarai@mail.ru'
+2018-11-30 11:44:49 - INFO --> (0.0313 сек.)
+2018-11-30 11:45:01 - INFO --> Отсылка почты...
+2018-11-30 11:45:01 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:45:01 - DEBUG --> natasha4.08@mail.ru
+2018-11-30 11:45:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:45:01 - INFO --> сообщение отправлено; 'natasha4.08@mail.ru'
+2018-11-30 11:45:01 - INFO --> (0.0227 сек.)
+2018-11-30 11:45:16 - INFO --> Отсылка почты...
+2018-11-30 11:45:16 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:45:16 - DEBUG --> raysportckopin@yandex.ru
+2018-11-30 11:45:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:45:16 - INFO --> сообщение отправлено; 'raysportckopin@yandex.ru'
+2018-11-30 11:45:16 - INFO --> (0.0223 сек.)
+2018-11-30 11:45:46 - INFO --> Отсылка почты...
+2018-11-30 11:45:46 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:45:46 - DEBUG --> Yuriy.Komarov@bk.ru
+2018-11-30 11:45:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:45:46 - INFO --> сообщение отправлено; 'Yuriy.Komarov@bk.ru'
+2018-11-30 11:45:46 - INFO --> (0.022 сек.)
+2018-11-30 11:46:15 - INFO --> Отсылка почты...
+2018-11-30 11:46:15 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:46:15 - DEBUG --> ch-dussh@mail.ru
+2018-11-30 11:46:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:46:15 - INFO --> сообщение отправлено; 'ch-dussh@mail.ru'
+2018-11-30 11:46:15 - INFO --> (0.0223 сек.)
+2018-11-30 11:46:45 - INFO --> Отсылка почты...
+2018-11-30 11:46:45 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:46:45 - DEBUG --> atlet.shack@gmail.com
+2018-11-30 11:46:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:46:45 - INFO --> сообщение отправлено; 'atlet.shack@gmail.com'
+2018-11-30 11:46:45 - INFO --> (0.0222 сек.)
+2018-11-30 11:47:14 - INFO --> Отсылка почты...
+2018-11-30 11:47:14 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:47:14 - DEBUG --> mbufsk16@gmail.com
+2018-11-30 11:47:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:47:14 - INFO --> сообщение отправлено; 'mbufsk16@gmail.com'
+2018-11-30 11:47:14 - INFO --> (0.0225 сек.)
+2018-11-30 11:47:47 - INFO --> Отсылка почты...
+2018-11-30 11:47:47 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:47:47 - DEBUG --> darena@mail.ryazan.ru
+2018-11-30 11:47:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:47:47 - INFO --> сообщение отправлено; 'darena@mail.ryazan.ru'
+2018-11-30 11:47:47 - INFO --> (0.0227 сек.)
+2018-11-30 11:48:17 - INFO --> Отсылка почты...
+2018-11-30 11:48:17 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:48:17 - DEBUG --> shilovo.dush@yandex.ru
+2018-11-30 11:48:17 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:48:17 - INFO --> сообщение отправлено; 'shilovo.dush@yandex.ru'
+2018-11-30 11:48:17 - INFO --> (0.0228 сек.)
+2018-11-30 11:49:13 - INFO --> Отсылка почты...
+2018-11-30 11:49:13 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:49:13 - DEBUG --> Skorobkova@inbox.ru, azhizdr@adm.kaluga.ru
+2018-11-30 11:49:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:49:13 - INFO --> сообщение отправлено; 'Skorobkova@inbox.ru'
+2018-11-30 11:49:13 - INFO --> сообщение отправлено; 'azhizdr@adm.kaluga.ru'
+2018-11-30 11:49:13 - INFO --> (0.0409 сек.)
+2018-11-30 11:49:31 - INFO --> Отсылка почты...
+2018-11-30 11:49:31 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:49:31 - DEBUG --> FKSTuMP@mail.ru
+2018-11-30 11:49:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:49:31 - INFO --> сообщение отправлено; 'FKSTuMP@mail.ru'
+2018-11-30 11:49:31 - INFO --> (0.0225 сек.)
+2018-11-30 11:49:50 - INFO --> Отсылка почты...
+2018-11-30 11:49:50 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:49:50 - DEBUG --> ele9510@yandex.ru
+2018-11-30 11:49:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:49:50 - INFO --> сообщение отправлено; 'ele9510@yandex.ru'
+2018-11-30 11:49:50 - INFO --> (0.0219 сек.)
+2018-11-30 11:50:16 - INFO --> Отсылка почты...
+2018-11-30 11:50:16 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:50:16 - DEBUG --> otdel.stmp@mail.ru
+2018-11-30 11:50:16 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:50:16 - INFO --> сообщение отправлено; 'otdel.stmp@mail.ru'
+2018-11-30 11:50:16 - INFO --> (0.0282 сек.)
+2018-11-30 11:50:32 - INFO --> Отсылка почты...
+2018-11-30 11:50:32 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:50:32 - DEBUG --> dushkaluga@yandex.ru
+2018-11-30 11:50:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:50:32 - INFO --> сообщение отправлено; 'dushkaluga@yandex.ru'
+2018-11-30 11:50:32 - INFO --> (0.0229 сек.)
+2018-11-30 11:50:50 - INFO --> Отсылка почты...
+2018-11-30 11:50:50 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:50:50 - DEBUG --> sdyusshor1-kaluga@mail.ru
+2018-11-30 11:50:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:50:50 - INFO --> сообщение отправлено; 'sdyusshor1-kaluga@mail.ru'
+2018-11-30 11:50:50 - INFO --> (0.0226 сек.)
+2018-11-30 11:51:15 - INFO --> Отсылка почты...
+2018-11-30 11:51:15 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:51:15 - DEBUG --> dush5@spark-mail.ru
+2018-11-30 11:51:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:51:15 - INFO --> сообщение отправлено; 'dush5@spark-mail.ru'
+2018-11-30 11:51:15 - INFO --> (0.0549 сек.)
+2018-11-30 11:51:41 - INFO --> Отсылка почты...
+2018-11-30 11:51:41 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:51:41 - DEBUG --> \&quot;kaluga-karpova@yandex.ru
+2018-11-30 11:51:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:51:41 - INFO --> (0.0002 сек.)
+2018-11-30 11:52:54 - INFO --> Отсылка почты...
+2018-11-30 11:52:54 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:52:54 - DEBUG --> kaluga-karpova@yandex.ru
+2018-11-30 11:52:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:52:54 - INFO --> сообщение отправлено; 'kaluga-karpova@yandex.ru'
+2018-11-30 11:52:54 - INFO --> (0.0224 сек.)
+2018-11-30 11:53:13 - INFO --> Отсылка почты...
+2018-11-30 11:53:13 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:53:13 - DEBUG --> agkaluga@mail.ru
+2018-11-30 11:53:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:53:13 - INFO --> сообщение отправлено; 'agkaluga@mail.ru'
+2018-11-30 11:53:13 - INFO --> (0.0218 сек.)
+2018-11-30 11:53:37 - INFO --> Отсылка почты...
+2018-11-30 11:53:37 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:53:37 - DEBUG --> torpedo.kaluga@yandex.ru
+2018-11-30 11:53:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:53:37 - INFO --> сообщение отправлено; 'torpedo.kaluga@yandex.ru'
+2018-11-30 11:53:37 - INFO --> (0.0231 сек.)
+2018-11-30 11:53:54 - INFO --> Отсылка почты...
+2018-11-30 11:53:54 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:53:54 - DEBUG --> tatyan2013@yandex.ru
+2018-11-30 11:53:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:53:54 - INFO --> сообщение отправлено; 'tatyan2013@yandex.ru'
+2018-11-30 11:53:54 - INFO --> (0.023 сек.)
+2018-11-30 11:54:13 - INFO --> Отсылка почты...
+2018-11-30 11:54:13 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:54:13 - DEBUG --> dusshtrud@yandex.ru
+2018-11-30 11:54:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:54:13 - INFO --> сообщение отправлено; 'dusshtrud@yandex.ru'
+2018-11-30 11:54:13 - INFO --> (0.0324 сек.)
+2018-11-30 11:54:30 - INFO --> Отсылка почты...
+2018-11-30 11:54:30 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:54:30 - DEBUG --> borba_kaluga@mail.ru
+2018-11-30 11:54:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:54:30 - INFO --> сообщение отправлено; 'borba_kaluga@mail.ru'
+2018-11-30 11:54:30 - INFO --> (0.0275 сек.)
+2018-11-30 11:54:48 - INFO --> Отсылка почты...
+2018-11-30 11:54:48 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:54:48 - DEBUG --> annenki2010@yandex.ru
+2018-11-30 11:54:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:54:48 - INFO --> сообщение отправлено; 'annenki2010@yandex.ru'
+2018-11-30 11:54:48 - INFO --> (0.0226 сек.)
+2018-11-30 11:55:07 - INFO --> Отсылка почты...
+2018-11-30 11:55:07 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:55:07 - DEBUG --> vympel.kaluga@mail.ru
+2018-11-30 11:55:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:55:07 - INFO --> сообщение отправлено; 'vympel.kaluga@mail.ru'
+2018-11-30 11:55:07 - INFO --> (0.0227 сек.)
+2018-11-30 11:55:28 - INFO --> Отсылка почты...
+2018-11-30 11:55:28 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:55:28 - DEBUG --> Galina.lider@mail.ru
+2018-11-30 11:55:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:55:28 - INFO --> сообщение отправлено; 'Galina.lider@mail.ru'
+2018-11-30 11:55:28 - INFO --> (0.0221 сек.)
+2018-11-30 11:55:45 - INFO --> Отсылка почты...
+2018-11-30 11:55:45 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:55:45 - DEBUG --> adapt-sport@mail.ru
+2018-11-30 11:55:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:55:45 - INFO --> сообщение отправлено; 'adapt-sport@mail.ru'
+2018-11-30 11:55:45 - INFO --> (0.035 сек.)
+2018-11-30 11:56:05 - INFO --> Отсылка почты...
+2018-11-30 11:56:05 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:56:05 - DEBUG --> redstar121@bk.ru
+2018-11-30 11:56:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:56:05 - INFO --> сообщение отправлено; 'redstar121@bk.ru'
+2018-11-30 11:56:05 - INFO --> (0.0223 сек.)
+2018-11-30 11:56:25 - INFO --> Отсылка почты...
+2018-11-30 11:56:25 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:56:25 - DEBUG --> Borovsk.sportshkola@mail.ru
+2018-11-30 11:56:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:56:25 - INFO --> сообщение отправлено; 'Borovsk.sportshkola@mail.ru'
+2018-11-30 11:56:25 - INFO --> (0.0232 сек.)
+2018-11-30 11:56:44 - INFO --> Отсылка почты...
+2018-11-30 11:56:44 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:56:44 - DEBUG --> mu.cfis@yandex.ru, ruzhin61@mail.ru
+2018-11-30 11:56:44 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:56:44 - INFO --> сообщение отправлено; 'mu.cfis@yandex.ru'
+2018-11-30 11:56:44 - INFO --> сообщение отправлено; 'ruzhin61@mail.ru'
+2018-11-30 11:56:44 - INFO --> (0.0475 сек.)
+2018-11-30 11:57:05 - INFO --> Отсылка почты...
+2018-11-30 11:57:05 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:57:05 - DEBUG --> Fok249500@yandex.ru
+2018-11-30 11:57:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:57:05 - INFO --> сообщение отправлено; 'Fok249500@yandex.ru'
+2018-11-30 11:57:05 - INFO --> (0.0223 сек.)
+2018-11-30 11:57:36 - INFO --> Отсылка почты...
+2018-11-30 11:57:36 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:57:36 - DEBUG --> barytinofok@mail.ru
+2018-11-30 11:57:36 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:57:36 - INFO --> сообщение отправлено; 'barytinofok@mail.ru'
+2018-11-30 11:57:36 - INFO --> (0.0224 сек.)
+2018-11-30 11:58:30 - INFO --> Отсылка почты...
+2018-11-30 11:58:30 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:58:30 - DEBUG --> fok-fakel@yandex.ru
+2018-11-30 11:58:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:58:30 - INFO --> сообщение отправлено; 'fok-fakel@yandex.ru'
+2018-11-30 11:58:30 - INFO --> (0.0237 сек.)
+2018-11-30 11:58:50 - INFO --> Отсылка почты...
+2018-11-30 11:58:50 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:58:50 - DEBUG --> focbabynino@mail.ru
+2018-11-30 11:58:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:58:50 - INFO --> сообщение отправлено; 'focbabynino@mail.ru'
+2018-11-30 11:58:50 - INFO --> (0.0228 сек.)
+2018-11-30 11:59:15 - INFO --> Отсылка почты...
+2018-11-30 11:59:15 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:59:15 - DEBUG --> sport-schckola@yandex.ru
+2018-11-30 11:59:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:59:15 - INFO --> сообщение отправлено; 'sport-schckola@yandex.ru'
+2018-11-30 11:59:15 - INFO --> (0.022 сек.)
+2018-11-30 11:59:32 - INFO --> Отсылка почты...
+2018-11-30 11:59:32 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:59:32 - DEBUG --> sport3@kaluga.ru
+2018-11-30 11:59:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:59:32 - INFO --> сообщение отправлено; 'sport3@kaluga.ru'
+2018-11-30 11:59:32 - INFO --> (0.0309 сек.)
+2018-11-30 11:59:49 - INFO --> Отсылка почты...
+2018-11-30 11:59:49 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 11:59:49 - DEBUG --> dushzv@yandex.ru
+2018-11-30 11:59:49 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 11:59:49 - INFO --> сообщение отправлено; 'dushzv@yandex.ru'
+2018-11-30 11:59:49 - INFO --> (0.0225 сек.)
+2018-11-30 12:00:13 - INFO --> Отсылка почты...
+2018-11-30 12:00:13 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:00:13 - DEBUG --> erm.stadion@yandex.ru
+2018-11-30 12:00:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:00:13 - INFO --> сообщение отправлено; 'erm.stadion@yandex.ru'
+2018-11-30 12:00:13 - INFO --> (0.0223 сек.)
+2018-11-30 12:00:32 - INFO --> Отсылка почты...
+2018-11-30 12:00:32 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:00:32 - DEBUG --> domsporta_liudinovo@mail.ru
+2018-11-30 12:00:32 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:00:32 - INFO --> сообщение отправлено; 'domsporta_liudinovo@mail.ru'
+2018-11-30 12:00:32 - INFO --> (0.0267 сек.)
+2018-11-30 12:08:22 - INFO --> Отсылка почты...
+2018-11-30 12:08:22 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:08:22 - DEBUG --> lider-kirov@mail.ru
+2018-11-30 12:08:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:08:22 - INFO --> сообщение отправлено; 'lider-kirov@mail.ru'
+2018-11-30 12:08:22 - INFO --> (0.031 сек.)
+2018-11-30 12:08:40 - INFO --> Отсылка почты...
+2018-11-30 12:08:40 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:08:40 - DEBUG --> kozelskfok@mail.ru
+2018-11-30 12:08:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:08:40 - INFO --> сообщение отправлено; 'kozelskfok@mail.ru'
+2018-11-30 12:08:40 - INFO --> (0.0225 сек.)
+2018-11-30 12:08:56 - INFO --> Отсылка почты...
+2018-11-30 12:08:56 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:08:56 - DEBUG --> dyussh2012@mail.ru
+2018-11-30 12:08:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:08:56 - INFO --> сообщение отправлено; 'dyussh2012@mail.ru'
+2018-11-30 12:08:56 - INFO --> (0.0213 сек.)
+2018-11-30 12:09:24 - INFO --> Отсылка почты...
+2018-11-30 12:09:24 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:09:24 - DEBUG --> Kristina-2006@list.ru
+2018-11-30 12:09:24 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:09:24 - INFO --> сообщение отправлено; 'Kristina-2006@list.ru'
+2018-11-30 12:09:24 - INFO --> (0.0224 сек.)
+2018-11-30 12:09:43 - INFO --> Отсылка почты...
+2018-11-30 12:09:43 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:09:43 - DEBUG --> mal.sport@yandex.ru
+2018-11-30 12:09:43 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:09:43 - INFO --> сообщение отправлено; 'mal.sport@yandex.ru'
+2018-11-30 12:09:43 - INFO --> (0.0223 сек.)
+2018-11-30 12:10:03 - INFO --> Отсылка почты...
+2018-11-30 12:10:03 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:10:03 - DEBUG --> dshmosalsk@mail.ru
+2018-11-30 12:10:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:10:03 - INFO --> сообщение отправлено; 'dshmosalsk@mail.ru'
+2018-11-30 12:10:03 - INFO --> (0.023 сек.)
+2018-11-30 12:10:22 - INFO --> Отсылка почты...
+2018-11-30 12:10:22 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:10:22 - DEBUG --> unifight1@mail.ru
+2018-11-30 12:10:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:10:22 - INFO --> сообщение отправлено; 'unifight1@mail.ru'
+2018-11-30 12:10:22 - INFO --> (0.022 сек.)
+2018-11-30 12:10:39 - INFO --> Отсылка почты...
+2018-11-30 12:10:39 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:10:39 - DEBUG --> shumilova-76@list.ru
+2018-11-30 12:10:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:10:39 - INFO --> сообщение отправлено; 'shumilova-76@list.ru'
+2018-11-30 12:10:39 - INFO --> (0.028 сек.)
+2018-11-30 12:10:56 - INFO --> Отсылка почты...
+2018-11-30 12:10:56 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:10:56 - DEBUG --> fok_meshovsk@mail.ru
+2018-11-30 12:10:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:10:56 - INFO --> сообщение отправлено; 'fok_meshovsk@mail.ru'
+2018-11-30 12:10:56 - INFO --> (0.0224 сек.)
+2018-11-30 12:11:23 - INFO --> Отсылка почты...
+2018-11-30 12:11:23 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:11:23 - DEBUG --> adm@kvant-obninsk.ru
+2018-11-30 12:11:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:11:23 - INFO --> сообщение отправлено; 'adm@kvant-obninsk.ru'
+2018-11-30 12:11:23 - INFO --> (0.023 сек.)
+2018-11-30 12:11:41 - INFO --> Отсылка почты...
+2018-11-30 12:11:41 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:11:41 - DEBUG --> volley.obninsk@mail.ru
+2018-11-30 12:11:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:11:41 - INFO --> сообщение отправлено; 'volley.obninsk@mail.ru'
+2018-11-30 12:11:41 - INFO --> (0.0231 сек.)
+2018-11-30 12:12:29 - INFO --> Отсылка почты...
+2018-11-30 12:12:29 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:12:29 - DEBUG --> dusch02_1973@mail.ru
+2018-11-30 12:12:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:12:29 - INFO --> сообщение отправлено; 'dusch02_1973@mail.ru'
+2018-11-30 12:12:29 - INFO --> (0.0227 сек.)
+2018-11-30 12:12:55 - INFO --> Отсылка почты...
+2018-11-30 12:12:55 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:12:55 - DEBUG --> spdrono@kaluga.ru
+2018-11-30 12:12:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:12:55 - INFO --> сообщение отправлено; 'spdrono@kaluga.ru'
+2018-11-30 12:12:55 - INFO --> (0.0675 сек.)
+2018-11-30 12:13:19 - INFO --> Отсылка почты...
+2018-11-30 12:13:19 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:13:19 - DEBUG --> Suh.sportscool@mail.ru, suhron@yandex.ru, gp.suhinichi@mail.ru
+2018-11-30 12:13:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:13:19 - INFO --> сообщение отправлено; 'Suh.sportscool@mail.ru'
+2018-11-30 12:13:19 - INFO --> сообщение отправлено; 'suhron@yandex.ru'
+2018-11-30 12:13:19 - INFO --> сообщение отправлено; 'gp.suhinichi@mail.ru'
+2018-11-30 12:13:19 - INFO --> (0.0815 сек.)
+2018-11-30 12:13:40 - INFO --> Отсылка почты...
+2018-11-30 12:13:40 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:13:40 - DEBUG --> avangard-20013@rambler.ru
+2018-11-30 12:13:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:13:40 - INFO --> сообщение отправлено; 'avangard-20013@rambler.ru'
+2018-11-30 12:13:40 - INFO --> (0.0226 сек.)
+2018-11-30 12:14:06 - INFO --> Отсылка почты...
+2018-11-30 12:14:06 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:14:06 - DEBUG --> ya.dyussh1@yandex.ru
+2018-11-30 12:14:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:14:06 - INFO --> сообщение отправлено; 'ya.dyussh1@yandex.ru'
+2018-11-30 12:14:06 - INFO --> (0.0226 сек.)
+2018-11-30 12:14:34 - INFO --> Отсылка почты...
+2018-11-30 12:14:34 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:14:34 - DEBUG --> dush.tarusa@yandex.ru, dush.tarusa.buh@yandex.ru
+2018-11-30 12:14:34 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:14:35 - INFO --> сообщение отправлено; 'dush.tarusa@yandex.ru'
+2018-11-30 12:14:35 - INFO --> сообщение отправлено; 'dush.tarusa.buh@yandex.ru'
+2018-11-30 12:14:35 - INFO --> (0.0555 сек.)
+2018-11-30 12:15:29 - INFO --> Отсылка почты...
+2018-11-30 12:15:29 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:15:29 - DEBUG --> moudod-abramova@yandex.ru
+2018-11-30 12:15:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:15:29 - INFO --> сообщение отправлено; 'moudod-abramova@yandex.ru'
+2018-11-30 12:15:29 - INFO --> (0.0254 сек.)
+2018-11-30 12:19:04 - INFO --> Отсылка почты...
+2018-11-30 12:19:04 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:19:04 - DEBUG --> btn_don@mail.ru
+2018-11-30 12:19:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:19:04 - INFO --> сообщение отправлено; 'btn_don@mail.ru'
+2018-11-30 12:19:04 - INFO --> (0.0249 сек.)
+2018-11-30 12:40:13 - INFO --> Отсылка почты...
+2018-11-30 12:40:13 - INFO --> Тема; 'РАСПРОДАЖА 2018!'
+2018-11-30 12:40:13 - DEBUG --> puchroo@mail.ru
+2018-11-30 12:40:13 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/november_2018.jpg'
+2018-11-30 12:40:13 - INFO --> сообщение отправлено; 'puchroo@mail.ru'
+2018-11-30 12:40:13 - INFO --> (0.0229 сек.)

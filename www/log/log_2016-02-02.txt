@@ -1,0 +1,102 @@
+2016-02-02 9:31:29 - INFO --> Отсылка почты...
+2016-02-02 9:31:29 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 9:31:29 - DEBUG --> dush_suhob@mail.ru
+2016-02-02 9:31:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_feb_2014_komplex_blue_newadress no price.jpg'
+2016-02-02 9:31:29 - INFO --> сообщение отправлено; 'dush_suhob@mail.ru'
+2016-02-02 9:31:29 - INFO --> (0.0562 сек.)
+2016-02-02 9:58:03 - INFO --> Отсылка почты...
+2016-02-02 9:58:03 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 9:58:03 - DEBUG --> sportmir08@inbox.ru
+2016-02-02 9:58:03 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_feb_2014_komplex_blue_newadress no price.jpg'
+2016-02-02 9:58:03 - INFO --> сообщение отправлено; 'sportmir08@inbox.ru'
+2016-02-02 9:58:03 - INFO --> (0.0438 сек.)
+2016-02-02 10:18:59 - INFO --> Отсылка почты...
+2016-02-02 10:18:59 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 10:18:59 - DEBUG --> sport.tsvetkova@yandex.ru
+2016-02-02 10:18:59 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_feb_2014_komplex_blue_newadress no price.jpg'
+2016-02-02 10:18:59 - INFO --> сообщение отправлено; 'sport.tsvetkova@yandex.ru'
+2016-02-02 10:18:59 - INFO --> (0.0674 сек.)
+2016-02-02 10:22:36 - INFO --> Отсылка почты...
+2016-02-02 10:22:36 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 10:22:36 - DEBUG --> Olimp48@bk.ru
+2016-02-02 10:22:36 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_feb_2014_komplex_blue_newadress no price.jpg'
+2016-02-02 10:22:36 - INFO --> сообщение отправлено; 'Olimp48@bk.ru'
+2016-02-02 10:22:36 - INFO --> (0.0273 сек.)
+2016-02-02 10:29:08 - INFO --> Отсылка почты...
+2016-02-02 10:29:08 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 10:29:08 - DEBUG --> doosc@mail.ru
+2016-02-02 10:29:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_feb_2014_komplex_blue_newadress no price.jpg'
+2016-02-02 10:29:08 - INFO --> сообщение отправлено; 'doosc@mail.ru'
+2016-02-02 10:29:08 - INFO --> (0.0282 сек.)
+2016-02-02 10:47:15 - INFO --> Отсылка почты...
+2016-02-02 10:47:15 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 10:47:15 - DEBUG --> aleksey_kudryavcev_80@mail.ru
+2016-02-02 10:47:15 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_feb_2014_komplex_blue_newadress no price.jpg'
+2016-02-02 10:47:16 - INFO --> сообщение отправлено; 'aleksey_kudryavcev_80@mail.ru'
+2016-02-02 10:47:16 - INFO --> (0.0322 сек.)
+2016-02-02 11:15:21 - INFO --> Отсылка почты...
+2016-02-02 11:15:21 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 11:15:21 - DEBUG --> dysh-furm@mail.ru
+2016-02-02 11:15:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_football_blue_june2014.jpg'
+2016-02-02 11:15:21 - INFO --> сообщение отправлено; 'dysh-furm@mail.ru'
+2016-02-02 11:15:21 - INFO --> (0.0436 сек.)
+2016-02-02 11:46:41 - INFO --> Отсылка почты...
+2016-02-02 11:46:41 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 11:46:41 - DEBUG --> tas-dyussh@ya.ru
+2016-02-02 11:46:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_feb_2014_komplex_blue_newadress no price.jpg'
+2016-02-02 11:46:41 - INFO --> сообщение отправлено; 'tas-dyussh@ya.ru'
+2016-02-02 11:46:41 - INFO --> (0.0266 сек.)
+2016-02-02 11:51:50 - INFO --> Отсылка почты...
+2016-02-02 11:51:50 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 11:51:50 - DEBUG --> ufkstimp@mail.ru
+2016-02-02 11:51:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_feb_2014_komplex_blue_newadress no price.jpg'
+2016-02-02 11:51:50 - INFO --> сообщение отправлено; 'ufkstimp@mail.ru'
+2016-02-02 11:51:50 - INFO --> (0.0773 сек.)
+2016-02-02 12:00:11 - INFO --> Отсылка почты...
+2016-02-02 12:00:11 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 12:00:11 - DEBUG --> dussh.sh@yandex.ru
+2016-02-02 12:00:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_feb_2014_komplex_blue_newadress no price.jpg'
+2016-02-02 12:00:11 - INFO --> сообщение отправлено; 'dussh.sh@yandex.ru'
+2016-02-02 12:00:11 - INFO --> (0.0371 сек.)
+2016-02-02 12:14:14 - INFO --> Отсылка почты...
+2016-02-02 12:14:14 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 12:14:14 - DEBUG --> sdussor1@mail.ru
+2016-02-02 12:14:14 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_football_blue_june2014.jpg'
+2016-02-02 12:14:14 - INFO --> сообщение отправлено; 'sdussor1@mail.ru'
+2016-02-02 12:14:14 - INFO --> (0.0769 сек.)
+2016-02-02 12:20:24 - INFO --> Отсылка почты...
+2016-02-02 12:20:24 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 12:20:24 - DEBUG --> dush32@mail.ru
+2016-02-02 12:20:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_feb_2014_komplex_blue_newadress no price.jpg'
+2016-02-02 12:20:24 - INFO --> сообщение отправлено; 'dush32@mail.ru'
+2016-02-02 12:20:24 - INFO --> (0.0341 сек.)
+2016-02-02 12:51:22 - INFO --> Отсылка почты...
+2016-02-02 12:51:22 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 12:51:22 - DEBUG --> sportiskra@mail.ru
+2016-02-02 12:51:22 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_feb_2014_komplex_blue_newadress no price.jpg'
+2016-02-02 12:51:22 - INFO --> сообщение отправлено; 'sportiskra@mail.ru'
+2016-02-02 12:51:22 - INFO --> (0.0329 сек.)
+2016-02-02 12:59:28 - INFO --> Отсылка почты...
+2016-02-02 12:59:28 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 12:59:28 - DEBUG --> dush_solnechny1@mail.ru
+2016-02-02 12:59:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_football_blue_june2014.jpg'
+2016-02-02 12:59:28 - INFO --> сообщение отправлено; 'dush_solnechny1@mail.ru'
+2016-02-02 12:59:28 - INFO --> (0.04 сек.)
+2016-02-02 13:10:57 - INFO --> Отсылка почты...
+2016-02-02 13:10:57 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 13:10:57 - DEBUG --> soldatov63@list.ru
+2016-02-02 13:10:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_football_blue_june2014.jpg'
+2016-02-02 13:10:57 - INFO --> сообщение отправлено; 'soldatov63@list.ru'
+2016-02-02 13:10:57 - INFO --> (0.0381 сек.)
+2016-02-02 14:20:38 - INFO --> Отсылка почты...
+2016-02-02 14:20:38 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 14:20:38 - DEBUG --> sarovsport@mail.ru
+2016-02-02 14:20:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_football_blue_june2014.jpg'
+2016-02-02 14:20:38 - INFO --> сообщение отправлено; 'sarovsport@mail.ru'
+2016-02-02 14:20:38 - INFO --> (0.039 сек.)
+2016-02-02 14:30:53 - INFO --> Отсылка почты...
+2016-02-02 14:30:53 - INFO --> Тема; 'ОЛИМПИК СПОРТ экипировка 2016'
+2016-02-02 14:30:53 - DEBUG --> dusshnav@mail.ru
+2016-02-02 14:30:53 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/predlogenie_football_blue_june2014.jpg'
+2016-02-02 14:30:53 - INFO --> сообщение отправлено; 'dusshnav@mail.ru'
+2016-02-02 14:30:53 - INFO --> (0.0276 сек.)

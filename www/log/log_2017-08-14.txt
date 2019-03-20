@@ -1,0 +1,526 @@
+2017-08-14 13:28:23 - INFO --> Отсылка почты...
+2017-08-14 13:28:23 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:28:23 - DEBUG --> dyussh.zhel-dor@yandex.ru
+2017-08-14 13:28:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:28:23 - INFO --> сообщение отправлено; 'dyussh.zhel-dor@yandex.ru'
+2017-08-14 13:28:23 - INFO --> (0.0214 сек.)
+2017-08-14 13:29:36 - INFO --> Отсылка почты...
+2017-08-14 13:29:36 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:29:36 - DEBUG --> stroitell705@mail.ru
+2017-08-14 13:29:36 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:29:36 - INFO --> сообщение отправлено; 'stroitell705@mail.ru'
+2017-08-14 13:29:36 - INFO --> (0.0216 сек.)
+2017-08-14 13:31:14 - INFO --> Отсылка почты...
+2017-08-14 13:31:14 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:31:14 - DEBUG --> fkkmo@mail.ru
+2017-08-14 13:31:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:31:14 - INFO --> сообщение отправлено; 'fkkmo@mail.ru'
+2017-08-14 13:31:14 - INFO --> (0.0211 сек.)
+2017-08-14 13:32:28 - INFO --> Отсылка почты...
+2017-08-14 13:32:28 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:32:28 - DEBUG --> garaninaom2013@yandex.ru
+2017-08-14 13:32:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:32:28 - INFO --> сообщение отправлено; 'garaninaom2013@yandex.ru'
+2017-08-14 13:32:28 - INFO --> (0.0226 сек.)
+2017-08-14 13:33:29 - INFO --> Отсылка почты...
+2017-08-14 13:33:29 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:33:29 - DEBUG --> fextovanie-voskr@mail.ru
+2017-08-14 13:33:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:33:29 - INFO --> сообщение отправлено; 'fextovanie-voskr@mail.ru'
+2017-08-14 13:33:29 - INFO --> (0.021 сек.)
+2017-08-14 13:34:33 - INFO --> Отсылка почты...
+2017-08-14 13:34:33 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:34:33 - DEBUG --> starc-natalya@yandex.ru
+2017-08-14 13:34:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:34:33 - INFO --> сообщение отправлено; 'starc-natalya@yandex.ru'
+2017-08-14 13:34:33 - INFO --> (0.0232 сек.)
+2017-08-14 13:35:25 - INFO --> Отсылка почты...
+2017-08-14 13:35:25 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:35:25 - DEBUG --> dush_bi@mail.ru
+2017-08-14 13:35:25 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:35:25 - INFO --> сообщение отправлено; 'dush_bi@mail.ru'
+2017-08-14 13:35:25 - INFO --> (0.0263 сек.)
+2017-08-14 13:36:15 - INFO --> Отсылка почты...
+2017-08-14 13:36:15 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:36:15 - DEBUG --> drozd@woskresensk.ru
+2017-08-14 13:36:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:36:15 - INFO --> сообщение отправлено; 'drozd@woskresensk.ru'
+2017-08-14 13:36:15 - INFO --> (0.0232 сек.)
+2017-08-14 13:37:18 - INFO --> Отсылка почты...
+2017-08-14 13:37:18 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:37:18 - DEBUG --> skgornyak@gmail.com
+2017-08-14 13:37:18 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:37:18 - INFO --> сообщение отправлено; 'skgornyak@gmail.com'
+2017-08-14 13:37:18 - INFO --> (0.0223 сек.)
+2017-08-14 13:38:20 - INFO --> Отсылка почты...
+2017-08-14 13:38:20 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:38:20 - DEBUG --> spartabel@mail.ru
+2017-08-14 13:38:20 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:38:20 - INFO --> сообщение отправлено; 'spartabel@mail.ru'
+2017-08-14 13:38:20 - INFO --> (0.1202 сек.)
+2017-08-14 13:39:36 - INFO --> Отсылка почты...
+2017-08-14 13:39:36 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:39:36 - DEBUG --> curupa.adm@gmail.com
+2017-08-14 13:39:36 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:39:36 - INFO --> сообщение отправлено; 'curupa.adm@gmail.com'
+2017-08-14 13:39:36 - INFO --> (0.0279 сек.)
+2017-08-14 13:40:40 - INFO --> Отсылка почты...
+2017-08-14 13:40:40 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:40:40 - DEBUG --> dinamo-dmitrov@list.ru
+2017-08-14 13:40:40 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:40:40 - INFO --> сообщение отправлено; 'dinamo-dmitrov@list.ru'
+2017-08-14 13:40:40 - INFO --> (0.0292 сек.)
+2017-08-14 13:41:19 - INFO --> Отсылка почты...
+2017-08-14 13:41:19 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:41:19 - DEBUG --> dzardan@gmail.com
+2017-08-14 13:41:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:41:19 - INFO --> сообщение отправлено; 'dzardan@gmail.com'
+2017-08-14 13:41:19 - INFO --> (0.0222 сек.)
+2017-08-14 13:42:11 - INFO --> Отсылка почты...
+2017-08-14 13:42:11 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:42:11 - DEBUG --> fsitdedenevo@list.ru
+2017-08-14 13:42:11 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:42:11 - INFO --> сообщение отправлено; 'fsitdedenevo@list.ru'
+2017-08-14 13:42:11 - INFO --> (0.0272 сек.)
+2017-08-14 13:43:07 - INFO --> Отсылка почты...
+2017-08-14 13:43:07 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:43:07 - DEBUG --> dmdolimp@mail.ru
+2017-08-14 13:43:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:43:07 - INFO --> сообщение отправлено; 'dmdolimp@mail.ru'
+2017-08-14 13:43:07 - INFO --> (0.028 сек.)
+2017-08-14 13:44:04 - INFO --> Отсылка почты...
+2017-08-14 13:44:04 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:44:04 - DEBUG --> mewera@yandex.ru
+2017-08-14 13:44:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:44:04 - INFO --> сообщение отправлено; 'mewera@yandex.ru'
+2017-08-14 13:44:04 - INFO --> (0.021 сек.)
+2017-08-14 13:45:06 - INFO --> Отсылка почты...
+2017-08-14 13:45:06 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:45:06 - DEBUG --> uor2005@yandex.ru
+2017-08-14 13:45:06 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:45:06 - INFO --> сообщение отправлено; 'uor2005@yandex.ru'
+2017-08-14 13:45:06 - INFO --> (0.0247 сек.)
+2017-08-14 13:45:52 - INFO --> Отсылка почты...
+2017-08-14 13:45:52 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:45:52 - DEBUG --> ZAR.SPORT@mail.ru
+2017-08-14 13:45:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:45:52 - INFO --> сообщение отправлено; 'ZAR.SPORT@mail.ru'
+2017-08-14 13:45:52 - INFO --> (0.0408 сек.)
+2017-08-14 13:46:42 - INFO --> Отсылка почты...
+2017-08-14 13:46:42 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:46:42 - DEBUG --> guchkovo@istra.ru
+2017-08-14 13:46:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:46:42 - INFO --> сообщение отправлено; 'guchkovo@istra.ru'
+2017-08-14 13:46:42 - INFO --> (0.0282 сек.)
+2017-08-14 13:47:48 - INFO --> Отсылка почты...
+2017-08-14 13:47:48 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:47:48 - DEBUG --> asnegiry@adm-istra.ru
+2017-08-14 13:47:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:47:48 - INFO --> сообщение отправлено; 'asnegiry@adm-istra.ru'
+2017-08-14 13:47:48 - INFO --> (0.0279 сек.)
+2017-08-14 13:48:42 - INFO --> Отсылка почты...
+2017-08-14 13:48:42 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:48:42 - DEBUG --> dush-kashira@yandex.ru
+2017-08-14 13:48:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:48:42 - INFO --> сообщение отправлено; 'dush-kashira@yandex.ru'
+2017-08-14 13:48:42 - INFO --> (0.0234 сек.)
+2017-08-14 13:49:45 - INFO --> Отсылка почты...
+2017-08-14 13:49:45 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:49:45 - DEBUG --> upr@obr-klin.ru
+2017-08-14 13:49:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:49:45 - INFO --> сообщение отправлено; 'upr@obr-klin.ru'
+2017-08-14 13:49:45 - INFO --> (0.0211 сек.)
+2017-08-14 13:50:37 - INFO --> Отсылка почты...
+2017-08-14 13:50:37 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:50:37 - DEBUG --> cks_klin_klub@mail.ru
+2017-08-14 13:50:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:50:37 - INFO --> сообщение отправлено; 'cks_klin_klub@mail.ru'
+2017-08-14 13:50:37 - INFO --> (0.0277 сек.)
+2017-08-14 13:51:51 - INFO --> Отсылка почты...
+2017-08-14 13:51:51 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:51:51 - DEBUG --> schooligr@mail.ru
+2017-08-14 13:51:51 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:51:51 - INFO --> сообщение отправлено; 'schooligr@mail.ru'
+2017-08-14 13:51:51 - INFO --> (0.0205 сек.)
+2017-08-14 13:52:57 - INFO --> Отсылка почты...
+2017-08-14 13:52:57 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:52:57 - DEBUG --> an.konstantinov@list.ru
+2017-08-14 13:52:57 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:52:57 - INFO --> сообщение отправлено; 'an.konstantinov@list.ru'
+2017-08-14 13:52:57 - INFO --> (0.0218 сек.)
+2017-08-14 13:54:01 - INFO --> Отсылка почты...
+2017-08-14 13:54:01 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:54:01 - DEBUG --> edinoborstvo@bk.ru
+2017-08-14 13:54:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:54:01 - INFO --> сообщение отправлено; 'edinoborstvo@bk.ru'
+2017-08-14 13:54:01 - INFO --> (0.0213 сек.)
+2017-08-14 13:54:50 - INFO --> Отсылка почты...
+2017-08-14 13:54:50 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:54:50 - DEBUG --> kometakolomna@gmail.com
+2017-08-14 13:54:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:54:50 - INFO --> сообщение отправлено; 'kometakolomna@gmail.com'
+2017-08-14 13:54:50 - INFO --> (0.0211 сек.)
+2017-08-14 13:55:58 - INFO --> Отсылка почты...
+2017-08-14 13:55:58 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:55:58 - DEBUG --> avangardschool@mail.ru
+2017-08-14 13:55:58 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:55:58 - INFO --> сообщение отправлено; 'avangardschool@mail.ru'
+2017-08-14 13:55:58 - INFO --> (0.0211 сек.)
+2017-08-14 13:57:04 - INFO --> Отсылка почты...
+2017-08-14 13:57:04 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:57:04 - DEBUG --> Kolomna_rowing@mail.ru
+2017-08-14 13:57:04 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:57:04 - INFO --> сообщение отправлено; 'Kolomna_rowing@mail.ru'
+2017-08-14 13:57:04 - INFO --> (0.0264 сек.)
+2017-08-14 13:58:28 - INFO --> Отсылка почты...
+2017-08-14 13:58:28 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 13:58:28 - DEBUG --> viktorimar@yandex.ru
+2017-08-14 13:58:28 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 13:58:28 - INFO --> сообщение отправлено; 'viktorimar@yandex.ru'
+2017-08-14 13:58:28 - INFO --> (0.0279 сек.)
+2017-08-14 14:00:12 - INFO --> Отсылка почты...
+2017-08-14 14:00:12 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:00:12 - DEBUG --> sdyushor.basketbol@yandex.ru
+2017-08-14 14:00:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:00:12 - INFO --> сообщение отправлено; 'sdyushor.basketbol@yandex.ru'
+2017-08-14 14:00:12 - INFO --> (0.0208 сек.)
+2017-08-14 14:01:19 - INFO --> Отсылка почты...
+2017-08-14 14:01:19 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:01:19 - DEBUG --> start-nahabino@mail.ru
+2017-08-14 14:01:19 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:01:19 - INFO --> сообщение отправлено; 'start-nahabino@mail.ru'
+2017-08-14 14:01:19 - INFO --> (0.0277 сек.)
+2017-08-14 14:02:29 - INFO --> Отсылка почты...
+2017-08-14 14:02:29 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:02:29 - DEBUG --> Sportschool-vidnoe@yandex.ru
+2017-08-14 14:02:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:02:29 - INFO --> сообщение отправлено; 'Sportschool-vidnoe@yandex.ru'
+2017-08-14 14:02:29 - INFO --> (0.0212 сек.)
+2017-08-14 14:06:39 - INFO --> Отсылка почты...
+2017-08-14 14:06:39 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:06:39 - DEBUG --> gplotoshino@mail.ru
+2017-08-14 14:06:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:06:39 - INFO --> сообщение отправлено; 'gplotoshino@mail.ru'
+2017-08-14 14:06:39 - INFO --> (0.0211 сек.)
+2017-08-14 14:07:09 - INFO --> Отсылка почты...
+2017-08-14 14:07:09 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:07:09 - DEBUG --> sed4477@yandex.ru
+2017-08-14 14:07:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:07:09 - INFO --> сообщение отправлено; 'sed4477@yandex.ru'
+2017-08-14 14:07:09 - INFO --> (0.0228 сек.)
+2017-08-14 14:08:39 - INFO --> Отсылка почты...
+2017-08-14 14:08:39 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:08:39 - DEBUG --> harkov-ms@rambler.ru
+2017-08-14 14:08:39 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:08:39 - INFO --> сообщение отправлено; 'harkov-ms@rambler.ru'
+2017-08-14 14:08:39 - INFO --> (0.025 сек.)
+2017-08-14 14:09:17 - INFO --> Отсылка почты...
+2017-08-14 14:09:17 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:09:17 - DEBUG --> skdelfin@gmail.com
+2017-08-14 14:09:17 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:09:17 - INFO --> сообщение отправлено; 'skdelfin@gmail.com'
+2017-08-14 14:09:17 - INFO --> (0.0289 сек.)
+2017-08-14 14:10:07 - INFO --> Отсылка почты...
+2017-08-14 14:10:07 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:10:07 - DEBUG --> irinacheremuhina@spartak.ru
+2017-08-14 14:10:07 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:10:07 - INFO --> сообщение отправлено; 'irinacheremuhina@spartak.ru'
+2017-08-14 14:10:07 - INFO --> (0.023 сек.)
+2017-08-14 14:10:41 - INFO --> Отсылка почты...
+2017-08-14 14:10:41 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:10:41 - DEBUG --> sport.lab@mail.ru
+2017-08-14 14:10:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:10:41 - INFO --> сообщение отправлено; 'sport.lab@mail.ru'
+2017-08-14 14:10:41 - INFO --> (0.0273 сек.)
+2017-08-14 14:11:53 - INFO --> Отсылка почты...
+2017-08-14 14:11:53 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:11:53 - DEBUG --> kpsparta@mail.ru
+2017-08-14 14:11:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:11:53 - INFO --> сообщение отправлено; 'kpsparta@mail.ru'
+2017-08-14 14:11:53 - INFO --> (0.0297 сек.)
+2017-08-14 14:13:03 - INFO --> Отсылка почты...
+2017-08-14 14:13:03 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:13:03 - DEBUG --> sport-luh@yandex.ru
+2017-08-14 14:13:03 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:13:03 - INFO --> сообщение отправлено; 'sport-luh@yandex.ru'
+2017-08-14 14:13:03 - INFO --> (0.0217 сек.)
+2017-08-14 14:14:14 - INFO --> Отсылка почты...
+2017-08-14 14:14:14 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:14:14 - DEBUG --> ya.cpartak@yandex.ru
+2017-08-14 14:14:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:14:14 - INFO --> сообщение отправлено; 'ya.cpartak@yandex.ru'
+2017-08-14 14:14:14 - INFO --> (0.0221 сек.)
+2017-08-14 14:15:09 - INFO --> Отсылка почты...
+2017-08-14 14:15:09 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:15:09 - DEBUG --> 6405710@list.ru
+2017-08-14 14:15:09 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:15:09 - INFO --> сообщение отправлено; '6405710@list.ru'
+2017-08-14 14:15:09 - INFO --> (0.0204 сек.)
+2017-08-14 14:15:53 - INFO --> Отсылка почты...
+2017-08-14 14:15:53 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:15:53 - DEBUG --> shtanga-mo@mail.ru
+2017-08-14 14:15:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:15:53 - INFO --> сообщение отправлено; 'shtanga-mo@mail.ru'
+2017-08-14 14:15:53 - INFO --> (0.0216 сек.)
+2017-08-14 14:16:58 - INFO --> Отсылка почты...
+2017-08-14 14:16:58 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:16:58 - DEBUG --> st.torpedo@yandex.ru
+2017-08-14 14:16:58 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:16:58 - INFO --> сообщение отправлено; 'st.torpedo@yandex.ru'
+2017-08-14 14:16:58 - INFO --> (0.0216 сек.)
+2017-08-14 14:17:23 - INFO --> Отсылка почты...
+2017-08-14 14:17:23 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:17:23 - DEBUG --> fksitlub@rambler.ru
+2017-08-14 14:17:23 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:17:23 - INFO --> сообщение отправлено; 'fksitlub@rambler.ru'
+2017-08-14 14:17:23 - INFO --> (0.0247 сек.)
+2017-08-14 14:18:27 - INFO --> Отсылка почты...
+2017-08-14 14:18:27 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:18:27 - DEBUG --> nudo_spartak@mail.ru
+2017-08-14 14:18:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:18:27 - INFO --> сообщение отправлено; 'nudo_spartak@mail.ru'
+2017-08-14 14:18:27 - INFO --> (0.0212 сек.)
+2017-08-14 14:19:55 - INFO --> Отсылка почты...
+2017-08-14 14:19:55 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:19:55 - DEBUG --> alia-55@yandex.ru
+2017-08-14 14:19:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:19:55 - INFO --> сообщение отправлено; 'alia-55@yandex.ru'
+2017-08-14 14:19:55 - INFO --> (0.0216 сек.)
+2017-08-14 14:21:30 - INFO --> Отсылка почты...
+2017-08-14 14:21:30 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:21:30 - DEBUG --> soyuz-judo@mail.ru
+2017-08-14 14:21:30 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:21:30 - INFO --> сообщение отправлено; 'soyuz-judo@mail.ru'
+2017-08-14 14:21:30 - INFO --> (0.0215 сек.)
+2017-08-14 14:23:52 - INFO --> Отсылка почты...
+2017-08-14 14:23:52 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:23:52 - DEBUG --> mozhaisk.sambo@mail.ru
+2017-08-14 14:23:52 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:23:52 - INFO --> сообщение отправлено; 'mozhaisk.sambo@mail.ru'
+2017-08-14 14:23:52 - INFO --> (0.0222 сек.)
+2017-08-14 14:24:50 - INFO --> Отсылка почты...
+2017-08-14 14:24:50 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:24:50 - DEBUG --> dush1231@yandex.ru
+2017-08-14 14:24:50 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:24:50 - INFO --> сообщение отправлено; 'dush1231@yandex.ru'
+2017-08-14 14:24:50 - INFO --> (0.022 сек.)
+2017-08-14 14:28:48 - INFO --> Отсылка почты...
+2017-08-14 14:28:48 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:28:48 - DEBUG --> gscmczhaysk@mail.ru
+2017-08-14 14:28:48 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:28:48 - INFO --> сообщение отправлено; 'gscmczhaysk@mail.ru'
+2017-08-14 14:28:48 - INFO --> (0.0219 сек.)
+2017-08-14 14:31:24 - INFO --> Отсылка почты...
+2017-08-14 14:31:24 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:31:24 - DEBUG --> sport.mo@yandex.ru
+2017-08-14 14:31:24 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:31:24 - INFO --> сообщение отправлено; 'sport.mo@yandex.ru'
+2017-08-14 14:31:24 - INFO --> (0.0212 сек.)
+2017-08-14 14:32:15 - INFO --> Отсылка почты...
+2017-08-14 14:32:15 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:32:15 - DEBUG --> dolgopsport@mail.ru
+2017-08-14 14:32:15 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:32:15 - INFO --> сообщение отправлено; 'dolgopsport@mail.ru'
+2017-08-14 14:32:15 - INFO --> (0.0211 сек.)
+2017-08-14 14:32:59 - INFO --> Отсылка почты...
+2017-08-14 14:32:59 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:32:59 - DEBUG --> sportkomitet@mail.ru
+2017-08-14 14:32:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:32:59 - INFO --> сообщение отправлено; 'sportkomitet@mail.ru'
+2017-08-14 14:32:59 - INFO --> (0.0255 сек.)
+2017-08-14 14:34:12 - INFO --> Отсылка почты...
+2017-08-14 14:34:12 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:34:12 - DEBUG --> vladimirches@list.ru
+2017-08-14 14:34:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:34:12 - INFO --> сообщение отправлено; 'vladimirches@list.ru'
+2017-08-14 14:34:12 - INFO --> (0.0236 сек.)
+2017-08-14 14:34:33 - INFO --> Отсылка почты...
+2017-08-14 14:34:33 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:34:33 - DEBUG --> sportsschool@mail.ru
+2017-08-14 14:34:33 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:34:33 - INFO --> сообщение отправлено; 'sportsschool@mail.ru'
+2017-08-14 14:34:33 - INFO --> (0.0214 сек.)
+2017-08-14 14:35:35 - INFO --> Отсылка почты...
+2017-08-14 14:35:35 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:35:35 - DEBUG --> kdm_nara@mail.ru
+2017-08-14 14:35:35 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:35:35 - INFO --> сообщение отправлено; 'kdm_nara@mail.ru'
+2017-08-14 14:35:35 - INFO --> (0.0277 сек.)
+2017-08-14 14:36:56 - INFO --> Отсылка почты...
+2017-08-14 14:36:56 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:36:56 - DEBUG --> dyssh3aprelevka@mail.ru
+2017-08-14 14:36:56 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:36:56 - INFO --> сообщение отправлено; 'dyssh3aprelevka@mail.ru'
+2017-08-14 14:36:56 - INFO --> (0.0223 сек.)
+2017-08-14 14:37:59 - INFO --> Отсылка почты...
+2017-08-14 14:37:59 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:37:59 - DEBUG --> fokmelody@yandex.ru
+2017-08-14 14:37:59 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:37:59 - INFO --> сообщение отправлено; 'fokmelody@yandex.ru'
+2017-08-14 14:37:59 - INFO --> (0.0436 сек.)
+2017-08-14 14:38:17 - INFO --> Отсылка почты...
+2017-08-14 14:38:17 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:38:17 - DEBUG --> fokmelody@rambler.ru
+2017-08-14 14:38:17 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:38:17 - INFO --> сообщение отправлено; 'fokmelody@rambler.ru'
+2017-08-14 14:38:17 - INFO --> (0.0312 сек.)
+2017-08-14 14:39:27 - INFO --> Отсылка почты...
+2017-08-14 14:39:27 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:39:27 - DEBUG --> kapitanos@list.ru
+2017-08-14 14:39:27 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:39:27 - INFO --> сообщение отправлено; 'kapitanos@list.ru'
+2017-08-14 14:39:27 - INFO --> (0.0255 сек.)
+2017-08-14 14:39:42 - INFO --> Отсылка почты...
+2017-08-14 14:39:42 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:39:42 - DEBUG --> admvereya@bk.ru
+2017-08-14 14:39:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:39:42 - INFO --> сообщение отправлено; 'admvereya@bk.ru'
+2017-08-14 14:39:42 - INFO --> (0.0216 сек.)
+2017-08-14 14:40:31 - INFO --> Отсылка почты...
+2017-08-14 14:40:31 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:40:31 - DEBUG --> kalin-sdc@mail.ru
+2017-08-14 14:40:31 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:40:31 - INFO --> сообщение отправлено; 'kalin-sdc@mail.ru'
+2017-08-14 14:40:31 - INFO --> (0.0209 сек.)
+2017-08-14 14:41:14 - INFO --> Отсылка почты...
+2017-08-14 14:41:14 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:41:14 - DEBUG --> vasilec-64@mail.ru
+2017-08-14 14:41:14 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:41:14 - INFO --> сообщение отправлено; 'vasilec-64@mail.ru'
+2017-08-14 14:41:14 - INFO --> (0.0211 сек.)
+2017-08-14 14:42:08 - INFO --> Отсылка почты...
+2017-08-14 14:42:08 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:42:08 - DEBUG --> ooo-kvantsport@mail.ru
+2017-08-14 14:42:08 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:42:08 - INFO --> сообщение отправлено; 'ooo-kvantsport@mail.ru'
+2017-08-14 14:42:08 - INFO --> (0.0219 сек.)
+2017-08-14 14:43:38 - INFO --> Отсылка почты...
+2017-08-14 14:43:38 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:43:38 - DEBUG --> Dush-yo@yandex.ru
+2017-08-14 14:43:38 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:43:38 - INFO --> сообщение отправлено; 'Dush-yo@yandex.ru'
+2017-08-14 14:43:38 - INFO --> (0.025 сек.)
+2017-08-14 14:44:26 - INFO --> Отсылка почты...
+2017-08-14 14:44:26 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:44:26 - DEBUG --> sdusshor.noginsk@yandex.ru
+2017-08-14 14:44:26 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:44:26 - INFO --> сообщение отправлено; 'sdusshor.noginsk@yandex.ru'
+2017-08-14 14:44:26 - INFO --> (0.0307 сек.)
+2017-08-14 14:45:37 - INFO --> Отсылка почты...
+2017-08-14 14:45:37 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:45:37 - DEBUG --> judo-tori@mail.ru
+2017-08-14 14:45:37 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:45:37 - INFO --> сообщение отправлено; 'judo-tori@mail.ru'
+2017-08-14 14:45:37 - INFO --> (0.0213 сек.)
+2017-08-14 14:46:46 - INFO --> Отсылка почты...
+2017-08-14 14:46:46 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:46:46 - DEBUG --> timonin0609@mail.ru
+2017-08-14 14:46:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:46:46 - INFO --> сообщение отправлено; 'timonin0609@mail.ru'
+2017-08-14 14:46:46 - INFO --> (0.0216 сек.)
+2017-08-14 14:47:45 - INFO --> Отсылка почты...
+2017-08-14 14:47:45 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:47:45 - DEBUG --> sport142432@mail.ru
+2017-08-14 14:47:45 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:47:45 - INFO --> сообщение отправлено; 'sport142432@mail.ru'
+2017-08-14 14:47:45 - INFO --> (0.0302 сек.)
+2017-08-14 14:48:47 - INFO --> Отсылка почты...
+2017-08-14 14:48:47 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:48:47 - DEBUG --> sportshkola.klimovsk@yandex.ru
+2017-08-14 14:48:47 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:48:47 - INFO --> сообщение отправлено; 'sportshkola.klimovsk@yandex.ru'
+2017-08-14 14:48:47 - INFO --> (0.0214 сек.)
+2017-08-14 14:49:42 - INFO --> Отсылка почты...
+2017-08-14 14:49:42 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:49:42 - DEBUG --> kksm@klimovsk.ru
+2017-08-14 14:49:42 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:49:42 - INFO --> сообщение отправлено; 'kksm@klimovsk.ru'
+2017-08-14 14:49:42 - INFO --> (0.0224 сек.)
+2017-08-14 14:50:55 - INFO --> Отсылка почты...
+2017-08-14 14:50:55 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:50:55 - DEBUG --> lena.gorobec@mail.ru
+2017-08-14 14:50:55 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:50:55 - INFO --> сообщение отправлено; 'lena.gorobec@mail.ru'
+2017-08-14 14:50:55 - INFO --> (0.0248 сек.)
+2017-08-14 14:51:54 - INFO --> Отсылка почты...
+2017-08-14 14:51:54 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:51:54 - DEBUG --> info@guorbron.ru
+2017-08-14 14:51:54 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:51:54 - INFO --> сообщение отправлено; 'info@guorbron.ru'
+2017-08-14 14:51:54 - INFO --> (0.0214 сек.)
+2017-08-14 14:52:53 - INFO --> Отсылка почты...
+2017-08-14 14:52:53 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:52:53 - DEBUG --> shahov-uvr@mail.ru
+2017-08-14 14:52:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:52:53 - INFO --> сообщение отправлено; 'shahov-uvr@mail.ru'
+2017-08-14 14:52:53 - INFO --> (0.0252 сек.)
+2017-08-14 14:53:41 - INFO --> Отсылка почты...
+2017-08-14 14:53:41 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:53:41 - DEBUG --> st.meteor@mail.ru
+2017-08-14 14:53:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:53:41 - INFO --> сообщение отправлено; 'st.meteor@mail.ru'
+2017-08-14 14:53:41 - INFO --> (0.0294 сек.)
+2017-08-14 14:54:29 - INFO --> Отсылка почты...
+2017-08-14 14:54:29 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:54:29 - DEBUG --> sokmeteor@mail.ru
+2017-08-14 14:54:29 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:54:29 - INFO --> сообщение отправлено; 'sokmeteor@mail.ru'
+2017-08-14 14:54:29 - INFO --> (0.0223 сек.)
+2017-08-14 14:56:00 - INFO --> Отсылка почты...
+2017-08-14 14:56:00 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:56:00 - DEBUG --> dushakras@mail.ru
+2017-08-14 14:56:00 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:56:00 - INFO --> сообщение отправлено; 'dushakras@mail.ru'
+2017-08-14 14:56:00 - INFO --> (0.0218 сек.)
+2017-08-14 14:57:05 - INFO --> Отсылка почты...
+2017-08-14 14:57:05 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:57:05 - DEBUG --> alex-vimpel@yandex.ru
+2017-08-14 14:57:05 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:57:05 - INFO --> сообщение отправлено; 'alex-vimpel@yandex.ru'
+2017-08-14 14:57:05 - INFO --> (0.0265 сек.)
+2017-08-14 14:57:46 - INFO --> Отсылка почты...
+2017-08-14 14:57:46 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 14:57:46 - DEBUG --> altis2000@mail.ru
+2017-08-14 14:57:46 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 14:57:46 - INFO --> сообщение отправлено; 'altis2000@mail.ru'
+2017-08-14 14:57:46 - INFO --> (0.0216 сек.)
+2017-08-14 15:09:58 - INFO --> Отсылка почты...
+2017-08-14 15:09:58 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 15:09:58 - DEBUG --> lelich13@yandex.ru
+2017-08-14 15:09:58 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 15:09:58 - INFO --> сообщение отправлено; 'lelich13@yandex.ru'
+2017-08-14 15:09:58 - INFO --> (0.0259 сек.)
+2017-08-14 15:10:12 - INFO --> Отсылка почты...
+2017-08-14 15:10:12 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 15:10:12 - DEBUG --> dushdubna@yandex.ru
+2017-08-14 15:10:12 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 15:10:12 - INFO --> сообщение отправлено; 'dushdubna@yandex.ru'
+2017-08-14 15:10:12 - INFO --> (0.0334 сек.)
+2017-08-14 15:11:02 - INFO --> Отсылка почты...
+2017-08-14 15:11:02 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 15:11:02 - DEBUG --> raduga@lanpolis.ru
+2017-08-14 15:11:02 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 15:11:02 - INFO --> сообщение отправлено; 'raduga@lanpolis.ru'
+2017-08-14 15:11:02 - INFO --> (0.0227 сек.)
+2017-08-14 15:11:22 - INFO --> Отсылка почты...
+2017-08-14 15:11:22 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 15:11:22 - DEBUG --> anvm@front.ru
+2017-08-14 15:11:22 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 15:11:22 - INFO --> сообщение отправлено; 'anvm@front.ru'
+2017-08-14 15:11:22 - INFO --> (0.0208 сек.)
+2017-08-14 15:12:21 - INFO --> Отсылка почты...
+2017-08-14 15:12:21 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 15:12:21 - DEBUG --> shkola-volna@mail.ru
+2017-08-14 15:12:21 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/rasprodaja_2017_avgust.jpg'
+2017-08-14 15:12:21 - INFO --> сообщение отправлено; 'shkola-volna@mail.ru'
+2017-08-14 15:12:21 - INFO --> (0.022 сек.)
+2017-08-14 15:41:44 - INFO --> Отсылка почты...
+2017-08-14 15:41:44 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 15:41:44 - DEBUG --> buh@olympic-sport.ru
+2017-08-14 15:41:44 - INFO --> сообщение отправлено; 'buh@olympic-sport.ru'
+2017-08-14 15:41:44 - INFO --> (0.0207 сек.)
+2017-08-14 15:43:27 - INFO --> Отсылка почты...
+2017-08-14 15:43:27 - INFO --> Тема; 'Распродажа NESCO лето 2017'
+2017-08-14 15:43:27 - DEBUG --> olympic21@yandex.ru
+2017-08-14 15:43:27 - INFO --> сообщение отправлено; 'olympic21@yandex.ru'
+2017-08-14 15:43:27 - INFO --> (0.0116 сек.)

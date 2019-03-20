@@ -1,0 +1,1300 @@
+2016-10-06 9:19:29 - INFO --> Отсылка почты...
+2016-10-06 9:19:29 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 9:19:29 - DEBUG --> ucp_admin@mail.ru
+2016-10-06 9:19:29 - INFO --> сообщение отправлено; 'ucp_admin@mail.ru'
+2016-10-06 9:19:29 - INFO --> (0.0052 сек.)
+2016-10-06 9:29:45 - INFO --> Отсылка почты...
+2016-10-06 9:29:45 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 9:29:45 - DEBUG --> dvorecml@yandex.ru
+2016-10-06 9:29:45 - INFO --> сообщение отправлено; 'dvorecml@yandex.ru'
+2016-10-06 9:29:45 - INFO --> (0.0047 сек.)
+2016-10-06 9:38:06 - INFO --> Отсылка почты...
+2016-10-06 9:38:06 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 9:38:06 - DEBUG --> atlant-taldom1@yandex.ru
+2016-10-06 9:38:06 - INFO --> сообщение отправлено; 'atlant-taldom1@yandex.ru'
+2016-10-06 9:38:06 - INFO --> (0.0055 сек.)
+2016-10-06 9:49:33 - INFO --> Отсылка почты...
+2016-10-06 9:49:33 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 9:49:33 - DEBUG --> sport-raion@mail.ru ,pzg_raion@mail.ru
+2016-10-06 9:49:33 - INFO --> сообщение отправлено; 'sport-raion@mail.ru'
+2016-10-06 9:49:33 - INFO --> сообщение отправлено; 'pzg_raion@mail.ru'
+2016-10-06 9:49:33 - INFO --> (0.009 сек.)
+2016-10-06 10:06:17 - INFO --> Отсылка почты...
+2016-10-06 10:06:17 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 10:06:17 - DEBUG --> rodnik.amu@yandex.ru
+2016-10-06 10:06:17 - INFO --> сообщение отправлено; 'rodnik.amu@yandex.ru'
+2016-10-06 10:06:17 - INFO --> (0.0051 сек.)
+2016-10-06 10:08:32 - INFO --> Отсылка почты...
+2016-10-06 10:08:32 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 10:08:32 - DEBUG --> grigoryev_87@mail.ru
+2016-10-06 10:08:32 - INFO --> сообщение отправлено; 'grigoryev_87@mail.ru'
+2016-10-06 10:08:32 - INFO --> (0.0049 сек.)
+2016-10-06 10:09:38 - INFO --> Отсылка почты...
+2016-10-06 10:09:38 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 10:09:38 - DEBUG --> curupa.adm@gmail.com
+2016-10-06 10:09:38 - INFO --> сообщение отправлено; 'curupa.adm@gmail.com'
+2016-10-06 10:09:38 - INFO --> (0.0054 сек.)
+2016-10-06 10:25:27 - INFO --> Отсылка почты...
+2016-10-06 10:25:27 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 10:25:27 - DEBUG --> dmsport@mail.ru
+2016-10-06 10:25:27 - INFO --> сообщение отправлено; 'dmsport@mail.ru'
+2016-10-06 10:25:27 - INFO --> (0.0053 сек.)
+2016-10-06 10:27:05 - INFO --> Отсылка почты...
+2016-10-06 10:27:05 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 10:27:05 - DEBUG --> dmsport@mail.ru
+2016-10-06 10:27:05 - INFO --> сообщение отправлено; 'dmsport@mail.ru'
+2016-10-06 10:27:05 - INFO --> (0.0052 сек.)
+2016-10-06 10:29:32 - INFO --> Отсылка почты...
+2016-10-06 10:29:32 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 10:29:32 - DEBUG --> l.ko-ko@yandex.ru
+2016-10-06 10:29:32 - INFO --> сообщение отправлено; 'l.ko-ko@yandex.ru'
+2016-10-06 10:29:32 - INFO --> (0.0052 сек.)
+2016-10-06 10:40:08 - INFO --> Отсылка почты...
+2016-10-06 10:40:08 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 10:40:08 - DEBUG --> admdedenevo@mail.ru
+2016-10-06 10:40:08 - INFO --> сообщение отправлено; 'admdedenevo@mail.ru'
+2016-10-06 10:40:08 - INFO --> (0.0049 сек.)
+2016-10-06 10:44:41 - INFO --> Отсылка почты...
+2016-10-06 10:44:41 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 10:44:41 - DEBUG --> iksha.fok@yandex.ru
+2016-10-06 10:44:41 - INFO --> сообщение отправлено; 'iksha.fok@yandex.ru'
+2016-10-06 10:44:41 - INFO --> (0.0055 сек.)
+2016-10-06 10:47:46 - INFO --> Отсылка почты...
+2016-10-06 10:47:46 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 10:47:46 - DEBUG --> adm.nekrasovskiy@mail.ru
+2016-10-06 10:47:46 - INFO --> сообщение отправлено; 'adm.nekrasovskiy@mail.ru'
+2016-10-06 10:47:46 - INFO --> (0.0051 сек.)
+2016-10-06 10:49:25 - INFO --> Отсылка почты...
+2016-10-06 10:49:25 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 10:49:25 - DEBUG --> sportkomitet.dom@yandex.ru
+2016-10-06 10:49:25 - INFO --> сообщение отправлено; 'sportkomitet.dom@yandex.ru'
+2016-10-06 10:49:25 - INFO --> (0.0052 сек.)
+2016-10-06 11:19:32 - INFO --> Отсылка почты...
+2016-10-06 11:19:32 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:19:32 - DEBUG --> olga.balmasheva@mail.ru,  v.lezhnin76@mail.ru
+2016-10-06 11:19:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:19:32 - INFO --> сообщение отправлено; 'olga.balmasheva@mail.ru'
+2016-10-06 11:19:32 - INFO --> сообщение отправлено; 'v.lezhnin76@mail.ru'
+2016-10-06 11:19:32 - INFO --> (0.0457 сек.)
+2016-10-06 11:20:03 - INFO --> Отсылка почты...
+2016-10-06 11:20:03 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:20:03 - DEBUG --> info@cspso.ru
+2016-10-06 11:20:03 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:20:03 - INFO --> сообщение отправлено; 'info@cspso.ru'
+2016-10-06 11:20:03 - INFO --> (0.0189 сек.)
+2016-10-06 11:20:23 - INFO --> Отсылка почты...
+2016-10-06 11:20:23 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:20:23 - DEBUG --> urfaso@yandex.ru
+2016-10-06 11:20:23 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:20:23 - INFO --> сообщение отправлено; 'urfaso@yandex.ru'
+2016-10-06 11:20:23 - INFO --> (0.019 сек.)
+2016-10-06 11:20:45 - INFO --> Отсылка почты...
+2016-10-06 11:20:45 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:20:45 - DEBUG --> direktor@sportrodnik.ru
+2016-10-06 11:20:45 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:20:45 - INFO --> сообщение отправлено; 'direktor@sportrodnik.ru'
+2016-10-06 11:20:45 - INFO --> (0.0201 сек.)
+2016-10-06 11:21:08 - INFO --> Отсылка почты...
+2016-10-06 11:21:08 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:21:08 - DEBUG --> sport@oblsport.ru
+2016-10-06 11:21:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:21:08 - INFO --> сообщение отправлено; 'sport@oblsport.ru'
+2016-10-06 11:21:08 - INFO --> (0.0192 сек.)
+2016-10-06 11:21:43 - INFO --> Отсылка почты...
+2016-10-06 11:21:43 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:21:43 - DEBUG --> ufkst@inbox.ru
+2016-10-06 11:21:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:21:43 - INFO --> сообщение отправлено; 'ufkst@inbox.ru'
+2016-10-06 11:21:43 - INFO --> (0.019 сек.)
+2016-10-06 11:22:05 - INFO --> Отсылка почты...
+2016-10-06 11:22:05 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:22:05 - DEBUG --> info@fbso66.ru
+2016-10-06 11:22:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:22:05 - INFO --> сообщение отправлено; 'info@fbso66.ru'
+2016-10-06 11:22:05 - INFO --> (0.0193 сек.)
+2016-10-06 11:22:29 - INFO --> Отсылка почты...
+2016-10-06 11:22:29 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:22:29 - DEBUG --> ekaburg@gmail.com
+2016-10-06 11:22:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:22:29 - INFO --> сообщение отправлено; 'ekaburg@gmail.com'
+2016-10-06 11:22:29 - INFO --> (0.0188 сек.)
+2016-10-06 11:22:52 - INFO --> Отсылка почты...
+2016-10-06 11:22:52 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:22:52 - DEBUG --> shkola-burevestnik@yandex.ru
+2016-10-06 11:22:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:22:52 - INFO --> сообщение отправлено; 'shkola-burevestnik@yandex.ru'
+2016-10-06 11:22:52 - INFO --> (0.0192 сек.)
+2016-10-06 11:27:54 - INFO --> Отсылка почты...
+2016-10-06 11:27:54 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 11:27:54 - DEBUG --> egsport@yandex.ru
+2016-10-06 11:27:54 - INFO --> сообщение отправлено; 'egsport@yandex.ru'
+2016-10-06 11:27:54 - INFO --> (0.0057 сек.)
+2016-10-06 11:36:16 - INFO --> Отсылка почты...
+2016-10-06 11:36:16 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:36:16 - DEBUG --> 2424412@mail.ru
+2016-10-06 11:36:16 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:36:16 - INFO --> сообщение отправлено; '2424412@mail.ru'
+2016-10-06 11:36:16 - INFO --> (0.0187 сек.)
+2016-10-06 11:36:35 - INFO --> Отсылка почты...
+2016-10-06 11:36:35 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 11:36:35 - DEBUG --> adm@egoradmin.ru
+2016-10-06 11:36:35 - INFO --> сообщение отправлено; 'adm@egoradmin.ru'
+2016-10-06 11:36:35 - INFO --> (0.0053 сек.)
+2016-10-06 11:36:53 - INFO --> Отсылка почты...
+2016-10-06 11:36:53 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:36:53 - DEBUG --> mouviktoria@yandex.ru
+2016-10-06 11:36:53 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:36:53 - INFO --> сообщение отправлено; 'mouviktoria@yandex.ru'
+2016-10-06 11:36:53 - INFO --> (0.0195 сек.)
+2016-10-06 11:37:18 - INFO --> Отсылка почты...
+2016-10-06 11:37:18 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:37:18 - DEBUG --> dinamo10@mail.ru
+2016-10-06 11:37:18 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:37:18 - INFO --> сообщение отправлено; 'dinamo10@mail.ru'
+2016-10-06 11:37:18 - INFO --> (0.0193 сек.)
+2016-10-06 11:37:54 - INFO --> Отсылка почты...
+2016-10-06 11:37:54 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:37:54 - DEBUG --> sportfund@mail.ru
+2016-10-06 11:37:54 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:37:54 - INFO --> сообщение отправлено; 'sportfund@mail.ru'
+2016-10-06 11:37:54 - INFO --> (0.019 сек.)
+2016-10-06 11:38:14 - INFO --> Отсылка почты...
+2016-10-06 11:38:14 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:38:14 - DEBUG --> kristall-dussch@yandex.ru
+2016-10-06 11:38:14 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:38:14 - INFO --> сообщение отправлено; 'kristall-dussch@yandex.ru'
+2016-10-06 11:38:14 - INFO --> (0.0201 сек.)
+2016-10-06 11:38:41 - INFO --> Отсылка почты...
+2016-10-06 11:38:41 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:38:41 - DEBUG --> ural_football@mail.ru
+2016-10-06 11:38:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:38:41 - INFO --> сообщение отправлено; 'ural_football@mail.ru'
+2016-10-06 11:38:41 - INFO --> (0.0192 сек.)
+2016-10-06 11:39:05 - INFO --> Отсылка почты...
+2016-10-06 11:39:05 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:39:05 - DEBUG --> rostok-ekb@yandex.ru
+2016-10-06 11:39:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:39:05 - INFO --> сообщение отправлено; 'rostok-ekb@yandex.ru'
+2016-10-06 11:39:05 - INFO --> (0.0194 сек.)
+2016-10-06 11:39:18 - INFO --> Отсылка почты...
+2016-10-06 11:39:18 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 11:39:18 - DEBUG --> mewera@yandex.ru
+2016-10-06 11:39:18 - INFO --> сообщение отправлено; 'mewera@yandex.ru'
+2016-10-06 11:39:18 - INFO --> (0.0064 сек.)
+2016-10-06 11:39:25 - INFO --> Отсылка почты...
+2016-10-06 11:39:25 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:39:25 - DEBUG --> dyussh_fakel@mail.ru
+2016-10-06 11:39:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:39:25 - INFO --> сообщение отправлено; 'dyussh_fakel@mail.ru'
+2016-10-06 11:39:25 - INFO --> (0.0188 сек.)
+2016-10-06 11:39:48 - INFO --> Отсылка почты...
+2016-10-06 11:39:48 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:39:48 - DEBUG --> unost@inbox.ru, unost-football@inbox.ru
+2016-10-06 11:39:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:39:48 - INFO --> сообщение отправлено; 'unost@inbox.ru'
+2016-10-06 11:39:48 - INFO --> сообщение отправлено; 'unost-football@inbox.ru'
+2016-10-06 11:39:48 - INFO --> (0.0344 сек.)
+2016-10-06 11:40:21 - INFO --> Отсылка почты...
+2016-10-06 11:40:21 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:40:21 - DEBUG --> sor3@sky.ru
+2016-10-06 11:40:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:40:21 - INFO --> сообщение отправлено; 'sor3@sky.ru'
+2016-10-06 11:40:21 - INFO --> (0.0176 сек.)
+2016-10-06 11:40:43 - INFO --> Отсылка почты...
+2016-10-06 11:40:43 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:40:43 - DEBUG --> 8lokomotiv_ekb@mail.ru
+2016-10-06 11:40:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:40:43 - INFO --> сообщение отправлено; '8lokomotiv_ekb@mail.ru'
+2016-10-06 11:40:43 - INFO --> (0.025 сек.)
+2016-10-06 11:41:54 - INFO --> Отсылка почты...
+2016-10-06 11:41:54 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:41:54 - DEBUG --> dushc16@mail.ru
+2016-10-06 11:41:54 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:41:54 - INFO --> сообщение отправлено; 'dushc16@mail.ru'
+2016-10-06 11:41:54 - INFO --> (0.0179 сек.)
+2016-10-06 11:43:33 - INFO --> Отсылка почты...
+2016-10-06 11:43:33 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 11:43:33 - DEBUG --> posryazadm@yandex.ru
+2016-10-06 11:43:33 - INFO --> сообщение отправлено; 'posryazadm@yandex.ru'
+2016-10-06 11:43:33 - INFO --> (0.0055 сек.)
+2016-10-06 11:43:40 - INFO --> Отсылка почты...
+2016-10-06 11:43:40 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:43:40 - DEBUG --> detski_stadion@mail.ru
+2016-10-06 11:43:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:43:40 - INFO --> сообщение отправлено; 'detski_stadion@mail.ru'
+2016-10-06 11:43:40 - INFO --> (0.0195 сек.)
+2016-10-06 11:44:00 - INFO --> Отсылка почты...
+2016-10-06 11:44:00 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:44:00 - DEBUG --> mf-school-viz@mail.ru
+2016-10-06 11:44:00 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:44:00 - INFO --> сообщение отправлено; 'mf-school-viz@mail.ru'
+2016-10-06 11:44:00 - INFO --> (0.0193 сек.)
+2016-10-06 11:44:27 - INFO --> Отсылка почты...
+2016-10-06 11:44:27 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:44:27 - DEBUG --> borba66@mail.ru
+2016-10-06 11:44:27 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:44:27 - INFO --> сообщение отправлено; 'borba66@mail.ru'
+2016-10-06 11:44:27 - INFO --> (0.0189 сек.)
+2016-10-06 11:44:47 - INFO --> Отсылка почты...
+2016-10-06 11:44:47 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:44:47 - DEBUG --> sdusshor.li@gmail.com
+2016-10-06 11:44:47 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:44:47 - INFO --> сообщение отправлено; 'sdusshor.li@gmail.com'
+2016-10-06 11:44:47 - INFO --> (0.0193 сек.)
+2016-10-06 11:45:07 - INFO --> Отсылка почты...
+2016-10-06 11:45:07 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:45:07 - DEBUG --> dush-09@mail.ru
+2016-10-06 11:45:07 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:45:07 - INFO --> сообщение отправлено; 'dush-09@mail.ru'
+2016-10-06 11:45:07 - INFO --> (0.0188 сек.)
+2016-10-06 11:46:05 - INFO --> Отсылка почты...
+2016-10-06 11:46:05 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:46:05 - DEBUG --> sport-gobogd@mail.ru
+2016-10-06 11:46:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:46:05 - INFO --> сообщение отправлено; 'sport-gobogd@mail.ru'
+2016-10-06 11:46:05 - INFO --> (0.0192 сек.)
+2016-10-06 11:46:26 - INFO --> Отсылка почты...
+2016-10-06 11:46:26 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:46:26 - DEBUG --> asport-1@yandex.ru
+2016-10-06 11:46:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:46:26 - INFO --> сообщение отправлено; 'asport-1@yandex.ru'
+2016-10-06 11:46:26 - INFO --> (0.0194 сек.)
+2016-10-06 11:46:45 - INFO --> Отсылка почты...
+2016-10-06 11:46:45 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:46:45 - DEBUG --> ar_dussh@mail.ru
+2016-10-06 11:46:45 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:46:45 - INFO --> сообщение отправлено; 'ar_dussh@mail.ru'
+2016-10-06 11:46:45 - INFO --> (0.0193 сек.)
+2016-10-06 11:47:04 - INFO --> Отсылка почты...
+2016-10-06 11:47:04 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:47:04 - DEBUG --> irbitsporthkola@rambler.ru
+2016-10-06 11:47:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:47:04 - INFO --> сообщение отправлено; 'irbitsporthkola@rambler.ru'
+2016-10-06 11:47:04 - INFO --> (0.0195 сек.)
+2016-10-06 11:49:30 - INFO --> Отсылка почты...
+2016-10-06 11:49:30 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 11:49:30 - DEBUG --> okazmr@yandex.ru
+2016-10-06 11:49:30 - INFO --> сообщение отправлено; 'okazmr@yandex.ru'
+2016-10-06 11:49:30 - INFO --> (0.0051 сек.)
+2016-10-06 11:49:59 - INFO --> Отсылка почты...
+2016-10-06 11:49:59 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:49:59 - DEBUG --> dush2-nov@mail.ru
+2016-10-06 11:49:59 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:49:59 - INFO --> сообщение отправлено; 'dush2-nov@mail.ru'
+2016-10-06 11:49:59 - INFO --> (0.0187 сек.)
+2016-10-06 11:50:24 - INFO --> Отсылка почты...
+2016-10-06 11:50:24 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:50:24 - DEBUG --> sportschool-rev@mail.ru
+2016-10-06 11:50:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:50:24 - INFO --> сообщение отправлено; 'sportschool-rev@mail.ru'
+2016-10-06 11:50:24 - INFO --> (0.0193 сек.)
+2016-10-06 11:50:45 - INFO --> Отсылка почты...
+2016-10-06 11:50:45 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:50:45 - DEBUG --> sdushor3nt@mail.ru
+2016-10-06 11:50:45 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:50:45 - INFO --> сообщение отправлено; 'sdushor3nt@mail.ru'
+2016-10-06 11:50:45 - INFO --> (0.0183 сек.)
+2016-10-06 11:51:07 - INFO --> Отсылка почты...
+2016-10-06 11:51:07 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:51:07 - DEBUG --> tssport@yandex.ru
+2016-10-06 11:51:07 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:51:07 - INFO --> сообщение отправлено; 'tssport@yandex.ru'
+2016-10-06 11:51:07 - INFO --> (0.019 сек.)
+2016-10-06 11:51:28 - INFO --> Отсылка почты...
+2016-10-06 11:51:28 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:51:28 - DEBUG --> stadionv@mail.ru
+2016-10-06 11:51:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:51:28 - INFO --> сообщение отправлено; 'stadionv@mail.ru'
+2016-10-06 11:51:28 - INFO --> (0.0194 сек.)
+2016-10-06 11:51:50 - INFO --> Отсылка почты...
+2016-10-06 11:51:50 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:51:50 - DEBUG --> dush4_nt@mail.ru
+2016-10-06 11:51:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:51:50 - INFO --> сообщение отправлено; 'dush4_nt@mail.ru'
+2016-10-06 11:51:50 - INFO --> (0.0195 сек.)
+2016-10-06 11:52:12 - INFO --> Отсылка почты...
+2016-10-06 11:52:12 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:52:12 - DEBUG --> dusch-sputnik@mail.ru
+2016-10-06 11:52:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:52:12 - INFO --> сообщение отправлено; 'dusch-sputnik@mail.ru'
+2016-10-06 11:52:12 - INFO --> (0.0194 сек.)
+2016-10-06 11:53:25 - INFO --> Отсылка почты...
+2016-10-06 11:53:25 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:53:25 - DEBUG --> SCUralets@mail.ru
+2016-10-06 11:53:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:53:25 - INFO --> сообщение отправлено; 'SCUralets@mail.ru'
+2016-10-06 11:53:25 - INFO --> (0.018 сек.)
+2016-10-06 11:53:44 - INFO --> Отсылка почты...
+2016-10-06 11:53:44 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:53:44 - DEBUG --> uralochka.ntagil@mail.ru
+2016-10-06 11:53:44 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:53:44 - INFO --> сообщение отправлено; 'uralochka.ntagil@mail.ru'
+2016-10-06 11:53:44 - INFO --> (0.0189 сек.)
+2016-10-06 11:54:05 - INFO --> Отсылка почты...
+2016-10-06 11:54:05 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:54:05 - DEBUG --> sobol.junior@mail.ru
+2016-10-06 11:54:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:54:05 - INFO --> сообщение отправлено; 'sobol.junior@mail.ru'
+2016-10-06 11:54:05 - INFO --> (0.0189 сек.)
+2016-10-06 11:54:24 - INFO --> Отсылка почты...
+2016-10-06 11:54:24 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:54:24 - DEBUG --> upiter123@yandex.ru
+2016-10-06 11:54:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:54:24 - INFO --> сообщение отправлено; 'upiter123@yandex.ru'
+2016-10-06 11:54:24 - INFO --> (0.0195 сек.)
+2016-10-06 11:54:45 - INFO --> Отсылка почты...
+2016-10-06 11:54:45 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:54:45 - DEBUG --> unost-nt@rambler.ru
+2016-10-06 11:54:45 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:54:45 - INFO --> сообщение отправлено; 'unost-nt@rambler.ru'
+2016-10-06 11:54:45 - INFO --> (0.0193 сек.)
+2016-10-06 11:55:04 - INFO --> Отсылка почты...
+2016-10-06 11:55:04 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:55:04 - DEBUG --> zar_sport@mail.ru
+2016-10-06 11:55:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:55:04 - INFO --> сообщение отправлено; 'zar_sport@mail.ru'
+2016-10-06 11:55:04 - INFO --> (0.0193 сек.)
+2016-10-06 11:55:24 - INFO --> Отсылка почты...
+2016-10-06 11:55:24 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:55:24 - DEBUG --> dsh.kamr@mail.ru
+2016-10-06 11:55:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:55:24 - INFO --> сообщение отправлено; 'dsh.kamr@mail.ru'
+2016-10-06 11:55:24 - INFO --> (0.0193 сек.)
+2016-10-06 11:55:46 - INFO --> Отсылка почты...
+2016-10-06 11:55:46 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:55:46 - DEBUG --> sdusshor-fakel@yandex.ru
+2016-10-06 11:55:46 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:55:46 - INFO --> сообщение отправлено; 'sdusshor-fakel@yandex.ru'
+2016-10-06 11:55:46 - INFO --> (0.0191 сек.)
+2016-10-06 11:56:06 - INFO --> Отсылка почты...
+2016-10-06 11:56:06 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:56:06 - DEBUG --> dushreft@mail.ru
+2016-10-06 11:56:06 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:56:06 - INFO --> сообщение отправлено; 'dushreft@mail.ru'
+2016-10-06 11:56:06 - INFO --> (0.0189 сек.)
+2016-10-06 11:56:29 - INFO --> Отсылка почты...
+2016-10-06 11:56:29 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:56:29 - DEBUG --> dyussh54@mail.ru
+2016-10-06 11:56:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:56:29 - INFO --> сообщение отправлено; 'dyussh54@mail.ru'
+2016-10-06 11:56:29 - INFO --> (0.0195 сек.)
+2016-10-06 11:56:54 - INFO --> Отсылка почты...
+2016-10-06 11:56:54 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:56:54 - DEBUG --> axmatdinov@yandex.ru
+2016-10-06 11:56:54 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:56:54 - INFO --> сообщение отправлено; 'axmatdinov@yandex.ru'
+2016-10-06 11:56:54 - INFO --> (0.0192 сек.)
+2016-10-06 11:57:16 - INFO --> Отсылка почты...
+2016-10-06 11:57:16 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 11:57:16 - DEBUG --> dushkruf@mail.ru
+2016-10-06 11:57:16 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 11:57:16 - INFO --> сообщение отправлено; 'dushkruf@mail.ru'
+2016-10-06 11:57:16 - INFO --> (0.0195 сек.)
+2016-10-06 11:57:49 - INFO --> Отсылка почты...
+2016-10-06 11:57:49 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 11:57:49 - DEBUG --> buzlaeva@istra-adm.ru
+2016-10-06 11:57:49 - INFO --> сообщение отправлено; 'buzlaeva@istra-adm.ru'
+2016-10-06 11:57:49 - INFO --> (0.0052 сек.)
+2016-10-06 12:01:00 - INFO --> Отсылка почты...
+2016-10-06 12:01:00 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 12:01:00 - DEBUG --> buh-sdk@mail.ru
+2016-10-06 12:01:00 - INFO --> сообщение отправлено; 'buh-sdk@mail.ru'
+2016-10-06 12:01:00 - INFO --> (0.0053 сек.)
+2016-10-06 12:03:12 - INFO --> Отсылка почты...
+2016-10-06 12:03:12 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:03:12 - DEBUG --> kfs_uln@mail.ru
+2016-10-06 12:03:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:03:12 - INFO --> сообщение отправлено; 'kfs_uln@mail.ru'
+2016-10-06 12:03:12 - INFO --> (0.0187 сек.)
+2016-10-06 12:06:43 - INFO --> Отсылка почты...
+2016-10-06 12:06:43 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:06:43 - DEBUG --> gfsucsp@mail.ru
+2016-10-06 12:06:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:06:43 - INFO --> сообщение отправлено; 'gfsucsp@mail.ru'
+2016-10-06 12:06:43 - INFO --> (0.0192 сек.)
+2016-10-06 12:07:11 - INFO --> Отсылка почты...
+2016-10-06 12:07:11 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:07:11 - DEBUG --> volgaschool@mail.ru
+2016-10-06 12:07:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:07:11 - INFO --> сообщение отправлено; 'volgaschool@mail.ru'
+2016-10-06 12:07:11 - INFO --> (0.0206 сек.)
+2016-10-06 12:07:44 - INFO --> Отсылка почты...
+2016-10-06 12:07:44 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:07:44 - DEBUG --> dush.10@mail.ru
+2016-10-06 12:07:44 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:07:44 - INFO --> сообщение отправлено; 'dush.10@mail.ru'
+2016-10-06 12:07:44 - INFO --> (0.02 сек.)
+2016-10-06 12:08:21 - INFO --> Отсылка почты...
+2016-10-06 12:08:21 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:08:21 - DEBUG --> sdusshor_tkd@mail.ru
+2016-10-06 12:08:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:08:21 - INFO --> сообщение отправлено; 'sdusshor_tkd@mail.ru'
+2016-10-06 12:08:21 - INFO --> (0.0194 сек.)
+2016-10-06 12:08:41 - INFO --> Отсылка почты...
+2016-10-06 12:08:41 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:08:41 - DEBUG --> ulborba@yandex.ru
+2016-10-06 12:08:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:08:41 - INFO --> сообщение отправлено; 'ulborba@yandex.ru'
+2016-10-06 12:08:41 - INFO --> (0.0205 сек.)
+2016-10-06 12:09:03 - INFO --> Отсылка почты...
+2016-10-06 12:09:03 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:09:03 - DEBUG --> sparta-judo@yandex.ru
+2016-10-06 12:09:03 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:09:03 - INFO --> сообщение отправлено; 'sparta-judo@yandex.ru'
+2016-10-06 12:09:03 - INFO --> (0.0184 сек.)
+2016-10-06 12:11:17 - INFO --> Отсылка почты...
+2016-10-06 12:11:17 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 12:11:17 - DEBUG --> dedovsk_adm@mail.ru
+2016-10-06 12:11:17 - INFO --> сообщение отправлено; 'dedovsk_adm@mail.ru'
+2016-10-06 12:11:17 - INFO --> (0.0046 сек.)
+2016-10-06 12:11:52 - INFO --> Отсылка почты...
+2016-10-06 12:11:52 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:11:52 - DEBUG --> dushdd@yandex.ru
+2016-10-06 12:11:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:11:52 - INFO --> сообщение отправлено; 'dushdd@yandex.ru'
+2016-10-06 12:11:52 - INFO --> (0.0193 сек.)
+2016-10-06 12:12:18 - INFO --> Отсылка почты...
+2016-10-06 12:12:18 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:12:18 - DEBUG --> spartak.dd@yandex.ru
+2016-10-06 12:12:18 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:12:18 - INFO --> сообщение отправлено; 'spartak.dd@yandex.ru'
+2016-10-06 12:12:18 - INFO --> (0.0188 сек.)
+2016-10-06 12:12:40 - INFO --> Отсылка почты...
+2016-10-06 12:12:40 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:12:40 - DEBUG --> Sportsc1@mail.ru
+2016-10-06 12:12:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:12:40 - INFO --> сообщение отправлено; 'Sportsc1@mail.ru'
+2016-10-06 12:12:40 - INFO --> (0.0191 сек.)
+2016-10-06 12:13:04 - INFO --> Отсылка почты...
+2016-10-06 12:13:04 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:13:04 - DEBUG --> dussh-2@mail.ru
+2016-10-06 12:13:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:13:04 - INFO --> сообщение отправлено; 'dussh-2@mail.ru'
+2016-10-06 12:13:04 - INFO --> (0.0193 сек.)
+2016-10-06 12:13:26 - INFO --> Отсылка почты...
+2016-10-06 12:13:26 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:13:26 - DEBUG --> dyussh4@mail.ru
+2016-10-06 12:13:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:13:26 - INFO --> сообщение отправлено; 'dyussh4@mail.ru'
+2016-10-06 12:13:26 - INFO --> (0.0188 сек.)
+2016-10-06 12:13:45 - INFO --> Отсылка почты...
+2016-10-06 12:13:45 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:13:45 - DEBUG --> dussh-atlet@mail.ru
+2016-10-06 12:13:45 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:13:45 - INFO --> сообщение отправлено; 'dussh-atlet@mail.ru'
+2016-10-06 12:13:45 - INFO --> (0.0192 сек.)
+2016-10-06 12:14:06 - INFO --> Отсылка почты...
+2016-10-06 12:14:06 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:14:06 - DEBUG --> sportshkola09@mail.ru
+2016-10-06 12:14:06 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:14:06 - INFO --> сообщение отправлено; 'sportshkola09@mail.ru'
+2016-10-06 12:14:06 - INFO --> (0.0192 сек.)
+2016-10-06 12:14:32 - INFO --> Отсылка почты...
+2016-10-06 12:14:32 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:14:32 - DEBUG --> sportshkola@mail.ru
+2016-10-06 12:14:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:14:32 - INFO --> сообщение отправлено; 'sportshkola@mail.ru'
+2016-10-06 12:14:32 - INFO --> (0.0194 сек.)
+2016-10-06 12:14:57 - INFO --> Отсылка почты...
+2016-10-06 12:14:57 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:14:57 - DEBUG --> super.sport-lider@yandex.ru
+2016-10-06 12:14:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:14:57 - INFO --> сообщение отправлено; 'super.sport-lider@yandex.ru'
+2016-10-06 12:14:57 - INFO --> (0.0184 сек.)
+2016-10-06 12:15:27 - INFO --> Отсылка почты...
+2016-10-06 12:15:27 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:15:27 - DEBUG --> sport_school_len@mail.ru
+2016-10-06 12:15:27 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:15:27 - INFO --> сообщение отправлено; 'sport_school_len@mail.ru'
+2016-10-06 12:15:27 - INFO --> (0.0202 сек.)
+2016-10-06 12:15:52 - INFO --> Отсылка почты...
+2016-10-06 12:15:52 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:15:52 - DEBUG --> kvn_ulstart@mail.ru
+2016-10-06 12:15:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:15:52 - INFO --> сообщение отправлено; 'kvn_ulstart@mail.ru'
+2016-10-06 12:15:52 - INFO --> (0.0192 сек.)
+2016-10-06 12:16:17 - INFO --> Отсылка почты...
+2016-10-06 12:16:17 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:16:17 - DEBUG --> vovkin433700@mail.ru
+2016-10-06 12:16:17 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:16:17 - INFO --> сообщение отправлено; 'vovkin433700@mail.ru'
+2016-10-06 12:16:17 - INFO --> (0.0438 сек.)
+2016-10-06 12:17:04 - INFO --> Отсылка почты...
+2016-10-06 12:17:04 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:17:04 - DEBUG --> bar-sport@mail.ru
+2016-10-06 12:17:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:17:04 - INFO --> сообщение отправлено; 'bar-sport@mail.ru'
+2016-10-06 12:17:04 - INFO --> (0.0193 сек.)
+2016-10-06 12:17:29 - INFO --> Отсылка почты...
+2016-10-06 12:17:29 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:17:29 - DEBUG --> veshkaim@mail.ru
+2016-10-06 12:17:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:17:29 - INFO --> сообщение отправлено; 'veshkaim@mail.ru'
+2016-10-06 12:17:29 - INFO --> (0.019 сек.)
+2016-10-06 12:18:57 - INFO --> Отсылка почты...
+2016-10-06 12:18:57 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:18:57 - DEBUG --> ikar-roo@mail.ru, dyusch_inza@mail.ru
+2016-10-06 12:18:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:18:57 - INFO --> сообщение отправлено; 'ikar-roo@mail.ru'
+2016-10-06 12:18:57 - INFO --> сообщение отправлено; 'dyusch_inza@mail.ru'
+2016-10-06 12:18:57 - INFO --> (0.0339 сек.)
+2016-10-06 12:19:29 - INFO --> Отсылка почты...
+2016-10-06 12:19:29 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:19:29 - DEBUG --> An5423@yandex.ru, m.gracheowa@yandex.ru
+2016-10-06 12:19:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:19:29 - INFO --> сообщение отправлено; 'An5423@yandex.ru'
+2016-10-06 12:19:29 - INFO --> сообщение отправлено; 'm.gracheowa@yandex.ru'
+2016-10-06 12:19:29 - INFO --> (0.0367 сек.)
+2016-10-06 12:19:51 - INFO --> Отсылка почты...
+2016-10-06 12:19:51 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:19:51 - DEBUG --> kuz-sport@mail.ru
+2016-10-06 12:19:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:19:51 - INFO --> сообщение отправлено; 'kuz-sport@mail.ru'
+2016-10-06 12:19:51 - INFO --> (0.0169 сек.)
+2016-10-06 12:20:14 - INFO --> Отсылка почты...
+2016-10-06 12:20:14 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:20:14 - DEBUG --> olia.dush2013@yandex.ru
+2016-10-06 12:20:14 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:20:14 - INFO --> сообщение отправлено; 'olia.dush2013@yandex.ru'
+2016-10-06 12:20:14 - INFO --> (0.0191 сек.)
+2016-10-06 12:20:42 - INFO --> Отсылка почты...
+2016-10-06 12:20:42 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:20:42 - DEBUG --> dush-2009@yandex.ru
+2016-10-06 12:20:42 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:20:42 - INFO --> сообщение отправлено; 'dush-2009@yandex.ru'
+2016-10-06 12:20:42 - INFO --> (0.0195 сек.)
+2016-10-06 12:23:27 - INFO --> Отсылка почты...
+2016-10-06 12:23:27 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 12:23:27 - DEBUG --> sve7156@yandex.ru
+2016-10-06 12:23:27 - INFO --> сообщение отправлено; 'sve7156@yandex.ru'
+2016-10-06 12:23:27 - INFO --> (0.0054 сек.)
+2016-10-06 12:25:21 - INFO --> Отсылка почты...
+2016-10-06 12:25:21 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:25:21 - DEBUG --> novosp_roo@mail.ru
+2016-10-06 12:25:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:25:21 - INFO --> сообщение отправлено; 'novosp_roo@mail.ru'
+2016-10-06 12:25:21 - INFO --> (0.018 сек.)
+2016-10-06 12:25:46 - INFO --> Отсылка почты...
+2016-10-06 12:25:46 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:25:46 - DEBUG --> sport_soh@mail.ru
+2016-10-06 12:25:46 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:25:46 - INFO --> сообщение отправлено; 'sport_soh@mail.ru'
+2016-10-06 12:25:46 - INFO --> (0.0187 сек.)
+2016-10-06 12:26:08 - INFO --> Отсылка почты...
+2016-10-06 12:26:08 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:26:08 - DEBUG --> fsk_olimp@mail.ru
+2016-10-06 12:26:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:26:08 - INFO --> сообщение отправлено; 'fsk_olimp@mail.ru'
+2016-10-06 12:26:08 - INFO --> (0.0189 сек.)
+2016-10-06 12:26:31 - INFO --> Отсылка почты...
+2016-10-06 12:26:31 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:26:31 - DEBUG --> dyussh.starokul@mail.ru
+2016-10-06 12:26:31 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:26:31 - INFO --> сообщение отправлено; 'dyussh.starokul@mail.ru'
+2016-10-06 12:26:31 - INFO --> (0.0187 сек.)
+2016-10-06 12:34:40 - INFO --> Отсылка почты...
+2016-10-06 12:34:40 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 12:34:40 - DEBUG --> yanovagalina@mail.ru
+2016-10-06 12:34:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 12:34:40 - INFO --> сообщение отправлено; 'yanovagalina@mail.ru'
+2016-10-06 12:34:40 - INFO --> (0.0188 сек.)
+2016-10-06 12:39:36 - INFO --> Отсылка почты...
+2016-10-06 12:39:36 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 12:39:36 - DEBUG --> klinsport@mail.ru
+2016-10-06 12:39:36 - INFO --> сообщение отправлено; 'klinsport@mail.ru'
+2016-10-06 12:39:36 - INFO --> (0.0054 сек.)
+2016-10-06 12:44:09 - INFO --> Отсылка почты...
+2016-10-06 12:44:09 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 12:44:09 - DEBUG --> ozherelie-adm@yandex.ru
+2016-10-06 12:44:09 - INFO --> сообщение отправлено; 'ozherelie-adm@yandex.ru'
+2016-10-06 12:44:09 - INFO --> (0.0046 сек.)
+2016-10-06 12:45:26 - INFO --> Отсылка почты...
+2016-10-06 12:45:26 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 12:45:26 - DEBUG --> admvisokovsk@mail.ru
+2016-10-06 12:45:26 - INFO --> сообщение отправлено; 'admvisokovsk@mail.ru'
+2016-10-06 12:45:26 - INFO --> (0.0047 сек.)
+2016-10-06 13:09:37 - INFO --> Отсылка почты...
+2016-10-06 13:09:37 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:09:37 - DEBUG --> terdussh@yandex.ru
+2016-10-06 13:09:37 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:09:37 - INFO --> сообщение отправлено; 'terdussh@yandex.ru'
+2016-10-06 13:09:37 - INFO --> (0.0192 сек.)
+2016-10-06 13:09:57 - INFO --> Отсылка почты...
+2016-10-06 13:09:57 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:09:57 - DEBUG --> kfs_ulraion@mail.ru
+2016-10-06 13:09:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:09:57 - INFO --> сообщение отправлено; 'kfs_ulraion@mail.ru'
+2016-10-06 13:09:57 - INFO --> (0.0192 сек.)
+2016-10-06 13:10:50 - INFO --> Отсылка почты...
+2016-10-06 13:10:50 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:10:50 - DEBUG --> dushcil@mail.ru
+2016-10-06 13:10:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:10:50 - INFO --> сообщение отправлено; 'dushcil@mail.ru'
+2016-10-06 13:10:50 - INFO --> (0.0188 сек.)
+2016-10-06 13:11:09 - INFO --> Отсылка почты...
+2016-10-06 13:11:09 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:11:09 - DEBUG --> cherdakly_sport@mail.ru
+2016-10-06 13:11:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:11:09 - INFO --> сообщение отправлено; 'cherdakly_sport@mail.ru'
+2016-10-06 13:11:09 - INFO --> (0.0188 сек.)
+2016-10-06 13:12:22 - INFO --> Отсылка почты...
+2016-10-06 13:12:22 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 13:12:22 - DEBUG --> admreshetnikovo@yandex.ru
+2016-10-06 13:12:22 - INFO --> сообщение отправлено; 'admreshetnikovo@yandex.ru'
+2016-10-06 13:12:22 - INFO --> (0.0054 сек.)
+2016-10-06 13:13:45 - INFO --> Отсылка почты...
+2016-10-06 13:13:45 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:13:45 - DEBUG --> sport@city-yar.ru
+2016-10-06 13:13:45 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:13:45 - INFO --> сообщение отправлено; 'sport@city-yar.ru'
+2016-10-06 13:13:45 - INFO --> (0.0201 сек.)
+2016-10-06 13:14:53 - INFO --> Отсылка почты...
+2016-10-06 13:14:53 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:14:53 - DEBUG --> unior2008@yandex.ru
+2016-10-06 13:14:53 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:14:53 - INFO --> сообщение отправлено; 'unior2008@yandex.ru'
+2016-10-06 13:14:53 - INFO --> (0.0184 сек.)
+2016-10-06 13:15:34 - INFO --> Отсылка почты...
+2016-10-06 13:15:34 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:15:34 - DEBUG --> dushor13@yandex.ru
+2016-10-06 13:15:34 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:15:34 - INFO --> сообщение отправлено; 'dushor13@yandex.ru'
+2016-10-06 13:15:34 - INFO --> (0.0192 сек.)
+2016-10-06 13:18:23 - INFO --> Отсылка почты...
+2016-10-06 13:18:23 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:18:23 - DEBUG --> dyc-kauchuk@yandex.ru
+2016-10-06 13:18:23 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:18:23 - INFO --> сообщение отправлено; 'dyc-kauchuk@yandex.ru'
+2016-10-06 13:18:23 - INFO --> (0.0191 сек.)
+2016-10-06 13:19:18 - INFO --> Отсылка почты...
+2016-10-06 13:19:18 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:19:18 - DEBUG --> mig-15-02@mail.ru
+2016-10-06 13:19:18 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:19:18 - INFO --> сообщение отправлено; 'mig-15-02@mail.ru'
+2016-10-06 13:19:18 - INFO --> (0.0193 сек.)
+2016-10-06 13:19:43 - INFO --> Отсылка почты...
+2016-10-06 13:19:43 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:19:43 - DEBUG --> duc-medved@mail.ru
+2016-10-06 13:19:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:19:43 - INFO --> сообщение отправлено; 'duc-medved@mail.ru'
+2016-10-06 13:19:43 - INFO --> (0.0189 сек.)
+2016-10-06 13:20:01 - INFO --> Отсылка почты...
+2016-10-06 13:20:01 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 13:20:01 - DEBUG --> taldomsport@mail.ru
+2016-10-06 13:20:01 - INFO --> сообщение отправлено; 'taldomsport@mail.ru'
+2016-10-06 13:20:01 - INFO --> (0.0056 сек.)
+2016-10-06 13:20:04 - INFO --> Отсылка почты...
+2016-10-06 13:20:04 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:20:04 - DEBUG --> sdushor6yar@yandex.ru
+2016-10-06 13:20:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:20:04 - INFO --> сообщение отправлено; 'sdushor6yar@yandex.ru'
+2016-10-06 13:20:04 - INFO --> (0.0192 сек.)
+2016-10-06 13:20:27 - INFO --> Отсылка почты...
+2016-10-06 13:20:27 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:20:27 - DEBUG --> rovesnik76@mail.ru
+2016-10-06 13:20:27 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:20:27 - INFO --> сообщение отправлено; 'rovesnik76@mail.ru'
+2016-10-06 13:20:27 - INFO --> (0.0207 сек.)
+2016-10-06 13:20:49 - INFO --> Отсылка почты...
+2016-10-06 13:20:49 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:20:49 - DEBUG --> sdysshor2@yandex.ru
+2016-10-06 13:20:49 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:20:49 - INFO --> сообщение отправлено; 'sdysshor2@yandex.ru'
+2016-10-06 13:20:49 - INFO --> (0.0193 сек.)
+2016-10-06 13:21:22 - INFO --> Отсылка почты...
+2016-10-06 13:21:22 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:21:22 - DEBUG --> molniya-76@yandex.ru
+2016-10-06 13:21:22 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:21:22 - INFO --> сообщение отправлено; 'molniya-76@yandex.ru'
+2016-10-06 13:21:22 - INFO --> (0.0185 сек.)
+2016-10-06 13:37:38 - INFO --> Отсылка почты...
+2016-10-06 13:37:38 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:37:38 - DEBUG --> stadionpereslavl@yandex.ru
+2016-10-06 13:37:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:37:38 - INFO --> сообщение отправлено; 'stadionpereslavl@yandex.ru'
+2016-10-06 13:37:38 - INFO --> (0.0193 сек.)
+2016-10-06 13:39:57 - INFO --> Отсылка почты...
+2016-10-06 13:39:57 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:39:57 - DEBUG --> sssh-4@yandex.ru
+2016-10-06 13:39:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:39:57 - INFO --> сообщение отправлено; 'sssh-4@yandex.ru'
+2016-10-06 13:39:57 - INFO --> (0.0197 сек.)
+2016-10-06 13:40:30 - INFO --> Отсылка почты...
+2016-10-06 13:40:30 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:40:30 - DEBUG --> ros2ssh@mail.ru
+2016-10-06 13:40:30 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:40:30 - INFO --> сообщение отправлено; 'ros2ssh@mail.ru'
+2016-10-06 13:40:30 - INFO --> (0.0192 сек.)
+2016-10-06 13:40:49 - INFO --> Отсылка почты...
+2016-10-06 13:40:49 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:40:49 - DEBUG --> dush-lubim@yandex.ru
+2016-10-06 13:40:49 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:40:49 - INFO --> сообщение отправлено; 'dush-lubim@yandex.ru'
+2016-10-06 13:40:49 - INFO --> (0.0181 сек.)
+2016-10-06 13:41:10 - INFO --> Отсылка почты...
+2016-10-06 13:41:10 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:41:10 - DEBUG --> dssh_posh@mail.ru
+2016-10-06 13:41:10 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:41:10 - INFO --> сообщение отправлено; 'dssh_posh@mail.ru'
+2016-10-06 13:41:10 - INFO --> (0.0193 сек.)
+2016-10-06 13:41:31 - INFO --> Отсылка почты...
+2016-10-06 13:41:31 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:41:31 - DEBUG --> school@rostov-sport.ru
+2016-10-06 13:41:31 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:41:31 - INFO --> сообщение отправлено; 'school@rostov-sport.ru'
+2016-10-06 13:41:31 - INFO --> (0.0191 сек.)
+2016-10-06 13:54:48 - INFO --> Отсылка почты...
+2016-10-06 13:54:48 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:54:48 - DEBUG --> stadion.dush4@mail.ru
+2016-10-06 13:54:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:54:48 - INFO --> сообщение отправлено; 'stadion.dush4@mail.ru'
+2016-10-06 13:54:48 - INFO --> (0.0192 сек.)
+2016-10-06 13:55:24 - INFO --> Отсылка почты...
+2016-10-06 13:55:24 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:55:24 - DEBUG --> sport-ypravlenie@mail.ru
+2016-10-06 13:55:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:55:24 - INFO --> сообщение отправлено; 'sport-ypravlenie@mail.ru'
+2016-10-06 13:55:24 - INFO --> (0.0193 сек.)
+2016-10-06 13:55:46 - INFO --> Отсылка почты...
+2016-10-06 13:55:46 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:55:46 - DEBUG --> tenolimp@mail.ru
+2016-10-06 13:55:46 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:55:47 - INFO --> сообщение отправлено; 'tenolimp@mail.ru'
+2016-10-06 13:55:47 - INFO --> (0.0192 сек.)
+2016-10-06 13:56:05 - INFO --> Отсылка почты...
+2016-10-06 13:56:05 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 13:56:05 - DEBUG --> info@rybinsk12.ru
+2016-10-06 13:56:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 13:56:05 - INFO --> сообщение отправлено; 'info@rybinsk12.ru'
+2016-10-06 13:56:05 - INFO --> (0.0191 сек.)
+2016-10-06 14:14:06 - INFO --> Отсылка почты...
+2016-10-06 14:14:06 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 14:14:06 - DEBUG --> sdushor6futbol@mail.ru
+2016-10-06 14:14:06 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 14:14:06 - INFO --> сообщение отправлено; 'sdushor6futbol@mail.ru'
+2016-10-06 14:14:06 - INFO --> (0.0192 сек.)
+2016-10-06 14:14:28 - INFO --> Отсылка почты...
+2016-10-06 14:14:28 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 14:14:28 - DEBUG --> ufksimp@mail.ru
+2016-10-06 14:14:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 14:14:28 - INFO --> сообщение отправлено; 'ufksimp@mail.ru'
+2016-10-06 14:14:28 - INFO --> (0.0181 сек.)
+2016-10-06 14:14:47 - INFO --> Отсылка почты...
+2016-10-06 14:14:47 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 14:14:47 - DEBUG --> spartuglich@rambler.ru
+2016-10-06 14:14:47 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 14:14:47 - INFO --> сообщение отправлено; 'spartuglich@rambler.ru'
+2016-10-06 14:14:47 - INFO --> (0.0193 сек.)
+2016-10-06 14:15:05 - INFO --> Отсылка почты...
+2016-10-06 14:15:05 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 14:15:05 - DEBUG --> dush_uglich@mail.ru, info@uglich-sport.ru
+2016-10-06 14:15:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 14:15:05 - INFO --> сообщение отправлено; 'dush_uglich@mail.ru'
+2016-10-06 14:15:05 - INFO --> сообщение отправлено; 'info@uglich-sport.ru'
+2016-10-06 14:15:05 - INFO --> (0.0358 сек.)
+2016-10-06 14:15:25 - INFO --> Отсылка почты...
+2016-10-06 14:15:25 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 14:15:25 - DEBUG --> volley.p@yandex.ru
+2016-10-06 14:15:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 14:15:25 - INFO --> сообщение отправлено; 'volley.p@yandex.ru'
+2016-10-06 14:15:25 - INFO --> (0.0192 сек.)
+2016-10-06 14:15:43 - INFO --> Отсылка почты...
+2016-10-06 14:15:43 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 14:15:43 - DEBUG --> dyushyamr@yandex.ru
+2016-10-06 14:15:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 14:15:43 - INFO --> сообщение отправлено; 'dyushyamr@yandex.ru'
+2016-10-06 14:15:43 - INFO --> (0.0193 сек.)
+2016-10-06 14:16:09 - INFO --> Отсылка почты...
+2016-10-06 14:16:09 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 14:16:09 - DEBUG --> bitkina_sport@mail.ru
+2016-10-06 14:16:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 14:16:09 - INFO --> сообщение отправлено; 'bitkina_sport@mail.ru'
+2016-10-06 14:16:09 - INFO --> (0.019 сек.)
+2016-10-06 14:50:01 - INFO --> Отсылка почты...
+2016-10-06 14:50:01 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 14:50:01 - DEBUG --> ufasport@mail.ru
+2016-10-06 14:50:01 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 14:50:01 - INFO --> сообщение отправлено; 'ufasport@mail.ru'
+2016-10-06 14:50:01 - INFO --> (0.0191 сек.)
+2016-10-06 14:50:36 - INFO --> Отсылка почты...
+2016-10-06 14:50:36 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 14:50:36 - DEBUG --> shvsm_rb@mail.ru
+2016-10-06 14:50:36 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 14:50:36 - INFO --> сообщение отправлено; 'shvsm_rb@mail.ru'
+2016-10-06 14:50:36 - INFO --> (0.0182 сек.)
+2016-10-06 14:59:01 - INFO --> Отсылка почты...
+2016-10-06 14:59:01 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 14:59:01 - DEBUG --> kvdrm@inbox.ru
+2016-10-06 14:59:01 - INFO --> сообщение отправлено; 'kvdrm@inbox.ru'
+2016-10-06 14:59:01 - INFO --> (0.0055 сек.)
+2016-10-06 15:02:13 - INFO --> Отсылка почты...
+2016-10-06 15:02:13 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:02:13 - DEBUG --> rsisp5@mail.ru, goursisp5@mail.ru
+2016-10-06 15:02:13 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:02:13 - INFO --> сообщение отправлено; 'rsisp5@mail.ru'
+2016-10-06 15:02:13 - INFO --> сообщение отправлено; 'goursisp5@mail.ru'
+2016-10-06 15:02:13 - INFO --> (0.0374 сек.)
+2016-10-06 15:03:39 - INFO --> Отсылка почты...
+2016-10-06 15:03:39 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:03:39 - DEBUG --> viking@ufanet.ru
+2016-10-06 15:03:39 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:03:39 - INFO --> сообщение отправлено; 'viking@ufanet.ru'
+2016-10-06 15:03:39 - INFO --> (0.0193 сек.)
+2016-10-06 15:04:26 - INFO --> Отсылка почты...
+2016-10-06 15:04:26 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:04:26 - DEBUG --> sdusshor.2@yandex.ru
+2016-10-06 15:04:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:04:26 - INFO --> сообщение отправлено; 'sdusshor.2@yandex.ru'
+2016-10-06 15:04:26 - INFO --> (0.0192 сек.)
+2016-10-06 15:05:12 - INFO --> Отсылка почты...
+2016-10-06 15:05:12 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 15:05:12 - DEBUG --> adm_ppeski@mail.ru
+2016-10-06 15:05:12 - INFO --> сообщение отправлено; 'adm_ppeski@mail.ru'
+2016-10-06 15:05:12 - INFO --> (0.0043 сек.)
+2016-10-06 15:06:25 - INFO --> Отсылка почты...
+2016-10-06 15:06:25 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:06:25 - DEBUG --> dyussh-3@mail.ru
+2016-10-06 15:06:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:06:25 - INFO --> сообщение отправлено; 'dyussh-3@mail.ru'
+2016-10-06 15:06:25 - INFO --> (0.019 сек.)
+2016-10-06 15:06:51 - INFO --> Отсылка почты...
+2016-10-06 15:06:51 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:06:51 - DEBUG --> sdusshor4@yandex.ru
+2016-10-06 15:06:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:06:51 - INFO --> сообщение отправлено; 'sdusshor4@yandex.ru'
+2016-10-06 15:06:51 - INFO --> (0.0185 сек.)
+2016-10-06 15:07:11 - INFO --> Отсылка почты...
+2016-10-06 15:07:11 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:07:11 - DEBUG --> sportscool5@yandex.ru
+2016-10-06 15:07:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:07:11 - INFO --> сообщение отправлено; 'sportscool5@yandex.ru'
+2016-10-06 15:07:11 - INFO --> (0.019 сек.)
+2016-10-06 15:07:31 - INFO --> Отсылка почты...
+2016-10-06 15:07:31 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:07:31 - DEBUG --> dushor-7@mail.ru
+2016-10-06 15:07:31 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:07:31 - INFO --> сообщение отправлено; 'dushor-7@mail.ru'
+2016-10-06 15:07:31 - INFO --> (0.0189 сек.)
+2016-10-06 15:08:01 - INFO --> Отсылка почты...
+2016-10-06 15:08:01 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:08:01 - DEBUG --> sportakro8@mail.ru
+2016-10-06 15:08:01 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:08:01 - INFO --> сообщение отправлено; 'sportakro8@mail.ru'
+2016-10-06 15:08:01 - INFO --> (0.0193 сек.)
+2016-10-06 15:08:27 - INFO --> Отсылка почты...
+2016-10-06 15:08:27 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:08:27 - DEBUG --> Sdushor9voshod@mail.ru
+2016-10-06 15:08:27 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:08:27 - INFO --> сообщение отправлено; 'Sdushor9voshod@mail.ru'
+2016-10-06 15:08:27 - INFO --> (0.0189 сек.)
+2016-10-06 15:09:04 - INFO --> Отсылка почты...
+2016-10-06 15:09:04 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:09:04 - DEBUG --> sdushor10@mail.ru
+2016-10-06 15:09:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:09:04 - INFO --> сообщение отправлено; 'sdushor10@mail.ru'
+2016-10-06 15:09:04 - INFO --> (0.0193 сек.)
+2016-10-06 15:09:04 - INFO --> Отсылка почты...
+2016-10-06 15:09:04 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 15:09:04 - DEBUG --> zakupki@mailvg.ru,a.kuydo@mailvg.ru
+2016-10-06 15:09:04 - INFO --> сообщение отправлено; 'zakupki@mailvg.ru'
+2016-10-06 15:09:04 - INFO --> сообщение отправлено; 'a.kuydo@mailvg.ru'
+2016-10-06 15:09:04 - INFO --> (0.0096 сек.)
+2016-10-06 15:09:28 - INFO --> Отсылка почты...
+2016-10-06 15:09:28 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:09:28 - DEBUG --> shaikhmetov@mail.ru, ibaluk@yandex.ru
+2016-10-06 15:09:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:09:28 - INFO --> сообщение отправлено; 'shaikhmetov@mail.ru'
+2016-10-06 15:09:28 - INFO --> сообщение отправлено; 'ibaluk@yandex.ru'
+2016-10-06 15:09:28 - INFO --> (0.035 сек.)
+2016-10-06 15:10:02 - INFO --> Отсылка почты...
+2016-10-06 15:10:02 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:10:02 - DEBUG --> dushufa12@mail.ru
+2016-10-06 15:10:02 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:10:02 - INFO --> сообщение отправлено; 'dushufa12@mail.ru'
+2016-10-06 15:10:02 - INFO --> (0.0187 сек.)
+2016-10-06 15:10:21 - INFO --> Отсылка почты...
+2016-10-06 15:10:21 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:10:21 - DEBUG --> sportsch13@ufanet.ru
+2016-10-06 15:10:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:10:21 - INFO --> сообщение отправлено; 'sportsch13@ufanet.ru'
+2016-10-06 15:10:21 - INFO --> (0.0191 сек.)
+2016-10-06 15:10:40 - INFO --> Отсылка почты...
+2016-10-06 15:10:40 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:10:40 - DEBUG --> kirdusch14@mail.ru
+2016-10-06 15:10:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:10:40 - INFO --> сообщение отправлено; 'kirdusch14@mail.ru'
+2016-10-06 15:10:40 - INFO --> (0.0179 сек.)
+2016-10-06 15:11:01 - INFO --> Отсылка почты...
+2016-10-06 15:11:01 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:11:01 - DEBUG --> sportshk15@mail.ru
+2016-10-06 15:11:01 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:11:01 - INFO --> сообщение отправлено; 'sportshk15@mail.ru'
+2016-10-06 15:11:01 - INFO --> (0.0196 сек.)
+2016-10-06 15:11:28 - INFO --> Отсылка почты...
+2016-10-06 15:11:28 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:11:28 - DEBUG --> dussh17@yandex.ru
+2016-10-06 15:11:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:11:28 - INFO --> сообщение отправлено; 'dussh17@yandex.ru'
+2016-10-06 15:11:28 - INFO --> (0.0181 сек.)
+2016-10-06 15:11:46 - INFO --> Отсылка почты...
+2016-10-06 15:11:46 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:11:46 - DEBUG --> sdushor18ufa@mail.ru
+2016-10-06 15:11:46 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:11:46 - INFO --> сообщение отправлено; 'sdushor18ufa@mail.ru'
+2016-10-06 15:11:46 - INFO --> (0.0201 сек.)
+2016-10-06 15:12:11 - INFO --> Отсылка почты...
+2016-10-06 15:12:11 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:12:11 - DEBUG --> sd-19ufa@rambler.ru
+2016-10-06 15:12:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:12:11 - INFO --> сообщение отправлено; 'sd-19ufa@rambler.ru'
+2016-10-06 15:12:11 - INFO --> (0.0187 сек.)
+2016-10-06 15:12:57 - INFO --> Отсылка почты...
+2016-10-06 15:12:57 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 15:12:57 - DEBUG --> yrogai@yandex.ru
+2016-10-06 15:12:57 - INFO --> сообщение отправлено; 'yrogai@yandex.ru'
+2016-10-06 15:12:57 - INFO --> (0.0054 сек.)
+2016-10-06 15:17:22 - INFO --> Отсылка почты...
+2016-10-06 15:17:22 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:17:22 - DEBUG --> dush21@inbox.ru
+2016-10-06 15:17:22 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:17:22 - INFO --> сообщение отправлено; 'dush21@inbox.ru'
+2016-10-06 15:17:22 - INFO --> (0.0186 сек.)
+2016-10-06 15:17:46 - INFO --> Отсылка почты...
+2016-10-06 15:17:46 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 15:17:46 - DEBUG --> sportkomkras@mail.ru
+2016-10-06 15:17:46 - INFO --> сообщение отправлено; 'sportkomkras@mail.ru'
+2016-10-06 15:17:46 - INFO --> (0.0053 сек.)
+2016-10-06 15:21:55 - INFO --> Отсылка почты...
+2016-10-06 15:21:55 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 15:21:55 - DEBUG --> 5682701@mail.ru
+2016-10-06 15:21:55 - INFO --> сообщение отправлено; '5682701@mail.ru'
+2016-10-06 15:21:55 - INFO --> (0.0053 сек.)
+2016-10-06 15:22:57 - INFO --> Отсылка почты...
+2016-10-06 15:22:57 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:22:57 - DEBUG --> sportscool22@mail.ru
+2016-10-06 15:22:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:22:57 - INFO --> сообщение отправлено; 'sportscool22@mail.ru'
+2016-10-06 15:22:57 - INFO --> (0.0194 сек.)
+2016-10-06 15:26:13 - INFO --> Отсылка почты...
+2016-10-06 15:26:13 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 15:26:13 - DEBUG --> mol-sport@mail.ru
+2016-10-06 15:26:13 - INFO --> сообщение отправлено; 'mol-sport@mail.ru'
+2016-10-06 15:26:13 - INFO --> (0.0054 сек.)
+2016-10-06 15:27:43 - INFO --> Отсылка почты...
+2016-10-06 15:27:43 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:27:43 - DEBUG --> vm@dsha26.ru
+2016-10-06 15:27:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:27:43 - INFO --> сообщение отправлено; 'vm@dsha26.ru'
+2016-10-06 15:27:43 - INFO --> (0.0193 сек.)
+2016-10-06 15:28:10 - INFO --> Отсылка почты...
+2016-10-06 15:28:10 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:28:10 - DEBUG --> dush_28@mail.ru
+2016-10-06 15:28:10 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:28:10 - INFO --> сообщение отправлено; 'dush_28@mail.ru'
+2016-10-06 15:28:10 - INFO --> (0.0197 сек.)
+2016-10-06 15:28:34 - INFO --> Отсылка почты...
+2016-10-06 15:28:34 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:28:34 - DEBUG --> batyr-29@yandex.ru
+2016-10-06 15:28:34 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:28:34 - INFO --> сообщение отправлено; 'batyr-29@yandex.ru'
+2016-10-06 15:28:34 - INFO --> (0.0193 сек.)
+2016-10-06 15:28:58 - INFO --> Отсылка почты...
+2016-10-06 15:28:58 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:28:58 - DEBUG --> ufa-dussh30@yandex.ru
+2016-10-06 15:28:58 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:28:58 - INFO --> сообщение отправлено; 'ufa-dussh30@yandex.ru'
+2016-10-06 15:28:58 - INFO --> (0.0181 сек.)
+2016-10-06 15:29:20 - INFO --> Отсылка почты...
+2016-10-06 15:29:20 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:29:20 - DEBUG --> dush31@mail.ru
+2016-10-06 15:29:20 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:29:20 - INFO --> сообщение отправлено; 'dush31@mail.ru'
+2016-10-06 15:29:20 - INFO --> (0.0198 сек.)
+2016-10-06 15:29:40 - INFO --> Отсылка почты...
+2016-10-06 15:29:40 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:29:40 - DEBUG --> Dush32ufa@yandex.ru
+2016-10-06 15:29:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:29:40 - INFO --> сообщение отправлено; 'Dush32ufa@yandex.ru'
+2016-10-06 15:29:40 - INFO --> (0.0192 сек.)
+2016-10-06 15:30:00 - INFO --> Отсылка почты...
+2016-10-06 15:30:00 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:30:00 - DEBUG --> volley34@mail.ru
+2016-10-06 15:30:00 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:30:00 - INFO --> сообщение отправлено; 'volley34@mail.ru'
+2016-10-06 15:30:00 - INFO --> (0.0195 сек.)
+2016-10-06 15:30:20 - INFO --> Отсылка почты...
+2016-10-06 15:30:20 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:30:20 - DEBUG --> ufimez11@mail.ru
+2016-10-06 15:30:20 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:30:20 - INFO --> сообщение отправлено; 'ufimez11@mail.ru'
+2016-10-06 15:30:20 - INFO --> (0.0207 сек.)
+2016-10-06 15:30:39 - INFO --> Отсылка почты...
+2016-10-06 15:30:39 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:30:39 - DEBUG --> sport@ufacity.info
+2016-10-06 15:30:39 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:30:39 - INFO --> сообщение отправлено; 'sport@ufacity.info'
+2016-10-06 15:30:39 - INFO --> (0.0194 сек.)
+2016-10-06 15:30:48 - INFO --> Отсылка почты...
+2016-10-06 15:30:48 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 15:30:48 - DEBUG --> sport-vidnoe@yandex.ru
+2016-10-06 15:30:48 - INFO --> сообщение отправлено; 'sport-vidnoe@yandex.ru'
+2016-10-06 15:30:48 - INFO --> (0.0053 сек.)
+2016-10-06 15:30:59 - INFO --> Отсылка почты...
+2016-10-06 15:30:59 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:30:59 - DEBUG --> cr.natash@yandex.ru
+2016-10-06 15:30:59 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:30:59 - INFO --> сообщение отправлено; 'cr.natash@yandex.ru'
+2016-10-06 15:30:59 - INFO --> (0.0195 сек.)
+2016-10-06 15:47:40 - INFO --> Отсылка почты...
+2016-10-06 15:47:40 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 15:47:40 - DEBUG --> gpvidnoe@yandex.ru
+2016-10-06 15:47:40 - INFO --> сообщение отправлено; 'gpvidnoe@yandex.ru'
+2016-10-06 15:47:40 - INFO --> (0.0053 сек.)
+2016-10-06 15:55:55 - INFO --> Отсылка почты...
+2016-10-06 15:55:55 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 15:55:55 - DEBUG --> sport_706@mail.ru, penzasport@mail.ru
+2016-10-06 15:55:55 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 15:55:55 - INFO --> сообщение отправлено; 'sport_706@mail.ru'
+2016-10-06 15:55:55 - INFO --> сообщение отправлено; 'penzasport@mail.ru'
+2016-10-06 15:55:55 - INFO --> (0.0358 сек.)
+2016-10-06 15:58:01 - INFO --> Отсылка почты...
+2016-10-06 15:58:01 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 15:58:01 - DEBUG --> yunost.mbu@yandex.ru
+2016-10-06 15:58:01 - INFO --> сообщение отправлено; 'yunost.mbu@yandex.ru'
+2016-10-06 15:58:01 - INFO --> (0.0045 сек.)
+2016-10-06 16:01:51 - INFO --> Отсылка почты...
+2016-10-06 16:01:51 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:01:51 - DEBUG --> shvsmpenza@mail.ru
+2016-10-06 16:01:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:01:51 - INFO --> сообщение отправлено; 'shvsmpenza@mail.ru'
+2016-10-06 16:01:51 - INFO --> (0.0186 сек.)
+2016-10-06 16:02:11 - INFO --> Отсылка почты...
+2016-10-06 16:02:11 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:02:11 - DEBUG --> uor_lider@mail.ru
+2016-10-06 16:02:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:02:11 - INFO --> сообщение отправлено; 'uor_lider@mail.ru'
+2016-10-06 16:02:11 - INFO --> (0.0187 сек.)
+2016-10-06 16:02:34 - INFO --> Отсылка почты...
+2016-10-06 16:02:34 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:02:34 - DEBUG --> ksdushor_penza@mail.ru
+2016-10-06 16:02:34 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:02:34 - INFO --> сообщение отправлено; 'ksdushor_penza@mail.ru'
+2016-10-06 16:02:34 - INFO --> (0.0179 сек.)
+2016-10-06 16:03:01 - INFO --> Отсылка почты...
+2016-10-06 16:03:01 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:03:01 - DEBUG --> sportschool.zato@mail.ru
+2016-10-06 16:03:01 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:03:01 - INFO --> сообщение отправлено; 'sportschool.zato@mail.ru'
+2016-10-06 16:03:01 - INFO --> (0.0191 сек.)
+2016-10-06 16:03:06 - INFO --> Отсылка почты...
+2016-10-06 16:03:06 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 16:03:06 - DEBUG --> admmoskovsky@yandex.ru
+2016-10-06 16:03:06 - INFO --> сообщение отправлено; 'admmoskovsky@yandex.ru'
+2016-10-06 16:03:06 - INFO --> (0.0052 сек.)
+2016-10-06 16:03:21 - INFO --> Отсылка почты...
+2016-10-06 16:03:21 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:03:21 - DEBUG --> sdushorsambo@mail.ru
+2016-10-06 16:03:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:03:21 - INFO --> сообщение отправлено; 'sdushorsambo@mail.ru'
+2016-10-06 16:03:21 - INFO --> (0.0195 сек.)
+2016-10-06 16:03:42 - INFO --> Отсылка почты...
+2016-10-06 16:03:42 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:03:42 - DEBUG --> sh_vityaz@mail.ru
+2016-10-06 16:03:42 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:03:42 - INFO --> сообщение отправлено; 'sh_vityaz@mail.ru'
+2016-10-06 16:03:42 - INFO --> (0.0193 сек.)
+2016-10-06 16:05:03 - INFO --> Отсылка почты...
+2016-10-06 16:05:03 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:05:03 - DEBUG --> dysh-1-penza@rambler.ru
+2016-10-06 16:05:03 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:05:03 - INFO --> сообщение отправлено; 'dysh-1-penza@rambler.ru'
+2016-10-06 16:05:03 - INFO --> (0.019 сек.)
+2016-10-06 16:07:29 - INFO --> Отсылка почты...
+2016-10-06 16:07:29 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:07:29 - DEBUG --> dush4@bk.ru
+2016-10-06 16:07:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:07:29 - INFO --> сообщение отправлено; 'dush4@bk.ru'
+2016-10-06 16:07:29 - INFO --> (0.0194 сек.)
+2016-10-06 16:07:47 - INFO --> Отсылка почты...
+2016-10-06 16:07:47 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:07:47 - DEBUG --> sportbeg@rambler.ru
+2016-10-06 16:07:47 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:07:47 - INFO --> сообщение отправлено; 'sportbeg@rambler.ru'
+2016-10-06 16:07:47 - INFO --> (0.0191 сек.)
+2016-10-06 16:08:11 - INFO --> Отсылка почты...
+2016-10-06 16:08:11 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:08:11 - DEBUG --> dush8pnz@yandex.ru
+2016-10-06 16:08:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:08:11 - INFO --> сообщение отправлено; 'dush8pnz@yandex.ru'
+2016-10-06 16:08:11 - INFO --> (0.0192 сек.)
+2016-10-06 16:09:51 - INFO --> Отсылка почты...
+2016-10-06 16:09:51 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:09:51 - DEBUG --> dush.zato@yandex.ru
+2016-10-06 16:09:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:09:51 - INFO --> сообщение отправлено; 'dush.zato@yandex.ru'
+2016-10-06 16:09:51 - INFO --> (0.0188 сек.)
+2016-10-06 16:10:00 - INFO --> Отсылка почты...
+2016-10-06 16:10:00 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 16:10:00 - DEBUG --> kultura.k@mail.ru
+2016-10-06 16:10:00 - INFO --> сообщение отправлено; 'kultura.k@mail.ru'
+2016-10-06 16:10:00 - INFO --> (0.0054 сек.)
+2016-10-06 16:11:44 - INFO --> Отсылка почты...
+2016-10-06 16:11:44 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:11:44 - DEBUG --> dyusch2@mail.ru
+2016-10-06 16:11:44 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:11:44 - INFO --> сообщение отправлено; 'dyusch2@mail.ru'
+2016-10-06 16:11:44 - INFO --> (0.0193 сек.)
+2016-10-06 16:12:05 - INFO --> Отсылка почты...
+2016-10-06 16:12:05 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:12:05 - DEBUG --> snsaushkin@rambler.ru
+2016-10-06 16:12:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:12:05 - INFO --> сообщение отправлено; 'snsaushkin@rambler.ru'
+2016-10-06 16:12:05 - INFO --> (0.0191 сек.)
+2016-10-06 16:12:25 - INFO --> Отсылка почты...
+2016-10-06 16:12:25 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:12:25 - DEBUG --> narsport@yandex.ru
+2016-10-06 16:12:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:12:26 - INFO --> сообщение отправлено; 'narsport@yandex.ru'
+2016-10-06 16:12:26 - INFO --> (0.0191 сек.)
+2016-10-06 16:12:46 - INFO --> Отсылка почты...
+2016-10-06 16:12:46 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:12:46 - DEBUG --> shkola.sport2011@yandex.ru
+2016-10-06 16:12:46 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:12:46 - INFO --> сообщение отправлено; 'shkola.sport2011@yandex.ru'
+2016-10-06 16:12:46 - INFO --> (0.0192 сек.)
+2016-10-06 16:17:42 - INFO --> Отсылка почты...
+2016-10-06 16:17:42 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 16:17:42 - DEBUG --> culturalot@mail.ru
+2016-10-06 16:17:42 - INFO --> сообщение отправлено; 'culturalot@mail.ru'
+2016-10-06 16:17:42 - INFO --> (0.0054 сек.)
+2016-10-06 16:18:02 - INFO --> Отсылка почты...
+2016-10-06 16:18:02 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:18:02 - DEBUG --> dysh_bas@mail.ru
+2016-10-06 16:18:02 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:18:02 - INFO --> сообщение отправлено; 'dysh_bas@mail.ru'
+2016-10-06 16:18:02 - INFO --> (0.0181 сек.)
+2016-10-06 16:18:22 - INFO --> Отсылка почты...
+2016-10-06 16:18:22 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:18:22 - DEBUG --> belinsk_oo@edu-penza.ru,kuimazov@yandex.ru
+2016-10-06 16:18:22 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:18:22 - INFO --> сообщение отправлено; 'belinsk_oo@edu-penza.ru'
+2016-10-06 16:18:22 - INFO --> сообщение отправлено; 'kuimazov@yandex.ru'
+2016-10-06 16:18:22 - INFO --> (0.0369 сек.)
+2016-10-06 16:18:48 - INFO --> Отсылка почты...
+2016-10-06 16:18:48 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:18:48 - DEBUG --> dushbr@rambler.ru
+2016-10-06 16:18:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:18:48 - INFO --> сообщение отправлено; 'dushbr@rambler.ru'
+2016-10-06 16:18:48 - INFO --> (0.0196 сек.)
+2016-10-06 16:19:20 - INFO --> Отсылка почты...
+2016-10-06 16:19:20 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:19:20 - DEBUG --> dush-vadinsk@mail.ru
+2016-10-06 16:19:20 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:19:20 - INFO --> сообщение отправлено; 'dush-vadinsk@mail.ru'
+2016-10-06 16:19:20 - INFO --> (0.0192 сек.)
+2016-10-06 16:23:17 - INFO --> Отсылка почты...
+2016-10-06 16:23:17 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:23:17 - DEBUG --> issa-sport@yandex.ru
+2016-10-06 16:23:17 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:23:17 - INFO --> сообщение отправлено; 'issa-sport@yandex.ru'
+2016-10-06 16:23:17 - INFO --> (0.0197 сек.)
+2016-10-06 16:26:27 - INFO --> Отсылка почты...
+2016-10-06 16:26:27 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:26:27 - DEBUG --> dussh1.kamenka@mail.ru
+2016-10-06 16:26:27 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:26:27 - INFO --> сообщение отправлено; 'dussh1.kamenka@mail.ru'
+2016-10-06 16:26:27 - INFO --> (0.0189 сек.)
+2016-10-06 16:26:47 - INFO --> Отсылка почты...
+2016-10-06 16:26:47 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:26:47 - DEBUG --> sshdorognik@mail.ru
+2016-10-06 16:26:47 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:26:47 - INFO --> сообщение отправлено; 'sshdorognik@mail.ru'
+2016-10-06 16:26:47 - INFO --> (0.0169 сек.)
+2016-10-06 16:29:27 - INFO --> Отсылка почты...
+2016-10-06 16:29:27 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:29:27 - DEBUG --> sportschool_kol@mail.ru
+2016-10-06 16:29:27 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:29:27 - INFO --> сообщение отправлено; 'sportschool_kol@mail.ru'
+2016-10-06 16:29:27 - INFO --> (0.0204 сек.)
+2016-10-06 16:29:48 - INFO --> Отсылка почты...
+2016-10-06 16:29:48 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:29:48 - DEBUG --> moudod.1@yandex.ru
+2016-10-06 16:29:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:29:48 - INFO --> сообщение отправлено; 'moudod.1@yandex.ru'
+2016-10-06 16:29:48 - INFO --> (0.0191 сек.)
+2016-10-06 16:33:31 - INFO --> Отсылка почты...
+2016-10-06 16:33:31 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:33:31 - DEBUG --> kuz.dyussh@yandex.ru
+2016-10-06 16:33:31 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:33:31 - INFO --> сообщение отправлено; 'kuz.dyussh@yandex.ru'
+2016-10-06 16:33:31 - INFO --> (0.0187 сек.)
+2016-10-06 16:33:52 - INFO --> Отсылка почты...
+2016-10-06 16:33:52 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:33:52 - DEBUG --> tatjana-sudakova19@rambler.ru
+2016-10-06 16:33:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:33:52 - INFO --> сообщение отправлено; 'tatjana-sudakova19@rambler.ru'
+2016-10-06 16:33:52 - INFO --> (0.0183 сек.)
+2016-10-06 16:34:13 - INFO --> Отсылка почты...
+2016-10-06 16:34:13 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:34:13 - DEBUG --> zacepin.s.v@mail.ru
+2016-10-06 16:34:13 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:34:13 - INFO --> сообщение отправлено; 'zacepin.s.v@mail.ru'
+2016-10-06 16:34:13 - INFO --> (0.0189 сек.)
+2016-10-06 16:34:50 - INFO --> Отсылка почты...
+2016-10-06 16:34:50 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 16:34:50 - DEBUG --> kulturagpl@mail.ru
+2016-10-06 16:34:50 - INFO --> сообщение отправлено; 'kulturagpl@mail.ru'
+2016-10-06 16:34:50 - INFO --> (0.0056 сек.)
+2016-10-06 16:37:11 - INFO --> Отсылка почты...
+2016-10-06 16:37:11 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:37:11 - DEBUG --> sportserdoba@yandex.ru
+2016-10-06 16:37:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:37:11 - INFO --> сообщение отправлено; 'sportserdoba@yandex.ru'
+2016-10-06 16:37:11 - INFO --> (0.0194 сек.)
+2016-10-06 16:37:33 - INFO --> Отсылка почты...
+2016-10-06 16:37:33 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:37:33 - DEBUG --> dushmokshan@mail.ru
+2016-10-06 16:37:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:37:33 - INFO --> сообщение отправлено; 'dushmokshan@mail.ru'
+2016-10-06 16:37:33 - INFO --> (0.0191 сек.)
+2016-10-06 16:38:57 - INFO --> Отсылка почты...
+2016-10-06 16:38:57 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:38:57 - DEBUG --> sportschool.n-lomov@yandex.ru
+2016-10-06 16:38:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:38:57 - INFO --> сообщение отправлено; 'sportschool.n-lomov@yandex.ru'
+2016-10-06 16:38:57 - INFO --> (0.0193 сек.)
+2016-10-06 16:39:19 - INFO --> Отсылка почты...
+2016-10-06 16:39:19 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:39:19 - DEBUG --> dushpach@mail.ru
+2016-10-06 16:39:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:39:19 - INFO --> сообщение отправлено; 'dushpach@mail.ru'
+2016-10-06 16:39:19 - INFO --> (0.0193 сек.)
+2016-10-06 16:39:34 - INFO --> Отсылка почты...
+2016-10-06 16:39:34 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 16:39:34 - DEBUG --> sportotdel2012@yandex.ru
+2016-10-06 16:39:34 - INFO --> сообщение отправлено; 'sportotdel2012@yandex.ru'
+2016-10-06 16:39:34 - INFO --> (0.0049 сек.)
+2016-10-06 16:39:49 - INFO --> Отсылка почты...
+2016-10-06 16:39:49 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:39:49 - DEBUG --> ot.sport@yandex.ru, podvalova.lana@mail.ru
+2016-10-06 16:39:49 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:39:49 - INFO --> сообщение отправлено; 'ot.sport@yandex.ru'
+2016-10-06 16:39:49 - INFO --> сообщение отправлено; 'podvalova.lana@mail.ru'
+2016-10-06 16:39:49 - INFO --> (0.035 сек.)
+2016-10-06 16:42:29 - INFO --> Отсылка почты...
+2016-10-06 16:42:29 - INFO --> Тема; 'Экипировка NESCO 2016 40%(2)'
+2016-10-06 16:42:29 - DEBUG --> adm-luhov@mail.ru
+2016-10-06 16:42:29 - INFO --> сообщение отправлено; 'adm-luhov@mail.ru'
+2016-10-06 16:42:29 - INFO --> (0.0054 сек.)
+2016-10-06 16:43:25 - INFO --> Отсылка почты...
+2016-10-06 16:43:25 - INFO --> Тема; 'Экипировка NESCO 2016 40%'
+2016-10-06 16:43:25 - DEBUG --> lyuks1980@rambler.ru, fok-kondol@mail.ru
+2016-10-06 16:43:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/football_rasprodaja_09_2016_fin.jpg'
+2016-10-06 16:43:25 - INFO --> сообщение отправлено; 'lyuks1980@rambler.ru'
+2016-10-06 16:43:25 - INFO --> сообщение отправлено; 'fok-kondol@mail.ru'
+2016-10-06 16:43:25 - INFO --> (0.0354 сек.)
+2016-10-06 16:47:49 - INFO --> Отсылка почты...
+2016-10-06 16:47:49 - INFO --> Тема; 'дляМКУ \\&quot;Нефтегорский спортивный комплекс\\&quot;/ Экипировка NESCO 2016 40%(2)'
+2016-10-06 16:47:49 - DEBUG --> adm-neftegorsk@mail.ru
+2016-10-06 16:47:49 - INFO --> сообщение отправлено; 'adm-neftegorsk@mail.ru'
+2016-10-06 16:47:49 - INFO --> (0.0044 сек.)

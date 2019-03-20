@@ -1,0 +1,1676 @@
+2016-08-23 9:00:08 - INFO --> Отсылка почты...
+2016-08-23 9:00:08 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 9:00:08 - DEBUG --> morozjm@mail.ru
+2016-08-23 9:00:08 - INFO --> сообщение отправлено; 'morozjm@mail.ru'
+2016-08-23 9:00:08 - INFO --> (0.0118 сек.)
+2016-08-23 9:47:48 - INFO --> Отсылка почты...
+2016-08-23 9:47:48 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 9:47:48 - DEBUG --> shurmanov@bk.ru
+2016-08-23 9:47:48 - INFO --> сообщение отправлено; 'shurmanov@bk.ru'
+2016-08-23 9:47:48 - INFO --> (0.01 сек.)
+2016-08-23 9:52:15 - INFO --> Отсылка почты...
+2016-08-23 9:52:15 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 9:52:15 - DEBUG --> v.kharlukova@govirk.ru
+2016-08-23 9:52:15 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 9:52:15 - INFO --> сообщение отправлено; 'v.kharlukova@govirk.ru'
+2016-08-23 9:52:15 - INFO --> (0.0221 сек.)
+2016-08-23 9:56:55 - INFO --> Отсылка почты...
+2016-08-23 9:56:55 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 9:56:55 - DEBUG --> evert_d@admirk.ru
+2016-08-23 9:56:55 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 9:56:55 - INFO --> сообщение отправлено; 'evert_d@admirk.ru'
+2016-08-23 9:56:55 - INFO --> (0.0221 сек.)
+2016-08-23 9:57:48 - INFO --> Отсылка почты...
+2016-08-23 9:57:48 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 9:57:48 - DEBUG --> kovalev74@mail.ru
+2016-08-23 9:57:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 9:57:48 - INFO --> сообщение отправлено; 'kovalev74@mail.ru'
+2016-08-23 9:57:48 - INFO --> (0.0217 сек.)
+2016-08-23 9:58:18 - INFO --> Отсылка почты...
+2016-08-23 9:58:18 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 9:58:18 - DEBUG --> ystilimsport@mail.ru
+2016-08-23 9:58:18 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 9:58:18 - INFO --> сообщение отправлено; 'ystilimsport@mail.ru'
+2016-08-23 9:58:18 - INFO --> (0.0279 сек.)
+2016-08-23 10:07:00 - INFO --> Отсылка почты...
+2016-08-23 10:07:00 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:07:00 - DEBUG --> sport.usole@mail.ru
+2016-08-23 10:07:00 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:07:01 - INFO --> сообщение отправлено; 'sport.usole@mail.ru'
+2016-08-23 10:07:01 - INFO --> (0.022 сек.)
+2016-08-23 10:07:23 - INFO --> Отсылка почты...
+2016-08-23 10:07:23 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:07:23 - DEBUG --> molodejk@yandex.ru
+2016-08-23 10:07:23 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:07:23 - INFO --> сообщение отправлено; 'molodejk@yandex.ru'
+2016-08-23 10:07:23 - INFO --> (0.0237 сек.)
+2016-08-23 10:07:50 - INFO --> Отсылка почты...
+2016-08-23 10:07:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:07:50 - DEBUG --> ompustkut@mail.ru, naumov.korvin@yandex.ru
+2016-08-23 10:07:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:07:50 - INFO --> сообщение отправлено; 'ompustkut@mail.ru'
+2016-08-23 10:07:50 - INFO --> сообщение отправлено; 'naumov.korvin@yandex.ru'
+2016-08-23 10:07:50 - INFO --> (0.05 сек.)
+2016-08-23 10:12:14 - INFO --> Отсылка почты...
+2016-08-23 10:12:14 - INFO --> Тема; 'Игры  Манчаары / ЭКИПИРОВКА 2016'
+2016-08-23 10:12:14 - DEBUG --> sportsuntar2015@mail.ru
+2016-08-23 10:12:14 - INFO --> сообщение отправлено; 'sportsuntar2015@mail.ru'
+2016-08-23 10:12:14 - INFO --> (0.016 сек.)
+2016-08-23 10:13:29 - INFO --> Отсылка почты...
+2016-08-23 10:13:29 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:13:29 - DEBUG --> itfk@bk.ru
+2016-08-23 10:13:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:13:29 - INFO --> сообщение отправлено; 'itfk@bk.ru'
+2016-08-23 10:13:29 - INFO --> (0.0262 сек.)
+2016-08-23 10:14:33 - INFO --> Отсылка почты...
+2016-08-23 10:14:33 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:14:33 - DEBUG --> sdysshor@gmail.com
+2016-08-23 10:14:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:14:33 - INFO --> сообщение отправлено; 'sdysshor@gmail.com'
+2016-08-23 10:14:33 - INFO --> (0.0246 сек.)
+2016-08-23 10:23:48 - INFO --> Отсылка почты...
+2016-08-23 10:23:48 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:23:48 - DEBUG --> sport.sibir@bk.ru
+2016-08-23 10:23:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:23:48 - INFO --> сообщение отправлено; 'sport.sibir@bk.ru'
+2016-08-23 10:23:48 - INFO --> (0.0283 сек.)
+2016-08-23 10:24:15 - INFO --> Отсылка почты...
+2016-08-23 10:24:15 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:24:15 - DEBUG --> mbuskc2011@mail.ru
+2016-08-23 10:24:15 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:24:15 - INFO --> сообщение отправлено; 'mbuskc2011@mail.ru'
+2016-08-23 10:24:15 - INFO --> (0.0217 сек.)
+2016-08-23 10:24:37 - INFO --> Отсылка почты...
+2016-08-23 10:24:37 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:24:37 - DEBUG --> dush-usolie-sib@mail.ru
+2016-08-23 10:24:37 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:24:37 - INFO --> сообщение отправлено; 'dush-usolie-sib@mail.ru'
+2016-08-23 10:24:37 - INFO --> (0.0218 сек.)
+2016-08-23 10:35:03 - INFO --> Отсылка почты...
+2016-08-23 10:35:03 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:35:03 - DEBUG --> info@cspso.ru
+2016-08-23 10:35:03 - INFO --> сообщение отправлено; 'info@cspso.ru'
+2016-08-23 10:35:03 - INFO --> (0.0118 сек.)
+2016-08-23 10:36:23 - INFO --> Отсылка почты...
+2016-08-23 10:36:23 - INFO --> Тема; 'Игры  Манчаары / ЭКИПИРОВКА 2016'
+2016-08-23 10:36:23 - DEBUG --> orgotdel_tat@mail.ru
+2016-08-23 10:36:23 - INFO --> сообщение отправлено; 'orgotdel_tat@mail.ru'
+2016-08-23 10:36:23 - INFO --> (0.0109 сек.)
+2016-08-23 10:41:38 - INFO --> Отсылка почты...
+2016-08-23 10:41:38 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:41:38 - DEBUG --> urfaso@yandex.ru
+2016-08-23 10:41:38 - INFO --> сообщение отправлено; 'urfaso@yandex.ru'
+2016-08-23 10:41:38 - INFO --> (0.0116 сек.)
+2016-08-23 10:44:50 - INFO --> Отсылка почты...
+2016-08-23 10:44:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:44:50 - DEBUG --> dyussh-mihailovka@mail.ru
+2016-08-23 10:44:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:44:50 - INFO --> сообщение отправлено; 'dyussh-mihailovka@mail.ru'
+2016-08-23 10:44:50 - INFO --> (0.023 сек.)
+2016-08-23 10:45:15 - INFO --> Отсылка почты...
+2016-08-23 10:45:15 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:45:15 - DEBUG --> shelsport-yunost@mail.ru
+2016-08-23 10:45:15 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:45:15 - INFO --> сообщение отправлено; 'shelsport-yunost@mail.ru'
+2016-08-23 10:45:15 - INFO --> (0.022 сек.)
+2016-08-23 10:45:39 - INFO --> Отсылка почты...
+2016-08-23 10:45:39 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:45:39 - DEBUG --> sport1start@yandex.ru
+2016-08-23 10:45:39 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:45:39 - INFO --> сообщение отправлено; 'sport1start@yandex.ru'
+2016-08-23 10:45:39 - INFO --> (0.0423 сек.)
+2016-08-23 10:48:56 - INFO --> Отсылка почты...
+2016-08-23 10:48:56 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:48:56 - DEBUG --> sport@oblsport.ru
+2016-08-23 10:48:56 - INFO --> сообщение отправлено; 'sport@oblsport.ru'
+2016-08-23 10:48:56 - INFO --> (0.0112 сек.)
+2016-08-23 10:53:09 - INFO --> Отсылка почты...
+2016-08-23 10:53:09 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:53:09 - DEBUG --> morozova@ekb-sport.ru
+2016-08-23 10:53:09 - INFO --> сообщение отправлено; 'morozova@ekb-sport.ru'
+2016-08-23 10:53:09 - INFO --> (0.0167 сек.)
+2016-08-23 10:58:15 - INFO --> Отсылка почты...
+2016-08-23 10:58:15 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:58:15 - DEBUG --> sportschool.svirsk@bk.ru, potapova@svirsk.ru
+2016-08-23 10:58:15 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:58:15 - INFO --> сообщение отправлено; 'sportschool.svirsk@bk.ru'
+2016-08-23 10:58:15 - INFO --> сообщение отправлено; 'potapova@svirsk.ru'
+2016-08-23 10:58:15 - INFO --> (0.0415 сек.)
+2016-08-23 10:58:39 - INFO --> Отсылка почты...
+2016-08-23 10:58:39 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:58:39 - DEBUG --> molsport-zima@mail.ru
+2016-08-23 10:58:39 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:58:39 - INFO --> сообщение отправлено; 'molsport-zima@mail.ru'
+2016-08-23 10:58:39 - INFO --> (0.0221 сек.)
+2016-08-23 10:59:15 - INFO --> Отсылка почты...
+2016-08-23 10:59:15 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 10:59:15 - DEBUG --> dyussh@list.ru
+2016-08-23 10:59:15 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 10:59:15 - INFO --> сообщение отправлено; 'dyussh@list.ru'
+2016-08-23 10:59:15 - INFO --> (0.0213 сек.)
+2016-08-23 11:00:21 - INFO --> Отсылка почты...
+2016-08-23 11:00:21 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:00:21 - DEBUG --> fb_kuzbass@mail.ru, p.s.borisov@mail.ru
+2016-08-23 11:00:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:00:21 - INFO --> сообщение отправлено; 'fb_kuzbass@mail.ru'
+2016-08-23 11:00:21 - INFO --> сообщение отправлено; 'p.s.borisov@mail.ru'
+2016-08-23 11:00:21 - INFO --> (0.047 сек.)
+2016-08-23 11:00:57 - INFO --> Отсылка почты...
+2016-08-23 11:00:57 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:00:57 - DEBUG --> uksimp@mail.ru
+2016-08-23 11:00:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:00:57 - INFO --> сообщение отправлено; 'uksimp@mail.ru'
+2016-08-23 11:00:57 - INFO --> (0.0237 сек.)
+2016-08-23 11:01:28 - INFO --> Отсылка почты...
+2016-08-23 11:01:28 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:01:28 - DEBUG --> info@fbso66.ru
+2016-08-23 11:01:28 - INFO --> сообщение отправлено; 'info@fbso66.ru'
+2016-08-23 11:01:28 - INFO --> (0.0173 сек.)
+2016-08-23 11:01:42 - INFO --> Отсылка почты...
+2016-08-23 11:01:42 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:01:42 - DEBUG --> olimp.kedrovka@yandex.ru
+2016-08-23 11:01:42 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:01:42 - INFO --> сообщение отправлено; 'olimp.kedrovka@yandex.ru'
+2016-08-23 11:01:42 - INFO --> (0.0221 сек.)
+2016-08-23 11:02:05 - INFO --> Отсылка почты...
+2016-08-23 11:02:05 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:02:05 - DEBUG --> sportschool2kemerovo@rambler.ru
+2016-08-23 11:02:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:02:05 - INFO --> сообщение отправлено; 'sportschool2kemerovo@rambler.ru'
+2016-08-23 11:02:05 - INFO --> (0.022 сек.)
+2016-08-23 11:02:28 - INFO --> Отсылка почты...
+2016-08-23 11:02:28 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:02:28 - DEBUG --> maodush5@mail.ru, 657266@mail.ru
+2016-08-23 11:02:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:02:28 - INFO --> сообщение отправлено; 'maodush5@mail.ru'
+2016-08-23 11:02:28 - INFO --> сообщение отправлено; '657266@mail.ru'
+2016-08-23 11:02:28 - INFO --> (0.0474 сек.)
+2016-08-23 11:03:04 - INFO --> Отсылка почты...
+2016-08-23 11:03:04 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:03:04 - DEBUG --> oshvsm-ko@yandex.ru
+2016-08-23 11:03:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:03:04 - INFO --> сообщение отправлено; 'oshvsm-ko@yandex.ru'
+2016-08-23 11:03:04 - INFO --> (0.0301 сек.)
+2016-08-23 11:03:41 - INFO --> Отсылка почты...
+2016-08-23 11:03:41 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:03:41 - DEBUG --> sportans@rambler.ru
+2016-08-23 11:03:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:03:41 - INFO --> сообщение отправлено; 'sportans@rambler.ru'
+2016-08-23 11:03:41 - INFO --> (0.0226 сек.)
+2016-08-23 11:04:15 - INFO --> Отсылка почты...
+2016-08-23 11:04:15 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:04:15 - DEBUG --> yunost.sport@gmail.com
+2016-08-23 11:04:15 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:04:15 - INFO --> сообщение отправлено; 'yunost.sport@gmail.com'
+2016-08-23 11:04:15 - INFO --> (0.0226 сек.)
+2016-08-23 11:04:52 - INFO --> Отсылка почты...
+2016-08-23 11:04:52 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:04:52 - DEBUG --> kdussh@yandex.ru
+2016-08-23 11:04:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:04:52 - INFO --> сообщение отправлено; 'kdussh@yandex.ru'
+2016-08-23 11:04:52 - INFO --> (0.0216 сек.)
+2016-08-23 11:05:18 - INFO --> Отсылка почты...
+2016-08-23 11:05:18 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:05:18 - DEBUG --> mkuumpiskgo@mail.ru
+2016-08-23 11:05:18 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:05:18 - INFO --> сообщение отправлено; 'mkuumpiskgo@mail.ru'
+2016-08-23 11:05:18 - INFO --> (0.0218 сек.)
+2016-08-23 11:05:39 - INFO --> Отсылка почты...
+2016-08-23 11:05:39 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:05:39 - DEBUG --> sportiwnaya@yandex.ru
+2016-08-23 11:05:39 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:05:39 - INFO --> сообщение отправлено; 'sportiwnaya@yandex.ru'
+2016-08-23 11:05:39 - INFO --> (0.0371 сек.)
+2016-08-23 11:05:58 - INFO --> Отсылка почты...
+2016-08-23 11:05:58 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:05:58 - DEBUG --> Komsportkisl@mail.ru
+2016-08-23 11:05:58 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:05:58 - INFO --> сообщение отправлено; 'Komsportkisl@mail.ru'
+2016-08-23 11:05:58 - INFO --> (0.0216 сек.)
+2016-08-23 11:06:20 - INFO --> Отсылка почты...
+2016-08-23 11:06:20 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:06:20 - DEBUG --> dushkisl@mail.ru
+2016-08-23 11:06:20 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:06:20 - INFO --> сообщение отправлено; 'dushkisl@mail.ru'
+2016-08-23 11:06:20 - INFO --> (0.0322 сек.)
+2016-08-23 11:06:42 - INFO --> Отсылка почты...
+2016-08-23 11:06:42 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:06:42 - DEBUG --> yunost_ksl.ru@mail.ru
+2016-08-23 11:06:42 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:06:42 - INFO --> сообщение отправлено; 'yunost_ksl.ru@mail.ru'
+2016-08-23 11:06:42 - INFO --> (0.0222 сек.)
+2016-08-23 11:07:06 - INFO --> Отсылка почты...
+2016-08-23 11:07:06 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:07:06 - DEBUG --> sportschoolga@mail.ru
+2016-08-23 11:07:06 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:07:06 - INFO --> сообщение отправлено; 'sportschoolga@mail.ru'
+2016-08-23 11:07:06 - INFO --> (0.0215 сек.)
+2016-08-23 11:07:49 - INFO --> Отсылка почты...
+2016-08-23 11:07:49 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:07:49 - DEBUG --> dush3-lk@rambler.ru
+2016-08-23 11:07:49 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:07:49 - INFO --> сообщение отправлено; 'dush3-lk@rambler.ru'
+2016-08-23 11:07:49 - INFO --> (0.0214 сек.)
+2016-08-23 11:08:20 - INFO --> Отсылка почты...
+2016-08-23 11:08:20 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:08:20 - DEBUG --> ekaburg@gmail.com
+2016-08-23 11:08:20 - INFO --> сообщение отправлено; 'ekaburg@gmail.com'
+2016-08-23 11:08:20 - INFO --> (0.0132 сек.)
+2016-08-23 11:08:25 - INFO --> Отсылка почты...
+2016-08-23 11:08:25 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:08:25 - DEBUG --> sportgame@rikt.ru
+2016-08-23 11:08:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:08:25 - INFO --> сообщение отправлено; 'sportgame@rikt.ru'
+2016-08-23 11:08:25 - INFO --> (0.0494 сек.)
+2016-08-23 11:09:03 - INFO --> Отсылка почты...
+2016-08-23 11:09:03 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:09:03 - DEBUG --> sportmys@mail.ru
+2016-08-23 11:09:03 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:09:03 - INFO --> сообщение отправлено; 'sportmys@mail.ru'
+2016-08-23 11:09:03 - INFO --> (0.0218 сек.)
+2016-08-23 11:09:35 - INFO --> Отсылка почты...
+2016-08-23 11:09:35 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:09:35 - DEBUG --> spshk@mail.ru
+2016-08-23 11:09:35 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:09:36 - INFO --> сообщение отправлено; 'spshk@mail.ru'
+2016-08-23 11:09:36 - INFO --> (0.0217 сек.)
+2016-08-23 11:10:25 - INFO --> Отсылка почты...
+2016-08-23 11:10:25 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:10:25 - DEBUG --> nvksport@mail.ru
+2016-08-23 11:10:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:10:25 - INFO --> сообщение отправлено; 'nvksport@mail.ru'
+2016-08-23 11:10:25 - INFO --> (0.0264 сек.)
+2016-08-23 11:12:35 - INFO --> Отсылка почты...
+2016-08-23 11:12:35 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:12:35 - DEBUG --> sport_nvkz@mail.ru
+2016-08-23 11:12:35 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:12:35 - INFO --> сообщение отправлено; 'sport_nvkz@mail.ru'
+2016-08-23 11:12:35 - INFO --> (0.0224 сек.)
+2016-08-23 11:12:59 - INFO --> Отсылка почты...
+2016-08-23 11:12:59 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:12:59 - DEBUG --> duss2-nk@mail.ru
+2016-08-23 11:12:59 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:12:59 - INFO --> сообщение отправлено; 'duss2-nk@mail.ru'
+2016-08-23 11:12:59 - INFO --> (0.0272 сек.)
+2016-08-23 11:13:25 - INFO --> Отсылка почты...
+2016-08-23 11:13:25 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:13:25 - DEBUG --> adm-Tayga@ako.ru, mol38448@yandex.ru
+2016-08-23 11:13:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:13:25 - INFO --> сообщение отправлено; 'adm-Tayga@ako.ru'
+2016-08-23 11:13:25 - INFO --> сообщение отправлено; 'mol38448@yandex.ru'
+2016-08-23 11:13:25 - INFO --> (0.0417 сек.)
+2016-08-23 11:13:53 - INFO --> Отсылка почты...
+2016-08-23 11:13:53 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:13:53 - DEBUG --> dus_2011@mail.ru
+2016-08-23 11:13:53 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:13:53 - INFO --> сообщение отправлено; 'dus_2011@mail.ru'
+2016-08-23 11:13:53 - INFO --> (0.021 сек.)
+2016-08-23 11:14:12 - INFO --> Отсылка почты...
+2016-08-23 11:14:12 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:14:12 - DEBUG --> SportDNN@mail.ru
+2016-08-23 11:14:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:14:12 - INFO --> сообщение отправлено; 'SportDNN@mail.ru'
+2016-08-23 11:14:12 - INFO --> (0.0219 сек.)
+2016-08-23 11:14:34 - INFO --> Отсылка почты...
+2016-08-23 11:14:34 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:14:34 - DEBUG --> sport_shcool@mail.ru
+2016-08-23 11:14:34 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:14:34 - INFO --> сообщение отправлено; 'sport_shcool@mail.ru'
+2016-08-23 11:14:34 - INFO --> (0.0221 сек.)
+2016-08-23 11:14:54 - INFO --> Отсылка почты...
+2016-08-23 11:14:54 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:14:54 - DEBUG --> olimpus_plus@rambler.ru
+2016-08-23 11:14:54 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:14:54 - INFO --> сообщение отправлено; 'olimpus_plus@rambler.ru'
+2016-08-23 11:14:54 - INFO --> (0.0217 сек.)
+2016-08-23 11:18:21 - INFO --> Отсылка почты...
+2016-08-23 11:18:21 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:18:21 - DEBUG --> dinamo10@mail.ru
+2016-08-23 11:18:21 - INFO --> сообщение отправлено; 'dinamo10@mail.ru'
+2016-08-23 11:18:21 - INFO --> (0.0273 сек.)
+2016-08-23 11:25:00 - INFO --> Отсылка почты...
+2016-08-23 11:25:00 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:25:00 - DEBUG --> shkola-burevestnik@yandex.ru
+2016-08-23 11:25:00 - INFO --> сообщение отправлено; 'shkola-burevestnik@yandex.ru'
+2016-08-23 11:25:00 - INFO --> (0.0111 сек.)
+2016-08-23 11:26:47 - INFO --> Отсылка почты...
+2016-08-23 11:26:47 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:26:47 - DEBUG --> sport-krap@yandex.ru
+2016-08-23 11:26:47 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:26:47 - INFO --> сообщение отправлено; 'sport-krap@yandex.ru'
+2016-08-23 11:26:47 - INFO --> (0.0215 сек.)
+2016-08-23 11:27:12 - INFO --> Отсылка почты...
+2016-08-23 11:27:12 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:27:12 - DEBUG --> duschoolvvv@mail.ru, zabelin_sp@mail.ru
+2016-08-23 11:27:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:27:12 - INFO --> сообщение отправлено; 'duschoolvvv@mail.ru'
+2016-08-23 11:27:12 - INFO --> сообщение отправлено; 'zabelin_sp@mail.ru'
+2016-08-23 11:27:12 - INFO --> (0.0411 сек.)
+2016-08-23 11:33:26 - INFO --> Отсылка почты...
+2016-08-23 11:33:26 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:33:26 - DEBUG --> tisdush@yandex.ru
+2016-08-23 11:33:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:33:26 - INFO --> сообщение отправлено; 'tisdush@yandex.ru'
+2016-08-23 11:33:26 - INFO --> (0.0417 сек.)
+2016-08-23 11:33:49 - INFO --> Отсылка почты...
+2016-08-23 11:33:49 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:33:49 - DEBUG --> demsport2000@mail.ru
+2016-08-23 11:33:49 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:33:49 - INFO --> сообщение отправлено; 'demsport2000@mail.ru'
+2016-08-23 11:33:49 - INFO --> (0.0213 сек.)
+2016-08-23 11:34:09 - INFO --> Отсылка почты...
+2016-08-23 11:34:09 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:34:09 - DEBUG --> osnk-sport@yandex.ru
+2016-08-23 11:34:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:34:09 - INFO --> сообщение отправлено; 'osnk-sport@yandex.ru'
+2016-08-23 11:34:09 - INFO --> (0.0269 сек.)
+2016-08-23 11:34:28 - INFO --> Отсылка почты...
+2016-08-23 11:34:28 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:34:28 - DEBUG --> osindush@yandex.ru
+2016-08-23 11:34:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:34:28 - INFO --> сообщение отправлено; 'osindush@yandex.ru'
+2016-08-23 11:34:28 - INFO --> (0.0224 сек.)
+2016-08-23 11:34:50 - INFO --> Отсылка почты...
+2016-08-23 11:34:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:34:50 - DEBUG --> sk-shahter@yandex.ru
+2016-08-23 11:34:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:34:50 - INFO --> сообщение отправлено; 'sk-shahter@yandex.ru'
+2016-08-23 11:34:50 - INFO --> (0.0218 сек.)
+2016-08-23 11:35:13 - INFO --> Отсылка почты...
+2016-08-23 11:35:13 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:35:13 - DEBUG --> pol-sport@mail.ru
+2016-08-23 11:35:13 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:35:13 - INFO --> сообщение отправлено; 'pol-sport@mail.ru'
+2016-08-23 11:35:13 - INFO --> (0.0216 сек.)
+2016-08-23 11:35:39 - INFO --> Отсылка почты...
+2016-08-23 11:35:39 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:35:39 - DEBUG --> Sport.stadion@yandex.ru
+2016-08-23 11:35:39 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:35:39 - INFO --> сообщение отправлено; 'Sport.stadion@yandex.ru'
+2016-08-23 11:35:39 - INFO --> (0.0218 сек.)
+2016-08-23 11:36:03 - INFO --> Отсылка почты...
+2016-08-23 11:36:03 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:36:03 - DEBUG --> ufkis_prkp@mail.ru
+2016-08-23 11:36:03 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:36:03 - INFO --> сообщение отправлено; 'ufkis_prkp@mail.ru'
+2016-08-23 11:36:03 - INFO --> (0.0223 сек.)
+2016-08-23 11:36:25 - INFO --> Отсылка почты...
+2016-08-23 11:36:25 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:36:25 - DEBUG --> dush3prk@mail.ru
+2016-08-23 11:36:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:36:25 - INFO --> сообщение отправлено; 'dush3prk@mail.ru'
+2016-08-23 11:36:25 - INFO --> (0.0222 сек.)
+2016-08-23 11:37:18 - INFO --> Отсылка почты...
+2016-08-23 11:37:18 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:37:18 - DEBUG --> sport@yurga.org
+2016-08-23 11:37:18 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:37:18 - INFO --> сообщение отправлено; 'sport@yurga.org'
+2016-08-23 11:37:18 - INFO --> (0.0222 сек.)
+2016-08-23 11:39:31 - INFO --> Отсылка почты...
+2016-08-23 11:39:31 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:39:31 - DEBUG --> v_poperekov@inbox.ru, basket43@inbox.ru
+2016-08-23 11:39:31 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:39:31 - INFO --> сообщение отправлено; 'v_poperekov@inbox.ru'
+2016-08-23 11:39:31 - INFO --> сообщение отправлено; 'basket43@inbox.ru'
+2016-08-23 11:39:31 - INFO --> (0.0493 сек.)
+2016-08-23 11:41:30 - INFO --> Отсылка почты...
+2016-08-23 11:41:30 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:41:30 - DEBUG --> sport43@sport43.kirov.ru
+2016-08-23 11:41:30 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:41:30 - INFO --> сообщение отправлено; 'sport43@sport43.kirov.ru'
+2016-08-23 11:41:30 - INFO --> (0.0213 сек.)
+2016-08-23 11:42:19 - INFO --> Отсылка почты...
+2016-08-23 11:42:19 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:42:19 - DEBUG --> olimpkirov@yandex.ru, priem.sdushor@bk.ru
+2016-08-23 11:42:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:42:19 - INFO --> сообщение отправлено; 'olimpkirov@yandex.ru'
+2016-08-23 11:42:19 - INFO --> сообщение отправлено; 'priem.sdushor@bk.ru'
+2016-08-23 11:42:19 - INFO --> (0.0423 сек.)
+2016-08-23 11:43:00 - INFO --> Отсылка почты...
+2016-08-23 11:43:00 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:43:00 - DEBUG --> vyatkastart@mail.ru
+2016-08-23 11:43:00 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:43:00 - INFO --> сообщение отправлено; 'vyatkastart@mail.ru'
+2016-08-23 11:43:00 - INFO --> (0.0217 сек.)
+2016-08-23 11:43:24 - INFO --> Отсылка почты...
+2016-08-23 11:43:24 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:43:24 - DEBUG --> kirovsport-1@mail.ru
+2016-08-23 11:43:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:43:24 - INFO --> сообщение отправлено; 'kirovsport-1@mail.ru'
+2016-08-23 11:43:24 - INFO --> (0.0233 сек.)
+2016-08-23 11:56:07 - INFO --> Отсылка почты...
+2016-08-23 11:56:07 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:56:07 - DEBUG --> sportfund@mail.ru
+2016-08-23 11:56:07 - INFO --> сообщение отправлено; 'sportfund@mail.ru'
+2016-08-23 11:56:07 - INFO --> (0.0113 сек.)
+2016-08-23 11:57:56 - INFO --> Отсылка почты...
+2016-08-23 11:57:56 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:57:56 - DEBUG --> dyssh2@mail.ru
+2016-08-23 11:57:56 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:57:56 - INFO --> сообщение отправлено; 'dyssh2@mail.ru'
+2016-08-23 11:57:56 - INFO --> (0.0318 сек.)
+2016-08-23 11:58:31 - INFO --> Отсылка почты...
+2016-08-23 11:58:31 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:58:31 - DEBUG --> dush-stulovo@mail.ru
+2016-08-23 11:58:31 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:58:31 - INFO --> сообщение отправлено; 'dush-stulovo@mail.ru'
+2016-08-23 11:58:31 - INFO --> (0.0239 сек.)
+2016-08-23 11:58:55 - INFO --> Отсылка почты...
+2016-08-23 11:58:55 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:58:55 - DEBUG --> vkam_dysshkirs@mail.ru
+2016-08-23 11:58:55 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:58:55 - INFO --> сообщение отправлено; 'vkam_dysshkirs@mail.ru'
+2016-08-23 11:58:55 - INFO --> (0.0214 сек.)
+2016-08-23 11:59:23 - INFO --> Отсылка почты...
+2016-08-23 11:59:23 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:59:23 - DEBUG --> dusportschool@yandex.ru
+2016-08-23 11:59:23 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:59:23 - INFO --> сообщение отправлено; 'dusportschool@yandex.ru'
+2016-08-23 11:59:23 - INFO --> (0.0221 сек.)
+2016-08-23 11:59:50 - INFO --> Отсылка почты...
+2016-08-23 11:59:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 11:59:50 - DEBUG --> sport-sc@rambler.ru, bibo81.81@mail.ru
+2016-08-23 11:59:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 11:59:50 - INFO --> сообщение отправлено; 'sport-sc@rambler.ru'
+2016-08-23 11:59:50 - INFO --> сообщение отправлено; 'bibo81.81@mail.ru'
+2016-08-23 11:59:50 - INFO --> (0.0403 сек.)
+2016-08-23 12:07:54 - INFO --> Отсылка почты...
+2016-08-23 12:07:54 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:07:54 - DEBUG --> sportslob@yandex.ru
+2016-08-23 12:07:54 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:07:54 - INFO --> сообщение отправлено; 'sportslob@yandex.ru'
+2016-08-23 12:07:54 - INFO --> (0.022 сек.)
+2016-08-23 12:08:14 - INFO --> Отсылка почты...
+2016-08-23 12:08:14 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:08:14 - DEBUG --> kotel.dush@mail.ru
+2016-08-23 12:08:14 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:08:14 - INFO --> сообщение отправлено; 'kotel.dush@mail.ru'
+2016-08-23 12:08:14 - INFO --> (0.0225 сек.)
+2016-08-23 12:08:40 - INFO --> Отсылка почты...
+2016-08-23 12:08:40 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:08:40 - DEBUG --> dushafan@yandex.ru
+2016-08-23 12:08:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:08:40 - INFO --> сообщение отправлено; 'dushafan@yandex.ru'
+2016-08-23 12:08:40 - INFO --> (0.0222 сек.)
+2016-08-23 12:09:01 - INFO --> Отсылка почты...
+2016-08-23 12:09:01 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:09:01 - DEBUG --> dusshvp@mail.ru
+2016-08-23 12:09:01 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:09:01 - INFO --> сообщение отправлено; 'dusshvp@mail.ru'
+2016-08-23 12:09:01 - INFO --> (0.0232 сек.)
+2016-08-23 12:10:20 - INFO --> Отсылка почты...
+2016-08-23 12:10:20 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:10:20 - DEBUG --> sport@adm44.ru
+2016-08-23 12:10:20 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:10:20 - INFO --> сообщение отправлено; 'sport@adm44.ru'
+2016-08-23 12:10:20 - INFO --> (0.0217 сек.)
+2016-08-23 12:10:44 - INFO --> Отсылка почты...
+2016-08-23 12:10:44 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:10:44 - DEBUG --> sport@admgor.kostroma.net
+2016-08-23 12:10:44 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:10:44 - INFO --> сообщение отправлено; 'sport@admgor.kostroma.net'
+2016-08-23 12:10:44 - INFO --> (0.0216 сек.)
+2016-08-23 12:11:45 - INFO --> Отсылка почты...
+2016-08-23 12:11:45 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:11:45 - DEBUG --> dysh-2@mail.ru
+2016-08-23 12:11:45 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:11:45 - INFO --> сообщение отправлено; 'dysh-2@mail.ru'
+2016-08-23 12:11:45 - INFO --> (0.0226 сек.)
+2016-08-23 12:12:08 - INFO --> Отсылка почты...
+2016-08-23 12:12:08 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:12:08 - DEBUG --> volgdush@mail.ru
+2016-08-23 12:12:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:12:08 - INFO --> сообщение отправлено; 'volgdush@mail.ru'
+2016-08-23 12:12:08 - INFO --> (0.022 сек.)
+2016-08-23 12:12:27 - INFO --> Отсылка почты...
+2016-08-23 12:12:27 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:12:27 - DEBUG --> dussh_buy@mail.ru
+2016-08-23 12:12:27 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:12:27 - INFO --> сообщение отправлено; 'dussh_buy@mail.ru'
+2016-08-23 12:12:27 - INFO --> (0.0208 сек.)
+2016-08-23 12:12:52 - INFO --> Отсылка почты...
+2016-08-23 12:12:52 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:12:52 - DEBUG --> dushmanturovo@mail.ru
+2016-08-23 12:12:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:12:52 - INFO --> сообщение отправлено; 'dushmanturovo@mail.ru'
+2016-08-23 12:12:52 - INFO --> (0.0214 сек.)
+2016-08-23 12:13:18 - INFO --> Отсылка почты...
+2016-08-23 12:13:18 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:13:18 - DEBUG --> kalinin_sharya@mail.ru
+2016-08-23 12:13:18 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:13:18 - INFO --> сообщение отправлено; 'kalinin_sharya@mail.ru'
+2016-08-23 12:13:18 - INFO --> (0.022 сек.)
+2016-08-23 12:13:43 - INFO --> Отсылка почты...
+2016-08-23 12:13:43 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:13:43 - DEBUG --> neya@adm44.ru, alb-63@mail.ru
+2016-08-23 12:13:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:13:43 - INFO --> сообщение отправлено; 'neya@adm44.ru'
+2016-08-23 12:13:43 - INFO --> сообщение отправлено; 'alb-63@mail.ru'
+2016-08-23 12:13:43 - INFO --> (0.0455 сек.)
+2016-08-23 12:14:20 - INFO --> Отсылка почты...
+2016-08-23 12:14:20 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:14:20 - DEBUG --> parfbook@mail.ru
+2016-08-23 12:14:20 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:14:20 - INFO --> сообщение отправлено; 'parfbook@mail.ru'
+2016-08-23 12:14:20 - INFO --> (0.0271 сек.)
+2016-08-23 12:14:43 - INFO --> Отсылка почты...
+2016-08-23 12:14:43 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:14:43 - DEBUG --> kultura.parfenievo@yandex.ru
+2016-08-23 12:14:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:14:43 - INFO --> сообщение отправлено; 'kultura.parfenievo@yandex.ru'
+2016-08-23 12:14:43 - INFO --> (0.0221 сек.)
+2016-08-23 12:15:13 - INFO --> Отсылка почты...
+2016-08-23 12:15:13 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:15:13 - DEBUG --> dussh.parf.44@mail.ru
+2016-08-23 12:15:13 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:15:13 - INFO --> сообщение отправлено; 'dussh.parf.44@mail.ru'
+2016-08-23 12:15:13 - INFO --> (0.0221 сек.)
+2016-08-23 12:15:40 - INFO --> Отсылка почты...
+2016-08-23 12:15:40 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:15:40 - DEBUG --> komecon@mail.ru, odkmis.raion@yandex.ru
+2016-08-23 12:15:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:15:40 - INFO --> сообщение отправлено; 'komecon@mail.ru'
+2016-08-23 12:15:40 - INFO --> сообщение отправлено; 'odkmis.raion@yandex.ru'
+2016-08-23 12:15:40 - INFO --> (0.0413 сек.)
+2016-08-23 12:16:22 - INFO --> Отсылка почты...
+2016-08-23 12:16:22 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:16:22 - DEBUG --> kadiy@adm44.ru
+2016-08-23 12:16:22 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:16:22 - INFO --> сообщение отправлено; 'kadiy@adm44.ru'
+2016-08-23 12:16:22 - INFO --> (0.022 сек.)
+2016-08-23 12:16:43 - INFO --> Отсылка почты...
+2016-08-23 12:16:43 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:16:43 - DEBUG --> mankdkms@yandex.ru, manturovo@adm44.ru
+2016-08-23 12:16:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:16:43 - INFO --> сообщение отправлено; 'mankdkms@yandex.ru'
+2016-08-23 12:16:43 - INFO --> сообщение отправлено; 'manturovo@adm44.ru'
+2016-08-23 12:16:43 - INFO --> (0.0411 сек.)
+2016-08-23 12:17:02 - INFO --> Отсылка почты...
+2016-08-23 12:17:02 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:17:02 - DEBUG --> mezha@adm44.ru
+2016-08-23 12:17:02 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:17:02 - INFO --> сообщение отправлено; 'mezha@adm44.ru'
+2016-08-23 12:17:02 - INFO --> (0.0339 сек.)
+2016-08-23 12:17:29 - INFO --> Отсылка почты...
+2016-08-23 12:17:29 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:17:29 - DEBUG --> nerehta@adm44.ru
+2016-08-23 12:17:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:17:29 - INFO --> сообщение отправлено; 'nerehta@adm44.ru'
+2016-08-23 12:17:29 - INFO --> (0.0212 сек.)
+2016-08-23 12:17:49 - INFO --> Отсылка почты...
+2016-08-23 12:17:49 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:17:49 - DEBUG --> ostrovskoe@kostroma.ru
+2016-08-23 12:17:49 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:17:49 - INFO --> сообщение отправлено; 'ostrovskoe@kostroma.ru'
+2016-08-23 12:17:49 - INFO --> (0.0219 сек.)
+2016-08-23 12:18:09 - INFO --> Отсылка почты...
+2016-08-23 12:18:09 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:18:09 - DEBUG --> ponazyrevo@adm44.ru
+2016-08-23 12:18:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:18:09 - INFO --> сообщение отправлено; 'ponazyrevo@adm44.ru'
+2016-08-23 12:18:09 - INFO --> (0.0316 сек.)
+2016-08-23 12:18:30 - INFO --> Отсылка почты...
+2016-08-23 12:18:30 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:18:30 - DEBUG --> sudislavl@adm44.ru, OKMSTsudis@yandex.ru
+2016-08-23 12:18:30 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:18:30 - INFO --> сообщение отправлено; 'sudislavl@adm44.ru'
+2016-08-23 12:18:30 - INFO --> сообщение отправлено; 'OKMSTsudis@yandex.ru'
+2016-08-23 12:18:30 - INFO --> (0.0439 сек.)
+2016-08-23 12:18:50 - INFO --> Отсылка почты...
+2016-08-23 12:18:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:18:50 - DEBUG --> susadmek@mail.ru, susanino@adm44.ru
+2016-08-23 12:18:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:18:50 - INFO --> сообщение отправлено; 'susadmek@mail.ru'
+2016-08-23 12:18:50 - INFO --> сообщение отправлено; 'susanino@adm44.ru'
+2016-08-23 12:18:50 - INFO --> (0.0576 сек.)
+2016-08-23 12:18:50 - INFO --> Отсылка почты...
+2016-08-23 12:18:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:18:50 - DEBUG --> v.lezhnin76@mail.ru
+2016-08-23 12:18:50 - INFO --> сообщение отправлено; 'v.lezhnin76@mail.ru'
+2016-08-23 12:18:50 - INFO --> (0.0108 сек.)
+2016-08-23 12:24:54 - INFO --> Отсылка почты...
+2016-08-23 12:24:54 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:24:54 - DEBUG --> direktor@sportrodnik.ru
+2016-08-23 12:24:54 - INFO --> сообщение отправлено; 'direktor@sportrodnik.ru'
+2016-08-23 12:24:54 - INFO --> (0.015 сек.)
+2016-08-23 12:50:50 - INFO --> Отсылка почты...
+2016-08-23 12:50:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:50:50 - DEBUG --> gou-internat_3@mail.ru
+2016-08-23 12:50:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:50:50 - INFO --> сообщение отправлено; 'gou-internat_3@mail.ru'
+2016-08-23 12:50:50 - INFO --> (0.0305 сек.)
+2016-08-23 12:51:23 - INFO --> Отсылка почты...
+2016-08-23 12:51:23 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:51:23 - DEBUG --> afipsdussh1@mail.ru
+2016-08-23 12:51:23 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:51:23 - INFO --> сообщение отправлено; 'afipsdussh1@mail.ru'
+2016-08-23 12:51:23 - INFO --> (0.0323 сек.)
+2016-08-23 12:51:58 - INFO --> Отсылка почты...
+2016-08-23 12:51:58 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:51:58 - DEBUG --> ducsh1@mail.ru
+2016-08-23 12:51:58 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:51:58 - INFO --> сообщение отправлено; 'ducsh1@mail.ru'
+2016-08-23 12:51:58 - INFO --> (0.0237 сек.)
+2016-08-23 12:52:28 - INFO --> Отсылка почты...
+2016-08-23 12:52:28 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:52:28 - DEBUG --> dinsport1@mail.ru
+2016-08-23 12:52:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:52:28 - INFO --> сообщение отправлено; 'dinsport1@mail.ru'
+2016-08-23 12:52:28 - INFO --> (0.0228 сек.)
+2016-08-23 12:52:52 - INFO --> Отсылка почты...
+2016-08-23 12:52:52 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:52:52 - DEBUG --> skola.sport@rambler.ru
+2016-08-23 12:52:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:52:52 - INFO --> сообщение отправлено; 'skola.sport@rambler.ru'
+2016-08-23 12:52:52 - INFO --> (0.0245 сек.)
+2016-08-23 12:53:38 - INFO --> Отсылка почты...
+2016-08-23 12:53:38 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:53:38 - DEBUG --> sportschool_1@mail.ru
+2016-08-23 12:53:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:53:38 - INFO --> сообщение отправлено; 'sportschool_1@mail.ru'
+2016-08-23 12:53:38 - INFO --> (0.0207 сек.)
+2016-08-23 12:54:01 - INFO --> Отсылка почты...
+2016-08-23 12:54:01 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:54:01 - DEBUG --> moaudoddyusshv1@mail.ru
+2016-08-23 12:54:01 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:54:01 - INFO --> сообщение отправлено; 'moaudoddyusshv1@mail.ru'
+2016-08-23 12:54:01 - INFO --> (0.0232 сек.)
+2016-08-23 12:55:41 - INFO --> Отсылка почты...
+2016-08-23 12:55:41 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:55:41 - DEBUG --> ds1anapa@mail.ru
+2016-08-23 12:55:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:55:41 - INFO --> сообщение отправлено; 'ds1anapa@mail.ru'
+2016-08-23 12:55:41 - INFO --> (0.0284 сек.)
+2016-08-23 12:56:09 - INFO --> Отсылка почты...
+2016-08-23 12:56:09 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 12:56:09 - DEBUG --> Tuapseshkola2@yandex.ru
+2016-08-23 12:56:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 12:56:09 - INFO --> сообщение отправлено; 'Tuapseshkola2@yandex.ru'
+2016-08-23 12:56:09 - INFO --> (0.0298 сек.)
+2016-08-23 13:13:34 - INFO --> Отсылка почты...
+2016-08-23 13:13:34 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:13:34 - DEBUG --> kurg.sport2@mail.ru
+2016-08-23 13:13:34 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:13:34 - INFO --> сообщение отправлено; 'kurg.sport2@mail.ru'
+2016-08-23 13:13:34 - INFO --> (0.0297 сек.)
+2016-08-23 13:13:59 - INFO --> Отсылка почты...
+2016-08-23 13:13:59 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:13:59 - DEBUG --> sport_shkola@bk.ru
+2016-08-23 13:13:59 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:13:59 - INFO --> сообщение отправлено; 'sport_shkola@bk.ru'
+2016-08-23 13:13:59 - INFO --> (0.0224 сек.)
+2016-08-23 13:14:24 - INFO --> Отсылка почты...
+2016-08-23 13:14:24 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:14:24 - DEBUG --> victor-isaev-sport@yandex.ru
+2016-08-23 13:14:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:14:24 - INFO --> сообщение отправлено; 'victor-isaev-sport@yandex.ru'
+2016-08-23 13:14:24 - INFO --> (0.0264 сек.)
+2016-08-23 13:14:48 - INFO --> Отсылка почты...
+2016-08-23 13:14:48 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:14:48 - DEBUG --> bollsochi@mail.ru
+2016-08-23 13:14:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:14:48 - INFO --> сообщение отправлено; 'bollsochi@mail.ru'
+2016-08-23 13:14:48 - INFO --> (0.0215 сек.)
+2016-08-23 13:15:21 - INFO --> Отсылка почты...
+2016-08-23 13:15:21 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:15:21 - DEBUG --> Lider.spk@yandex.ru
+2016-08-23 13:15:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:15:21 - INFO --> сообщение отправлено; 'Lider.spk@yandex.ru'
+2016-08-23 13:15:21 - INFO --> (0.0222 сек.)
+2016-08-23 13:15:51 - INFO --> Отсылка почты...
+2016-08-23 13:15:51 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:15:51 - DEBUG --> dubkobasket@mail.ru
+2016-08-23 13:15:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:15:51 - INFO --> сообщение отправлено; 'dubkobasket@mail.ru'
+2016-08-23 13:15:51 - INFO --> (0.0496 сек.)
+2016-08-23 13:16:40 - INFO --> Отсылка почты...
+2016-08-23 13:16:40 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:16:40 - DEBUG --> sportivnayashkola.viktoriya@yandex.ru
+2016-08-23 13:16:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:16:40 - INFO --> сообщение отправлено; 'sportivnayashkola.viktoriya@yandex.ru'
+2016-08-23 13:16:40 - INFO --> (0.0223 сек.)
+2016-08-23 13:17:05 - INFO --> Отсылка почты...
+2016-08-23 13:17:05 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:17:05 - DEBUG --> uspdussh@list.ru
+2016-08-23 13:17:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:17:05 - INFO --> сообщение отправлено; 'uspdussh@list.ru'
+2016-08-23 13:17:05 - INFO --> (0.0254 сек.)
+2016-08-23 13:20:05 - INFO --> Отсылка почты...
+2016-08-23 13:20:05 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:20:05 - DEBUG --> kristall-dussch@yandex.ru
+2016-08-23 13:20:05 - INFO --> сообщение отправлено; 'kristall-dussch@yandex.ru'
+2016-08-23 13:20:05 - INFO --> (0.0187 сек.)
+2016-08-23 13:24:59 - INFO --> Отсылка почты...
+2016-08-23 13:24:59 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:24:59 - DEBUG --> dyussh-ekb@yandex.ru
+2016-08-23 13:24:59 - INFO --> сообщение отправлено; 'dyussh-ekb@yandex.ru'
+2016-08-23 13:24:59 - INFO --> (0.0111 сек.)
+2016-08-23 13:25:27 - INFO --> Отсылка почты...
+2016-08-23 13:25:27 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:25:27 - DEBUG --> sportternovskaya@ro.ru
+2016-08-23 13:25:27 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:25:27 - INFO --> сообщение отправлено; 'sportternovskaya@ro.ru'
+2016-08-23 13:25:27 - INFO --> (0.0271 сек.)
+2016-08-23 13:25:50 - INFO --> Отсылка почты...
+2016-08-23 13:25:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:25:50 - DEBUG --> paed@yandex.ru
+2016-08-23 13:25:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:25:50 - INFO --> сообщение отправлено; 'paed@yandex.ru'
+2016-08-23 13:25:50 - INFO --> (0.1208 сек.)
+2016-08-23 13:26:06 - INFO --> Отсылка почты...
+2016-08-23 13:26:06 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:26:06 - DEBUG --> ya.dyussch@yandex.ru
+2016-08-23 13:26:06 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:26:06 - INFO --> сообщение отправлено; 'ya.dyussch@yandex.ru'
+2016-08-23 13:26:06 - INFO --> (0.0223 сек.)
+2016-08-23 13:26:30 - INFO --> Отсылка почты...
+2016-08-23 13:26:30 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:26:30 - DEBUG --> prim-dusha@mail.ru
+2016-08-23 13:26:30 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:26:30 - INFO --> сообщение отправлено; 'prim-dusha@mail.ru'
+2016-08-23 13:26:30 - INFO --> (0.0219 сек.)
+2016-08-23 13:26:52 - INFO --> Отсылка почты...
+2016-08-23 13:26:52 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:26:52 - DEBUG --> pavlsport@mail.ru
+2016-08-23 13:26:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:26:52 - INFO --> сообщение отправлено; 'pavlsport@mail.ru'
+2016-08-23 13:26:52 - INFO --> (0.0336 сек.)
+2016-08-23 13:28:27 - INFO --> Отсылка почты...
+2016-08-23 13:28:27 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:28:27 - DEBUG --> ural_football@mail.ru
+2016-08-23 13:28:27 - INFO --> сообщение отправлено; 'ural_football@mail.ru'
+2016-08-23 13:28:27 - INFO --> (0.0113 сек.)
+2016-08-23 13:31:59 - INFO --> Отсылка почты...
+2016-08-23 13:31:59 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:31:59 - DEBUG --> olimpiya-otr@yandex.ru
+2016-08-23 13:31:59 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:31:59 - INFO --> сообщение отправлено; 'olimpiya-otr@yandex.ru'
+2016-08-23 13:31:59 - INFO --> (0.0213 сек.)
+2016-08-23 13:32:21 - INFO --> Отсылка почты...
+2016-08-23 13:32:21 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:32:21 - DEBUG --> DrujbaSport@mail.ru
+2016-08-23 13:32:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:32:21 - INFO --> сообщение отправлено; 'DrujbaSport@mail.ru'
+2016-08-23 13:32:21 - INFO --> (0.0291 сек.)
+2016-08-23 13:32:42 - INFO --> Отсылка почты...
+2016-08-23 13:32:42 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:32:42 - DEBUG --> dusha.09@mail.ru
+2016-08-23 13:32:42 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:32:42 - INFO --> сообщение отправлено; 'dusha.09@mail.ru'
+2016-08-23 13:32:42 - INFO --> (0.022 сек.)
+2016-08-23 13:35:42 - INFO --> Отсылка почты...
+2016-08-23 13:35:42 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:35:42 - DEBUG --> Olump30A@mail.ru
+2016-08-23 13:35:42 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:35:42 - INFO --> сообщение отправлено; 'Olump30A@mail.ru'
+2016-08-23 13:35:42 - INFO --> (0.0218 сек.)
+2016-08-23 13:36:29 - INFO --> Отсылка почты...
+2016-08-23 13:36:29 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:36:29 - DEBUG --> dusshunost@mail.ru
+2016-08-23 13:36:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:36:29 - INFO --> сообщение отправлено; 'dusshunost@mail.ru'
+2016-08-23 13:36:29 - INFO --> (0.0233 сек.)
+2016-08-23 13:38:36 - INFO --> Отсылка почты...
+2016-08-23 13:38:36 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:38:36 - DEBUG --> olimp-mos@yandex.ru
+2016-08-23 13:38:36 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:38:36 - INFO --> сообщение отправлено; 'olimp-mos@yandex.ru'
+2016-08-23 13:38:36 - INFO --> (0.0265 сек.)
+2016-08-23 13:39:12 - INFO --> Отсылка почты...
+2016-08-23 13:39:12 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:39:12 - DEBUG --> lenduschsport@yandex.ru
+2016-08-23 13:39:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:39:12 - INFO --> сообщение отправлено; 'lenduschsport@yandex.ru'
+2016-08-23 13:39:12 - INFO --> (0.0253 сек.)
+2016-08-23 13:39:32 - INFO --> Отсылка почты...
+2016-08-23 13:39:32 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:39:32 - DEBUG --> sportivnaja2015@mail.ru
+2016-08-23 13:39:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:39:32 - INFO --> сообщение отправлено; 'sportivnaja2015@mail.ru'
+2016-08-23 13:39:32 - INFO --> (0.0213 сек.)
+2016-08-23 13:42:52 - INFO --> Отсылка почты...
+2016-08-23 13:42:52 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:42:52 - DEBUG --> ivs_lab@mail.ru
+2016-08-23 13:42:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:42:52 - INFO --> сообщение отправлено; 'ivs_lab@mail.ru'
+2016-08-23 13:42:52 - INFO --> (0.0237 сек.)
+2016-08-23 13:43:17 - INFO --> Отсылка почты...
+2016-08-23 13:43:17 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:43:17 - DEBUG --> chscoolkush@mail.ru
+2016-08-23 13:43:17 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:43:17 - INFO --> сообщение отправлено; 'chscoolkush@mail.ru'
+2016-08-23 13:43:17 - INFO --> (0.0288 сек.)
+2016-08-23 13:43:39 - INFO --> Отсылка почты...
+2016-08-23 13:43:39 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:43:39 - DEBUG --> dushkrimsk@mail.ru
+2016-08-23 13:43:39 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:43:39 - INFO --> сообщение отправлено; 'dushkrimsk@mail.ru'
+2016-08-23 13:43:39 - INFO --> (0.0299 сек.)
+2016-08-23 13:44:08 - INFO --> Отсылка почты...
+2016-08-23 13:44:08 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:44:08 - DEBUG --> olimpkril@mail.ru
+2016-08-23 13:44:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:44:09 - INFO --> сообщение отправлено; 'olimpkril@mail.ru'
+2016-08-23 13:44:09 - INFO --> (0.028 сек.)
+2016-08-23 13:47:00 - INFO --> Отсылка почты...
+2016-08-23 13:47:00 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:47:00 - DEBUG --> kan_dussh1@mail.ru
+2016-08-23 13:47:00 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:47:01 - INFO --> сообщение отправлено; 'kan_dussh1@mail.ru'
+2016-08-23 13:47:01 - INFO --> (0.0328 сек.)
+2016-08-23 13:47:28 - INFO --> Отсылка почты...
+2016-08-23 13:47:28 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:47:28 - DEBUG --> sportschooldinsk@mail.ru
+2016-08-23 13:47:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:47:28 - INFO --> сообщение отправлено; 'sportschooldinsk@mail.ru'
+2016-08-23 13:47:28 - INFO --> (0.0221 сек.)
+2016-08-23 13:47:51 - INFO --> Отсылка почты...
+2016-08-23 13:47:51 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:47:51 - DEBUG --> sportblg2012@yandex.ru
+2016-08-23 13:47:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:47:51 - INFO --> сообщение отправлено; 'sportblg2012@yandex.ru'
+2016-08-23 13:47:51 - INFO --> (0.0217 сек.)
+2016-08-23 13:48:05 - INFO --> Отсылка почты...
+2016-08-23 13:48:05 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:48:05 - DEBUG --> unost-football@inbox.ru
+2016-08-23 13:48:05 - INFO --> сообщение отправлено; 'unost-football@inbox.ru'
+2016-08-23 13:48:05 - INFO --> (0.011 сек.)
+2016-08-23 13:48:21 - INFO --> Отсылка почты...
+2016-08-23 13:48:21 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:48:21 - DEBUG --> spartak-abinsk@mail.ru
+2016-08-23 13:48:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:48:21 - INFO --> сообщение отправлено; 'spartak-abinsk@mail.ru'
+2016-08-23 13:48:21 - INFO --> (0.0299 сек.)
+2016-08-23 13:48:48 - INFO --> Отсылка почты...
+2016-08-23 13:48:48 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:48:48 - DEBUG --> olga-komerzan@rambler.ru
+2016-08-23 13:48:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:48:48 - INFO --> сообщение отправлено; 'olga-komerzan@rambler.ru'
+2016-08-23 13:48:48 - INFO --> (0.0218 сек.)
+2016-08-23 13:49:13 - INFO --> Отсылка почты...
+2016-08-23 13:49:13 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:49:13 - DEBUG --> sportshkola_rayev@mail.ru
+2016-08-23 13:49:13 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:49:14 - INFO --> сообщение отправлено; 'sportshkola_rayev@mail.ru'
+2016-08-23 13:49:14 - INFO --> (0.0218 сек.)
+2016-08-23 13:51:09 - INFO --> Отсылка почты...
+2016-08-23 13:51:09 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:51:09 - DEBUG --> fortuna-gel@mail.ru
+2016-08-23 13:51:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:51:09 - INFO --> сообщение отправлено; 'fortuna-gel@mail.ru'
+2016-08-23 13:51:09 - INFO --> (0.0267 сек.)
+2016-08-23 13:51:42 - INFO --> Отсылка почты...
+2016-08-23 13:51:42 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:51:42 - DEBUG --> sportschool7@edu.sochi.ru
+2016-08-23 13:51:42 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:51:43 - INFO --> сообщение отправлено; 'sportschool7@edu.sochi.ru'
+2016-08-23 13:51:43 - INFO --> (0.0216 сек.)
+2016-08-23 13:53:08 - INFO --> Отсылка почты...
+2016-08-23 13:53:08 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:53:08 - DEBUG --> priem@stmpkrsk.ru, press@stmpkrsk.ru
+2016-08-23 13:53:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:53:08 - INFO --> сообщение отправлено; 'priem@stmpkrsk.ru'
+2016-08-23 13:53:08 - INFO --> сообщение отправлено; 'press@stmpkrsk.ru'
+2016-08-23 13:53:08 - INFO --> (0.0406 сек.)
+2016-08-23 13:55:00 - INFO --> Отсылка почты...
+2016-08-23 13:55:00 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:55:00 - DEBUG --> kras-basket@yandex.ru
+2016-08-23 13:55:00 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:55:00 - INFO --> сообщение отправлено; 'kras-basket@yandex.ru'
+2016-08-23 13:55:00 - INFO --> (0.0214 сек.)
+2016-08-23 13:55:29 - INFO --> Отсылка почты...
+2016-08-23 13:55:29 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:55:29 - DEBUG --> cf_achinsk@mail.ru
+2016-08-23 13:55:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:55:29 - INFO --> сообщение отправлено; 'cf_achinsk@mail.ru'
+2016-08-23 13:55:29 - INFO --> (0.022 сек.)
+2016-08-23 13:55:54 - INFO --> Отсылка почты...
+2016-08-23 13:55:54 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:55:54 - DEBUG --> dyussh-malinovka@mail.ru
+2016-08-23 13:55:54 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:55:54 - INFO --> сообщение отправлено; 'dyussh-malinovka@mail.ru'
+2016-08-23 13:55:54 - INFO --> (0.0257 сек.)
+2016-08-23 13:55:55 - INFO --> Отсылка почты...
+2016-08-23 13:55:55 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:55:55 - DEBUG --> sor3@sky.ru
+2016-08-23 13:55:55 - INFO --> сообщение отправлено; 'sor3@sky.ru'
+2016-08-23 13:55:55 - INFO --> (0.0184 сек.)
+2016-08-23 13:56:30 - INFO --> Отсылка почты...
+2016-08-23 13:56:30 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:56:30 - DEBUG --> bogotol.sport@yandex.ru
+2016-08-23 13:56:30 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:56:30 - INFO --> сообщение отправлено; 'bogotol.sport@yandex.ru'
+2016-08-23 13:56:30 - INFO --> (0.0232 сек.)
+2016-08-23 13:57:01 - INFO --> Отсылка почты...
+2016-08-23 13:57:01 - INFO --> Тема; 'КОМПЛЕКСНАЯ ВОЛЕЙБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:57:01 - DEBUG --> info@olimpia-nv.ru
+2016-08-23 13:57:02 - INFO --> сообщение отправлено; 'info@olimpia-nv.ru'
+2016-08-23 13:57:02 - INFO --> (0.0098 сек.)
+2016-08-23 13:57:08 - INFO --> Отсылка почты...
+2016-08-23 13:57:08 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:57:08 - DEBUG --> sportborodino@yandex.ru
+2016-08-23 13:57:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:57:08 - INFO --> сообщение отправлено; 'sportborodino@yandex.ru'
+2016-08-23 13:57:08 - INFO --> (0.0221 сек.)
+2016-08-23 13:57:34 - INFO --> Отсылка почты...
+2016-08-23 13:57:34 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:57:34 - DEBUG --> dysh09@rambler.ru
+2016-08-23 13:57:34 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:57:34 - INFO --> сообщение отправлено; 'dysh09@rambler.ru'
+2016-08-23 13:57:34 - INFO --> (0.025 сек.)
+2016-08-23 13:57:57 - INFO --> Отсылка почты...
+2016-08-23 13:57:57 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:57:57 - DEBUG --> DUSH.emel@yandex.ru
+2016-08-23 13:57:57 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:57:57 - INFO --> сообщение отправлено; 'DUSH.emel@yandex.ru'
+2016-08-23 13:57:57 - INFO --> (0.0223 сек.)
+2016-08-23 13:58:24 - INFO --> Отсылка почты...
+2016-08-23 13:58:24 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:58:24 - DEBUG --> eniseyskssh@list.ru
+2016-08-23 13:58:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:58:24 - INFO --> сообщение отправлено; 'eniseyskssh@list.ru'
+2016-08-23 13:58:24 - INFO --> (0.0223 сек.)
+2016-08-23 13:59:01 - INFO --> Отсылка почты...
+2016-08-23 13:59:01 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:59:01 - DEBUG --> sportenadm@rambler.ru
+2016-08-23 13:59:01 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:59:01 - INFO --> сообщение отправлено; 'sportenadm@rambler.ru'
+2016-08-23 13:59:01 - INFO --> (0.0221 сек.)
+2016-08-23 13:59:30 - INFO --> Отсылка почты...
+2016-08-23 13:59:30 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 13:59:30 - DEBUG --> smena-game@mail.ru
+2016-08-23 13:59:30 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 13:59:30 - INFO --> сообщение отправлено; 'smena-game@mail.ru'
+2016-08-23 13:59:30 - INFO --> (0.0224 сек.)
+2016-08-23 14:02:19 - INFO --> Отсылка почты...
+2016-08-23 14:02:19 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:02:19 - DEBUG --> sportzelenogorsk@yandex.ru
+2016-08-23 14:02:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:02:19 - INFO --> сообщение отправлено; 'sportzelenogorsk@yandex.ru'
+2016-08-23 14:02:19 - INFO --> (0.0259 сек.)
+2016-08-23 14:03:03 - INFO --> Отсылка почты...
+2016-08-23 14:03:03 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:03:03 - DEBUG --> isaev.leks@mail.ru
+2016-08-23 14:03:03 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:03:03 - INFO --> сообщение отправлено; 'isaev.leks@mail.ru'
+2016-08-23 14:03:03 - INFO --> (0.0224 сек.)
+2016-08-23 14:09:32 - INFO --> Отсылка почты...
+2016-08-23 14:09:32 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:09:32 - DEBUG --> sport-school-kan@mail.ru
+2016-08-23 14:09:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:09:32 - INFO --> сообщение отправлено; 'sport-school-kan@mail.ru'
+2016-08-23 14:09:32 - INFO --> (0.0215 сек.)
+2016-08-23 14:10:01 - INFO --> Отсылка почты...
+2016-08-23 14:10:01 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:10:01 - DEBUG --> Dussh_kansk@mail.ru
+2016-08-23 14:10:01 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:10:01 - INFO --> сообщение отправлено; 'Dussh_kansk@mail.ru'
+2016-08-23 14:10:01 - INFO --> (0.0219 сек.)
+2016-08-23 14:10:32 - INFO --> Отсылка почты...
+2016-08-23 14:10:32 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:10:32 - DEBUG --> bs-enisey@mail.ru
+2016-08-23 14:10:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:10:32 - INFO --> сообщение отправлено; 'bs-enisey@mail.ru'
+2016-08-23 14:10:32 - INFO --> (0.0389 сек.)
+2016-08-23 14:11:07 - INFO --> Отсылка почты...
+2016-08-23 14:11:07 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:11:07 - DEBUG --> info@krasbasket.ru
+2016-08-23 14:11:07 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:11:07 - INFO --> сообщение отправлено; 'info@krasbasket.ru'
+2016-08-23 14:11:07 - INFO --> (0.0216 сек.)
+2016-08-23 14:11:44 - INFO --> Отсылка почты...
+2016-08-23 14:11:44 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:11:44 - DEBUG --> mr.dush62@mail.ru
+2016-08-23 14:11:44 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:11:44 - INFO --> сообщение отправлено; 'mr.dush62@mail.ru'
+2016-08-23 14:11:44 - INFO --> (0.0261 сек.)
+2016-08-23 14:12:04 - INFO --> Отсылка почты...
+2016-08-23 14:12:04 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:12:04 - DEBUG --> angara-sport66@yandex.ru
+2016-08-23 14:12:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:12:04 - INFO --> сообщение отправлено; 'angara-sport66@yandex.ru'
+2016-08-23 14:12:04 - INFO --> (0.021 сек.)
+2016-08-23 14:14:38 - INFO --> Отсылка почты...
+2016-08-23 14:14:38 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:14:38 - DEBUG --> DYSH-2nazarovo@mail.ru
+2016-08-23 14:14:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:14:38 - INFO --> сообщение отправлено; 'DYSH-2nazarovo@mail.ru'
+2016-08-23 14:14:38 - INFO --> (0.0247 сек.)
+2016-08-23 14:15:19 - INFO --> Отсылка почты...
+2016-08-23 14:15:19 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:15:19 - DEBUG --> nordussh1@yandex.ru
+2016-08-23 14:15:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:15:20 - INFO --> сообщение отправлено; 'nordussh1@yandex.ru'
+2016-08-23 14:15:20 - INFO --> (0.0234 сек.)
+2016-08-23 14:15:53 - INFO --> Отсылка почты...
+2016-08-23 14:15:53 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:15:53 - DEBUG --> havana1977@yandex.ru
+2016-08-23 14:15:53 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:15:53 - INFO --> сообщение отправлено; 'havana1977@yandex.ru'
+2016-08-23 14:15:53 - INFO --> (0.0214 сек.)
+2016-08-23 14:16:19 - INFO --> Отсылка почты...
+2016-08-23 14:16:19 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:16:19 - DEBUG --> dushnr@yandex.ru
+2016-08-23 14:16:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:16:19 - INFO --> сообщение отправлено; 'dushnr@yandex.ru'
+2016-08-23 14:16:19 - INFO --> (0.0219 сек.)
+2016-08-23 14:16:43 - INFO --> Отсылка почты...
+2016-08-23 14:16:43 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:16:43 - DEBUG --> sporttempingash@mail.ru
+2016-08-23 14:16:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:16:43 - INFO --> сообщение отправлено; 'sporttempingash@mail.ru'
+2016-08-23 14:16:43 - INFO --> (0.0216 сек.)
+2016-08-23 14:17:14 - INFO --> Отсылка почты...
+2016-08-23 14:17:14 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:17:14 - DEBUG --> Dusch11@bk.ru
+2016-08-23 14:17:14 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:17:14 - INFO --> сообщение отправлено; 'Dusch11@bk.ru'
+2016-08-23 14:17:14 - INFO --> (0.0224 сек.)
+2016-08-23 14:17:48 - INFO --> Отсылка почты...
+2016-08-23 14:17:48 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:17:48 - DEBUG --> dushse@yandex.ru
+2016-08-23 14:17:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:17:48 - INFO --> сообщение отправлено; 'dushse@yandex.ru'
+2016-08-23 14:17:48 - INFO --> (0.0218 сек.)
+2016-08-23 14:18:21 - INFO --> Отсылка почты...
+2016-08-23 14:18:21 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:18:21 - DEBUG --> dush_suhob@mail.ru
+2016-08-23 14:18:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:18:22 - INFO --> сообщение отправлено; 'dush_suhob@mail.ru'
+2016-08-23 14:18:22 - INFO --> (0.0238 сек.)
+2016-08-23 14:18:53 - INFO --> Отсылка почты...
+2016-08-23 14:18:53 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:18:53 - DEBUG --> ugurdusch@list.ru
+2016-08-23 14:18:53 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:18:53 - INFO --> сообщение отправлено; 'ugurdusch@list.ru'
+2016-08-23 14:18:53 - INFO --> (0.0228 сек.)
+2016-08-23 14:19:20 - INFO --> Отсылка почты...
+2016-08-23 14:19:20 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:19:20 - DEBUG --> dussh.sh@yandex.ru
+2016-08-23 14:19:20 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:19:20 - INFO --> сообщение отправлено; 'dussh.sh@yandex.ru'
+2016-08-23 14:19:20 - INFO --> (0.0273 сек.)
+2016-08-23 14:22:00 - INFO --> Отсылка почты...
+2016-08-23 14:22:00 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:22:00 - DEBUG --> dush32@mail.ru
+2016-08-23 14:22:00 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:22:00 - INFO --> сообщение отправлено; 'dush32@mail.ru'
+2016-08-23 14:22:00 - INFO --> (0.0222 сек.)
+2016-08-23 14:22:34 - INFO --> Отсылка почты...
+2016-08-23 14:22:34 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:22:34 - DEBUG --> dush_solnechny1@mail.ru
+2016-08-23 14:22:34 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:22:34 - INFO --> сообщение отправлено; 'dush_solnechny1@mail.ru'
+2016-08-23 14:22:34 - INFO --> (0.021 сек.)
+2016-08-23 14:25:28 - INFO --> Отсылка почты...
+2016-08-23 14:25:28 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:25:28 - DEBUG --> dushc16@mail.ru
+2016-08-23 14:25:28 - INFO --> сообщение отправлено; 'dushc16@mail.ru'
+2016-08-23 14:25:28 - INFO --> (0.0113 сек.)
+2016-08-23 14:28:35 - INFO --> Отсылка почты...
+2016-08-23 14:28:35 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:28:35 - DEBUG --> official@sport.kreml.nnov.ru
+2016-08-23 14:28:35 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:28:36 - INFO --> сообщение отправлено; 'official@sport.kreml.nnov.ru'
+2016-08-23 14:28:36 - INFO --> (0.0224 сек.)
+2016-08-23 14:28:59 - INFO --> Отсылка почты...
+2016-08-23 14:28:59 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:28:59 - DEBUG --> dussh.tnk@yandex.ru
+2016-08-23 14:28:59 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:28:59 - INFO --> сообщение отправлено; 'dussh.tnk@yandex.ru'
+2016-08-23 14:28:59 - INFO --> (0.0228 сек.)
+2016-08-23 14:29:24 - INFO --> Отсылка почты...
+2016-08-23 14:29:24 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:29:24 - DEBUG --> arzregionsport@mail.ru
+2016-08-23 14:29:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:29:24 - INFO --> сообщение отправлено; 'arzregionsport@mail.ru'
+2016-08-23 14:29:24 - INFO --> (0.0224 сек.)
+2016-08-23 14:30:17 - INFO --> Отсылка почты...
+2016-08-23 14:30:17 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:30:17 - DEBUG --> dyussh_ardatov@mail.ru
+2016-08-23 14:30:17 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:30:17 - INFO --> сообщение отправлено; 'dyussh_ardatov@mail.ru'
+2016-08-23 14:30:17 - INFO --> (0.0234 сек.)
+2016-08-23 14:30:41 - INFO --> Отсылка почты...
+2016-08-23 14:30:41 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:30:41 - DEBUG --> meshera-sport@mail.ru
+2016-08-23 14:30:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:30:41 - INFO --> сообщение отправлено; 'meshera-sport@mail.ru'
+2016-08-23 14:30:41 - INFO --> (0.0261 сек.)
+2016-08-23 14:31:18 - INFO --> Отсылка почты...
+2016-08-23 14:31:18 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:31:18 - DEBUG --> moudodduh1@mail.ru
+2016-08-23 14:31:18 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:31:18 - INFO --> сообщение отправлено; 'moudodduh1@mail.ru'
+2016-08-23 14:31:18 - INFO --> (0.0222 сек.)
+2016-08-23 14:31:48 - INFO --> Отсылка почты...
+2016-08-23 14:31:48 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:31:48 - DEBUG --> basketschool7@mail.ru
+2016-08-23 14:31:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:31:48 - INFO --> сообщение отправлено; 'basketschool7@mail.ru'
+2016-08-23 14:31:48 - INFO --> (0.0255 сек.)
+2016-08-23 14:32:24 - INFO --> Отсылка почты...
+2016-08-23 14:32:24 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:32:24 - DEBUG --> dyussh.uren@mail.ru
+2016-08-23 14:32:24 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:32:24 - INFO --> сообщение отправлено; 'dyussh.uren@mail.ru'
+2016-08-23 14:32:24 - INFO --> (0.0208 сек.)
+2016-08-23 14:32:58 - INFO --> Отсылка почты...
+2016-08-23 14:32:58 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:32:58 - DEBUG --> sarovsport@mail.ru
+2016-08-23 14:32:58 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:32:58 - INFO --> сообщение отправлено; 'sarovsport@mail.ru'
+2016-08-23 14:32:58 - INFO --> (0.0238 сек.)
+2016-08-23 14:33:41 - INFO --> Отсылка почты...
+2016-08-23 14:33:41 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:33:41 - DEBUG --> melin-a72@mail.ru
+2016-08-23 14:33:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:33:41 - INFO --> сообщение отправлено; 'melin-a72@mail.ru'
+2016-08-23 14:33:41 - INFO --> (0.0291 сек.)
+2016-08-23 14:34:22 - INFO --> Отсылка почты...
+2016-08-23 14:34:22 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:34:22 - DEBUG --> kdmarzamas@mail.ru, komitetfkis@mail.ru
+2016-08-23 14:34:22 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:34:22 - INFO --> сообщение отправлено; 'kdmarzamas@mail.ru'
+2016-08-23 14:34:22 - INFO --> сообщение отправлено; 'komitetfkis@mail.ru'
+2016-08-23 14:34:22 - INFO --> (0.0476 сек.)
+2016-08-23 14:34:51 - INFO --> Отсылка почты...
+2016-08-23 14:34:51 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:34:51 - DEBUG --> sport-dzr@mail.ru
+2016-08-23 14:34:51 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:34:51 - INFO --> сообщение отправлено; 'sport-dzr@mail.ru'
+2016-08-23 14:34:51 - INFO --> (0.0305 сек.)
+2016-08-23 14:38:25 - INFO --> Отсылка почты...
+2016-08-23 14:38:25 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:38:25 - DEBUG --> semenovdusch@inbox.ru
+2016-08-23 14:38:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:38:25 - INFO --> сообщение отправлено; 'semenovdusch@inbox.ru'
+2016-08-23 14:38:25 - INFO --> (0.0213 сек.)
+2016-08-23 14:38:48 - INFO --> Отсылка почты...
+2016-08-23 14:38:48 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:38:48 - DEBUG --> det.schkola@yandex.ru
+2016-08-23 14:38:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:38:48 - INFO --> сообщение отправлено; 'det.schkola@yandex.ru'
+2016-08-23 14:38:48 - INFO --> (0.0214 сек.)
+2016-08-23 14:39:09 - INFO --> Отсылка почты...
+2016-08-23 14:39:09 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:39:09 - DEBUG --> vorot.dussh@yandex.ru
+2016-08-23 14:39:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:39:09 - INFO --> сообщение отправлено; 'vorot.dussh@yandex.ru'
+2016-08-23 14:39:09 - INFO --> (0.0282 сек.)
+2016-08-23 14:39:33 - INFO --> Отсылка почты...
+2016-08-23 14:39:33 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:39:33 - DEBUG --> ADMGORNN@MAIL.RU
+2016-08-23 14:39:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:39:33 - INFO --> сообщение отправлено; 'ADMGORNN@MAIL.RU'
+2016-08-23 14:39:33 - INFO --> (0.0219 сек.)
+2016-08-23 14:43:12 - INFO --> Отсылка почты...
+2016-08-23 14:43:12 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:43:12 - DEBUG --> sport.orel.oblast@mail.ru
+2016-08-23 14:43:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:43:12 - INFO --> сообщение отправлено; 'sport.orel.oblast@mail.ru'
+2016-08-23 14:43:12 - INFO --> (0.0228 сек.)
+2016-08-23 14:43:47 - INFO --> Отсылка почты...
+2016-08-23 14:43:47 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:43:47 - DEBUG --> shvsm-orel@mail.ru
+2016-08-23 14:43:47 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:43:47 - INFO --> сообщение отправлено; 'shvsm-orel@mail.ru'
+2016-08-23 14:43:47 - INFO --> (0.0215 сек.)
+2016-08-23 14:44:15 - INFO --> Отсылка почты...
+2016-08-23 14:44:15 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:44:15 - DEBUG --> oopo-verhovje@mail.ru
+2016-08-23 14:44:15 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:44:15 - INFO --> сообщение отправлено; 'oopo-verhovje@mail.ru'
+2016-08-23 14:44:15 - INFO --> (0.0209 сек.)
+2016-08-23 14:44:41 - INFO --> Отсылка почты...
+2016-08-23 14:44:41 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:44:41 - DEBUG --> olimpiecz13@mail.ru
+2016-08-23 14:44:41 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:44:41 - INFO --> сообщение отправлено; 'olimpiecz13@mail.ru'
+2016-08-23 14:44:41 - INFO --> (0.0225 сек.)
+2016-08-23 14:45:04 - INFO --> Отсылка почты...
+2016-08-23 14:45:04 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:45:04 - DEBUG --> super-atleti2012@yandex.ru
+2016-08-23 14:45:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:45:04 - INFO --> сообщение отправлено; 'super-atleti2012@yandex.ru'
+2016-08-23 14:45:04 - INFO --> (0.0245 сек.)
+2016-08-23 14:45:42 - INFO --> Отсылка почты...
+2016-08-23 14:45:42 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:45:42 - DEBUG --> dussh6-orel@mail.ru
+2016-08-23 14:45:42 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:45:42 - INFO --> сообщение отправлено; 'dussh6-orel@mail.ru'
+2016-08-23 14:45:42 - INFO --> (0.0223 сек.)
+2016-08-23 14:46:11 - INFO --> Отсылка почты...
+2016-08-23 14:46:11 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:46:11 - DEBUG --> glaz-dusch@yandex.ru
+2016-08-23 14:46:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:46:11 - INFO --> сообщение отправлено; 'glaz-dusch@yandex.ru'
+2016-08-23 14:46:11 - INFO --> (0.022 сек.)
+2016-08-23 14:46:42 - INFO --> Отсылка почты...
+2016-08-23 14:46:42 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:46:42 - DEBUG --> jrii_osnovin@mail.ru
+2016-08-23 14:46:42 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 14:46:42 - INFO --> сообщение отправлено; 'jrii_osnovin@mail.ru'
+2016-08-23 14:46:42 - INFO --> (0.0209 сек.)
+2016-08-23 14:55:36 - INFO --> Отсылка почты...
+2016-08-23 14:55:36 - INFO --> Тема; 'КОМПЛЕКСНАЯ ФУТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 14:55:36 - DEBUG --> igroviki@yandex.ru
+2016-08-23 14:55:36 - INFO --> сообщение отправлено; 'igroviki@yandex.ru'
+2016-08-23 14:55:36 - INFO --> (0.0214 сек.)
+2016-08-23 15:01:19 - INFO --> Отсылка почты...
+2016-08-23 15:01:19 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:01:19 - DEBUG --> maldush_57@mail.ru
+2016-08-23 15:01:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:01:19 - INFO --> сообщение отправлено; 'maldush_57@mail.ru'
+2016-08-23 15:01:19 - INFO --> (0.0238 сек.)
+2016-08-23 15:01:40 - INFO --> Отсылка почты...
+2016-08-23 15:01:40 - INFO --> Тема; 'КОМПЛЕКСНАЯ ФУТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:01:40 - DEBUG --> cspnyagan@yandex.ru
+2016-08-23 15:01:40 - INFO --> сообщение отправлено; 'cspnyagan@yandex.ru'
+2016-08-23 15:01:40 - INFO --> (0.0361 сек.)
+2016-08-23 15:02:20 - INFO --> Отсылка почты...
+2016-08-23 15:02:20 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:02:20 - DEBUG --> stadionstart@mail.ru
+2016-08-23 15:02:20 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:02:20 - INFO --> сообщение отправлено; 'stadionstart@mail.ru'
+2016-08-23 15:02:20 - INFO --> (0.0221 сек.)
+2016-08-23 15:03:02 - INFO --> Отсылка почты...
+2016-08-23 15:03:02 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:03:02 - DEBUG --> dussh5sar@edurm.ru
+2016-08-23 15:03:02 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:03:02 - INFO --> сообщение отправлено; 'dussh5sar@edurm.ru'
+2016-08-23 15:03:02 - INFO --> (0.0226 сек.)
+2016-08-23 15:03:55 - INFO --> Отсылка почты...
+2016-08-23 15:03:55 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:03:55 - DEBUG --> sport-scool.13@mail.ru
+2016-08-23 15:03:55 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:03:55 - INFO --> сообщение отправлено; 'sport-scool.13@mail.ru'
+2016-08-23 15:03:55 - INFO --> (0.0223 сек.)
+2016-08-23 15:04:26 - INFO --> Отсылка почты...
+2016-08-23 15:04:26 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:04:26 - DEBUG --> atersportchkola@mail.ru
+2016-08-23 15:04:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:04:26 - INFO --> сообщение отправлено; 'atersportchkola@mail.ru'
+2016-08-23 15:04:26 - INFO --> (0.0219 сек.)
+2016-08-23 15:05:02 - INFO --> Отсылка почты...
+2016-08-23 15:05:02 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:05:02 - DEBUG --> dsh.z-polyana@mail.ru
+2016-08-23 15:05:02 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:05:02 - INFO --> сообщение отправлено; 'dsh.z-polyana@mail.ru'
+2016-08-23 15:05:02 - INFO --> (0.0237 сек.)
+2016-08-23 15:05:25 - INFO --> Отсылка почты...
+2016-08-23 15:05:25 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:05:25 - DEBUG --> mku.czo@mail.ru
+2016-08-23 15:05:25 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:05:25 - INFO --> сообщение отправлено; 'mku.czo@mail.ru'
+2016-08-23 15:05:25 - INFO --> (0.0215 сек.)
+2016-08-23 15:05:54 - INFO --> Отсылка почты...
+2016-08-23 15:05:54 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:05:54 - DEBUG --> ichalcki.sportshkola@yandex.ru
+2016-08-23 15:05:54 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:05:54 - INFO --> сообщение отправлено; 'ichalcki.sportshkola@yandex.ru'
+2016-08-23 15:05:54 - INFO --> (0.0223 сек.)
+2016-08-23 15:09:13 - INFO --> Отсылка почты...
+2016-08-23 15:09:13 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:09:13 - DEBUG --> sport-k@inbox.ru
+2016-08-23 15:09:13 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:09:13 - INFO --> сообщение отправлено; 'sport-k@inbox.ru'
+2016-08-23 15:09:13 - INFO --> (0.0223 сек.)
+2016-08-23 15:09:44 - INFO --> Отсылка почты...
+2016-08-23 15:09:44 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:09:44 - DEBUG --> dush-ruz@yandex.ru
+2016-08-23 15:09:44 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:09:44 - INFO --> сообщение отправлено; 'dush-ruz@yandex.ru'
+2016-08-23 15:09:44 - INFO --> (0.0221 сек.)
+2016-08-23 15:10:08 - INFO --> Отсылка почты...
+2016-08-23 15:10:08 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:10:08 - DEBUG --> mdv83sport@yandex.ru
+2016-08-23 15:10:08 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:10:08 - INFO --> сообщение отправлено; 'mdv83sport@yandex.ru'
+2016-08-23 15:10:08 - INFO --> (0.022 сек.)
+2016-08-23 15:10:32 - INFO --> Отсылка почты...
+2016-08-23 15:10:32 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:10:32 - DEBUG --> shaigroo@list.ru
+2016-08-23 15:10:32 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:10:32 - INFO --> сообщение отправлено; 'shaigroo@list.ru'
+2016-08-23 15:10:32 - INFO --> (0.0227 сек.)
+2016-08-23 15:10:59 - INFO --> Отсылка почты...
+2016-08-23 15:10:59 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:10:59 - DEBUG --> sporttorbeevo13@yandex.ru
+2016-08-23 15:10:59 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:10:59 - INFO --> сообщение отправлено; 'sporttorbeevo13@yandex.ru'
+2016-08-23 15:10:59 - INFO --> (0.0247 сек.)
+2016-08-23 15:11:23 - INFO --> Отсылка почты...
+2016-08-23 15:11:23 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:11:23 - DEBUG --> sport-9-9@yandex.ru
+2016-08-23 15:11:23 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:11:23 - INFO --> сообщение отправлено; 'sport-9-9@yandex.ru'
+2016-08-23 15:11:23 - INFO --> (0.0234 сек.)
+2016-08-23 15:14:13 - INFO --> Отсылка почты...
+2016-08-23 15:14:13 - INFO --> Тема; 'КОМПЛЕКСНАЯ  ЭКИПИРОВКА 2016'
+2016-08-23 15:14:13 - DEBUG --> stadion.dush4@mail.ru
+2016-08-23 15:14:13 - INFO --> сообщение отправлено; 'stadion.dush4@mail.ru'
+2016-08-23 15:14:13 - INFO --> (0.0278 сек.)
+2016-08-23 15:19:26 - INFO --> Отсылка почты...
+2016-08-23 15:19:26 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:19:26 - DEBUG --> kazansport@mail.ru, Ramil.Hafizov@tatar.ru
+2016-08-23 15:19:26 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:19:26 - INFO --> сообщение отправлено; 'kazansport@mail.ru'
+2016-08-23 15:19:26 - INFO --> сообщение отправлено; 'Ramil.Hafizov@tatar.ru'
+2016-08-23 15:19:26 - INFO --> (0.041 сек.)
+2016-08-23 15:22:48 - INFO --> Отсылка почты...
+2016-08-23 15:22:48 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:22:48 - DEBUG --> csp.mdms@tatar.ru, olga.csk@mail.ru
+2016-08-23 15:22:48 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:22:49 - INFO --> сообщение отправлено; 'csp.mdms@tatar.ru'
+2016-08-23 15:22:49 - INFO --> сообщение отправлено; 'olga.csk@mail.ru'
+2016-08-23 15:22:49 - INFO --> (0.0468 сек.)
+2016-08-23 15:23:30 - INFO --> Отсылка почты...
+2016-08-23 15:23:30 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:23:30 - DEBUG --> u4olimp@mail.ru
+2016-08-23 15:23:30 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:23:30 - INFO --> сообщение отправлено; 'u4olimp@mail.ru'
+2016-08-23 15:23:30 - INFO --> (0.0212 сек.)
+2016-08-23 15:23:55 - INFO --> Отсылка почты...
+2016-08-23 15:23:55 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:23:55 - DEBUG --> dusshvax@rambler.ru
+2016-08-23 15:23:55 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:23:55 - INFO --> сообщение отправлено; 'dusshvax@rambler.ru'
+2016-08-23 15:23:55 - INFO --> (0.0365 сек.)
+2016-08-23 15:24:49 - INFO --> Отсылка почты...
+2016-08-23 15:24:49 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:24:49 - DEBUG --> Jnior2000@mail.ru
+2016-08-23 15:24:49 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:24:49 - INFO --> сообщение отправлено; 'Jnior2000@mail.ru'
+2016-08-23 15:24:49 - INFO --> (0.0223 сек.)
+2016-08-23 15:25:19 - INFO --> Отсылка почты...
+2016-08-23 15:25:19 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:25:19 - DEBUG --> Privolzhanin@mail.ru
+2016-08-23 15:25:19 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:25:19 - INFO --> сообщение отправлено; 'Privolzhanin@mail.ru'
+2016-08-23 15:25:19 - INFO --> (0.0217 сек.)
+2016-08-23 15:25:36 - INFO --> Отсылка почты...
+2016-08-23 15:25:36 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:25:36 - DEBUG --> detski_stadion@mail.ru
+2016-08-23 15:25:36 - INFO --> сообщение отправлено; 'detski_stadion@mail.ru'
+2016-08-23 15:25:36 - INFO --> (0.0113 сек.)
+2016-08-23 15:25:53 - INFO --> Отсылка почты...
+2016-08-23 15:25:53 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:25:53 - DEBUG --> dussh10_chelny@mail.ru
+2016-08-23 15:25:53 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:25:53 - INFO --> сообщение отправлено; 'dussh10_chelny@mail.ru'
+2016-08-23 15:25:53 - INFO --> (0.021 сек.)
+2016-08-23 15:26:40 - INFO --> Отсылка почты...
+2016-08-23 15:26:40 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:26:40 - DEBUG --> borba66@mail.ru
+2016-08-23 15:26:40 - INFO --> сообщение отправлено; 'borba66@mail.ru'
+2016-08-23 15:26:40 - INFO --> (0.0106 сек.)
+2016-08-23 15:30:14 - INFO --> Отсылка почты...
+2016-08-23 15:30:14 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:30:14 - DEBUG --> dyussh-lider-azn@mail.ru
+2016-08-23 15:30:14 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:30:14 - INFO --> сообщение отправлено; 'dyussh-lider-azn@mail.ru'
+2016-08-23 15:30:14 - INFO --> (0.0219 сек.)
+2016-08-23 15:30:38 - INFO --> Отсылка почты...
+2016-08-23 15:30:38 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:30:38 - DEBUG --> dysch1@mail.ru
+2016-08-23 15:30:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:30:38 - INFO --> сообщение отправлено; 'dysch1@mail.ru'
+2016-08-23 15:30:38 - INFO --> (0.0309 сек.)
+2016-08-23 15:31:04 - INFO --> Отсылка почты...
+2016-08-23 15:31:04 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:31:04 - DEBUG --> aldussh@yandex.ru
+2016-08-23 15:31:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:31:04 - INFO --> сообщение отправлено; 'aldussh@yandex.ru'
+2016-08-23 15:31:04 - INFO --> (0.0212 сек.)
+2016-08-23 15:31:37 - INFO --> Отсылка почты...
+2016-08-23 15:31:37 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:31:37 - DEBUG --> iunost2012@mail.ru
+2016-08-23 15:31:37 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:31:37 - INFO --> сообщение отправлено; 'iunost2012@mail.ru'
+2016-08-23 15:31:37 - INFO --> (0.0225 сек.)
+2016-08-23 15:32:05 - INFO --> Отсылка почты...
+2016-08-23 15:32:05 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:32:05 - DEBUG --> sport-2elabuga@mail.ru
+2016-08-23 15:32:05 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:32:05 - INFO --> сообщение отправлено; 'sport-2elabuga@mail.ru'
+2016-08-23 15:32:05 - INFO --> (0.0224 сек.)
+2016-08-23 15:39:04 - INFO --> Отсылка почты...
+2016-08-23 15:39:04 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:39:04 - DEBUG --> main@sport.izh.ru
+2016-08-23 15:39:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:39:04 - INFO --> сообщение отправлено; 'main@sport.izh.ru'
+2016-08-23 15:39:04 - INFO --> (0.0266 сек.)
+2016-08-23 15:39:30 - INFO --> Отсылка почты...
+2016-08-23 15:39:30 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:39:30 - DEBUG --> dv-sport@yandex.ru
+2016-08-23 15:39:30 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:39:30 - INFO --> сообщение отправлено; 'dv-sport@yandex.ru'
+2016-08-23 15:39:30 - INFO --> (0.0256 сек.)
+2016-08-23 15:39:55 - INFO --> Отсылка почты...
+2016-08-23 15:39:55 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:39:55 - DEBUG --> school3@bk.ru
+2016-08-23 15:39:55 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:39:55 - INFO --> сообщение отправлено; 'school3@bk.ru'
+2016-08-23 15:39:55 - INFO --> (0.022 сек.)
+2016-08-23 15:40:23 - INFO --> Отсылка почты...
+2016-08-23 15:40:23 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:40:23 - DEBUG --> tatami08@mail.ru
+2016-08-23 15:40:23 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:40:23 - INFO --> сообщение отправлено; 'tatami08@mail.ru'
+2016-08-23 15:40:23 - INFO --> (0.025 сек.)
+2016-08-23 15:41:12 - INFO --> Отсылка почты...
+2016-08-23 15:41:12 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:41:12 - DEBUG --> sport.votkinsk@yandex.ru
+2016-08-23 15:41:12 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:41:12 - INFO --> сообщение отправлено; 'sport.votkinsk@yandex.ru'
+2016-08-23 15:41:12 - INFO --> (0.0224 сек.)
+2016-08-23 15:41:37 - INFO --> Отсылка почты...
+2016-08-23 15:41:37 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:41:37 - DEBUG --> dyussh.uo@mail.ru
+2016-08-23 15:41:37 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:41:37 - INFO --> сообщение отправлено; 'dyussh.uo@mail.ru'
+2016-08-23 15:41:37 - INFO --> (0.0223 сек.)
+2016-08-23 15:45:33 - INFO --> Отсылка почты...
+2016-08-23 15:45:33 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:45:33 - DEBUG --> ler.zakharova2013@yandex.ru
+2016-08-23 15:45:33 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:45:33 - INFO --> сообщение отправлено; 'ler.zakharova2013@yandex.ru'
+2016-08-23 15:45:33 - INFO --> (0.0227 сек.)
+2016-08-23 15:45:59 - INFO --> Отсылка почты...
+2016-08-23 15:45:59 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:45:59 - DEBUG --> Glazovsportskul-2@mail.ru
+2016-08-23 15:45:59 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:46:00 - INFO --> сообщение отправлено; 'Glazovsportskul-2@mail.ru'
+2016-08-23 15:46:00 - INFO --> (0.0213 сек.)
+2016-08-23 15:46:21 - INFO --> Отсылка почты...
+2016-08-23 15:46:21 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:46:21 - DEBUG --> sport@mozhga-gov.ru
+2016-08-23 15:46:21 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:46:21 - INFO --> сообщение отправлено; 'sport@mozhga-gov.ru'
+2016-08-23 15:46:21 - INFO --> (0.0217 сек.)
+2016-08-23 15:46:50 - INFO --> Отсылка почты...
+2016-08-23 15:46:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:46:50 - DEBUG --> mozh-dush@yandex.ru
+2016-08-23 15:46:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:46:50 - INFO --> сообщение отправлено; 'mozh-dush@yandex.ru'
+2016-08-23 15:46:50 - INFO --> (0.0218 сек.)
+2016-08-23 15:51:09 - INFO --> Отсылка почты...
+2016-08-23 15:51:09 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:51:09 - DEBUG --> sport-school@list.ru
+2016-08-23 15:51:09 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:51:09 - INFO --> сообщение отправлено; 'sport-school@list.ru'
+2016-08-23 15:51:09 - INFO --> (0.0218 сек.)
+2016-08-23 15:51:44 - INFO --> Отсылка почты...
+2016-08-23 15:51:44 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:51:44 - DEBUG --> alnashisport2011@yandex.ru
+2016-08-23 15:51:44 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:51:44 - INFO --> сообщение отправлено; 'alnashisport2011@yandex.ru'
+2016-08-23 15:51:44 - INFO --> (0.0214 сек.)
+2016-08-23 15:52:16 - INFO --> Отсылка почты...
+2016-08-23 15:52:16 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:52:16 - DEBUG --> vavsportshkola@yandex.ru
+2016-08-23 15:52:16 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:52:16 - INFO --> сообщение отправлено; 'vavsportshkola@yandex.ru'
+2016-08-23 15:52:16 - INFO --> (0.022 сек.)
+2016-08-23 15:59:29 - INFO --> Отсылка почты...
+2016-08-23 15:59:29 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 15:59:29 - DEBUG --> dussh-votrayon@yandex.ru
+2016-08-23 15:59:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 15:59:29 - INFO --> сообщение отправлено; 'dussh-votrayon@yandex.ru'
+2016-08-23 15:59:29 - INFO --> (0.0297 сек.)
+2016-08-23 16:00:23 - INFO --> Отсылка почты...
+2016-08-23 16:00:23 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:00:23 - DEBUG --> sport.grahovo@mail.ru
+2016-08-23 16:00:23 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:00:23 - INFO --> сообщение отправлено; 'sport.grahovo@mail.ru'
+2016-08-23 16:00:23 - INFO --> (0.0285 сек.)
+2016-08-23 16:03:40 - INFO --> Отсылка почты...
+2016-08-23 16:03:40 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:03:40 - DEBUG --> sportshkola2004@mail.ru
+2016-08-23 16:03:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:03:40 - INFO --> сообщение отправлено; 'sportshkola2004@mail.ru'
+2016-08-23 16:03:40 - INFO --> (0.0217 сек.)
+2016-08-23 16:12:56 - INFO --> Отсылка почты...
+2016-08-23 16:12:56 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:12:56 - DEBUG --> deb-sport@yandex.ru, sport-kan@mail.ru
+2016-08-23 16:12:56 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:12:56 - INFO --> сообщение отправлено; 'deb-sport@yandex.ru'
+2016-08-23 16:12:56 - INFO --> сообщение отправлено; 'sport-kan@mail.ru'
+2016-08-23 16:12:56 - INFO --> (0.0395 сек.)
+2016-08-23 16:13:17 - INFO --> Отсылка почты...
+2016-08-23 16:13:17 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:13:17 - DEBUG --> igra.dusch@yandex.ru
+2016-08-23 16:13:17 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:13:17 - INFO --> сообщение отправлено; 'igra.dusch@yandex.ru'
+2016-08-23 16:13:17 - INFO --> (0.0221 сек.)
+2016-08-23 16:13:40 - INFO --> Отсылка почты...
+2016-08-23 16:13:40 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:13:40 - DEBUG --> Kamich86@yandex.ru
+2016-08-23 16:13:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:13:40 - INFO --> сообщение отправлено; 'Kamich86@yandex.ru'
+2016-08-23 16:13:40 - INFO --> (0.0254 сек.)
+2016-08-23 16:14:06 - INFO --> Отсылка почты...
+2016-08-23 16:14:06 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:14:06 - DEBUG --> karnet@udm.net
+2016-08-23 16:14:06 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:14:06 - INFO --> сообщение отправлено; 'karnet@udm.net'
+2016-08-23 16:14:06 - INFO --> (0.0213 сек.)
+2016-08-23 16:14:29 - INFO --> Отсылка почты...
+2016-08-23 16:14:29 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:14:29 - DEBUG --> sportdsh@yandex.ru
+2016-08-23 16:14:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:14:29 - INFO --> сообщение отправлено; 'sportdsh@yandex.ru'
+2016-08-23 16:14:29 - INFO --> (0.0288 сек.)
+2016-08-23 16:14:50 - INFO --> Отсылка почты...
+2016-08-23 16:14:50 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:14:50 - DEBUG --> kez_dyussh@mail.ru
+2016-08-23 16:14:50 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:14:50 - INFO --> сообщение отправлено; 'kez_dyussh@mail.ru'
+2016-08-23 16:14:50 - INFO --> (0.0209 сек.)
+2016-08-23 16:15:40 - INFO --> Отсылка почты...
+2016-08-23 16:15:40 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:15:40 - DEBUG --> sportshkiz@udm.net, DUSHKizner@yandex.ru
+2016-08-23 16:15:40 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:15:40 - INFO --> сообщение отправлено; 'sportshkiz@udm.net'
+2016-08-23 16:15:40 - INFO --> сообщение отправлено; 'DUSHKizner@yandex.ru'
+2016-08-23 16:15:40 - INFO --> (0.0414 сек.)
+2016-08-23 16:16:10 - INFO --> Отсылка почты...
+2016-08-23 16:16:10 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:16:10 - DEBUG --> ksv-ducch@udm.net
+2016-08-23 16:16:10 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:16:10 - INFO --> сообщение отправлено; 'ksv-ducch@udm.net'
+2016-08-23 16:16:10 - INFO --> (0.0291 сек.)
+2016-08-23 16:16:16 - INFO --> Отсылка почты...
+2016-08-23 16:16:16 - INFO --> Тема; 'КОМПЛЕКСНАЯ  ЭКИПИРОВКА 2016'
+2016-08-23 16:16:16 - DEBUG --> dushakras@mail.ru
+2016-08-23 16:16:16 - INFO --> сообщение отправлено; 'dushakras@mail.ru'
+2016-08-23 16:16:16 - INFO --> (0.0117 сек.)
+2016-08-23 16:16:38 - INFO --> Отсылка почты...
+2016-08-23 16:16:38 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:16:38 - DEBUG --> sport-krasn@yandex.ru
+2016-08-23 16:16:38 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:16:38 - INFO --> сообщение отправлено; 'sport-krasn@yandex.ru'
+2016-08-23 16:16:38 - INFO --> (0.0217 сек.)
+2016-08-23 16:17:36 - INFO --> Отсылка почты...
+2016-08-23 16:17:36 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:17:36 - DEBUG --> dyussh.mp@mail.ru
+2016-08-23 16:17:36 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:17:36 - INFO --> сообщение отправлено; 'dyussh.mp@mail.ru'
+2016-08-23 16:17:36 - INFO --> (0.0282 сек.)
+2016-08-23 16:18:02 - INFO --> Отсылка почты...
+2016-08-23 16:18:02 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:18:02 - DEBUG --> sportmr@mail.ru
+2016-08-23 16:18:02 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:18:02 - INFO --> сообщение отправлено; 'sportmr@mail.ru'
+2016-08-23 16:18:02 - INFO --> (0.1187 сек.)
+2016-08-23 16:25:11 - INFO --> Отсылка почты...
+2016-08-23 16:25:11 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:25:11 - DEBUG --> sportsigaevo@mail.ru
+2016-08-23 16:25:11 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:25:11 - INFO --> сообщение отправлено; 'sportsigaevo@mail.ru'
+2016-08-23 16:25:11 - INFO --> (0.0224 сек.)
+2016-08-23 16:25:36 - INFO --> Отсылка почты...
+2016-08-23 16:25:36 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:25:36 - DEBUG --> dyussh.selty@mail.ru
+2016-08-23 16:25:36 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:25:36 - INFO --> сообщение отправлено; 'dyussh.selty@mail.ru'
+2016-08-23 16:25:36 - INFO --> (0.0617 сек.)
+2016-08-23 16:26:04 - INFO --> Отсылка почты...
+2016-08-23 16:26:04 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:26:04 - DEBUG --> sport-uva@udm.net
+2016-08-23 16:26:04 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:26:04 - INFO --> сообщение отправлено; 'sport-uva@udm.net'
+2016-08-23 16:26:04 - INFO --> (0.0259 сек.)
+2016-08-23 16:26:29 - INFO --> Отсылка почты...
+2016-08-23 16:26:29 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:26:29 - DEBUG --> sport-skola@yandex.ru
+2016-08-23 16:26:29 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:26:29 - INFO --> сообщение отправлено; 'sport-skola@yandex.ru'
+2016-08-23 16:26:29 - INFO --> (0.0226 сек.)
+2016-08-23 16:26:52 - INFO --> Отсылка почты...
+2016-08-23 16:26:52 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:26:52 - DEBUG --> mkoudod.dussh@mail.ru
+2016-08-23 16:26:52 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:26:52 - INFO --> сообщение отправлено; 'mkoudod.dussh@mail.ru'
+2016-08-23 16:26:52 - INFO --> (0.0221 сек.)
+2016-08-23 16:27:28 - INFO --> Отсылка почты...
+2016-08-23 16:27:28 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:27:28 - DEBUG --> dushzr@mail.ru
+2016-08-23 16:27:28 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:27:28 - INFO --> сообщение отправлено; 'dushzr@mail.ru'
+2016-08-23 16:27:28 - INFO --> (0.0223 сек.)
+2016-08-23 16:28:10 - INFO --> Отсылка почты...
+2016-08-23 16:28:10 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:28:10 - DEBUG --> virtuozdm@mail.ru
+2016-08-23 16:28:10 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:28:10 - INFO --> сообщение отправлено; 'virtuozdm@mail.ru'
+2016-08-23 16:28:10 - INFO --> (0.0221 сек.)
+2016-08-23 16:30:55 - INFO --> Отсылка почты...
+2016-08-23 16:30:55 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:30:55 - DEBUG --> e-mihaylova@yandex.ru
+2016-08-23 16:30:55 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:30:55 - INFO --> сообщение отправлено; 'e-mihaylova@yandex.ru'
+2016-08-23 16:30:55 - INFO --> (0.023 сек.)
+2016-08-23 16:31:20 - INFO --> Отсылка почты...
+2016-08-23 16:31:20 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:31:20 - DEBUG --> uvasport@mail.ru
+2016-08-23 16:31:20 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:31:20 - INFO --> сообщение отправлено; 'uvasport@mail.ru'
+2016-08-23 16:31:20 - INFO --> (0.0216 сек.)
+2016-08-23 16:31:43 - INFO --> Отсылка почты...
+2016-08-23 16:31:43 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:31:43 - DEBUG --> sportmozhraion@yandex.ru
+2016-08-23 16:31:43 - INFO --> прикреплен файл; '/home/u49636/olympic-sport.ru/www/sendmail/images/upload/basketballl_komplex_2016_final.jpg'
+2016-08-23 16:31:43 - INFO --> сообщение отправлено; 'sportmozhraion@yandex.ru'
+2016-08-23 16:31:43 - INFO --> (0.0217 сек.)
+2016-08-23 16:50:09 - INFO --> Отсылка почты...
+2016-08-23 16:50:09 - INFO --> Тема; 'КОМПЛЕКСНАЯ БАСКЕТБОЛЬНАЯ ЭКИПИРОВКА 2016'
+2016-08-23 16:50:09 - DEBUG --> s.namozova@spbu.ru
+2016-08-23 16:50:09 - INFO --> сообщение отправлено; 's.namozova@spbu.ru'
+2016-08-23 16:50:09 - INFO --> (0.0099 сек.)
+2016-08-23 17:19:19 - INFO --> Отсылка почты...
+2016-08-23 17:19:19 - INFO --> Тема; 'КОМПЛЕКСНАЯ  ЭКИПИРОВКА 2016'
+2016-08-23 17:19:19 - DEBUG --> shilina@avangard-football.ru
+2016-08-23 17:19:19 - INFO --> сообщение отправлено; 'shilina@avangard-football.ru'
+2016-08-23 17:19:19 - INFO --> (0.0291 сек.)

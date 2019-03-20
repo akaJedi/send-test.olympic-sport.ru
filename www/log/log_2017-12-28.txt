@@ -1,0 +1,16 @@
+2017-12-28 13:36:41 - INFO --> Отсылка почты...
+2017-12-28 13:36:41 - INFO --> Тема; 'каталог NESCO 2018 СПб'
+2017-12-28 13:36:41 - DEBUG --> ptfm@perm.ru
+2017-12-28 13:36:41 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-12-28 13:36:41 - INFO --> сообщение отправлено; 'ptfm@perm.ru'
+2017-12-28 13:36:41 - INFO --> (0.0129 сек.)
+2017-12-28 13:41:53 - INFO --> Отсылка почты...
+2017-12-28 13:41:53 - INFO --> Тема; 'каталог NESCO 2018 СПб'
+2017-12-28 13:41:53 - DEBUG --> gu-vo-soc-olimp@list.ru,
+2017-12-28 13:41:53 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-12-28 13:41:53 - INFO --> (0.0002 сек.)
+2017-12-28 15:12:01 - INFO --> Отсылка почты...
+2017-12-28 15:12:01 - INFO --> Тема; 'каталог NESCO 2018 СПб'
+2017-12-28 15:12:01 - DEBUG --> akbure@mail.ru,
+2017-12-28 15:12:01 - INFO --> прикреплен файл; '/home/u49636/send-test.olympic-sport.ru/www/images/upload/katalogNesco2017_Cover.jpg.jpg'
+2017-12-28 15:12:01 - INFO --> (0.0002 сек.)
