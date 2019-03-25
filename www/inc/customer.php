@@ -23,7 +23,7 @@ mysqli_query($db, "SET character_set_server = 'UTF-8'");*/
 
 
 
-	$res=mysqli_query($db, "SELECT * FROM customer_groups GROUP BY Name");
+	$res=mysqli_query($db, "SELECT MIN(`Id`) AS `Id`, `Name` FROM `customer_groups` GROUP BY `Name`");
 	$glist=array();
 	while($data=mysqli_fetch_assoc($res))
 	{
