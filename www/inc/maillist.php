@@ -1,7 +1,7 @@
 <?php
 	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
 	mysqli_select_db($db, CFG_DB_DATABASE);
-	mysqli_query($db, "SET NAMES 'utf8'");
+	mysqli_set_charset($db, 'utf8');
 
 	if(isset($_GET["delete"]))
 	{
