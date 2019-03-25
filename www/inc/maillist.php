@@ -1,15 +1,15 @@
 <?php
-	mysql_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
-	mysql_select_db(CFG_DB_DATABASE);
-	mysql_query("SET NAMES 'utf8'"); 
+	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
+	mysqli_select_db($db, CFG_DB_DATABASE);
+	mysqli_query($db, "SET NAMES 'utf8'");
 
 	if(isset($_GET["delete"]))
 	{
-		mysql_query("DELETE FROM `mails` WHERE Id='".mysql_escape_string($_GET["delete"])."'");
+		mysqli_query($db, "DELETE FROM `mails` WHERE Id='".mysqli_escape_string($db, $_GET["delete"])."'");
 	}
-	$res=mysql_query("SELECT * FROM `mails` ORDER BY `CreationDate` DESC LIMIT 1000");
+	$res=mysqli_query($db, "SELECT * FROM `mails` ORDER BY `CreationDate` DESC LIMIT 1000");
 	$list=array();
-	while($data=mysql_fetch_assoc($res))
+	while($data=mysqli_fetch_assoc($res))
 	{
 		/*
 		if(strtotime($data["CreationDate"])>1349963843)
@@ -21,7 +21,7 @@
 		
 		$list[]=$data;
 	}
-	mysql_close();
+	mysqli_close($db);
 ?>
 <table border="1" align="center">
 	<tr>

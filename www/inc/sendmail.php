@@ -112,93 +112,93 @@ function AddMailToDB($fromEmail,$fromName,$to,$toName,$title,$body, $afiles)
 	if(is_array($toName)) $toName= implode(', ',$toName);
 
 	//$toName=iconv("UTF-8","WINDOWS-1251",$toName);
-	mysql_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
-	mysql_select_db(CFG_DB_DATABASE);   mysql_query("SET NAMES 'utf8'");
+	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
+	mysqli_select_db($db, CFG_DB_DATABASE);   mysqli_set_charset($db, 'utf8');
 
 	$files ='';
 	if(!empty($afiles)){
-	  $files = mysql_escape_string(implode("\n", $afiles));
+	  $files = mysqli_escape_string($db, implode("\n", $afiles));
 	}
 	
-	mysql_query("INSERT INTO `mails` (`FromEmail`,`FromName`,`To`,`ToName`,`Title`,`Body`,`CreationDate`,`files`) VALUES('$fromEmail','$fromName','$to','".mysql_escape_string($toName)."','$title','".mysql_escape_string($body)."','".date("Y-m-d H:i:s",time())."', '". $files . "')");  
-	mysql_close();
+	mysqli_query($db, "INSERT INTO `mails` (`FromEmail`,`FromName`,`To`,`ToName`,`Title`,`Body`,`CreationDate`,`files`) VALUES('$fromEmail','$fromName','$to','".mysqli_escape_string($db, $toName)."','$title','".mysqli_escape_string($db, $body)."','".date("Y-m-d H:i:s",time())."', '". $files . "')");  
+	mysqli_close($db);
 }
 function DeleteMailTemplates($id)
 {
 	//$body=iconv("UTF-8","WINDOWS-1251",$body);
-	mysql_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
-	mysql_select_db(CFG_DB_DATABASE);   mysql_query("SET NAMES 'utf8'");
-	mysql_query("DELETE FROM `mail_templates` WHERE Id='".$id."'");
-	mysql_close();
+	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
+	mysqli_select_db($db, CFG_DB_DATABASE);   mysqli_set_charset($db, 'utf8');
+	mysqli_query($db, "DELETE FROM `mail_templates` WHERE Id='".$id."'");
+	mysqli_close($db);
 }
 function AddMailTemplates($title,$body,$subscribe,$color,$image)
 {
 	//$body=iconv("UTF-8","WINDOWS-1251",$body);
 	//$subscribe=iconv("UTF-8","WINDOWS-1251",$subscribe);
 	//$title=iconv("UTF-8","WINDOWS-1251",$title);
-	mysql_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
-	mysql_select_db(CFG_DB_DATABASE);   mysql_query("SET NAMES 'utf8'");
+	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
+	mysqli_select_db($db, CFG_DB_DATABASE);   mysqli_set_charset('utf8');
 	if(isset($_POST["templateId"])&&(!empty($_POST["templateId"])))
 	{
-		mysql_query("UPDATE `mail_templates` SET `Name`='$title',`Body`='".mysql_escape_string($body)."',`Subscribe`='".mysql_escape_string($subscribe)."',`Color`='$color',`Image`='$image' WHERE Id='".$_POST["templateId"]."'");
+		mysqli_query($db, "UPDATE `mail_templates` SET `Name`='$title',`Body`='".mysqli_escape_string($db, $body)."',`Subscribe`='".mysqli_escape_string($db, $subscribe)."',`Color`='$color',`Image`='$image' WHERE Id='".$_POST["templateId"]."'");
 		$nid=$_POST["templateId"];
 	}
 	else
 	{
-		mysql_query("INSERT INTO `mail_templates` (`Name`,`Body`,`Subscribe`,`Color`,`Image`) VALUES('$title','".mysql_escape_string($body)."','".mysql_escape_string($subscribe)."','$color','$image')");
-		$nid=mysql_insert_id();
+		mysqli_query($db, "INSERT INTO `mail_templates` (`Name`,`Body`,`Subscribe`,`Color`,`Image`) VALUES('$title','".mysqli_escape_string($db, $body)."','".mysqli_escape_string($db, $subscribe)."','$color','$image')");
+		$nid=mysqli_insert_id($db);
 	}
-	mysql_close();
+	mysqli_close($db);
 	return $nid;
 }
 function GetTargetList()
 {
 	//$body=iconv("UTF-8","WINDOWS-1251",$body);
-	mysql_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
-	mysql_select_db(CFG_DB_DATABASE);   mysql_query("SET NAMES 'utf8'");
-	$res=mysql_query("SELECT * FROM `customer_groups` GROUP BY Name");
+	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
+	mysqli_select_db($db, CFG_DB_DATABASE);   mysqli_set_charset($db, 'utf8');
+	$res=mysqli_query($db, "SELECT * FROM `customer_groups` GROUP BY Name");
 	$glist=array();
-	while($data=mysql_fetch_assoc($res))
+	while($data=mysqli_fetch_assoc($res))
 	{
 		$glist[]=$data;
 	}
-	mysql_close();
+	mysqli_close($db);
 	return $glist;
 }
 function GetTemplates()
 {
 	//$body=iconv("UTF-8","WINDOWS-1251",$body);
-	mysql_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
-	mysql_select_db(CFG_DB_DATABASE);   mysql_query("SET NAMES 'utf8'");
-	$res=mysql_query("SELECT * FROM `mail_templates`");
+	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
+	mysqli_select_db($db, CFG_DB_DATABASE);   mysqli_set_charset($db, 'utf8');
+	$res=mysqli_query($db, "SELECT * FROM `mail_templates`");
 	$tlist=array();
-	while($data=mysql_fetch_assoc($res))
+	while($data=mysqli_fetch_assoc($res))
 	{
 		//$data["Name"]=iconv("WINDOWS-1251","UTF-8",$data["Name"]);
 		//$data["Body"]=iconv("WINDOWS-1251","UTF-8",$data["Body"]);
 		//$data["Subscribe"]=iconv("WINDOWS-1251","UTF-8",$data["Subscribe"]);
 		$tlist[]=$data;
 	}
-	mysql_close();
+	mysqli_close($db);
 	return $tlist;
 }
 function GetEmailsInGroup($id)
 {
-	mysql_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
-	mysql_select_db(CFG_DB_DATABASE);   mysql_query("SET NAMES 'utf8'");
-	$res=mysql_query("SELECT `customers`.*,customer_groups.Name as GroupName FROM `customers` inner join customer_groups on `customers`.GroupId=customer_groups.Id where GroupId='".$id."'");
+	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
+	mysqli_select_db($db, CFG_DB_DATABASE);   mysqli_set_charset($db, 'utf8');
+	$res=mysqli_query($db, "SELECT `customers`.*,customer_groups.Name as GroupName FROM `customers` inner join customer_groups on `customers`.GroupId=customer_groups.Id where GroupId='".$id."'");
 	$list=array();
-	while($data=mysql_fetch_assoc($res))
+	while($data=mysqli_fetch_assoc($res))
 	{
 		$list[]=$data;
 	}
-	mysql_close();
+	mysqli_close($db);
 	return $list;
 }/*
 function ValidateGroupEmail($groupEmails,$groupName,$subject)
 {
-	mysql_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
-	mysql_select_db(CFG_DB_DATABASE);   mysql_query("SET NAMES 'utf8'");
+	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
+	mysqli_select_db($db, CFG_DB_DATABASE);   mysqli_set_charset($db, 'utf8');
 	$where="";
 	$baseEmails=array();
 	$exp=explode(",",$groupEmails);
@@ -208,8 +208,8 @@ function ValidateGroupEmail($groupEmails,$groupName,$subject)
 		$where.=" To LIKE `%".trim($email)."%`";
 		$baseEmails[]=trim($email);
 	}
-	$res=mysql_query("SELECT To FROM `mails` WHERE ($where) AND Title='$subject' LIMIT 1");
-	$data=mysql_fetch_assoc($res);
+	$res=mysqli_query($db, "SELECT To FROM `mails` WHERE ($where) AND Title='$subject' LIMIT 1");
+	$data=mysqli_fetch_assoc($res);
 	$emails=$data["To"];
 	$exp=explode(",",$emails);
 	foreach($exp as $email)
@@ -224,7 +224,7 @@ function ValidateGroupEmail($groupEmails,$groupName,$subject)
 			}
 		}
 	}
-	mysql_close();
+	mysqli_close($db);
 }*/
 if(isset($_POST['delete']))
 {

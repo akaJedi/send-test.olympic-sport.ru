@@ -1,16 +1,16 @@
 <?php
 ini_set('display_errors',1);
-	mysql_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
-	mysql_select_db(CFG_DB_DATABASE);
-	mysql_query("SET NAMES 'utf8'");
-//mysql_query("SET NAMES 'utf8'");
+	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
+	mysqli_select_db($db, CFG_DB_DATABASE);
+	mysqli_set_charset($db, 'utf8');
+//mysqli_set_charset($db, 'utf8');
 /*
-mysql_query("SET collation_connection = 'UTF-8_unicode_ci'");
-mysql_query("SET collation_server = 'UTF-8_unicode_ci'");
-mysql_query("SET character_set_client = 'UTF-8'");
-mysql_query("SET character_set_connection = 'UTF-8'");
-mysql_query("SET character_set_results = 'UTF-8'");
-mysql_query("SET character_set_server = 'UTF-8'");*/
+mysqli_query($db, "SET collation_connection = 'UTF-8_unicode_ci'");
+mysqli_query($db, "SET collation_server = 'UTF-8_unicode_ci'");
+mysqli_query($db, "SET character_set_client = 'UTF-8'");
+mysqli_query($db, "SET character_set_connection = 'UTF-8'");
+mysqli_query($db, "SET character_set_results = 'UTF-8'");
+mysqli_query($db, "SET character_set_server = 'UTF-8'");*/
 
 	/**
 	 * success_msg  Выводим сообщение
@@ -23,9 +23,9 @@ mysql_query("SET character_set_server = 'UTF-8'");*/
 
 
 
-	$res=mysql_query("SELECT * FROM customer_groups GROUP BY Name");
+	$res=mysqli_query($db, "SELECT * FROM customer_groups GROUP BY Name");
 	$glist=array();
-	while($data=mysql_fetch_assoc($res))
+	while($data=mysqli_fetch_assoc($res))
 	{
 		$glist[]=$data;
 	}
@@ -42,11 +42,11 @@ mysql_query("SET character_set_server = 'UTF-8'");*/
 
 	if(isset($_POST["Delete"]))
 	{
-		mysql_query("DELETE FROM customer_groups WHERE Id='".mysql_escape_string($_POST["FilterGroup"])."'");
+		mysqli_query($db, "DELETE FROM customer_groups WHERE Id='".mysqli_escape_string($db, $_POST["FilterGroup"])."'");
 	}
 	if(isset($_GET["delete_cid"]))
 	{
-		mysql_query("DELETE FROM customers WHERE Id='".$_GET["delete_cid"]."'") or die('Error: '.mysql_error());
+		mysqli_query($db, "DELETE FROM customers WHERE Id='".$_GET["delete_cid"]."'") or die('Error: '.mysqli_error($db));
         !IS_AJAX or die('success');
         $_SESSION['success_msg']='Адресат удален!';
         header('Location: /index.php?view=3');
@@ -54,7 +54,7 @@ mysql_query("SET character_set_server = 'UTF-8'");*/
 
 	if(isset($_POST["AddGroup"])&&isset($_POST["GroupName"])&&!empty($_POST["GroupName"]))
 	{
-		mysql_query("INSERT INTO customer_groups (Name) VALUES('".$_POST["GroupName"]."')");
+		mysqli_query($db, "INSERT INTO customer_groups (Name) VALUES('".$_POST["GroupName"]."')");
 	}
 
 
@@ -68,8 +68,8 @@ if ( isset($_POST["AddCustomer"]) || isset($_GET["Edit"]) ) {
 
     if ( !$_POST && $action == 'update' ) {
         $Id = (int) $_GET["Edit"];
-        $result = mysql_query("SELECT * FROM customers WHERE Id='" . $Id . "'");
-        $customer = mysql_fetch_assoc($result);
+        $result = mysqli_query($db, "SELECT * FROM customers WHERE Id='" . $Id . "'");
+        $customer = mysqli_fetch_assoc($result);
         extract($customer);
         $Group = $GroupId;
         require 'templates/CustomerForm.php';
@@ -88,18 +88,18 @@ if ( isset($_POST["AddCustomer"]) || isset($_GET["Edit"]) ) {
         if ( !$error ) {
             $sql = $action == 'insert' ? "INSERT INTO " : "UPDATE ";
             $sql .= "customers SET ";
-            $sql .= "Name = '" . mysql_escape_string($Name) . "', ";
-            $sql .= "Email = '" . mysql_escape_string($Email) . "', ";
+            $sql .= "Name = '" . mysqli_escape_string($db, $Name) . "', ";
+            $sql .= "Email = '" . mysqli_escape_string($db, $Email) . "', ";
             $sql .= "GroupId = " . $Group . ", ";
-            $sql .= "Organization = '" . mysql_escape_string($_POST["Organization"]) . "'";
+            $sql .= "Organization = '" . mysqli_escape_string($db, $_POST["Organization"]) . "'";
             $sql .= $action == 'update' ? " WHERE Id = " . $Id : "";
 
             #echo $sql; exit();
 
-            $result = mysql_query($sql);
+            $result = mysqli_query($db, $sql);
 
             if ( !$result ) {
-                $error = "Не удалось выполнить запрос на добавление подписчика.<br />" . mysql_errno() . ": " . mysql_error();
+                $error = "Не удалось выполнить запрос на добавление подписчика.<br />" . mysqli_errno($db) . ": " . mysqli_error($db);
             } else {
                 $success = "Подписчик " . $Name . " «" . $Email . "» успешно " . ($action == 'insert' ? "добавлен" : "сохранен");
                 $_SESSION['success_msg'] = $success;
@@ -157,7 +157,7 @@ if ( isset($_POST["ImportCustomers"]) ) {
 
             if(count($errors)>0) continue;
 
-            $import_values[] = "('" . mysql_escape_string($Name) . "', '" . mysql_escape_string($Email) . "', '" . (int) $_POST["Group"] . "', '" . mysql_escape_string($Organization) . "')";
+            $import_values[] = "('" . mysqli_escape_string($db, $Name) . "', '" . mysqli_escape_string($db, $Email) . "', '" . (int) $_POST["Group"] . "', '" . mysqli_escape_string($db, $Organization) . "')";
 
             $import_customers_html .= '<tr><td>' . $Organization . '</td><td>' . $Name . '</td><td>' . $Email . "</td></tr>";
         }
@@ -174,11 +174,11 @@ if ( isset($_POST["ImportCustomers"]) ) {
             $import_customers_html .= '</table><br />';
             $q .= implode(', ', $import_values);
 
-            //mysql_query("SET NAMES 'utf8'");
-            $result = mysql_query($q);
+            //mysqli_set_charset($db, 'utf8');
+            $result = mysqli_query($db, $q);
 
             if ( !$result ) {
-                $error = "Не удалось выполнить запрос на импорт подписчиков.<br />" . mysql_errno() . ": " . mysql_error();
+                $error = "Не удалось выполнить запрос на импорт подписчиков.<br />" . mysqli_errno($db) . ": " . mysqli_error($db);
             } else {
                 echo '<b>Импотировано ' . count($import_values) . ' подписчиков!</b><br />' . $import_customers_html;
             }
@@ -199,14 +199,14 @@ if ( isset($_POST["ImportCustomers"]) ) {
 
 
 
-$res=mysql_query("SELECT `customers`.*,`customer_groups`.`Name` as GroupName FROM `customers` INNER JOIN  customer_groups ON `customer_groups`.Id=`customers`.`GroupId` $filterWhere LIMIT 1000");
+$res=mysqli_query($db, "SELECT `customers`.*,`customer_groups`.`Name` as GroupName FROM `customers` INNER JOIN  customer_groups ON `customer_groups`.Id=`customers`.`GroupId` $filterWhere LIMIT 1000");
 	$list=array();
-	while($data=mysql_fetch_assoc($res))
+	while($data=mysqli_fetch_assoc($res))
 	{
 		$list[]=$data;
 	}
 
-	mysql_close();
+	mysqli_close($db);
 ?>
 
 

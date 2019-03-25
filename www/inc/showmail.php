@@ -1,11 +1,11 @@
 <?php
-	mysql_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
-	mysql_select_db(CFG_DB_DATABASE);
-	#mysql_query('SET NAMES utf-8');
-	$res=mysql_query("SELECT * FROM `mails` WHERE Id='".$_GET["id"]."'");
-	$data=mysql_fetch_assoc($res);
+	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
+	mysqli_select_db($db, CFG_DB_DATABASE);
+	#mysqli_set_charset($db, 'utf8');
+	$res=mysqli_query($db, "SELECT * FROM `mails` WHERE Id='".$_GET["id"]."'");
+	$data=mysqli_fetch_assoc($res);
 	
-	mysql_close();
+	mysqli_close($db);
 ?>
 <table border="1" align="center">
 	<tr>
