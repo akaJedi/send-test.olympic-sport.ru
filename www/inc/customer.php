@@ -123,9 +123,9 @@ if ( isset($_POST["ImportCustomers"]) ) {
 
     if ( $file[0] === true ) {
         // Начинаем парсить xls
-        require_once CFG_PATH_ROOT . 'lib/excel/reader.php';
+        require_once CFG_PATH_ROOT . 'lib/excel/SpreadsheetReader.php';
 
-        $data = new Spreadsheet_Excel_Reader();
+        $data = new PHPExcelReader\SpreadsheetReader();
 
         $data->setOutputEncoding('UTF-8');
 
@@ -148,6 +148,7 @@ if ( isset($_POST["ImportCustomers"]) ) {
             $Organization = smcf_filter($data->sheets[0]['cells'][$i][1]);
             $Name = smcf_filter($data->sheets[0]['cells'][$i][2]);
             $Email = smcf_filter($data->sheets[0]['cells'][$i][4]);
+            $Email = trim(str_replace(';', ',', $Email), " \r\n\t,");
 
             if( empty($Name) && empty($Email)) break;
 
