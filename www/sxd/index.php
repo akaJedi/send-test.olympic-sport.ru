@@ -12,8 +12,8 @@
 header("Expires: Wed, 19 Nov 2008 19:19:19 GMT");
 header("Cache-Control: no-store, no-cache, must-revalidate");
 header("Content-Type: text/html; charset=utf-8");
-//error_reporting(E_ALL);
 error_reporting(0);
+//error_reporting(E_ALL & ~E_NOTICE);
 if (!ini_get('zlib.output_compression') && function_exists('ob_gzhandler')) ob_start('ob_gzhandler');
 set_error_handler('sxd_error_handler');
 register_shutdown_function('sxd_shutdown');
@@ -23,7 +23,7 @@ $SXD->init(!empty($argc) && $argc > 1 ? $argv : false);
  
 class Sypex_Dumper {
     private $link;
-	function __create() {
+	function __construct() {
 		define('C_DEFAULT', 1);
 		define('C_RESULT', 2);
 		define('C_ERROR', 3);
