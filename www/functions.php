@@ -2,7 +2,8 @@
 
 function uploadFile($allowedExts = array("gif", "jpeg", "jpg", "png"))
 {
-    $extension = end(explode(".", $_FILES["file"]["name"]));
+    $array = explode(".", $_FILES["file"]["name"]);
+    $extension = end($array);
     if ( in_array($extension, $allowedExts) ) {
         if ( $_FILES["file"]["error"] > 0 ) {
             return array(false, 'Ошибка при загрузке файла ' . $_FILES["file"]["error"]);
@@ -31,7 +32,10 @@ function validateCustomer($Name, $Organization, $Email)
     elseif ( empty($Organization) )
         $error = 'Ввведите Организацию!';
     else{
-        $emails = array_map('trim', explode(',', $Email));
+        $emails = array_filter(
+            array_map('trim', explode(',', $Email)),
+            'strlen'
+        );
         $email_errors = array();
         foreach($emails as $_email)
             if ( !filter_var($_email, FILTER_VALIDATE_EMAIL) )
