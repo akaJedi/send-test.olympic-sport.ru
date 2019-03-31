@@ -8,8 +8,13 @@ function uploadFile($allowedExts = array("gif", "jpeg", "jpg", "png"))
         if ( $_FILES["file"]["error"] > 0 ) {
             return array(false, 'Ошибка при загрузке файла ' . $_FILES["file"]["error"]);
         } else {
-            move_uploaded_file($_FILES["file"]["tmp_name"], CFG_PATH_ROOT . "upload/" . $_FILES["file"]["name"]);
-            return array(true, CFG_PATH_ROOT . "upload/" . $_FILES["file"]["name"]);
+            $from = $_FILES["file"]["tmp_name"];
+            $to = CFG_PATH_ROOT . "upload/" . $_FILES["file"]["name"];
+            if (!file_exists(CFG_PATH_ROOT . "upload")) {
+                mkdir(CFG_PATH_ROOT . "upload", 0777, true);
+            }
+            move_uploaded_file($from, $to);
+            return array(true, $to);
         }
     } else {
         return array(false, 'Неверный формат файла (' . $extension . '), разрешена загрузка только: ' . implode(', ', $allowedExts));
