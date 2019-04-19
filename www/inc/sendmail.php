@@ -137,7 +137,7 @@ function AddMailTemplates($title,$body,$subscribe,$color,$image)
 	//$subscribe=iconv("UTF-8","WINDOWS-1251",$subscribe);
 	//$title=iconv("UTF-8","WINDOWS-1251",$title);
 	$db=mysqli_connect(CFG_DB_HOSTNAME,CFG_DB_USERNAME,CFG_DB_PASSWORD);
-	mysqli_select_db($db, CFG_DB_DATABASE);   mysqli_set_charset('utf8');
+	mysqli_select_db($db, CFG_DB_DATABASE);   mysqli_set_charset($db, 'utf8');
 	if(isset($_POST["templateId"])&&(!empty($_POST["templateId"])))
 	{
 		mysqli_query($db, "UPDATE `mail_templates` SET `Name`='$title',`Body`='".mysqli_escape_string($db, $body)."',`Subscribe`='".mysqli_escape_string($db, $subscribe)."',`Color`='$color',`Image`='$image' WHERE Id='".$_POST["templateId"]."'");
